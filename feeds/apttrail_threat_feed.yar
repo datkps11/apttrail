@@ -2791,6 +2791,30 @@ rule APT_COSMICDUKE
         any of ($domain*, $ip*, $url*)
 }
 
+rule APT_CRIMSONCOLLECTIVE
+{
+    meta:
+        description = "Detects IOCs associated with APT CRIMSONCOLLECTIVE"
+        author = "APTtrail Automated Collection"
+        apt_group = "CRIMSONCOLLECTIVE"
+        aliases = "crimson collective"
+        reference = "https://www.rapid7.com/blog/post/tr-crimson-collective-a-new-threat-group-observed-operating-in-the-cloud/"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $ip0 = "195.201.175.210" ascii wide
+        $ip1 = "3.215.23.185" ascii wide
+        $ip2 = "3.215.23.185" ascii wide
+        $ip3 = "45.148.10.141" ascii wide
+        $ip4 = "45.148.10.141" ascii wide
+        $ip5 = "5.9.108.250" ascii wide
+        $ip6 = "5.9.108.250" ascii wide
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
+}
+
 rule APT_CYBERAV3NGERS
 {
     meta:

@@ -58,6 +58,7 @@ COLDWASTREL,,https://app.validin.com/detail?find=38.180.18.59&type=ip4&ref_id=31
 COMMENTCREW,,http://www.secureworks.com/cyber-threat-intelligence/threats/htran/ | https://raw.githubusercontent.com/carbonblack/cbapi-python/master/examples/legacy/data/mandiant-domains.txt | https://samples.vx-underground.org/APTs/2011/2011.08.03/Paper/HTran.pdf | https://www.virustotal.com/gui/file/f60d20f420e2860759944bb47b0c3e6a8a09dd5f609f07c63f33b5bcc0077509/detection
 COPYKITTENS,,https://s3-eu-west-1.amazonaws.com/minervaresearchpublic/CopyKittens/CopyKittens.pdf
 COSMICDUKE,,
+CRIMSONCOLLECTIVE,crimson collective,https://www.rapid7.com/blog/post/tr-crimson-collective-a-new-threat-group-observed-operating-in-the-cloud/
 CYBERAV3NGERS,iocontrol,https://claroty.com/team82/research/inside-a-new-ot-iot-cyber-weapon-iocontrol | https://www.virustotal.com/gui/file/1b39f9b2b96a6586c4a11ab2fdbff8fdf16ba5a0ac7603149023d73f33b84498/detection | https://www.virustotal.com/gui/ip-address/159.100.6.69/relations
 CYBERBIT,,https://citizenlab.ca/2017/12/champing-cyberbit-ethiopian-dissidents-targeted-commercial-spyware/
 DALBIT,m00nlight,https://1275.ru/ioc/1401/dalbit-m00nlight-apt-iocs/ (Russian) | https://asec.ahnlab.com/en/47455/ | https://asec.ahnlab.com/ko/56715/ | https://otx.alienvault.com/pulse/63ed0da62aae6e8426eeb9ce | https://www.virustotal.com/gui/file/af1d3ce6dcec8c320f7985f8e073076879c609e908484a162605eed001df7d27/detection
