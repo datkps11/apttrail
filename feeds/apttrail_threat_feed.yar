@@ -1211,14 +1211,16 @@ rule APT_BATSHADOW
         $domain5 = "get-reponse-subt4\.duckdns\.org" ascii wide nocase
         $domain6 = "jobs-infomarriott\.com" ascii wide nocase
         $domain7 = "jobs-marriott\.com" ascii wide nocase
-        $domain8 = "mail\.jobs-infomarriott\.com" ascii wide nocase
-        $domain9 = "mail\.jobs-marriott\.com" ascii wide nocase
-        $domain10 = "mysupportnetflix\.com" ascii wide nocase
-        $domain11 = "samsung-work\.com" ascii wide nocase
-        $domain12 = "samsungcareers\.work" ascii wide nocase
-        $domain13 = "spaceq\.ovh" ascii wide nocase
-        $domain14 = "workjobs\.net" ascii wide nocase
-        $ip15 = "5.252.235.172" ascii wide
+        $domain8 = "jobswork\.vn" ascii wide nocase
+        $domain9 = "mail\.jobs-infomarriott\.com" ascii wide nocase
+        $domain10 = "mail\.jobs-marriott\.com" ascii wide nocase
+        $domain11 = "mail\.jobswork\.vn" ascii wide nocase
+        $domain12 = "mysupportnetflix\.com" ascii wide nocase
+        $domain13 = "samsung-work\.com" ascii wide nocase
+        $domain14 = "samsungcareers\.work" ascii wide nocase
+        $domain15 = "spaceq\.ovh" ascii wide nocase
+        $domain16 = "workjobs\.net" ascii wide nocase
+        $ip17 = "5.252.235.172" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
