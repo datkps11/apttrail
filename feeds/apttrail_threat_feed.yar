@@ -1191,6 +1191,39 @@ rule APT_BARIUM
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_BATSHADOW
+{
+    meta:
+        description = "Detects IOCs associated with APT BATSHADOW"
+        author = "APTtrail Automated Collection"
+        apt_group = "BATSHADOW"
+        aliases = "vampirebot"
+        reference = "https://github.com/blackorbird/APT_REPORT/blob/master/cybercrime/BatShadow/batshadow-vietnamese-threat-group-vampire-bot-report.pdf"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "djactuallsbuilds\.com" ascii wide nocase
+        $domain1 = "ftp\.spaceq\.ovh" ascii wide nocase
+        $domain2 = "get-reponse-subt1\.duckdns\.org" ascii wide nocase
+        $domain3 = "get-reponse-subt2\.duckdns\.org" ascii wide nocase
+        $domain4 = "get-reponse-subt3\.duckdns\.org" ascii wide nocase
+        $domain5 = "get-reponse-subt4\.duckdns\.org" ascii wide nocase
+        $domain6 = "jobs-infomarriott\.com" ascii wide nocase
+        $domain7 = "jobs-marriott\.com" ascii wide nocase
+        $domain8 = "mail\.jobs-infomarriott\.com" ascii wide nocase
+        $domain9 = "mail\.jobs-marriott\.com" ascii wide nocase
+        $domain10 = "mysupportnetflix\.com" ascii wide nocase
+        $domain11 = "samsung-work\.com" ascii wide nocase
+        $domain12 = "samsungcareers\.work" ascii wide nocase
+        $domain13 = "spaceq\.ovh" ascii wide nocase
+        $domain14 = "workjobs\.net" ascii wide nocase
+        $ip15 = "5.252.235.172" ascii wide
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
+}
+
 rule APT_BISONAL
 {
     meta:
