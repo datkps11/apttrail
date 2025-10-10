@@ -1191,6 +1191,45 @@ rule APT_BARIUM
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_BATSHADOW
+{
+    meta:
+        description = "Detects IOCs associated with APT BATSHADOW"
+        author = "APTtrail Automated Collection"
+        apt_group = "BATSHADOW"
+        aliases = "vampirebot"
+        reference = "https://github.com/blackorbird/APT_REPORT/blob/master/cybercrime/BatShadow/batshadow-vietnamese-threat-group-vampire-bot-report.pdf"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "api\.samsungcareers\.work" ascii wide nocase
+        $domain1 = "api3\.samsungcareers\.work" ascii wide nocase
+        $domain2 = "djactuallsbuilds\.com" ascii wide nocase
+        $domain3 = "ftp\.spaceq\.ovh" ascii wide nocase
+        $domain4 = "get-reponse-subt1\.duckdns\.org" ascii wide nocase
+        $domain5 = "get-reponse-subt2\.duckdns\.org" ascii wide nocase
+        $domain6 = "get-reponse-subt3\.duckdns\.org" ascii wide nocase
+        $domain7 = "get-reponse-subt4\.duckdns\.org" ascii wide nocase
+        $domain8 = "img\.samsungcareers\.work" ascii wide nocase
+        $domain9 = "jobs-infomarriott\.com" ascii wide nocase
+        $domain10 = "jobs-marriott\.com" ascii wide nocase
+        $domain11 = "jobswork\.vn" ascii wide nocase
+        $domain12 = "mail\.jobs-infomarriott\.com" ascii wide nocase
+        $domain13 = "mail\.jobs-marriott\.com" ascii wide nocase
+        $domain14 = "mail\.jobswork\.vn" ascii wide nocase
+        $domain15 = "mysupportnetflix\.com" ascii wide nocase
+        $domain16 = "panel2\.samsungcareers\.work" ascii wide nocase
+        $domain17 = "samsung-work\.com" ascii wide nocase
+        $domain18 = "samsungcareers\.work" ascii wide nocase
+        $domain19 = "spaceq\.ovh" ascii wide nocase
+        $domain20 = "workjobs\.net" ascii wide nocase
+        $ip21 = "5.252.235.172" ascii wide
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
+}
+
 rule APT_BISONAL
 {
     meta:
@@ -2789,6 +2828,30 @@ rule APT_COSMICDUKE
 
     condition:
         any of ($domain*, $ip*, $url*)
+}
+
+rule APT_CRIMSONCOLLECTIVE
+{
+    meta:
+        description = "Detects IOCs associated with APT CRIMSONCOLLECTIVE"
+        author = "APTtrail Automated Collection"
+        apt_group = "CRIMSONCOLLECTIVE"
+        aliases = "crimson collective"
+        reference = "https://www.rapid7.com/blog/post/tr-crimson-collective-a-new-threat-group-observed-operating-in-the-cloud/"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $ip0 = "195.201.175.210" ascii wide
+        $ip1 = "3.215.23.185" ascii wide
+        $ip2 = "3.215.23.185" ascii wide
+        $ip3 = "45.148.10.141" ascii wide
+        $ip4 = "45.148.10.141" ascii wide
+        $ip5 = "5.9.108.250" ascii wide
+        $ip6 = "5.9.108.250" ascii wide
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
 }
 
 rule APT_CYBERAV3NGERS
@@ -8331,50 +8394,50 @@ rule APT_PATCHWORK
         $domain3 = "81-cn\.net" ascii wide nocase
         $domain4 = "a\.gyyun\.xyz" ascii wide nocase
         $domain5 = "aaskmee\.com" ascii wide nocase
-        $domain6 = "accounts\.opensecurity-legacy\.com" ascii wide nocase
-        $domain7 = "adaptation-funds\.org" ascii wide nocase
-        $domain8 = "adhath-learning\.com" ascii wide nocase
-        $domain9 = "adobefileshare\.com" ascii wide nocase
-        $domain10 = "ados\.fyicompsol\.xyz" ascii wide nocase
-        $domain11 = "alfred\.ignorelist\.com" ascii wide nocase
-        $domain12 = "alieanmote\.live" ascii wide nocase
-        $domain13 = "altered\.twilightparadox\.com" ascii wide nocase
-        $domain14 = "amelaits\.info" ascii wide nocase
-        $domain15 = "anabel\.rootranger\.info" ascii wide nocase
-        $domain16 = "android-helper\.info" ascii wide nocase
-        $domain17 = "anglerrscovey\.com" ascii wide nocase
-        $domain18 = "annchenn\.com" ascii wide nocase
-        $domain19 = "aonepiece\.org" ascii wide nocase
-        $domain20 = "apcas\.bhutanembassynepal\.com" ascii wide nocase
-        $domain21 = "api\.opensecurity-legacy\.com" ascii wide nocase
-        $domain22 = "applepicker\.info" ascii wide nocase
-        $domain23 = "appplace\.life" ascii wide nocase
-        $domain24 = "apps-house\.com" ascii wide nocase
-        $domain25 = "aquilei\.live" ascii wide nocase
-        $domain26 = "aquileia\.live" ascii wide nocase
-        $domain27 = "arabcomputersupportgroup\.com" ascii wide nocase
-        $domain28 = "arkiverat\.info" ascii wide nocase
-        $domain29 = "arpawebdom\.org" ascii wide nocase
-        $domain30 = "asftbngh\.top" ascii wide nocase
-        $domain31 = "asiandefnetwork\.com" ascii wide nocase
-        $domain32 = "atus\.toproid\.xyz" ascii wide nocase
-        $domain33 = "aurorafoss\.xyz" ascii wide nocase
-        $domain34 = "auth\.fyicompsol\.xyz" ascii wide nocase
-        $domain35 = "avangrid\.info" ascii wide nocase
-        $domain36 = "avtofrom\.us" ascii wide nocase
-        $domain37 = "b3autybab3s\.com" ascii wide nocase
-        $domain38 = "baidunetdisk\.info" ascii wide nocase
-        $domain39 = "bayanat\.co\.nf" ascii wide nocase
-        $domain40 = "beautifullimages\.co\.nf" ascii wide nocase
-        $domain41 = "beijingtv\.org" ascii wide nocase
-        $domain42 = "bhutanembassynepal\.com" ascii wide nocase
-        $domain43 = "biaonton\.insightglobel\.info" ascii wide nocase
-        $domain44 = "bilibil\.info" ascii wide nocase
-        $domain45 = "bin\.opensecurity-legacy\.com" ascii wide nocase
-        $domain46 = "bingoplant\.live" ascii wide nocase
-        $domain47 = "biwef\.rootranger\.info" ascii wide nocase
-        $domain48 = "bizzshared\.com" ascii wide nocase
-        $domain49 = "blackmoo\.info" ascii wide nocase
+        $domain6 = "abcvip\.us\.org" ascii wide nocase
+        $domain7 = "accounts\.opensecurity-legacy\.com" ascii wide nocase
+        $domain8 = "adaptation-funds\.org" ascii wide nocase
+        $domain9 = "adhath-learning\.com" ascii wide nocase
+        $domain10 = "adobefileshare\.com" ascii wide nocase
+        $domain11 = "ados\.fyicompsol\.xyz" ascii wide nocase
+        $domain12 = "alfred\.ignorelist\.com" ascii wide nocase
+        $domain13 = "alieanmote\.live" ascii wide nocase
+        $domain14 = "altered\.twilightparadox\.com" ascii wide nocase
+        $domain15 = "amelaits\.info" ascii wide nocase
+        $domain16 = "anabel\.rootranger\.info" ascii wide nocase
+        $domain17 = "anchorsoft\.org" ascii wide nocase
+        $domain18 = "android-helper\.info" ascii wide nocase
+        $domain19 = "anglerrscovey\.com" ascii wide nocase
+        $domain20 = "annchenn\.com" ascii wide nocase
+        $domain21 = "aonepiece\.org" ascii wide nocase
+        $domain22 = "apcas\.bhutanembassynepal\.com" ascii wide nocase
+        $domain23 = "api\.inboundhealthcare\.us" ascii wide nocase
+        $domain24 = "api\.opensecurity-legacy\.com" ascii wide nocase
+        $domain25 = "applepicker\.info" ascii wide nocase
+        $domain26 = "appplace\.life" ascii wide nocase
+        $domain27 = "apps-house\.com" ascii wide nocase
+        $domain28 = "aquilei\.live" ascii wide nocase
+        $domain29 = "aquileia\.live" ascii wide nocase
+        $domain30 = "arabcomputersupportgroup\.com" ascii wide nocase
+        $domain31 = "arkiverat\.info" ascii wide nocase
+        $domain32 = "arpawebdom\.org" ascii wide nocase
+        $domain33 = "asftbngh\.top" ascii wide nocase
+        $domain34 = "asiandefnetwork\.com" ascii wide nocase
+        $domain35 = "atus\.toproid\.xyz" ascii wide nocase
+        $domain36 = "aurorafoss\.xyz" ascii wide nocase
+        $domain37 = "auth\.fyicompsol\.xyz" ascii wide nocase
+        $domain38 = "avangrid\.info" ascii wide nocase
+        $domain39 = "avtofrom\.us" ascii wide nocase
+        $domain40 = "b3autybab3s\.com" ascii wide nocase
+        $domain41 = "baidunetdisk\.info" ascii wide nocase
+        $domain42 = "bayanat\.co\.nf" ascii wide nocase
+        $domain43 = "beautifullimages\.co\.nf" ascii wide nocase
+        $domain44 = "beijingtv\.org" ascii wide nocase
+        $domain45 = "bhutanembassynepal\.com" ascii wide nocase
+        $domain46 = "biaonton\.insightglobel\.info" ascii wide nocase
+        $domain47 = "bilibil\.info" ascii wide nocase
+        $domain48 = "bin\.opensecurity-legacy\.com" ascii wide nocase
+        $domain49 = "bingoplant\.live" ascii wide nocase
         $ip50 = "103.106.2.35" ascii wide
         $ip51 = "104.27.172.22" ascii wide
         $ip52 = "104.27.173.22" ascii wide
