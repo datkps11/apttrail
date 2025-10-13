@@ -6464,7 +6464,6 @@ rule APT_LAZARUS
         $url85 = "/old/viewer\.php" ascii wide nocase
         $url86 = "/ServiceDeskPlus/products\.do" ascii wide nocase
         $url87 = "/theveniaux/webliotheque/public/css/main\.php" ascii wide nocase
-        $url88 = "/admin/admin\.asp" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)
