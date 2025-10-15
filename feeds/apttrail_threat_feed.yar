@@ -1358,14 +1358,14 @@ rule APT_BITTER
         $domain39 = "blth32serv\.net" ascii wide nocase
         $domain40 = "blucollinsoutien\.com" ascii wide nocase
         $domain41 = "bluelotus\.mail-gdrive\.com" ascii wide nocase
-        $domain42 = "botanoolifeapp\.net" ascii wide nocase
-        $domain43 = "box\.livevideosonlinepk\.com" ascii wide nocase
-        $domain44 = "briarapppro\.org" ascii wide nocase
-        $domain45 = "bsdqcaptureman\.com" ascii wide nocase
-        $domain46 = "btappclientsvc\.net" ascii wide nocase
-        $domain47 = "bulltrader\.vip" ascii wide nocase
-        $domain48 = "camncryptsvc\.net" ascii wide nocase
-        $domain49 = "care\.autodefragapp\.com" ascii wide nocase
+        $domain42 = "bootcampquest\.com" ascii wide nocase
+        $domain43 = "botanoolifeapp\.net" ascii wide nocase
+        $domain44 = "box\.livevideosonlinepk\.com" ascii wide nocase
+        $domain45 = "briarapppro\.org" ascii wide nocase
+        $domain46 = "bsdqcaptureman\.com" ascii wide nocase
+        $domain47 = "btappclientsvc\.net" ascii wide nocase
+        $domain48 = "bulltrader\.vip" ascii wide nocase
+        $domain49 = "camncryptsvc\.net" ascii wide nocase
         $ip50 = "107.173.63.218" ascii wide
         $ip51 = "110.42.64.137" ascii wide
         $ip52 = "135.125.242.211" ascii wide
@@ -1392,10 +1392,10 @@ rule APT_BITTER
         $ip73 = "192.71.249.194" ascii wide
         $ip74 = "193.142.58.38" ascii wide
         $ip75 = "193.29.58.210" ascii wide
-        $ip76 = "194.71.227.222" ascii wide
-        $ip77 = "209.74.80.194" ascii wide
-        $ip78 = "23.106.122.149" ascii wide
-        $ip79 = "23.254.128.22" ascii wide
+        $ip76 = "194.110.246.254" ascii wide
+        $ip77 = "194.71.227.222" ascii wide
+        $ip78 = "209.74.80.194" ascii wide
+        $ip79 = "23.106.122.149" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
@@ -4634,9 +4634,8 @@ rule APT_GAMAREDON_1
         $ip50 = "141.8.192.151" ascii wide
         $ip51 = "141.8.197.42" ascii wide
         $ip52 = "159.89.205.135" ascii wide
-        $ip53 = "185.186.26.98" ascii wide
-        $ip54 = "206.189.188.38" ascii wide
-        $ip55 = "5.252.178.181" ascii wide
+        $ip53 = "206.189.188.38" ascii wide
+        $ip54 = "5.252.178.181" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
