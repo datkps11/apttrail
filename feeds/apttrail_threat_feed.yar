@@ -13476,10 +13476,13 @@ rule APT_WAGEMOLE
         $domain14 = "usconsultinghub\.blog" ascii wide nocase
         $domain15 = "usconsultinghub\.cloud" ascii wide nocase
         $domain16 = "wkjllc\.com" ascii wide nocase
-        $ip17 = "172.86.93.139" ascii wide
-        $ip18 = "185.235.241.208" ascii wide
-        $ip19 = "45.8.146.93" ascii wide
-        $ip20 = "86.104.72.247" ascii wide
+        $ip17 = "138.201.50.5" ascii wide
+        $ip18 = "172.86.88.188" ascii wide
+        $ip19 = "172.86.88.188" ascii wide
+        $ip20 = "172.86.93.139" ascii wide
+        $ip21 = "185.235.241.208" ascii wide
+        $ip22 = "45.8.146.93" ascii wide
+        $ip23 = "86.104.72.247" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)

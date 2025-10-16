@@ -4916,52 +4916,56 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT VOLATILECEDAR - HTTP Req
 # WAGEMOLE - Domain Indicators (17 domains)
 alert dns any any -> any any (msg:"APT WAGEMOLE - Malicious Domain Activity"; dns.query; pcre:"/^(blocktestingto\.com|businesshire\.top|cestlaviewellnessretreat\.com|file\.cestlaviewellnessretreat\.com|files\.cestlaviewellnessretreat\.com|files\.hirog\.io|greenhouselc\.com|hirog\.io|hopanatech\.com|huguotechltd\.com|inditechlab\.com|nvidiasdk\.fly\.dev|sunlotustech\.com|tonywangtech\.com|usconsultinghub\.blog|usconsultinghub\.cloud|wkjllc\.com)$/i"; classtype:trojan-activity; sid:9002351; rev:1; metadata:apt_group WAGEMOLE;)
 
-# WAGEMOLE - IPv4 Indicators (4 IPs)
-alert ip any any -> [172.86.93.139,185.235.241.208,45.8.146.93,86.104.72.247] any (msg:"APT WAGEMOLE - Traffic to Malicious IPs"; threshold:type limit, track by_src, count 1, seconds 3600; classtype:trojan-activity; sid:9002352; rev:1; metadata:apt_group WAGEMOLE;)
+# WAGEMOLE - IPv4 Indicators (7 IPs)
+alert ip any any -> [138.201.50.5,172.86.88.188,172.86.88.188,172.86.93.139,185.235.241.208,45.8.146.93,86.104.72.247] any (msg:"APT WAGEMOLE - Traffic to Malicious IPs"; threshold:type limit, track by_src, count 1, seconds 3600; classtype:trojan-activity; sid:9002352; rev:1; metadata:apt_group WAGEMOLE;)
 
 # WAGEMOLE - URL Indicators
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WAGEMOLE - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"103.35.190.170"; classtype:trojan-activity; sid:9002353; rev:1; metadata:apt_group WAGEMOLE;)
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WAGEMOLE - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"135.181.242.24"; classtype:trojan-activity; sid:9002354; rev:1; metadata:apt_group WAGEMOLE;)
-alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WAGEMOLE - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"144.217.86.88"; classtype:trojan-activity; sid:9002355; rev:1; metadata:apt_group WAGEMOLE;)
-alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WAGEMOLE - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"191.96.31.38"; classtype:trojan-activity; sid:9002356; rev:1; metadata:apt_group WAGEMOLE;)
-alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WAGEMOLE - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"45.12.134.206"; classtype:trojan-activity; sid:9002357; rev:1; metadata:apt_group WAGEMOLE;)
-alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WAGEMOLE - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"45.8.146.93"; classtype:trojan-activity; sid:9002358; rev:1; metadata:apt_group WAGEMOLE;)
-alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WAGEMOLE - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"86.104.72.247"; classtype:trojan-activity; sid:9002359; rev:1; metadata:apt_group WAGEMOLE;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WAGEMOLE - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"144.172.112.50"; classtype:trojan-activity; sid:9002355; rev:1; metadata:apt_group WAGEMOLE;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WAGEMOLE - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"144.217.86.88"; classtype:trojan-activity; sid:9002356; rev:1; metadata:apt_group WAGEMOLE;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WAGEMOLE - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"172.86.113.12"; classtype:trojan-activity; sid:9002357; rev:1; metadata:apt_group WAGEMOLE;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WAGEMOLE - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"172.86.73.46"; classtype:trojan-activity; sid:9002358; rev:1; metadata:apt_group WAGEMOLE;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WAGEMOLE - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"172.86.88.188"; classtype:trojan-activity; sid:9002359; rev:1; metadata:apt_group WAGEMOLE;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WAGEMOLE - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"191.96.31.38"; classtype:trojan-activity; sid:9002360; rev:1; metadata:apt_group WAGEMOLE;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WAGEMOLE - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"45.12.134.206"; classtype:trojan-activity; sid:9002361; rev:1; metadata:apt_group WAGEMOLE;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WAGEMOLE - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"45.8.146.93"; classtype:trojan-activity; sid:9002362; rev:1; metadata:apt_group WAGEMOLE;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WAGEMOLE - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"86.104.72.247"; classtype:trojan-activity; sid:9002363; rev:1; metadata:apt_group WAGEMOLE;)
 
 # ==================================================
 # APT Group: WEAKESTLINK
 # ==================================================
 
 # WEAKESTLINK - Domain Indicators (5 domains)
-alert dns any any -> any any (msg:"APT WEAKESTLINK - Malicious Domain Activity"; dns.query; pcre:"/^(androidbak\.com|droidback\.com|endpointup\.com|goodydaddy\.com|siteanalysto\.com)$/i"; classtype:trojan-activity; sid:9002360; rev:1; metadata:apt_group WEAKESTLINK;)
+alert dns any any -> any any (msg:"APT WEAKESTLINK - Malicious Domain Activity"; dns.query; pcre:"/^(androidbak\.com|droidback\.com|endpointup\.com|goodydaddy\.com|siteanalysto\.com)$/i"; classtype:trojan-activity; sid:9002364; rev:1; metadata:apt_group WEAKESTLINK;)
 
 # ==================================================
 # APT Group: WEBKY
 # ==================================================
 
 # WEBKY - Domain Indicators (7 domains)
-alert dns any any -> any any (msg:"APT WEBKY - Malicious Domain Activity"; dns.query; pcre:"/^(glb\.it-desktop\.com|globalprint-us\.com|hi\.getgo2\.com|intranetwabcam\.com|local\.it-desktop\.com|login\.access-mail\.com|ns1\.logitech-usa\.com)$/i"; classtype:trojan-activity; sid:9002361; rev:1; metadata:apt_group WEBKY;)
+alert dns any any -> any any (msg:"APT WEBKY - Malicious Domain Activity"; dns.query; pcre:"/^(glb\.it-desktop\.com|globalprint-us\.com|hi\.getgo2\.com|intranetwabcam\.com|local\.it-desktop\.com|login\.access-mail\.com|ns1\.logitech-usa\.com)$/i"; classtype:trojan-activity; sid:9002365; rev:1; metadata:apt_group WEBKY;)
 
 # ==================================================
 # APT Group: WHITECOMPANY
 # ==================================================
 
 # WHITECOMPANY - Domain Indicators (1 domains)
-alert dns any any -> any any (msg:"APT WHITECOMPANY - Malicious Domain Activity"; dns.query; pcre:"/^(userz\.ignorelist\.com)$/i"; classtype:trojan-activity; sid:9002362; rev:1; metadata:apt_group WHITECOMPANY;)
+alert dns any any -> any any (msg:"APT WHITECOMPANY - Malicious Domain Activity"; dns.query; pcre:"/^(userz\.ignorelist\.com)$/i"; classtype:trojan-activity; sid:9002366; rev:1; metadata:apt_group WHITECOMPANY;)
 
 # ==================================================
 # APT Group: WICKEDPANDA
 # ==================================================
 
 # WICKEDPANDA - Domain Indicators (2 domains)
-alert dns any any -> any any (msg:"APT WICKEDPANDA - Malicious Domain Activity"; dns.query; pcre:"/^(money\.moneyhome\.biz|voda\.dns04\.com)$/i"; classtype:trojan-activity; sid:9002363; rev:1; metadata:apt_group WICKEDPANDA;)
+alert dns any any -> any any (msg:"APT WICKEDPANDA - Malicious Domain Activity"; dns.query; pcre:"/^(money\.moneyhome\.biz|voda\.dns04\.com)$/i"; classtype:trojan-activity; sid:9002367; rev:1; metadata:apt_group WICKEDPANDA;)
 
 # ==================================================
 # APT Group: WINDSHIFT
 # ==================================================
 
 # WINDSHIFT - Domain Indicators (3 domains)
-alert dns any any -> any any (msg:"APT WINDSHIFT - Malicious Domain Activity"; dns.query; pcre:"/^(domforworld\.com|flux2key\.com|string2me\.com)$/i"; classtype:trojan-activity; sid:9002364; rev:1; metadata:apt_group WINDSHIFT;)
+alert dns any any -> any any (msg:"APT WINDSHIFT - Malicious Domain Activity"; dns.query; pcre:"/^(domforworld\.com|flux2key\.com|string2me\.com)$/i"; classtype:trojan-activity; sid:9002368; rev:1; metadata:apt_group WINDSHIFT;)
 
 # ==================================================
 # APT Group: WINTERVIVERN
@@ -4969,25 +4973,25 @@ alert dns any any -> any any (msg:"APT WINDSHIFT - Malicious Domain Activity"; d
 # ==================================================
 
 # WINTERVIVERN - Domain Indicators (16 domains)
-alert dns any any -> any any (msg:"APT WINTERVIVERN - Malicious Domain Activity"; dns.query; pcre:"/^(applicationdevsoc\.com|bugiplaysec\.com|centr-security\.com|marakanas\.com|nepalihemp\.com|ocs-romastassec\.com|ocsp-reloads\.com|ocsp-report\.com|ocspdep\.com|oscp-avanguard\.com|recsecas\.com|secure-daddy\.com|securemanage\.com|securetourspd\.com|security-ocsp\.com|troadsecow\.com)$/i"; classtype:trojan-activity; sid:9002365; rev:1; metadata:apt_group WINTERVIVERN;)
+alert dns any any -> any any (msg:"APT WINTERVIVERN - Malicious Domain Activity"; dns.query; pcre:"/^(applicationdevsoc\.com|bugiplaysec\.com|centr-security\.com|marakanas\.com|nepalihemp\.com|ocs-romastassec\.com|ocsp-reloads\.com|ocsp-report\.com|ocspdep\.com|oscp-avanguard\.com|recsecas\.com|secure-daddy\.com|securemanage\.com|securetourspd\.com|security-ocsp\.com|troadsecow\.com)$/i"; classtype:trojan-activity; sid:9002369; rev:1; metadata:apt_group WINTERVIVERN;)
 
 # WINTERVIVERN - URL Indicators
-alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WINTERVIVERN - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"137.74.41.56"; classtype:trojan-activity; sid:9002366; rev:1; metadata:apt_group WINTERVIVERN;)
-alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WINTERVIVERN - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"208.117.44.112"; classtype:trojan-activity; sid:9002367; rev:1; metadata:apt_group WINTERVIVERN;)
-alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WINTERVIVERN - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"34.214.99.20"; classtype:trojan-activity; sid:9002368; rev:1; metadata:apt_group WINTERVIVERN;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WINTERVIVERN - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"137.74.41.56"; classtype:trojan-activity; sid:9002370; rev:1; metadata:apt_group WINTERVIVERN;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WINTERVIVERN - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"208.117.44.112"; classtype:trojan-activity; sid:9002371; rev:1; metadata:apt_group WINTERVIVERN;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WINTERVIVERN - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"34.214.99.20"; classtype:trojan-activity; sid:9002372; rev:1; metadata:apt_group WINTERVIVERN;)
 
 # ==================================================
 # APT Group: WIRTE
 # ==================================================
 
 # WIRTE - Domain Indicators (53 domains)
-alert dns any any -> any any (msg:"APT WIRTE - Malicious Domain Activity"; dns.query; pcre:"/^(allaccounting\.ca|bankjordan\.com|dentalaccord\.com|dentalmatrix\.net|doctoressolis\.com|easybackupcloud\.com|economymentor\.com|economystocking\.com|egyptican\.com|egyptskytours\.com|egypttourism-online\.com|ellemedic\.com|est-clinic\.com|finance-analyst\.com|financecovers\.com|financeinfoguide\.com|firstohiobank\.com|foxlove\.life|healthcarb\.com|healthoptionstoday\.com|healthscratches\.com|imagine-world\.com|jordanrefugees\.com|jordansons\.com|king-pharmacy\.com|kneeexercises\.net|master-dental\.com|micorsoft\.store|microsoftliveforums\.com|microsoftteams365\.com|microsoftwindowshelp\.com|neweconomysolution\.com|niftybuysellchart\.com|nutrition-information\.org|office-update\.services|office365-update\.co|office365-update\.com|omegaeyehospital\.com|pocket-property\.com|printspoolerupdates\.com|qrdorks\.com|saudiarabianow\.org|saudiday\.org|share2file\.pro|stgeorgebankers\.com|sun-tourist\.com|suppertools\.com|support-api\.financecovers\.com|thefinanceinvest\.com|theshortner\.com|trendingcharts\.finance-analyst\.com|unitedfamilyhealth\.net|wellhealthtech\.com)$/i"; classtype:trojan-activity; sid:9002369; rev:1; metadata:apt_group WIRTE;)
+alert dns any any -> any any (msg:"APT WIRTE - Malicious Domain Activity"; dns.query; pcre:"/^(allaccounting\.ca|bankjordan\.com|dentalaccord\.com|dentalmatrix\.net|doctoressolis\.com|easybackupcloud\.com|economymentor\.com|economystocking\.com|egyptican\.com|egyptskytours\.com|egypttourism-online\.com|ellemedic\.com|est-clinic\.com|finance-analyst\.com|financecovers\.com|financeinfoguide\.com|firstohiobank\.com|foxlove\.life|healthcarb\.com|healthoptionstoday\.com|healthscratches\.com|imagine-world\.com|jordanrefugees\.com|jordansons\.com|king-pharmacy\.com|kneeexercises\.net|master-dental\.com|micorsoft\.store|microsoftliveforums\.com|microsoftteams365\.com|microsoftwindowshelp\.com|neweconomysolution\.com|niftybuysellchart\.com|nutrition-information\.org|office-update\.services|office365-update\.co|office365-update\.com|omegaeyehospital\.com|pocket-property\.com|printspoolerupdates\.com|qrdorks\.com|saudiarabianow\.org|saudiday\.org|share2file\.pro|stgeorgebankers\.com|sun-tourist\.com|suppertools\.com|support-api\.financecovers\.com|thefinanceinvest\.com|theshortner\.com|trendingcharts\.finance-analyst\.com|unitedfamilyhealth\.net|wellhealthtech\.com)$/i"; classtype:trojan-activity; sid:9002373; rev:1; metadata:apt_group WIRTE;)
 
 # WIRTE - IPv4 Indicators (5 IPs)
-alert ip any any -> [104.24.108.64,104.24.109.64,104.28.1.134,172.86.75.211,185.86.79.243] any (msg:"APT WIRTE - Traffic to Malicious IPs"; threshold:type limit, track by_src, count 1, seconds 3600; classtype:trojan-activity; sid:9002370; rev:1; metadata:apt_group WIRTE;)
+alert ip any any -> [104.24.108.64,104.24.109.64,104.28.1.134,172.86.75.211,185.86.79.243] any (msg:"APT WIRTE - Traffic to Malicious IPs"; threshold:type limit, track by_src, count 1, seconds 3600; classtype:trojan-activity; sid:9002374; rev:1; metadata:apt_group WIRTE;)
 
 # WIRTE - URL Indicators
-alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WIRTE - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"20.43.53.72"; classtype:trojan-activity; sid:9002371; rev:1; metadata:apt_group WIRTE;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WIRTE - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"20.43.53.72"; classtype:trojan-activity; sid:9002375; rev:1; metadata:apt_group WIRTE;)
 
 # ==================================================
 # APT Group: WUQIONGDONG
@@ -4995,17 +4999,17 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WIRTE - HTTP Request to 
 # ==================================================
 
 # WUQIONGDONG - Domain Indicators (25 domains)
-alert dns any any -> any any (msg:"APT WUQIONGDONG - Malicious Domain Activity"; dns.query; pcre:"/^(blue\.chinfoset\.com|cchiwa\.com|chinfoset\.com|cloud\.unite\.un\.org\.docs-verify\.com|common\.js\.ftp\.sh|data\.cchiwa\.com|datasectioninfo\.com|docs-verify\.com|guest-mailclouds\.com|hao\.360\.mooo\.com|helpdesk-mailservice\.com|itoxtlthpw\.com|lion\.waitnetwork\.net|mail-drivecenter\.com|mail-hostfile\.com|mail\.datasectioninfo\.com|microsoft\.ccivde\.com|morning-place\.com|ms0ffice\.guest-mailclouds\.com|netease\.mail-drivecenter\.com|netease\.smartsystem36\.com|oversea-cnki\.net|service-hq\.com|smartsystem36\.com|waitnetwork\.net)$/i"; classtype:trojan-activity; sid:9002372; rev:1; metadata:apt_group WUQIONGDONG;)
+alert dns any any -> any any (msg:"APT WUQIONGDONG - Malicious Domain Activity"; dns.query; pcre:"/^(blue\.chinfoset\.com|cchiwa\.com|chinfoset\.com|cloud\.unite\.un\.org\.docs-verify\.com|common\.js\.ftp\.sh|data\.cchiwa\.com|datasectioninfo\.com|docs-verify\.com|guest-mailclouds\.com|hao\.360\.mooo\.com|helpdesk-mailservice\.com|itoxtlthpw\.com|lion\.waitnetwork\.net|mail-drivecenter\.com|mail-hostfile\.com|mail\.datasectioninfo\.com|microsoft\.ccivde\.com|morning-place\.com|ms0ffice\.guest-mailclouds\.com|netease\.mail-drivecenter\.com|netease\.smartsystem36\.com|oversea-cnki\.net|service-hq\.com|smartsystem36\.com|waitnetwork\.net)$/i"; classtype:trojan-activity; sid:9002376; rev:1; metadata:apt_group WUQIONGDONG;)
 
 # WUQIONGDONG - IPv4 Indicators (4 IPs)
-alert ip any any -> [37.120.140.233,62.112.8.79,66.70.220.100,88.150.227.110] any (msg:"APT WUQIONGDONG - Traffic to Malicious IPs"; threshold:type limit, track by_src, count 1, seconds 3600; classtype:trojan-activity; sid:9002373; rev:1; metadata:apt_group WUQIONGDONG;)
+alert ip any any -> [37.120.140.233,62.112.8.79,66.70.220.100,88.150.227.110] any (msg:"APT WUQIONGDONG - Traffic to Malicious IPs"; threshold:type limit, track by_src, count 1, seconds 3600; classtype:trojan-activity; sid:9002377; rev:1; metadata:apt_group WUQIONGDONG;)
 
 # WUQIONGDONG - URL Indicators
-alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WUQIONGDONG - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"190.2.147.128"; classtype:trojan-activity; sid:9002374; rev:1; metadata:apt_group WUQIONGDONG;)
-alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WUQIONGDONG - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"193.9.113.180"; classtype:trojan-activity; sid:9002375; rev:1; metadata:apt_group WUQIONGDONG;)
-alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WUQIONGDONG - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"62.112.8.79"; classtype:trojan-activity; sid:9002376; rev:1; metadata:apt_group WUQIONGDONG;)
-alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WUQIONGDONG - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"88.150.227.110"; classtype:trojan-activity; sid:9002377; rev:1; metadata:apt_group WUQIONGDONG;)
-alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WUQIONGDONG - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"89.38.99.11"; classtype:trojan-activity; sid:9002378; rev:1; metadata:apt_group WUQIONGDONG;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WUQIONGDONG - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"190.2.147.128"; classtype:trojan-activity; sid:9002378; rev:1; metadata:apt_group WUQIONGDONG;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WUQIONGDONG - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"193.9.113.180"; classtype:trojan-activity; sid:9002379; rev:1; metadata:apt_group WUQIONGDONG;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WUQIONGDONG - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"62.112.8.79"; classtype:trojan-activity; sid:9002380; rev:1; metadata:apt_group WUQIONGDONG;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WUQIONGDONG - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"88.150.227.110"; classtype:trojan-activity; sid:9002381; rev:1; metadata:apt_group WUQIONGDONG;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WUQIONGDONG - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"89.38.99.11"; classtype:trojan-activity; sid:9002382; rev:1; metadata:apt_group WUQIONGDONG;)
 
 # ==================================================
 # APT Group: XDSPY
@@ -5013,12 +5017,12 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WUQIONGDONG - HTTP Reque
 # ==================================================
 
 # XDSPY - Domain Indicators (93 domains)
-alert dns any any -> any any (msg:"APT XDSPY - Malicious Domain Activity"; dns.query; pcre:"/^(365downloading\.com|aoc-upravleniye\.com|best-downloader\.com|boborux\.com|bukhgalter-x5group\.com|bystryvelosiped\.com|cellporyad\.com|chistyyvozdukh\.com|chtcc\.net|cracratutu\.com|daftsync\.com|documentsklad\.com|doverennyye-fayly\.com|download-365\.com|download24center\.com|downloading24\.com|downloadsprimary\.com|dropsklad\.com|dversteklo\.com|dwd765m\.com|easy-download24\.com|easytosay\.org|fakturaaa\.com|faylbox365\.com|faylsklad\.com|ferrariframework\.com|file-bazar\.com|file-download\.org|file-magazin\.com|filedownload\.email|full-downloader\.com|getthatupdate\.com|global-downloader\.com|jerseygameengine\.com|just-downloads\.com|khitrayalisitsa\.com|khoroshayamych\.com|kletchatayarubashka\.com|krasnayastena\.com|laultrachunk\.com|magnitgroup\.com|maiwegwurst\.com|melodicprogress\.com|migration-info\.com|minisnowhair\.com|moy-fayl\.com|moy-pdf\.com|my1businessconnection\.com|nevynosimayapchela\.com|nniir\.com|nomatterwhat\.info|obmen-faylami\.com|officeupdtcentr\.com|otpravkafaylov\.com|pdf-bazaar\.com|pdf-reyestr\.com|pdf-sklad\.com|pdfdepozit\.com|pdfmagazin\.com|pdfsklad\.com|pechalnoyebudushcheye\.com|promenimath\.com|protej\.org\.nniir\.com|quan-miami\.com|reyestr-faylov\.com|ru-pochta365\.com|ru-sistema\.com|sbordokumentov\.com|seatwowave\.com|serayagrust\.com|seychaspozzhe\.com|skachivanie-failov\.com|skachivanie-failov24\.com|slomannyymonitor\.com|sogrevayushchiynapitok\.com|svobodnoepredlozheniye\.com|temnayamashina\.com|theslideshare\.com|trxpay\.cc|tvoi-fayly\.com|tvoy-disk\.com|utrenneyesolntse\.com|vash-disk\.com|vashazagruzka365\.com|vashi-fayly\.com|wildboarcontest\.com|zagruzka-pdf\.com|zagruzkadannykh\.com|zagruzkafayla\.com|zelenyysalat\.com|zetta-strakhovaniye\.com|zhestovyyliker\.com|zimniyeravlecheniya\.com)$/i"; classtype:trojan-activity; sid:9002379; rev:1; metadata:apt_group XDSPY;)
+alert dns any any -> any any (msg:"APT XDSPY - Malicious Domain Activity"; dns.query; pcre:"/^(365downloading\.com|aoc-upravleniye\.com|best-downloader\.com|boborux\.com|bukhgalter-x5group\.com|bystryvelosiped\.com|cellporyad\.com|chistyyvozdukh\.com|chtcc\.net|cracratutu\.com|daftsync\.com|documentsklad\.com|doverennyye-fayly\.com|download-365\.com|download24center\.com|downloading24\.com|downloadsprimary\.com|dropsklad\.com|dversteklo\.com|dwd765m\.com|easy-download24\.com|easytosay\.org|fakturaaa\.com|faylbox365\.com|faylsklad\.com|ferrariframework\.com|file-bazar\.com|file-download\.org|file-magazin\.com|filedownload\.email|full-downloader\.com|getthatupdate\.com|global-downloader\.com|jerseygameengine\.com|just-downloads\.com|khitrayalisitsa\.com|khoroshayamych\.com|kletchatayarubashka\.com|krasnayastena\.com|laultrachunk\.com|magnitgroup\.com|maiwegwurst\.com|melodicprogress\.com|migration-info\.com|minisnowhair\.com|moy-fayl\.com|moy-pdf\.com|my1businessconnection\.com|nevynosimayapchela\.com|nniir\.com|nomatterwhat\.info|obmen-faylami\.com|officeupdtcentr\.com|otpravkafaylov\.com|pdf-bazaar\.com|pdf-reyestr\.com|pdf-sklad\.com|pdfdepozit\.com|pdfmagazin\.com|pdfsklad\.com|pechalnoyebudushcheye\.com|promenimath\.com|protej\.org\.nniir\.com|quan-miami\.com|reyestr-faylov\.com|ru-pochta365\.com|ru-sistema\.com|sbordokumentov\.com|seatwowave\.com|serayagrust\.com|seychaspozzhe\.com|skachivanie-failov\.com|skachivanie-failov24\.com|slomannyymonitor\.com|sogrevayushchiynapitok\.com|svobodnoepredlozheniye\.com|temnayamashina\.com|theslideshare\.com|trxpay\.cc|tvoi-fayly\.com|tvoy-disk\.com|utrenneyesolntse\.com|vash-disk\.com|vashazagruzka365\.com|vashi-fayly\.com|wildboarcontest\.com|zagruzka-pdf\.com|zagruzkadannykh\.com|zagruzkafayla\.com|zelenyysalat\.com|zetta-strakhovaniye\.com|zhestovyyliker\.com|zimniyeravlecheniya\.com)$/i"; classtype:trojan-activity; sid:9002383; rev:1; metadata:apt_group XDSPY;)
 
 # ==================================================
 # APT Group: XPATH
 # ==================================================
 
 # XPATH - Domain Indicators (7 domains)
-alert dns any any -> any any (msg:"APT XPATH - Malicious Domain Activity"; dns.query; pcre:"/^(dns03\.cainformations\.com|kkkfaster\.jumpingcrab\.com|nicodonald\.accesscam\.org|pneword\.net|sultris\.com|tv\.teldcomtv\.com|v\.nnncity\.xyz)$/i"; classtype:trojan-activity; sid:9002380; rev:1; metadata:apt_group XPATH;)
+alert dns any any -> any any (msg:"APT XPATH - Malicious Domain Activity"; dns.query; pcre:"/^(dns03\.cainformations\.com|kkkfaster\.jumpingcrab\.com|nicodonald\.accesscam\.org|pneword\.net|sultris\.com|tv\.teldcomtv\.com|v\.nnncity\.xyz)$/i"; classtype:trojan-activity; sid:9002384; rev:1; metadata:apt_group XPATH;)
 
