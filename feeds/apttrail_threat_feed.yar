@@ -11466,7 +11466,7 @@ rule APT_TRANSPARENTTRIBE
         description = "Detects IOCs associated with APT TRANSPARENTTRIBE"
         author = "APTtrail Automated Collection"
         apt_group = "TRANSPARENTTRIBE"
-        aliases = "G0134, actionrat, apt36"
+        aliases = "G0134, actionrat, apt-c-56"
         reference = "http://blog.talosintelligence.com/2022/07/transparent-tribe-targets-education.html"
         severity = "high"
         tlp = "white"
@@ -11525,33 +11525,33 @@ rule APT_TRANSPARENTTRIBE
         $ip50 = "101.99.92.182" ascii wide
         $ip51 = "101.99.92.182" ascii wide
         $ip52 = "101.99.92.182" ascii wide
-        $ip53 = "103.2.232.82" ascii wide
-        $ip54 = "103.231.254.55" ascii wide
-        $ip55 = "104.129.27.14" ascii wide
+        $ip53 = "101.99.94.109" ascii wide
+        $ip54 = "103.2.232.82" ascii wide
+        $ip55 = "103.231.254.55" ascii wide
         $ip56 = "104.129.27.14" ascii wide
         $ip57 = "104.129.27.14" ascii wide
         $ip58 = "104.129.27.14" ascii wide
         $ip59 = "104.129.27.14" ascii wide
-        $ip60 = "104.129.42.102" ascii wide
+        $ip60 = "104.129.27.14" ascii wide
         $ip61 = "104.129.42.102" ascii wide
         $ip62 = "104.129.42.102" ascii wide
         $ip63 = "104.129.42.102" ascii wide
         $ip64 = "104.129.42.102" ascii wide
-        $ip65 = "104.144.198.105" ascii wide
+        $ip65 = "104.129.42.102" ascii wide
         $ip66 = "104.144.198.105" ascii wide
         $ip67 = "104.144.198.105" ascii wide
         $ip68 = "104.144.198.105" ascii wide
         $ip69 = "104.144.198.105" ascii wide
-        $ip70 = "104.168.48.210" ascii wide
+        $ip70 = "104.144.198.105" ascii wide
         $ip71 = "104.168.48.210" ascii wide
         $ip72 = "104.168.48.210" ascii wide
         $ip73 = "104.168.48.210" ascii wide
         $ip74 = "104.168.48.210" ascii wide
-        $ip75 = "104.223.106.8" ascii wide
-        $ip76 = "104.227.97.53" ascii wide
-        $ip77 = "107.150.18.166" ascii wide
-        $ip78 = "107.172.76.170" ascii wide
-        $ip79 = "107.173.204.38" ascii wide
+        $ip75 = "104.168.48.210" ascii wide
+        $ip76 = "104.223.106.8" ascii wide
+        $ip77 = "104.227.97.53" ascii wide
+        $ip78 = "107.150.18.166" ascii wide
+        $ip79 = "107.172.76.170" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
