@@ -9339,6 +9339,32 @@ rule APT_REDJULIETT
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_REDNOVEMBER
+{
+    meta:
+        description = "Detects IOCs associated with APT REDNOVEMBER"
+        author = "APTtrail Automated Collection"
+        apt_group = "REDNOVEMBER"
+        aliases = "leslieloader, storm-2077"
+        reference = "https://www.recordedfuture.com/research/rednovember-targets-government-defense-and-technology-organizations"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "aeifile\.offiec\.us\.kg" ascii wide nocase
+        $domain1 = "citrix\.offiec\.us\.kg" ascii wide nocase
+        $domain2 = "cna\.offiec\.us\.kg" ascii wide nocase
+        $domain3 = "download\.offiec\.us\.kg" ascii wide nocase
+        $domain4 = "gp\.offiec\.us\.kg" ascii wide nocase
+        $domain5 = "login\.offiec\.us\.kg" ascii wide nocase
+        $domain6 = "test\.offiec\.us\.kg" ascii wide nocase
+        $domain7 = "vpn\.offiec\.us\.kg" ascii wide nocase
+        $domain8 = "vpn1\.offiec\.us\.kg" ascii wide nocase
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
+}
+
 rule APT_REDOCTOBER
 {
     meta:
