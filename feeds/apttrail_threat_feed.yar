@@ -7273,6 +7273,26 @@ rule APT_MODIFIEDELEPHANT
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_MOTORBEACON
+{
+    meta:
+        description = "Detects IOCs associated with APT MOTORBEACON"
+        author = "APTtrail Automated Collection"
+        apt_group = "MOTORBEACON"
+        aliases = "CAPI backdoor"
+        reference = "https://www.seqrite.com/blog/seqrite-capi-backdoor-dotnet-stealer-russian-auto-commerce-oct-2025/"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "carprlce\.ru" ascii wide nocase
+        $ip1 = "91.223.75.96" ascii wide
+        $ip2 = "91.223.75.96" ascii wide
+
+    condition:
+        any of ($domain*, $ip*, $url*)
+}
+
 rule APT_MOUSTACHEDBOUNCER
 {
     meta:
