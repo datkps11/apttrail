@@ -1,33 +1,45 @@
-name: Manual APT Feed Collection
+name: Manual Collection with Custom Chunking
 
 on:
   workflow_dispatch:
     inputs:
+      chunk_size:
+        description: 'Chunk size for Suricata rules (domains per rule)'
+        required: false
+        default: '100'
+        type: choice
+        options:
+          - '50'
+          - '100'
+          - '150'
+          - '200'
+      max_pcre_length:
+        description: 'Max PCRE pattern length (bytes)'
+        required: false
+        default: '30000'
+        type: choice
+        options:
+          - '10000'
+          - '20000'
+          - '30000'
+          - '40000'
+          - '50000'
       export_format:
-        description: 'Export format'
+        description: 'Export formats'
         required: true
         default: 'all'
         type: choice
         options:
           - all
-          - json
-          - csv
-          - stix
-          - suricata
-          - yara
+          - suricata-only
       update_maltrail:
         description: 'Update Maltrail repository'
         required: true
         default: true
         type: boolean
-      create_release:
-        description: 'Create a release'
-        required: false
-        default: false
-        type: boolean
 
 jobs:
-  manual-collect:
+  collect-with-chunking:
     runs-on: ubuntu-latest
 
     permissions:
@@ -59,41 +71,94 @@ jobs:
           git clone https://github.com/stamparm/maltrail.git data/maltrail
         fi
 
-    - name: Collect APT indicators
+    - name: Collect APT indicators with custom chunking
       run: |
-        # Set flags based on export format
-        FLAGS="--output-dir feeds"
-        if [ "${{ inputs.update_maltrail }}" == "false" ]; then
-          FLAGS="$FLAGS --no-update"
-        fi
+        python -c "
+        from apttrail_threat_feed_collector import APTThreatFeedCollector
 
-        case "${{ inputs.export_format }}" in
-          json)
-            FLAGS="$FLAGS --json-only"
-            ;;
-          csv)
-            FLAGS="$FLAGS --csv-only"
-            ;;
-          stix)
-            FLAGS="$FLAGS --stix-only"
-            ;;
-          suricata)
-            FLAGS="$FLAGS --suricata-only"
-            ;;
-          yara)
-            FLAGS="$FLAGS --yara-only"
-            ;;
-        esac
+        print('='*60)
+        print('APT Threat Feed Collection with Custom Chunking')
+        print('='*60)
+        print('Parameters:')
+        print('  - Chunk size: ${{ inputs.chunk_size }}')
+        print('  - Max PCRE length: ${{ inputs.max_pcre_length }}')
+        print('  - Export format: ${{ inputs.export_format }}')
+        print('='*60)
 
-        python apt_threat_feed_collector.py $FLAGS
+        # Initialize collector
+        collector = APTThreatFeedCollector()
+
+        # Update Maltrail
+        if '${{ inputs.update_maltrail }}' == 'true':
+            collector.update_maltrail_repo()
+
+        # Collect indicators
+        print('\nCollecting APT indicators...')
+        collector.collect_apt_indicators()
+
+        # Export based on format
+        export_format = '${{ inputs.export_format }}'
+
+        if export_format in ['all', 'suricata-only']:
+            print('\nExporting Suricata rules with chunking...')
+            collector.export_suricata(
+                output_file='feeds/apttrail_threat_feed.rules',
+                use_datasets=True,
+                chunk_size=int('${{ inputs.chunk_size }}'),
+                max_pcre_length=int('${{ inputs.max_pcre_length }}')
+            )
+
+        if export_format == 'all':
+            print('\nExporting other formats...')
+            collector.export_json()
+            collector.export_csv()
+            collector.export_yara()
+
+        print('\n' + '='*60)
+        print('Collection completed successfully!')
+        print('='*60)
+        "
+
+    - name: Generate collection report
+      run: |
+        python -c "
+        from pathlib import Path
+
+        print('\n# Collection Report\n')
+        print('## Configuration')
+        print('- Chunk size: ${{ inputs.chunk_size }}')
+        print('- Max PCRE length: ${{ inputs.max_pcre_length }} bytes')
+        print('- Export format: ${{ inputs.export_format }}\n')
+
+        print('## Output Files\n')
+        feeds_dir = Path('feeds')
+        if feeds_dir.exists():
+            for file in sorted(feeds_dir.glob('*')):
+                if file.is_file():
+                    size_kb = file.stat().st_size / 1024
+                    print(f'- {file.name}: {size_kb:.1f} KB')
+
+                    # Count rules for .rules files
+                    if file.suffix == '.rules':
+                        with open(file) as f:
+                            rules = sum(1 for line in f if line.strip().startswith('alert'))
+                            chunked = sum(1 for line in f if 'Part' in line)
+                            print(f'  - Total rules: {rules:,}')
+                            if chunked > 0:
+                                print(f'  - Chunked rules: {chunked:,}')
+        " > collection_report.txt
+
+        cat collection_report.txt
 
     - name: Upload artifacts
       uses: actions/upload-artifact@v3
       with:
-        name: apt-threat-feeds-${{ github.run_number }}
-        path: feeds/
+        name: apt-feeds-chunk${{ inputs.chunk_size }}-pcre${{ inputs.max_pcre_length }}
+        path: |
+          feeds/
+          collection_report.txt
 
-    - name: Commit and push
+    - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
@@ -102,22 +167,22 @@ jobs:
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "🔄 Manual update: APT threat feeds - $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git commit -m "🔄 Update with chunking (chunk_size=${{ inputs.chunk_size }}, max_pcre=${{ inputs.max_pcre_length }})"
           git push
         fi
 
-    - name: Create release
-      if: ${{ inputs.create_release }}
-      uses: softprops/action-gh-release@v1
-      with:
-        tag_name: manual-v${{ github.run_number }}
-        name: Manual APT Feeds Release ${{ github.run_number }}
-        body: |
-          Manual collection of APT threat feeds
-          - Export format: ${{ inputs.export_format }}
-          - Maltrail updated: ${{ inputs.update_maltrail }}
-          - Collection time: ${{ github.event.head_commit.timestamp }}
-        files: |
-          feeds/*
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Create summary
+      run: |
+        echo "## Collection Summary" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### Configuration" >> $GITHUB_STEP_SUMMARY
+        echo "- **Chunk Size:** ${{ inputs.chunk_size }} indicators per rule" >> $GITHUB_STEP_SUMMARY
+        echo "- **Max PCRE Length:** ${{ inputs.max_pcre_length }} bytes" >> $GITHUB_STEP_SUMMARY
+        echo "- **Export Format:** ${{ inputs.export_format }}" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+
+        echo "### Output Files" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+        cat collection_report.txt >> $GITHUB_STEP_SUMMARY
+        echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
