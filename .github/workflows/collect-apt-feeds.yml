@@ -3,7 +3,7 @@ name: Collect APT Threat Feeds
 on:
   schedule:
     # Run every 1 hour
-    - cron: '16 * * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
     inputs:
       update_maltrail:
