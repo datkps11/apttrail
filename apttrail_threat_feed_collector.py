@@ -582,7 +582,7 @@ class APTThreatFeedCollector:
 
         print(f"STIX bundle exported to {output_file}")
 
-    def export_suricata(self, output_file: str = "apttrail_threat_feed.rules", optimized: bool = True, split_by_group: bool = False, use_datasets: bool = False) -> None:
+    def export_suricata(self, output_file: str = "apttrail_threat_feed.rules", optimized: bool = True, split_by_group: bool = False, use_datasets: bool = False, chunk_size: int = 100, max_pcre_length: int = 30000) -> None:
         """Export indicators to Suricata rules format
 
         Args:
@@ -590,6 +590,8 @@ class APTThreatFeedCollector:
             optimized: If True, generates one rule per indicator instead of multiple protocol rules
             split_by_group: If True, creates separate files for each APT group
             use_datasets: If True, uses dataset keyword to group indicators (requires Suricata 7.0+)
+            chunk_size: Maximum number of indicators per rule when using datasets (default: 100)
+            max_pcre_length: Maximum PCRE pattern length in bytes to avoid rule size limits (default: 30000)
         """
         sid_counter = 9000000  # Starting SID for custom rules
 
@@ -640,12 +642,58 @@ class APTThreatFeedCollector:
                 f.write(f"# {apt_name} - Domain Indicators ({len(indicators['domain'])} domains)\n")
 
                 if use_datasets:
-                    # Use PCRE with alternation to group domains in single rule
-                    # Escape dots for PCRE and create alternation pattern
-                    domains_escaped = '|'.join(d.replace('.', '\\.') for d in sorted(indicators['domain']))
-                    rule = f'alert dns any any -> any any (msg:"APT {apt_name} - Malicious Domain Activity"; dns.query; pcre:"/^({domains_escaped})$/i"; classtype:trojan-activity; sid:{sid_counter}; rev:1; metadata:apt_group {apt_name};)\n'
-                    f.write(rule)
-                    sid_counter += 1
+                    # Use PCRE with alternation, but chunk to avoid exceeding limits
+                    domains_sorted = sorted(indicators['domain'])
+
+                    # Chunk domains by length to respect max_pcre_length
+                    current_chunk = []
+                    current_length = 0
+                    chunk_id = 1
+                    total_chunks = 0
+
+                    for domain in domains_sorted:
+                        # Calculate length when adding this domain: "domain\.escaped|"
+                        escaped_domain = domain.replace('.', '\\.')
+                        # +1 for "|" separator, +20 for PCRE overhead (/^()$/i)
+                        estimated_length = len(escaped_domain) + 1
+
+                        # Check if adding this domain would exceed limits
+                        would_exceed_length = (current_length + estimated_length) > max_pcre_length
+                        would_exceed_count = len(current_chunk) >= chunk_size
+
+                        # If we would exceed limits and chunk is not empty, write current chunk
+                        if (would_exceed_length or would_exceed_count) and current_chunk:
+                            # Create PCRE pattern for current chunk
+                            domains_escaped = '|'.join(d.replace('.', '\\.') for d in current_chunk)
+
+                            # Write rule with chunk identifier if multiple chunks needed
+                            chunk_msg = f" (Part {chunk_id}/{((len(domains_sorted) - 1) // chunk_size) + 1})" if len(domains_sorted) > chunk_size else ""
+                            rule = f'alert dns any any -> any any (msg:"APT {apt_name} - Malicious Domain Activity{chunk_msg}"; dns.query; pcre:"/^({domains_escaped})$/i"; classtype:trojan-activity; sid:{sid_counter}; rev:1; metadata:apt_group {apt_name}, chunk {chunk_id};)\n'
+                            f.write(rule)
+                            sid_counter += 1
+                            total_chunks += 1
+
+                            # Reset for next chunk
+                            current_chunk = []
+                            current_length = 0
+                            chunk_id += 1
+
+                        # Add domain to current chunk
+                        current_chunk.append(domain)
+                        current_length += estimated_length
+
+                    # Write final chunk if any domains remain
+                    if current_chunk:
+                        domains_escaped = '|'.join(d.replace('.', '\\.') for d in current_chunk)
+                        chunk_msg = f" (Part {chunk_id}/{chunk_id})" if total_chunks > 0 else ""
+                        rule = f'alert dns any any -> any any (msg:"APT {apt_name} - Malicious Domain Activity{chunk_msg}"; dns.query; pcre:"/^({domains_escaped})$/i"; classtype:trojan-activity; sid:{sid_counter}; rev:1; metadata:apt_group {apt_name}, chunk {chunk_id};)\n'
+                        f.write(rule)
+                        sid_counter += 1
+                        total_chunks += 1
+
+                    # Log chunking info if multiple chunks were created
+                    if total_chunks > 1:
+                        f.write(f"# Note: {len(domains_sorted)} domains split into {total_chunks} rules to respect size limits\n")
                 else:
                     # Original per-domain rules
                     for domain in sorted(indicators['domain']):
@@ -676,13 +724,32 @@ class APTThreatFeedCollector:
                 f.write(f"# {apt_name} - IPv4 Indicators ({len(indicators['ipv4'])} IPs)\n")
 
                 if use_datasets:
-                    # Group IPs into a comma-separated list for ip.dst or ip.src
-                    ips_clean = [ip.split(':')[0] for ip in sorted(indicators['ipv4'])]
-                    ips_bracketed = '[' + ','.join(ips_clean) + ']'
-                    # Create single rule with IP list
-                    rule = f'alert ip any any -> {ips_bracketed} any (msg:"APT {apt_name} - Traffic to Malicious IPs"; threshold:type limit, track by_src, count 1, seconds 3600; classtype:trojan-activity; sid:{sid_counter}; rev:1; metadata:apt_group {apt_name};)\n'
-                    f.write(rule)
-                    sid_counter += 1
+                    # Group IPs into chunks to avoid exceeding Suricata limits
+                    ips_sorted = sorted(indicators['ipv4'])
+                    ips_clean = [ip.split(':')[0] for ip in ips_sorted]
+
+                    # Chunk IPs by count (each IP ~15 chars, safe limit ~2000 IPs per rule)
+                    ip_chunk_size = min(chunk_size, 2000)  # Conservative limit for IP lists
+                    total_chunks = 0
+
+                    for i in range(0, len(ips_clean), ip_chunk_size):
+                        chunk = ips_clean[i:i+ip_chunk_size]
+                        ips_bracketed = '[' + ','.join(chunk) + ']'
+
+                        # Add chunk identifier if multiple chunks
+                        chunk_id = (i // ip_chunk_size) + 1
+                        total_ip_chunks = ((len(ips_clean) - 1) // ip_chunk_size) + 1
+                        chunk_msg = f" (Part {chunk_id}/{total_ip_chunks})" if total_ip_chunks > 1 else ""
+
+                        # Create rule with IP list
+                        rule = f'alert ip any any -> {ips_bracketed} any (msg:"APT {apt_name} - Traffic to Malicious IPs{chunk_msg}"; threshold:type limit, track by_src, count 1, seconds 3600; classtype:trojan-activity; sid:{sid_counter}; rev:1; metadata:apt_group {apt_name}, chunk {chunk_id};)\n'
+                        f.write(rule)
+                        sid_counter += 1
+                        total_chunks += 1
+
+                    # Log chunking info if multiple chunks were created
+                    if total_chunks > 1:
+                        f.write(f"# Note: {len(ips_clean)} IPs split into {total_chunks} rules to respect size limits\n")
                 else:
                     # Original per-IP rules
                     for ip in sorted(indicators['ipv4']):
@@ -998,8 +1065,14 @@ Examples:
                         help='Export only STIX format')
     parser.add_argument('--suricata-only', action='store_true',
                         help='Export only Suricata rules format')
-    parser.add_argument('--suricata-dataset', action='store_true',
-                        help='Optimize Suricata rules using PCRE and IP lists (~99%% rule reduction)')
+    parser.add_argument('--suricata-dataset', action='store_true', default=True,
+                        help='Optimize Suricata rules using PCRE alternation with chunking (~99%% rule reduction, enabled by default)')
+    parser.add_argument('--no-suricata-dataset', dest='suricata_dataset', action='store_false',
+                        help='Disable chunking optimization (generates 1 rule per indicator)')
+    parser.add_argument('--chunk-size', type=int, default=100,
+                        help='Number of indicators per rule when using chunking (default: 100)')
+    parser.add_argument('--max-pcre-length', type=int, default=30000,
+                        help='Maximum PCRE pattern length in bytes (default: 30000)')
     parser.add_argument('--yara-only', action='store_true',
                         help='Export only YARA rules format')
     parser.add_argument('--output-dir', default='.',
@@ -1041,7 +1114,12 @@ Examples:
         elif args.stix_only:
             collector.export_stix(output_dir / "apttrail_threat_feed_stix.json")
         elif args.suricata_only:
-            collector.export_suricata(output_dir / "apttrail_threat_feed.rules", use_datasets=args.suricata_dataset)
+            collector.export_suricata(
+                output_dir / "apttrail_threat_feed.rules",
+                use_datasets=args.suricata_dataset,
+                chunk_size=args.chunk_size,
+                max_pcre_length=args.max_pcre_length
+            )
         elif args.yara_only:
             collector.export_yara(output_dir / "apttrail_threat_feed.yar")
         else:
@@ -1049,7 +1127,12 @@ Examples:
             print("\nExporting threat feeds...")
             collector.export_json(output_dir / "apttrail_threat_feed.json")
             collector.export_csv(output_dir / "apttrail_threat_feed.csv")
-            collector.export_suricata(output_dir / "apttrail_threat_feed.rules", use_datasets=args.suricata_dataset)
+            collector.export_suricata(
+                output_dir / "apttrail_threat_feed.rules",
+                use_datasets=args.suricata_dataset,
+                chunk_size=args.chunk_size,
+                max_pcre_length=args.max_pcre_length
+            )
             collector.export_yara(output_dir / "apttrail_threat_feed.yar")
             # Skip STIX by default as it's very large
             # collector.export_stix(output_dir / "apttrail_threat_feed_stix.json")
