@@ -4699,7 +4699,7 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT TORTOISESHELL - HTTP Req
 
 # ==================================================
 # APT Group: TRANSPARENTTRIBE
-# Aliases: apt-c-56, sidecopy, falseflag, apt36, mythic leopard, actionrat, elizarat, fetarat, scarimson, crimsonrat, seedoor, sindoor, getarat, reverserat, drat, tag-140, G0134
+# Aliases: apt-c-56, sidecopy, falseflag, apt36, mythic leopard, actionrat, elizarat, fetarat, scarimson, crimsonrat, seedoor, sindoor, getarat, reverserat, drat, tag-140, G0134, deskrat
 # ==================================================
 
 # TRANSPARENTTRIBE - Domain Indicators (3172 domains)
