@@ -12791,23 +12791,6 @@ rule APT_UNC5221
         2 of ($domain*, $ip*, $url*)
 }
 
-rule APT_UNC5267
-{
-    meta:
-        description = "Detects IOCs associated with APT UNC5267"
-        author = "APTtrail Automated Collection"
-        apt_group = "UNC5267"
-        reference = "https://cloud.google.com/blog/topics/threat-intelligence/mitigating-dprk-it-worker-threat"
-        severity = "high"
-        tlp = "white"
-
-    strings:
-        $domain0 = "daniel-ayala\.netlify\.app" ascii wide nocase
-
-    condition:
-        any of ($domain*, $ip*, $url*)
-}
-
 rule APT_UNC5537
 {
     meta:
@@ -13488,47 +13471,6 @@ rule APT_VOLATILECEDAR
         $domain5 = "saveweb\.wink\.ws" ascii wide nocase
         $domain6 = "xploreredotnet\.info" ascii wide nocase
         $ip7 = "200.159.87.196" ascii wide
-
-    condition:
-        2 of ($domain*, $ip*, $url*)
-}
-
-rule APT_WAGEMOLE
-{
-    meta:
-        description = "Detects IOCs associated with APT WAGEMOLE"
-        author = "APTtrail Automated Collection"
-        apt_group = "WAGEMOLE"
-        aliases = "beavertail, invisibleferret, tropidoor"
-        reference = "https://asec.ahnlab.com/en/87299/"
-        severity = "high"
-        tlp = "white"
-
-    strings:
-        $domain0 = "blocktestingto\.com" ascii wide nocase
-        $domain1 = "businesshire\.top" ascii wide nocase
-        $domain2 = "cestlaviewellnessretreat\.com" ascii wide nocase
-        $domain3 = "file\.cestlaviewellnessretreat\.com" ascii wide nocase
-        $domain4 = "files\.cestlaviewellnessretreat\.com" ascii wide nocase
-        $domain5 = "files\.hirog\.io" ascii wide nocase
-        $domain6 = "greenhouselc\.com" ascii wide nocase
-        $domain7 = "hirog\.io" ascii wide nocase
-        $domain8 = "hopanatech\.com" ascii wide nocase
-        $domain9 = "huguotechltd\.com" ascii wide nocase
-        $domain10 = "inditechlab\.com" ascii wide nocase
-        $domain11 = "nvidiasdk\.fly\.dev" ascii wide nocase
-        $domain12 = "sunlotustech\.com" ascii wide nocase
-        $domain13 = "tonywangtech\.com" ascii wide nocase
-        $domain14 = "usconsultinghub\.blog" ascii wide nocase
-        $domain15 = "usconsultinghub\.cloud" ascii wide nocase
-        $domain16 = "wkjllc\.com" ascii wide nocase
-        $ip17 = "138.201.50.5" ascii wide
-        $ip18 = "172.86.88.188" ascii wide
-        $ip19 = "172.86.88.188" ascii wide
-        $ip20 = "172.86.93.139" ascii wide
-        $ip21 = "185.235.241.208" ascii wide
-        $ip22 = "45.8.146.93" ascii wide
-        $ip23 = "86.104.72.247" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
