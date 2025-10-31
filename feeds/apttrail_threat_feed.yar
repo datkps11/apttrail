@@ -8991,7 +8991,7 @@ rule APT_Q12
         description = "Detects IOCs associated with APT Q12"
         author = "APTtrail Automated Collection"
         apt_group = "Q12"
-        reference = "https://twitter.com/malwrhunterteam/status/1541784815728459779"
+        reference = "https://blogs.jpcert.or.jp/ja/2025/10/APT-C-60_update.html"
         severity = "high"
         tlp = "white"
 
@@ -9007,9 +9007,12 @@ rule APT_Q12
         $domain8 = "tomatozcloud\.com" ascii wide nocase
         $domain9 = "trafficcheckdaily\.com" ascii wide nocase
         $ip10 = "185.181.229.110" ascii wide
-        $ip11 = "185.231.222.86" ascii wide
-        $ip12 = "192.236.209.139" ascii wide
-        $ip13 = "51.77.72.146" ascii wide
+        $ip11 = "185.181.230.110" ascii wide
+        $ip12 = "185.181.230.71" ascii wide
+        $ip13 = "185.231.222.86" ascii wide
+        $ip14 = "192.236.209.139" ascii wide
+        $ip15 = "23.81.42.154" ascii wide
+        $ip16 = "51.77.72.146" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
