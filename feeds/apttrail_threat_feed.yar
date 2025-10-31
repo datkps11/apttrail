@@ -10316,6 +10316,23 @@ rule APT_SIMBAA
         any of ($domain*, $ip*, $url*)
 }
 
+rule APT_SKYCLOAK
+{
+    meta:
+        description = "Detects IOCs associated with APT SKYCLOAK"
+        author = "APTtrail Automated Collection"
+        apt_group = "SKYCLOAK"
+        reference = "https://www.seqrite.com/blog/operation-skycloak-tor-campaign-targets-military-of-russia-belarus/"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd\.onion" ascii wide nocase
+
+    condition:
+        any of ($domain*, $ip*, $url*)
+}
+
 rule APT_SNOWMAN
 {
     meta:
