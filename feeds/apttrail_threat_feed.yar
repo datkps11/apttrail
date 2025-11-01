@@ -6227,7 +6227,7 @@ rule APT_KIMSUKY
         description = "Detects IOCs associated with APT KIMSUKY"
         author = "APTtrail Automated Collection"
         apt_group = "KIMSUKY"
-        aliases = "APT-C-55, Black Banshee, Larva-25004"
+        aliases = "APT-C-55, Black Banshee, HancomAgent"
         reference = "https://app.any.run/tasks/166bb71d-0998-46cf-844b-3cd263bef4bd"
         severity = "high"
         tlp = "white"
