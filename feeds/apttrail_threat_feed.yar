@@ -5440,6 +5440,23 @@ rule APT_HERMIT
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_HEZIRASH
+{
+    meta:
+        description = "Detects IOCs associated with APT HEZIRASH"
+        author = "APTtrail Automated Collection"
+        apt_group = "HEZIRASH"
+        reference = "https://blog.checkpoint.com/research/hezi-rash-rising-kurdish-hacktivist-group-targets-global-sites/"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "hezi-rash\.ct\.ws" ascii wide nocase
+
+    condition:
+        any of ($domain*, $ip*, $url*)
+}
+
 rule APT_HIGAISA
 {
     meta:
@@ -10322,7 +10339,7 @@ rule APT_SKYCLOAK
         description = "Detects IOCs associated with APT SKYCLOAK"
         author = "APTtrail Automated Collection"
         apt_group = "SKYCLOAK"
-        reference = "https://www.seqrite.com/blog/operation-skycloak-tor-campaign-targets-military-of-russia-belarus/"
+        reference = "https://cyble.com/blog/weaponized-military-documents-deliver-backdoor/"
         severity = "high"
         tlp = "white"
 
