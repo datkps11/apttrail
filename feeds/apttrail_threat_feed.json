@@ -128243,6 +128243,7 @@
           "cae-gruope.com",
           "cairo-day-trips.com",
           "caprnatic.com",
+          "catalog-update-update-microsoft.serveftp.com",
           "catchthestorms.net",
           "check-connection.org",
           "checkingsite.org",
@@ -128292,6 +128293,7 @@
           "genmac-it.com",
           "globa-space.com",
           "globexgruop.com",
+          "gmvtest9.ddns.net",
           "goodbabiynt.com",
           "greeentom.com",
           "gsbplataforma.com",
@@ -128323,6 +128325,7 @@
           "juargen-escher.com",
           "k670.info",
           "khu3x.info",
+          "kingikolok.ignorelist.com",
           "kovis-groups.com",
           "kss-sap.com",
           "kycountynews.com",
@@ -128342,8 +128345,10 @@
           "mailboxarea.cloud",
           "mailboxdownload.com",
           "mailkeyboard.com",
+          "maill.ddns.net",
           "mailruinbox.com",
           "mansoorhabibdoost.com",
+          "maquinadelmal.duckdns.org",
           "masonindustries-sg.com",
           "matast.com",
           "message.mailboxarea.cloud",
@@ -128381,6 +128386,7 @@
           "psbvip.com",
           "pweobmxdlboi.com",
           "q-10c.com",
+          "q1q.ddns.net",
           "qazmarinefuel.com",
           "qswl.org",
           "qwadx.com",
@@ -128422,9 +128428,11 @@
           "tradesworksinc.com",
           "travellingwords.com",
           "unionlnvest.com",
+          "updates-check-microsoft.ddns.net",
           "uphearth.com",
           "ural-info.net",
           "usefullhost.info",
+          "useraccount-assist05u.dynamic-dns.net",
           "valkiriya.team",
           "vapic.org",
           "verification.sdzgw.org",
@@ -128435,6 +128443,7 @@
           "webmailsession.com",
           "websubline.com",
           "wincorpupdates.com",
+          "windows-update-catalog.serveftp.com",
           "woodrecyclability.com",
           "work-dl.org",
           "wpowerproduct.com",
@@ -128477,7 +128486,7 @@
         ],
         "apt_group": "SILENTLYNX",
         "filename": "apt_silentlynx.txt",
-        "last_modified": "2025-09-08T16:42:26+03:00",
+        "last_modified": "2025-11-03T15:47:36+02:00",
         "references": [
           "https://x.com/StrikeReadyLabs/status/1877839055716581634",
           "https://x.com/virusbtn/status/1882771331726647421",
@@ -128492,17 +128501,19 @@
           "https://www.virustotal.com/gui/file/66294c9925ad454d5640f4fe753da9e7d6742f60b093ed97be88fcdd47b04445/detection",
           "https://www.virustotal.com/gui/file/99c6017c8658faf678f1b171c8eb5d5fa7e7d08e0a0901b984a8e3e1fab565cd/detection",
           "https://app.validin.com/detail?find=Accessible%20Neats&type=raw&ref_id=ea4a621b30a#tab=host_pairs (# 2025-01-24)",
-          "https://www.group-ib.com/blog/shadowsilk/"
+          "https://www.group-ib.com/blog/shadowsilk/",
+          "https://x.com/ElementalX2/status/1985340834217173061",
+          "https://www.seqrite.com/blog/operation-peek-a-baku-silent-lynx-apt-dushanbe-espionage/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 238,
+          "domain": 247,
           "file_path": 1,
           "ipv4": 9,
           "url": 8
         },
-        "total": 256
+        "total": 265
       }
     },
     "SIMBAA": {
