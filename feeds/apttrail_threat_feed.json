@@ -102267,6 +102267,7 @@
           "tripgha.click",
           "trobeli.click",
           "trodrome.click",
+          "tronracing.com",
           "trueliebe.com",
           "trueserver.art",
           "trueserver.today",
@@ -104051,6 +104052,7 @@
           "http://158.247.247.157",
           "http://158.247.252.100",
           "http://165.154.230.24",
+          "http://166.88.11.10",
           "http://172.93.193.158",
           "http://183.105.107.132",
           "http://185.18.222.117",
@@ -104063,6 +104065,7 @@
           "http://210.16.120.210",
           "http://213.248.132.108",
           "http://216.189.159.34",
+          "http://23.27.140.49",
           "http://27.102.137.242",
           "http://27.102.138.10",
           "http://27.102.138.216",
@@ -104094,11 +104097,13 @@
           "Larva-25004",
           "kimjongrat",
           "pebbledash",
-          "HancomAgent"
+          "HancomAgent",
+          "blindingcan",
+          "comebacker"
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2025-11-01T15:13:12+02:00",
+        "last_modified": "2025-11-03T09:59:34+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -105492,17 +105497,19 @@
           "https://www.virustotal.com/gui/ip-address/157.250.202.223/relations",
           "https://www.virustotal.com/gui/ip-address/216.158.235.72/relations",
           "https://www.virustotal.com/gui/ip-address/69.10.53.144/relations",
-          "https://www.virustotal.com/gui/ip-address/86.104.74.173/relations"
+          "https://www.virustotal.com/gui/ip-address/86.104.74.173/relations",
+          "https://www.gendigital.com/blog/insights/research/dprk-kimsuky-lazarus-analysis",
+          "https://www.virustotal.com/gui/file/368769df7d319371073f33c29ad0097fbe48e805630cf961b6f00ab2ccddbb4c/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 12681,
+          "domain": 12682,
           "file_path": 280,
           "ipv4": 66,
-          "url": 45
+          "url": 47
         },
-        "total": 13072
+        "total": 13075
       }
     },
     "KUN3": {
