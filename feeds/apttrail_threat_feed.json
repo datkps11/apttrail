@@ -118124,6 +118124,7 @@
           "clomidtab.info",
           "cloud.adobefileshare.com",
           "cloud.cflayerprotection.com",
+          "cloud.firebasescloudemail.com",
           "cloudcdn-storage.org",
           "cloudexchangeshare.center",
           "cloudlflares.com",
@@ -118207,6 +118208,7 @@
           "fileshares.online",
           "fimong.breatlee.org",
           "firebasebackups.com",
+          "firebasescloudemail.com",
           "firebaseupdater.com",
           "flexmade.org",
           "flyinfishwater.info",
@@ -118574,6 +118576,7 @@
           "vlc-updates.ddns.net",
           "vorm.vormliebe.club",
           "vormliebe.club",
+          "vpn.firebasescloudemail.com",
           "vpndl.co.nf",
           "vpndownload.co.nf",
           "vpndownload.webutu.com",
@@ -118831,7 +118834,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2025-11-01T10:17:36+02:00",
+        "last_modified": "2025-11-03T14:42:39+02:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -119079,6 +119082,9 @@
           "https://www.virustotal.com/gui/file/b5e6f8e2203f086d85e64b0687f0c000407a1fa0563eb4cb19c184ffb85d63fd/detection",
           "https://www.virustotal.com/gui/file/14bbe421abe496531f4c63b16881eee23fb2c92b2938335dca1668206882201a/detection",
           "https://www.virustotal.com/gui/file/f6d171e79e2fb38b3919011835c8117a1c56788bcf634e69ae67a5e255fb9d58/detection",
+          "https://x.com/malwrhunterteam/status/1985321336240013357",
+          "https://x.com/malwrhunterteam/status/1985321351784055132",
+          "https://www.virustotal.com/gui/file/5193c3ade7f0cc89b8b3202391b1099c60688ac6f27ca3ae6773ddbe4b31aca1/detection",
           "https://x.com/SquiblydooBlog/status/1842535888938729871",
           "https://www.virustotal.com/gui/file/e6071ae0da3289eb87edf67b2b198b0a3f0cf9da8eb35a8a2b5aa8989b6c0ef5/detection",
           "https://x.com/SquiblydooBlog/status/1842535888938729871",
@@ -119226,12 +119232,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 602,
+          "domain": 605,
           "file_path": 76,
           "ipv4": 57,
           "url": 42
         },
-        "total": 777
+        "total": 780
       }
     },
     "PEEPINGTITLE": {
