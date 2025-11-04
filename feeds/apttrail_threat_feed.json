@@ -80527,6 +80527,7 @@
           "createobject91.ozaharso.ru",
           "createobject98.zerodems.ru",
           "creates.sytes.net",
+          "creates.webhop.me",
           "credomched.ru",
           "cresozoq.ru",
           "crisiumbi.ru",
@@ -81759,6 +81760,7 @@
           "detector-excluded-knowledgestorm-two.trycloudflare.com",
           "deyanetho.ru",
           "dfgqdsd.ru",
+          "digitall.webhop.me",
           "dilaverho.ru",
           "dim1.suizibel.ru",
           "dim10.hoanzo.ru",
@@ -82490,6 +82492,7 @@
           "fin2.onlinebottebe.online",
           "first-component.aytashpo.ru",
           "fitromad.ru",
+          "fixeddrop.serveirc.com",
           "fixtures-bracelet-anatomy-jon.trycloudflare.com",
           "fkjpvjr7-80.euw.devtunnels.ms",
           "flamesov.ru",
@@ -83027,6 +83030,7 @@
           "hoportin.ru",
           "hordeumos.ru",
           "horizon-fee-calendar-seek.trycloudflare.com",
+          "hosting-redirect.sytes.net",
           "hotun.ru",
           "hthfa610y.stradrol.ru",
           "hueglotiki.ru",
@@ -84025,6 +84029,7 @@
           "poladx.ru",
           "polae.ru",
           "polif.ru",
+          "political-news.serveirc.com",
           "polutar.ru",
           "poracholly.ru",
           "porotad.ru",
@@ -86474,6 +86479,7 @@
           "/sssued80/index.html",
           "/ssu/based/regards.epub",
           "/ssu/relax/deceive.epub",
+          "/ssu2/hipdpS/plankGF7.pdf",
           "/standMn7.epub",
           "/sts61/index.html",
           "/stself63/index.html",
@@ -86694,7 +86700,7 @@
         ],
         "apt_group": "GAMAREDON-1",
         "filename": "apt_gamaredon-1.txt",
-        "last_modified": "2025-10-27T21:27:04+02:00",
+        "last_modified": "2025-11-04T22:05:15+02:00",
         "references": [
           "https://www.virustotal.com/gui/ip-address/168.100.10.184/relations",
           "https://www.virustotal.com/gui/ip-address/162.33.178.84/relations",
@@ -87961,17 +87967,19 @@
           "https://www.virustotal.com/gui/file/c36ec6ebf3287a30c4ef0f217835a04e3fad0fe1c3effee6647a0d172694f548/detection",
           "https://www.virustotal.com/gui/ip-address/45.59.125.173/relations",
           "https://x.com/GenThreatLabs/status/1982890656147108151",
-          "https://www.virustotal.com/gui/ip-address/45.141.234.234/relations"
+          "https://www.virustotal.com/gui/ip-address/45.141.234.234/relations",
+          "https://www.virustotal.com/gui/ip-address/194.87.240.141/relations",
+          "https://www.virustotal.com/gui/file/fe3c9988490f950ed0d34d807664161bd90ef4e981e314f5a62e37cdd2cc2127/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 9939,
-          "file_path": 335,
+          "domain": 9944,
+          "file_path": 336,
           "ipv4": 5,
           "url": 181
         },
-        "total": 10460
+        "total": 10466
       }
     },
     "GAZA": {
