@@ -133554,6 +133554,7 @@
           "dgqa.gov.in.casereport.cyou",
           "digiphotostudio.live",
           "digital-csc.in",
+          "digitalarena.space",
           "digitalfilestores.com",
           "dipl.site",
           "directfileshare.net",
@@ -136352,6 +136353,9 @@
           "45.147.231.191:3626",
           "45.147.231.191:8226",
           "45.155.54.122:8080",
+          "45.155.54.22:3000",
+          "45.155.54.22:8080",
+          "45.155.54.22:8888",
           "45.155.54.28:8080",
           "45.155.54.62:8080",
           "45.202.35.172:443",
@@ -136717,7 +136721,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2025-11-02T02:09:36+02:00",
+        "last_modified": "2025-11-04T17:50:22+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -137732,17 +137736,18 @@
           "https://www.virustotal.com/gui/file/7ba946c2f82438db907e4eafe56873abad6fa6d704d1dbd20200c636d2504ed5/detection",
           "https://www.virustotal.com/gui/file/8d39c29ce28f81eb9b3bdadc92b2679d843d73f857fc9818f2d32e27355ce165/detection",
           "https://www.virustotal.com/gui/file/6b83f4fc2e8bf8d913ed90344ee0b8408ed19e31993ce77d34e216d527365667/detection",
-          "https://www.virustotal.com/gui/file/34e9bd70599532a3a54ec4441c5ac95dcbe2f97411b27cf7d4de2e2b70b70e94/detection"
+          "https://www.virustotal.com/gui/file/34e9bd70599532a3a54ec4441c5ac95dcbe2f97411b27cf7d4de2e2b70b70e94/detection",
+          "https://x.com/kaushikkpal/status/1985690995560960079"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3210,
+          "domain": 3211,
           "file_path": 40,
-          "ipv4": 759,
+          "ipv4": 762,
           "url": 121
         },
-        "total": 4130
+        "total": 4134
       }
     },
     "TRIANGULATION": {
