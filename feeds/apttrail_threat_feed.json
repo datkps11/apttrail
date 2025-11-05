@@ -123940,6 +123940,7 @@
     "SIDEWINDER": {
       "indicators": {
         "domain": [
+          "0range.site",
           "0ultook.live",
           "1.modp-pk.org",
           "101c4a583c3acdd2a06ca2fb183cf995fgd55fghf67dhf7dhf7dhnfks7.pages.dev",
@@ -123947,6 +123948,7 @@
           "101c4a583c3acdd2dfgn54990fgmkl5i90ghml569ig06ca2fb183cf995.pages.dev",
           "101c4a5fdjfjkf8fg90fksd9dfslsd0fk83c3acdd2a06ca2fb183cf995.pages.dev",
           "126-com.live",
+          "126mail-cn.com",
           "163inc.org",
           "168-gov.info",
           "16bz5.pmreco.xyz",
@@ -125196,6 +125198,7 @@
           "kintecc.com",
           "kito.countpro.info",
           "kmz.fetchdrive.info",
+          "koepasc.live",
           "kpkarmslicense.site",
           "kppolice.gov.pk-mail.org",
           "kpt-gov.org",
@@ -127187,7 +127190,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2025-11-03T19:02:53+02:00",
+        "last_modified": "2025-11-05T09:57:20+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -128157,12 +128160,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3135,
+          "domain": 3138,
           "file_path": 13,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3224
+        "total": 3227
       }
     },
     "SILENCE": {
