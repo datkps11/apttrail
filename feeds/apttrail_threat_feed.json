@@ -124522,6 +124522,7 @@
           "decoty.tech",
           "defence-bd.net",
           "defence-lk.military-bd.org",
+          "defence-np.net",
           "defence.lk.gov-co.org",
           "defence.lk.gov-org.net",
           "defencearmy.pro",
@@ -125147,6 +125148,7 @@
           "interiorministrygov.site",
           "interiorministrypk.com",
           "interiorsgovpk.site",
+          "internal-advisory-azerbaijan-russia-diplomatic-crisis.defence-np.net",
           "internal-portal.ceair.com.81-cn.info",
           "investgov.info",
           "investigation04.session-out.com",
@@ -126659,6 +126661,7 @@
           "sco.gov-pk.online",
           "sco.gov.pk.hilsa.online",
           "sco.gov.pk.viewdoc.online",
+          "sco.mail163cn.info",
           "sco.pkgov.org",
           "sco.pkgov.xyz",
           "sco.zapto.org",
@@ -127190,7 +127193,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2025-11-05T09:57:20+02:00",
+        "last_modified": "2025-11-05T13:10:19+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -128132,7 +128135,9 @@
           "https://app.validin.com/detail?find=69c8a3baf76640c8385adcc2b8ef3174ead8a1fc&type=hash&ref_id=99333d38ae6#tab=host_pairs (# 2025-09-05)",
           "https://x.com/volrant136/status/1964037554736398445",
           "https://x.com/blackorbird/status/1966082587098755312",
+          "https://x.com/RedDrip7/status/1986014463494160775",
           "https://mp.weixin.qq.com/s/wxRSVugKHy7x1SmANQOrAA",
+          "https://www.virustotal.com/gui/file/67ae5f3db5f907c2bcc9f932c5379ec17aba4d2e4bca4cf63160ee182e18ae19/detection",
           "https://x.com/volrant136/status/1966935607483265167",
           "https://www.virustotal.com/gui/file/04e378b653cb975609ab637eef36bf92d26867dcd79fb90c5f7e1993019eff91/detection",
           "https://x.com/Cyberteam008/status/1967811673924022458",
@@ -128155,17 +128160,19 @@
           "https://cybersecuritynews.com/sidewinder-hacking-group-uses-clickonce-based-infection-chain/",
           "https://www.virustotal.com/gui/file/99ed9f44a02a3549d60c58233f793622319ed4d08d2c1c8d6fd17fcb06afa8c0/detection",
           "https://www.virustotal.com/gui/file/93ebcdc6bee559d9c61f484dd521c917517a5114bbfa3ed7d374547a6d0e08e8/detection",
-          "https://www.trellix.com/blogs/research/sidewinders-shifting-sands-click-once-for-espionage/"
+          "https://www.trellix.com/blogs/research/sidewinders-shifting-sands-click-once-for-espionage/",
+          "https://x.com/salmanvsf/status/1985549302727590124",
+          "https://www.virustotal.com/gui/file/f69708c769f3d34fc0798257b472cc48770208b6862ea3e6540d12b9f23f9cdf/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3138,
+          "domain": 3141,
           "file_path": 13,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3227
+        "total": 3230
       }
     },
     "SILENCE": {
