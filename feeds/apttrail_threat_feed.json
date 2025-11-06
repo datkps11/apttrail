@@ -6806,6 +6806,7 @@
           "jjwappconsole.com",
           "jlmusiklearn.com",
           "jmsatozplanning.com",
+          "jmxdnqr8.mediumblog.online",
           "johnfashionaccess.com",
           "johnywalter.webatu.com",
           "kaatmusiclab.com",
@@ -6850,6 +6851,7 @@
           "mail.wmiapcservice.com",
           "mail.youtubepremiumapp.com",
           "maildataserver.com",
+          "manage.mediumblog.online",
           "manderikgamezilla.com",
           "mappservworldvide.16mb.com",
           "maq.com.pk",
@@ -6863,6 +6865,7 @@
           "maxnursesolutions.com",
           "mcdavezonepanel.com",
           "mcxntoolsservice.com",
+          "mediumblog.online",
           "medzone71.com",
           "mercifulnearyou.com",
           "mia.alkhaleejpk.info",
@@ -6940,9 +6943,11 @@
           "premierinvestmentfund.com",
           "princecleanit.com",
           "procarcaresvc.com",
+          "qdey4uvj.mediumblog.online",
           "quartzu.hol.es",
           "qwavemediaservice.net",
           "red5big.com",
+          "rgevzuir.mediumblog.online",
           "rurushophoogtypnl.com",
           "rusjamystarapp.com",
           "rxnovelapps.info",
@@ -6951,6 +6956,7 @@
           "sartetextile.com",
           "sbss.com.pk",
           "seragoonupdates.com",
+          "services.windowmediaplayer.media",
           "shareflx.com",
           "shareflx.createasocialcard.top",
           "shareflx.social-card-share.top",
@@ -7008,6 +7014,7 @@
           "turkeyapi.bio",
           "tvnservereventlog.net",
           "umsmssvc.com",
+          "unr0wddj.mediumblog.online",
           "updateschedulers.com",
           "updnangelgroup.com",
           "upulllogistics.com",
@@ -7025,6 +7032,7 @@
           "vividworld.net",
           "viyoappmapper.com",
           "vizylstatpro.com",
+          "vzgmbwva.mediumblog.online",
           "w32infinitisupports.net",
           "w32timeslicesvc.net",
           "wangluojiumingjingli.org",
@@ -7046,6 +7054,7 @@
           "whitelilyshop.com",
           "wills.hairparker.com",
           "windiagnosticsvc.net",
+          "windowmediaplayer.media",
           "windowphotoviewer.com",
           "windowtemplates.info",
           "winfreecloud.net",
@@ -7062,6 +7071,7 @@
           "xiovo416.net",
           "xiuxonlinehost.com",
           "yalinasculetips.com",
+          "yorkstar.mediumblog.online",
           "yoursdrive.com",
           "youtubepremiumapp.com",
           "youxiangxiezhu.com",
@@ -7152,6 +7162,7 @@
           "uniengrisb.com/img/rt.msi"
         ],
         "ipv4": [
+          "103.57.251.154:4443",
           "107.173.63.218:58370",
           "110.42.64.137:9527",
           "135.125.242.211:52112",
@@ -7175,6 +7186,7 @@
           "185.193.48.135:8676",
           "185.237.166.24:56218",
           "185.76.79.30:443",
+          "192.71.213.128:4431",
           "192.71.249.194:443",
           "193.142.58.38:34905",
           "193.29.58.210:15192",
@@ -7264,11 +7276,12 @@
           "ung0002",
           "kiwistealer",
           "chmghost",
-          "mysterious elephant"
+          "mysterious elephant",
+          "stomexfiltrator"
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2025-11-06T15:47:23+02:00",
+        "last_modified": "2025-11-06T21:53:47+02:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -7786,17 +7799,21 @@
           "https://x.com/smica83/status/1983935993209069584",
           "https://tria.ge/251030-t3ev1s1khn/behavioral1",
           "https://www.virustotal.com/gui/ip-address/146.70.118.226/relations",
-          "https://www.virustotal.com/gui/file/8b57d6b676afdd84786655eb5fc8769711ffefb9f4d2db7770a16c4ef9ae6592/detection"
+          "https://www.virustotal.com/gui/file/8b57d6b676afdd84786655eb5fc8769711ffefb9f4d2db7770a16c4ef9ae6592/detection",
+          "https://x.com/ThreatrayLabs/status/1986432637762732515",
+          "https://www.virustotal.com/gui/ip-address/103.57.251.154/relations",
+          "https://www.virustotal.com/gui/file/090b1691a623cc6e8d956ed41ab3efdae98ab9db1bb95cbcbea3162f7a54abf9/detection",
+          "https://www.virustotal.com/gui/file/0ca1ce61d917771ed344f8345a81610e4c03eb9d186353e2f339e38345e3296d/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 425,
+          "domain": 435,
           "file_path": 77,
-          "ipv4": 66,
+          "ipv4": 68,
           "url": 18
         },
-        "total": 586
+        "total": 598
       }
     },
     "BLACKGEAR": {
@@ -89968,6 +89985,32 @@
         "total": 8
       }
     },
+    "INEDIBLEOCHOTENSE": {
+      "indicators": {
+        "domain": [
+          "eset-endpointantivirus.com",
+          "eset-review.com",
+          "esetremover.com",
+          "esetscanner.com",
+          "esetsmart.com"
+        ]
+      },
+      "metadata": {
+        "aliases": [],
+        "apt_group": "INEDIBLEOCHOTENSE",
+        "filename": "apt_inedibleochotense.txt",
+        "last_modified": "2025-11-06T22:21:43+02:00",
+        "references": [
+          "https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-apt-activity-report-q2-2025-q3-2025.pdf"
+        ]
+      },
+      "statistics": {
+        "by_type": {
+          "domain": 5
+        },
+        "total": 5
+      }
+    },
     "INFY": {
       "indicators": {
         "domain": [
@@ -104028,6 +104071,7 @@
           "107.148.71.88:993",
           "107.189.16.65:3389",
           "109.248.151.179:53",
+          "116.202.99.218:443",
           "121.183.134.113:443",
           "121.183.134.113:7000",
           "121.183.134.113:8080",
@@ -104154,11 +104198,12 @@
           "HancomAgent",
           "blindingcan",
           "comebacker",
-          "HttpTroy"
+          "HttpTroy",
+          "endclientrat"
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2025-11-06T21:17:00+02:00",
+        "last_modified": "2025-11-06T21:26:09+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -105560,17 +105605,19 @@
           "https://www.virustotal.com/gui/file/b52f1b281615bd57126f392c40a371703021285f950fe33d6f0e782a7732e838/detection",
           "https://www.virustotal.com/gui/file/c9938936a80b588ba3ac9403854bdae8bf4f39fb2274662749af7a37bd4f43c8/detection",
           "https://www.virustotal.com/gui/file/e19ce3bd1cbd980082d3c55a4ac1eb3af4d9e7adf108afb1861372f9c7fe0b76/detection",
-          "https://www.virustotal.com/gui/file/a3876a2492f3c069c0c2b2f155b4c420d8722aa7781040b17ca27fdd4f2ce6a9/detection"
+          "https://www.virustotal.com/gui/file/a3876a2492f3c069c0c2b2f155b4c420d8722aa7781040b17ca27fdd4f2ce6a9/detection",
+          "https://x.com/lazarusholic/status/1986425869540442333",
+          "https://www.virustotal.com/gui/file/bcdd8a213cf6986bad4bb487fe1bf798e159d32fd3a88b4e8d2945403d1c428d/detection"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 12704,
           "file_path": 280,
-          "ipv4": 66,
+          "ipv4": 67,
           "url": 47
         },
-        "total": 13097
+        "total": 13098
       }
     },
     "KUN3": {
@@ -144207,5 +144254,5 @@
     }
   },
   "source": "Maltrail APT Indicators",
-  "total_apt_groups": 327
+  "total_apt_groups": 328
 }

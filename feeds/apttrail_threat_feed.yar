@@ -1366,36 +1366,36 @@ rule APT_BITTER
         $domain47 = "btappclientsvc\.net" ascii wide nocase
         $domain48 = "bulltrader\.vip" ascii wide nocase
         $domain49 = "camncryptsvc\.net" ascii wide nocase
-        $ip50 = "107.173.63.218" ascii wide
-        $ip51 = "110.42.64.137" ascii wide
-        $ip52 = "135.125.242.211" ascii wide
-        $ip53 = "141.94.68.169" ascii wide
-        $ip54 = "147.124.223.140" ascii wide
-        $ip55 = "151.236.14.173" ascii wide
-        $ip56 = "151.236.21.48" ascii wide
-        $ip57 = "151.236.9.75" ascii wide
+        $ip50 = "103.57.251.154" ascii wide
+        $ip51 = "107.173.63.218" ascii wide
+        $ip52 = "110.42.64.137" ascii wide
+        $ip53 = "135.125.242.211" ascii wide
+        $ip54 = "141.94.68.169" ascii wide
+        $ip55 = "147.124.223.140" ascii wide
+        $ip56 = "151.236.14.173" ascii wide
+        $ip57 = "151.236.21.48" ascii wide
         $ip58 = "151.236.9.75" ascii wide
-        $ip59 = "158.255.215.45" ascii wide
-        $ip60 = "162.0.216.229" ascii wide
+        $ip59 = "151.236.9.75" ascii wide
+        $ip60 = "158.255.215.45" ascii wide
         $ip61 = "162.0.216.229" ascii wide
-        $ip62 = "162.252.172.67" ascii wide
-        $ip63 = "162.252.175.131" ascii wide
+        $ip62 = "162.0.216.229" ascii wide
+        $ip63 = "162.252.172.67" ascii wide
         $ip64 = "162.252.175.131" ascii wide
-        $ip65 = "167.88.15.93" ascii wide
-        $ip66 = "185.106.123.198" ascii wide
-        $ip67 = "185.117.73.195" ascii wide
-        $ip68 = "185.117.73.209" ascii wide
-        $ip69 = "185.141.25.244" ascii wide
-        $ip70 = "185.193.48.135" ascii wide
-        $ip71 = "185.237.166.24" ascii wide
-        $ip72 = "185.76.79.30" ascii wide
-        $ip73 = "192.71.249.194" ascii wide
-        $ip74 = "193.142.58.38" ascii wide
-        $ip75 = "193.29.58.210" ascii wide
-        $ip76 = "194.110.246.254" ascii wide
-        $ip77 = "194.71.227.222" ascii wide
-        $ip78 = "209.74.80.194" ascii wide
-        $ip79 = "23.106.122.149" ascii wide
+        $ip65 = "162.252.175.131" ascii wide
+        $ip66 = "167.88.15.93" ascii wide
+        $ip67 = "185.106.123.198" ascii wide
+        $ip68 = "185.117.73.195" ascii wide
+        $ip69 = "185.117.73.209" ascii wide
+        $ip70 = "185.141.25.244" ascii wide
+        $ip71 = "185.193.48.135" ascii wide
+        $ip72 = "185.237.166.24" ascii wide
+        $ip73 = "185.76.79.30" ascii wide
+        $ip74 = "192.71.213.128" ascii wide
+        $ip75 = "192.71.249.194" ascii wide
+        $ip76 = "193.142.58.38" ascii wide
+        $ip77 = "193.29.58.210" ascii wide
+        $ip78 = "194.110.246.254" ascii wide
+        $ip79 = "194.71.227.222" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
@@ -5686,6 +5686,27 @@ rule APT_INDRA
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_INEDIBLEOCHOTENSE
+{
+    meta:
+        description = "Detects IOCs associated with APT INEDIBLEOCHOTENSE"
+        author = "APTtrail Automated Collection"
+        apt_group = "INEDIBLEOCHOTENSE"
+        reference = "https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-apt-activity-report-q2-2025-q3-2025.pdf"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "eset-endpointantivirus\.com" ascii wide nocase
+        $domain1 = "eset-review\.com" ascii wide nocase
+        $domain2 = "esetremover\.com" ascii wide nocase
+        $domain3 = "esetscanner\.com" ascii wide nocase
+        $domain4 = "esetsmart\.com" ascii wide nocase
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
+}
+
 rule APT_INFY
 {
     meta:
@@ -6294,25 +6315,25 @@ rule APT_KIMSUKY
         $ip58 = "107.148.71.88" ascii wide
         $ip59 = "107.189.16.65" ascii wide
         $ip60 = "109.248.151.179" ascii wide
-        $ip61 = "121.183.134.113" ascii wide
+        $ip61 = "116.202.99.218" ascii wide
         $ip62 = "121.183.134.113" ascii wide
         $ip63 = "121.183.134.113" ascii wide
-        $ip64 = "121.66.72.110" ascii wide
-        $ip65 = "125.136.67.99" ascii wide
-        $ip66 = "141.164.41.17" ascii wide
-        $ip67 = "152.89.247.57" ascii wide
-        $ip68 = "156.224.22.247" ascii wide
-        $ip69 = "158.247.238.155" ascii wide
-        $ip70 = "159.100.6.137" ascii wide
-        $ip71 = "162.216.114.133" ascii wide
-        $ip72 = "172.93.201.248" ascii wide
+        $ip64 = "121.183.134.113" ascii wide
+        $ip65 = "121.66.72.110" ascii wide
+        $ip66 = "125.136.67.99" ascii wide
+        $ip67 = "141.164.41.17" ascii wide
+        $ip68 = "152.89.247.57" ascii wide
+        $ip69 = "156.224.22.247" ascii wide
+        $ip70 = "158.247.238.155" ascii wide
+        $ip71 = "159.100.6.137" ascii wide
+        $ip72 = "162.216.114.133" ascii wide
         $ip73 = "172.93.201.248" ascii wide
-        $ip74 = "183.105.66.48" ascii wide
-        $ip75 = "185.224.137.164" ascii wide
-        $ip76 = "185.235.128.114" ascii wide
-        $ip77 = "192.186.142.74" ascii wide
-        $ip78 = "192.236.154.125" ascii wide
-        $ip79 = "203.245.0.121" ascii wide
+        $ip74 = "172.93.201.248" ascii wide
+        $ip75 = "183.105.66.48" ascii wide
+        $ip76 = "185.224.137.164" ascii wide
+        $ip77 = "185.235.128.114" ascii wide
+        $ip78 = "192.186.142.74" ascii wide
+        $ip79 = "192.236.154.125" ascii wide
         $url80 = "/test/v\.php" ascii wide nocase
 
     condition:
