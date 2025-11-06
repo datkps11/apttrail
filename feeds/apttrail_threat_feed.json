@@ -118145,6 +118145,7 @@
           "breachframework.website",
           "breatlee.org",
           "brightpathos.eu",
+          "brityservice.info",
           "buzzstack.org",
           "c-cdn77.com",
           "caapakistaan.com",
@@ -118525,6 +118526,7 @@
           "sanping.info",
           "sapdf.org",
           "scapematic.info",
+          "scrollzshare.info",
           "sdfsecs.org",
           "sechshun8.com",
           "secretchatpoint.com",
@@ -118880,7 +118882,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2025-11-03T14:42:39+02:00",
+        "last_modified": "2025-11-06T10:45:07+02:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -119273,17 +119275,19 @@
           "https://www.virustotal.com/gui/file/01b7a6cccfa1d596e75e997fe2bd2063af3c264f169df60a0c8723818f22b39f/detection",
           "https://www.virustotal.com/gui/file/582f4c583086a67f8942777b7a65a054b020a6732abd954a92ff525d9d0a3dba/detection",
           "https://x.com/suyog41/status/1978396001778999417",
-          "https://www.virustotal.com/gui/file/9f5b34ee5a5cd2eebc8923a961de8bc7b67c3048f7b6ebc1287fa8be613b9d83/detection"
+          "https://www.virustotal.com/gui/file/9f5b34ee5a5cd2eebc8923a961de8bc7b67c3048f7b6ebc1287fa8be613b9d83/detection",
+          "https://x.com/malwrhunterteam/status/1986334542123159792",
+          "https://www.virustotal.com/gui/file/dc297aded70b0692ad0a24509e7bbec210bc0a1c7a105e99e1a8f76e3861ad34/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 605,
+          "domain": 607,
           "file_path": 76,
           "ipv4": 57,
           "url": 42
         },
-        "total": 780
+        "total": 782
       }
     },
     "PEEPINGTITLE": {
