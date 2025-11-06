@@ -6818,6 +6818,7 @@
           "koliwooclients.com",
           "kryoblockbind.net",
           "laboratoreventsvc.com",
+          "large-file-download-in-progress-page-loading-iuwt6sk34bs6543df.tartaakademi.com",
           "lbhandlesystem.com",
           "lcpcstudiover.com",
           "levarisnetqlsvc.net",
@@ -7267,7 +7268,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2025-10-30T20:15:54+02:00",
+        "last_modified": "2025-11-06T15:47:23+02:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -7784,17 +7785,18 @@
           "https://www.virustotal.com/gui/file/d6a533102f801066ddd6069e20f3a51e802852b72c6e105b6e1b8a2c035d0722/detection",
           "https://x.com/smica83/status/1983935993209069584",
           "https://tria.ge/251030-t3ev1s1khn/behavioral1",
+          "https://www.virustotal.com/gui/ip-address/146.70.118.226/relations",
           "https://www.virustotal.com/gui/file/8b57d6b676afdd84786655eb5fc8769711ffefb9f4d2db7770a16c4ef9ae6592/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 424,
+          "domain": 425,
           "file_path": 77,
           "ipv4": 66,
           "url": 18
         },
-        "total": 585
+        "total": 586
       }
     },
     "BLACKGEAR": {
