@@ -104158,7 +104158,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2025-11-06T14:09:35+02:00",
+        "last_modified": "2025-11-06T21:17:00+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -105553,12 +105553,14 @@
           "https://www.virustotal.com/gui/ip-address/216.158.235.72/relations",
           "https://www.virustotal.com/gui/ip-address/69.10.53.144/relations",
           "https://www.virustotal.com/gui/ip-address/86.104.74.173/relations",
+          "https://x.com/malwrhunterteam/status/1986492204240564680",
           "https://www.gendigital.com/blog/insights/research/dprk-kimsuky-lazarus-analysis",
           "https://www.virustotal.com/gui/ip-address/69.10.50.36/relations",
           "https://www.virustotal.com/gui/file/368769df7d319371073f33c29ad0097fbe48e805630cf961b6f00ab2ccddbb4c/detection",
           "https://www.virustotal.com/gui/file/b52f1b281615bd57126f392c40a371703021285f950fe33d6f0e782a7732e838/detection",
           "https://www.virustotal.com/gui/file/c9938936a80b588ba3ac9403854bdae8bf4f39fb2274662749af7a37bd4f43c8/detection",
-          "https://www.virustotal.com/gui/file/e19ce3bd1cbd980082d3c55a4ac1eb3af4d9e7adf108afb1861372f9c7fe0b76/detection"
+          "https://www.virustotal.com/gui/file/e19ce3bd1cbd980082d3c55a4ac1eb3af4d9e7adf108afb1861372f9c7fe0b76/detection",
+          "https://www.virustotal.com/gui/file/a3876a2492f3c069c0c2b2f155b4c420d8722aa7781040b17ca27fdd4f2ce6a9/detection"
         ]
       },
       "statistics": {
