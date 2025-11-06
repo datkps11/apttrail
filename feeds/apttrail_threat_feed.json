@@ -92948,6 +92948,7 @@
           "csma.certuser.info",
           "csnaver.com",
           "csnveo.info",
+          "csplserver.in",
           "cswiusoni.site",
           "cto.com-mg.mydns.tw",
           "ctp-forms.site",
@@ -94001,6 +94002,7 @@
           "first.pokerstarus.kro.kr",
           "firsttaxi.click",
           "firterswer.r-e.kr",
+          "fitly.pro",
           "fitting-discrete-lemur.ngrok-free.app",
           "flagguarder.site",
           "flashdrop.digital",
@@ -96261,6 +96263,7 @@
           "meardkcsa0ndbox.online",
           "mebiebaucte.click",
           "mebvop.online",
+          "mechanicalintegrity-beta.com",
           "meconnect.info",
           "media-zabbix.xyz",
           "media.weekbootseey.com",
@@ -101690,6 +101693,7 @@
           "simple-hick.esy.es",
           "simpleedit.n-e.kr",
           "simplegame.store",
+          "simplrcloud.net",
           "simplyhqa.click",
           "sinsa.online",
           "sioenise.site",
@@ -102103,6 +102107,7 @@
           "susi-susi.site",
           "suspdomi.click",
           "suzuki.datastore.pe.hu",
+          "svichado.fund",
           "swenfdovin.shop",
           "swiftinfolive.today",
           "swolfserveroncony.cfd",
@@ -102147,6 +102152,7 @@
           "taxservice.pe.kr",
           "taxservice.site",
           "taxsevices.online",
+          "tazkaraonline.com",
           "tbear.mypressonline.com",
           "tbvwenher03nvvwe.cfd",
           "tcjst.com",
@@ -102414,6 +102420,7 @@
           "umasomon.site",
           "umbresta.click",
           "umember.info",
+          "unbrandedretailers.com",
           "unc.ntinfo.o-r.kr",
           "undocs.ddns.net",
           "undocs.myvnc.com",
@@ -104149,7 +104156,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2025-11-03T11:24:20+02:00",
+        "last_modified": "2025-11-06T14:09:35+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -105554,12 +105561,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 12697,
+          "domain": 12704,
           "file_path": 280,
           "ipv4": 66,
           "url": 47
         },
-        "total": 13090
+        "total": 13097
       }
     },
     "KUN3": {
