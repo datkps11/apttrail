@@ -91497,6 +91497,8 @@
           "accounts2.download",
           "accountsbinance.navermail.click",
           "accountsdon.kakaoaccouts.store",
+          "accountsecuritycert.kro.kr",
+          "accountsecuritycorp.kro.kr",
           "accountseoke.cookiemanager.online",
           "accountserok.usance.online",
           "accountseros.usage.store",
@@ -91529,6 +91531,8 @@
           "accountsuey.kakaoaccouts.store",
           "accountsuser.store",
           "accountsute.kakaoaccouts.store",
+          "accountuserv3.kro.kr",
+          "accountuserverify.kro.kr",
           "accountverifcation.64bit.kr",
           "accountverifcations.64bit.kr",
           "accountverify.hmail.us",
@@ -94429,9 +94433,13 @@
           "google.account-v3sign.server-on.net",
           "google.account-verify.kro.kr",
           "google.accounts-sign.kro.kr",
+          "google.accountsecuritycert.kro.kr",
+          "google.accountsecuritycorp.kro.kr",
           "google.accountsignv3.64bit.kr",
           "google.accountsitelogin.kro.kr",
           "google.accountssignin.kro.kr",
+          "google.accountuserv3.kro.kr",
+          "google.accountuserverify.kro.kr",
           "google.accountverifcation.64bit.kr",
           "google.accountverifcations.64bit.kr",
           "google.auth-usraccount.64bit.kr",
@@ -104369,7 +104377,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2025-11-07T16:11:00+02:00",
+        "last_modified": "2025-11-07T17:01:12+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -105781,17 +105789,18 @@
           "https://www.virustotal.com/gui/file/a45b6dcc453a25fee4db82db719f6269d7a2006939a326476bdcd0207f6c637c/detection",
           "https://app.validin.com/detail?find=162.220.13.18&type=ip4&ref_id=bd7303c45d9#tab=resolutions",
           "https://app.validin.com/detail?find=34be99c7e4dfe06ce03b91cddb103a2d&type=hash#tab=host_pairs (# 2025-11-07)",
-          "https://www.virustotal.com/gui/ip-address/158.247.248.45/relations"
+          "https://www.virustotal.com/gui/ip-address/158.247.248.45/relations",
+          "https://www.virustotal.com/gui/ip-address/38.54.40.183/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 12865,
+          "domain": 12873,
           "file_path": 280,
           "ipv4": 68,
           "url": 47
         },
-        "total": 13260
+        "total": 13268
       }
     },
     "KUN3": {

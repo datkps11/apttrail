@@ -81104,6 +81104,8 @@ KIMSUKY,domain,accounts2-gooogle.servehttp.com
 KIMSUKY,domain,accounts2.download
 KIMSUKY,domain,accountsbinance.navermail.click
 KIMSUKY,domain,accountsdon.kakaoaccouts.store
+KIMSUKY,domain,accountsecuritycert.kro.kr
+KIMSUKY,domain,accountsecuritycorp.kro.kr
 KIMSUKY,domain,accountseoke.cookiemanager.online
 KIMSUKY,domain,accountserok.usance.online
 KIMSUKY,domain,accountseros.usage.store
@@ -81136,6 +81138,8 @@ KIMSUKY,domain,accountssignin.kro.kr
 KIMSUKY,domain,accountsuey.kakaoaccouts.store
 KIMSUKY,domain,accountsuser.store
 KIMSUKY,domain,accountsute.kakaoaccouts.store
+KIMSUKY,domain,accountuserv3.kro.kr
+KIMSUKY,domain,accountuserverify.kro.kr
 KIMSUKY,domain,accountverifcation.64bit.kr
 KIMSUKY,domain,accountverifcations.64bit.kr
 KIMSUKY,domain,accountverify.hmail.us
@@ -84036,9 +84040,13 @@ KIMSUKY,domain,google.account-sign.kro.kr
 KIMSUKY,domain,google.account-v3sign.server-on.net
 KIMSUKY,domain,google.account-verify.kro.kr
 KIMSUKY,domain,google.accounts-sign.kro.kr
+KIMSUKY,domain,google.accountsecuritycert.kro.kr
+KIMSUKY,domain,google.accountsecuritycorp.kro.kr
 KIMSUKY,domain,google.accountsignv3.64bit.kr
 KIMSUKY,domain,google.accountsitelogin.kro.kr
 KIMSUKY,domain,google.accountssignin.kro.kr
+KIMSUKY,domain,google.accountuserv3.kro.kr
+KIMSUKY,domain,google.accountuserverify.kro.kr
 KIMSUKY,domain,google.accountverifcation.64bit.kr
 KIMSUKY,domain,google.accountverifcations.64bit.kr
 KIMSUKY,domain,google.auth-usraccount.64bit.kr
