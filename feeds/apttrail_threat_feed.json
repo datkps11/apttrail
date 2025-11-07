@@ -79768,6 +79768,7 @@
           "aoedamage.ru",
           "apispi.ru",
           "apop.aytashpo.ru",
+          "app-334825a6-4a2b-48bc-be92-e0582d656006.cleverapps.io",
           "applicant-approx-vatican-senators.trycloudflare.com",
           "applicationframehost.hulom.ru",
           "aquariusso.ru",
@@ -85591,6 +85592,7 @@
           "type98.suizibel.ru",
           "type99.suizibel.ru",
           "ucayale.bismutumo.ru",
+          "udopnrc.mq",
           "uhssvc.gutad.ru",
           "ui.nilfa.ru",
           "ukrainefacility.store",
@@ -86328,6 +86330,7 @@
           "/fes.17.04",
           "/festivaljcO.epub",
           "/firex0q.jpeg",
+          "/flashlightsK8Q/pondjSQ.pdf",
           "/flintYLS/medicinejOE.pptx",
           "/fosterWwg.webp",
           "/gaspediD0.webp",
@@ -86498,6 +86501,7 @@
           "/srresistible52/index.html",
           "/srresistible94/index.html",
           "/ssU/obligationrTB.webp",
+          "/ss_07.11.2025/flashlightsK8Q/pondjSQ.pdf",
           "/sso44/index.html",
           "/sssued80/index.html",
           "/ssu/based/regards.epub",
@@ -86723,7 +86727,7 @@
         ],
         "apt_group": "GAMAREDON-1",
         "filename": "apt_gamaredon-1.txt",
-        "last_modified": "2025-11-04T22:05:15+02:00",
+        "last_modified": "2025-11-07T18:01:34+02:00",
         "references": [
           "https://www.virustotal.com/gui/ip-address/168.100.10.184/relations",
           "https://www.virustotal.com/gui/ip-address/162.33.178.84/relations",
@@ -87992,17 +87996,20 @@
           "https://x.com/GenThreatLabs/status/1982890656147108151",
           "https://www.virustotal.com/gui/ip-address/45.141.234.234/relations",
           "https://www.virustotal.com/gui/ip-address/194.87.240.141/relations",
-          "https://www.virustotal.com/gui/file/fe3c9988490f950ed0d34d807664161bd90ef4e981e314f5a62e37cdd2cc2127/detection"
+          "https://www.virustotal.com/gui/file/fe3c9988490f950ed0d34d807664161bd90ef4e981e314f5a62e37cdd2cc2127/detection",
+          "https://x.com/smica83/status/1986819575728529861",
+          "https://tria.ge/251107-sytmyasmgk/behavioral1",
+          "https://www.virustotal.com/gui/file/27bd90199e426719d1c3ef214215a17fae23f257d8bcb7a806e394e8666158f0/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 9944,
-          "file_path": 336,
+          "domain": 9946,
+          "file_path": 338,
           "ipv4": 5,
           "url": 181
         },
-        "total": 10466
+        "total": 10470
       }
     },
     "GAZA": {
@@ -97091,6 +97098,7 @@
           "nate.nmailhub.com",
           "nate.opior.com",
           "nate.serverpit.com",
+          "natecok.myvnc.com",
           "natelogin.com",
           "natelogin.homes",
           "natelogin.info",
@@ -98521,6 +98529,7 @@
           "nid-naverpns.onthewifi.com",
           "nid-naverpvp.servequake.com",
           "nid-naverqcr.servepics.com",
+          "nid-naversgg.ddnsking.com",
           "nid-naverslf.servegame.com",
           "nid-naversne.servecounterstrike.com",
           "nid-naversno.servecounterstrike.com",
@@ -98541,6 +98550,7 @@
           "nid-naverway.ddnsking.com",
           "nid-naverwhf.3utilities.com",
           "nid-naverwrg.ddnsking.com",
+          "nid-naverwrn.serveftp.com",
           "nid-naverwza.servecounterstrike.com",
           "nid-naverxeu.serveftp.com",
           "nid-naverxft.onthewifi.com",
@@ -104377,7 +104387,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2025-11-07T17:01:12+02:00",
+        "last_modified": "2025-11-07T17:42:24+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -105790,17 +105800,18 @@
           "https://app.validin.com/detail?find=162.220.13.18&type=ip4&ref_id=bd7303c45d9#tab=resolutions",
           "https://app.validin.com/detail?find=34be99c7e4dfe06ce03b91cddb103a2d&type=hash#tab=host_pairs (# 2025-11-07)",
           "https://www.virustotal.com/gui/ip-address/158.247.248.45/relations",
-          "https://www.virustotal.com/gui/ip-address/38.54.40.183/relations"
+          "https://www.virustotal.com/gui/ip-address/38.54.40.183/relations",
+          "https://www.virustotal.com/gui/ip-address/141.164.38.27/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 12873,
+          "domain": 12876,
           "file_path": 280,
           "ipv4": 68,
           "url": 47
         },
-        "total": 13268
+        "total": 13271
       }
     },
     "KUN3": {
