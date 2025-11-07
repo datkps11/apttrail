@@ -6995,6 +6995,7 @@
           "surininfiniumclub.com",
           "svc2mcxwave.net",
           "sysintservice.ddns.net",
+          "tapeqcqoptions.com",
           "tartaakademi.com",
           "teamlogin.esanojinjasvc.com",
           "telegram-app.tech",
@@ -7281,7 +7282,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2025-11-06T21:53:47+02:00",
+        "last_modified": "2025-11-07T12:55:20+02:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -7803,17 +7804,20 @@
           "https://x.com/ThreatrayLabs/status/1986432637762732515",
           "https://www.virustotal.com/gui/ip-address/103.57.251.154/relations",
           "https://www.virustotal.com/gui/file/090b1691a623cc6e8d956ed41ab3efdae98ab9db1bb95cbcbea3162f7a54abf9/detection",
-          "https://www.virustotal.com/gui/file/0ca1ce61d917771ed344f8345a81610e4c03eb9d186353e2f339e38345e3296d/detection"
+          "https://www.virustotal.com/gui/file/0ca1ce61d917771ed344f8345a81610e4c03eb9d186353e2f339e38345e3296d/detection",
+          "https://x.com/blackorbird/status/1986747686050287997",
+          "https://mp.weixin.qq.com/s/CI1g4iaYxHhO925V15LvIQ",
+          "https://www.virustotal.com/gui/file/93a905048ca8cdf7162ade1720d50883495bf1bbc000c828a6844a88a73a05db/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 435,
+          "domain": 436,
           "file_path": 77,
           "ipv4": 68,
           "url": 18
         },
-        "total": 598
+        "total": 599
       }
     },
     "BLACKGEAR": {
@@ -110169,6 +110173,7 @@
           "http://23.127.202.249",
           "http://23.254.164.232",
           "http://23.254.204.184",
+          "http://23.27.177.183",
           "http://27.102.113.93",
           "http://3.89.226.234",
           "http://37.238.135.70/img/anan.jpg",
@@ -110285,7 +110290,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2025-11-03T23:05:54+02:00",
+        "last_modified": "2025-11-07T12:53:11+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -111393,7 +111398,8 @@
           "https://gitlab-com.gitlab.io/gl-security/security-tech-notes/threat-intelligence-tech-notes/north-korean-malware-sept-2025/",
           "https://blog.talosintelligence.com/beavertail-and-ottercookie/",
           "https://www.welivesecurity.com/en/eset-research/gotta-fly-lazarus-targets-uav-sector/",
-          "https://www.virustotal.com/gui/file/aefc12b500b58fbc09ebbf34fe64b34cb32a27513478f4769447280ad23af4d2/detection"
+          "https://www.virustotal.com/gui/file/aefc12b500b58fbc09ebbf34fe64b34cb32a27513478f4769447280ad23af4d2/detection",
+          "https://x.com/TuringAlex/status/1986746682084839459"
         ]
       },
       "statistics": {
@@ -111401,9 +111407,9 @@
           "domain": 3332,
           "file_path": 474,
           "ipv4": 406,
-          "url": 96
+          "url": 97
         },
-        "total": 4308
+        "total": 4309
       }
     },
     "LAZYSCRIPTER": {
