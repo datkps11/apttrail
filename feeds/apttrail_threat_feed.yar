@@ -6327,13 +6327,13 @@ rule APT_KIMSUKY
         $ip70 = "158.247.238.155" ascii wide
         $ip71 = "159.100.6.137" ascii wide
         $ip72 = "162.216.114.133" ascii wide
-        $ip73 = "172.93.201.248" ascii wide
+        $ip73 = "162.245.188.225" ascii wide
         $ip74 = "172.93.201.248" ascii wide
-        $ip75 = "183.105.66.48" ascii wide
-        $ip76 = "185.224.137.164" ascii wide
-        $ip77 = "185.235.128.114" ascii wide
-        $ip78 = "192.186.142.74" ascii wide
-        $ip79 = "192.236.154.125" ascii wide
+        $ip75 = "172.93.201.248" ascii wide
+        $ip76 = "183.105.66.48" ascii wide
+        $ip77 = "185.224.137.164" ascii wide
+        $ip78 = "185.235.128.114" ascii wide
+        $ip79 = "192.186.142.74" ascii wide
         $url80 = "/test/v\.php" ascii wide nocase
 
     condition:
