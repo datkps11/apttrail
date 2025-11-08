@@ -124664,6 +124664,8 @@
           "bc.1d06bfb2.scan.update.fia-gov.org",
           "bc.753fa5b2.check.update.fia-gov.org",
           "bcc.gov.bd.pk-mail.org",
+          "bcc.gov.bd.ramdaanvibe.info",
+          "bcc.gov.bd.upworkoffice.online",
           "bccgov-bd-production.up.railway.app",
           "bd-gov.cdn-dl.cn",
           "bd-govt.com",
@@ -124677,6 +124679,8 @@
           "bd.mofa-govbd.com",
           "bd.mofa-govtpk.net",
           "bd.pk-mail.org",
+          "bd.ramdaanvibe.info",
+          "bd.upworkoffice.online",
           "bdgov-mopa.cdn-dl.cn",
           "bdgov.info",
           "bdgovt.com",
@@ -125206,6 +125210,7 @@
           "email-gov-in.digital",
           "email-nepalarmy-mil-np-owa.netlify.app",
           "email-sco-gov-pk.zeabur.app",
+          "email.bcc.gov.bd.ramdaanvibe.info",
           "email.mofa.gov.pk.docum.store",
           "email.moitt.gov.pk.hilsa.online",
           "email.moitt.gov.pk.viewdoc.online",
@@ -125447,6 +125452,8 @@
           "gov.bd.mofa-govbd.com",
           "gov.bd.mofa-govtpk.net",
           "gov.bd.pk-mail.org",
+          "gov.bd.ramdaanvibe.info",
+          "gov.bd.upworkoffice.online",
           "gov.lk.gov-org.net",
           "gov.lk.govt-net.com",
           "gov.lk.govt-org.com",
@@ -125942,6 +125949,7 @@
           "mail.baf.mil.bd.pdf.quickhelpsolve.com",
           "mail.bcc.gov.bd.onlinestatus.live",
           "mail.bcc.gov.bd.pdf.quickhelpsolve.com",
+          "mail.bcc.gov.bd.upworkoffice.online",
           "mail.bdgov.info",
           "mail.bgb.gov.bd.account.modern.sessions.webmailarmy.com",
           "mail.bgb.gov.bd.up2dts.online",
@@ -127095,6 +127103,7 @@
           "r0dps.net",
           "rack.nelcec.info",
           "radio.pkgov.org",
+          "ramdaanvibe.info",
           "rancher.cssc.info",
           "reas.tech",
           "reasoen.org",
@@ -127394,6 +127403,7 @@
           "updtesession.online",
           "uploads.ptcl-gov-pk.workers.dev",
           "upones.site",
+          "upworkoffice.online",
           "user.onesom.biz",
           "utilize.elopter.top",
           "uw9i.pmreco.xyz",
@@ -127686,7 +127696,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2025-11-08T16:12:06+02:00",
+        "last_modified": "2025-11-08T20:39:22+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -128661,12 +128671,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3145,
+          "domain": 3155,
           "file_path": 13,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3234
+        "total": 3244
       }
     },
     "SILENCE": {
