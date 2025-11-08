@@ -124664,6 +124664,7 @@
           "bc.1d06bfb2.scan.update.fia-gov.org",
           "bc.753fa5b2.check.update.fia-gov.org",
           "bcc.gov.bd.pk-mail.org",
+          "bccgov-bd-production.up.railway.app",
           "bd-gov.cdn-dl.cn",
           "bd-govt.com",
           "bd-govt.info",
@@ -127685,7 +127686,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2025-11-08T13:32:14+02:00",
+        "last_modified": "2025-11-08T16:12:06+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -128654,17 +128655,18 @@
           "https://www.virustotal.com/gui/file/93ebcdc6bee559d9c61f484dd521c917517a5114bbfa3ed7d374547a6d0e08e8/detection",
           "https://www.trellix.com/blogs/research/sidewinders-shifting-sands-click-once-for-espionage/",
           "https://x.com/salmanvsf/status/1985549302727590124",
-          "https://www.virustotal.com/gui/file/f69708c769f3d34fc0798257b472cc48770208b6862ea3e6540d12b9f23f9cdf/detection"
+          "https://www.virustotal.com/gui/file/f69708c769f3d34fc0798257b472cc48770208b6862ea3e6540d12b9f23f9cdf/detection",
+          "https://x.com/volrant136/status/1987156569117892733"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3144,
+          "domain": 3145,
           "file_path": 13,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3233
+        "total": 3234
       }
     },
     "SILENCE": {
