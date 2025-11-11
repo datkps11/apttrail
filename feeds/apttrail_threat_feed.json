@@ -127405,6 +127405,7 @@
           "islamabadclub.docuserve.ltd",
           "islamabadpk.site",
           "islamabadpolice.org",
+          "islamic-finder.org",
           "islamic-path.com",
           "islamicfinder.bitlyy.me",
           "it-pakistan-gov-pk.workers.dev",
@@ -128458,6 +128459,7 @@
           "offers-ptclnetpk.serveftp.com",
           "offers-ptclnetpk.servehttp.com",
           "offers-ptclnetpk.serveirc.com",
+          "office-addonsmis.com",
           "office-drive.live",
           "office.dirctt88.co",
           "office.document-viewer.info",
@@ -128992,6 +128994,7 @@
           "smstest.kdf-mail.com",
           "smtp.dytt888.net",
           "snagdrive.com",
+          "snagdrive.org",
           "sngpl.com.pk-mail.org",
           "sngpl.org.pk",
           "snnp.gov.np.namlo.com.np",
@@ -129158,6 +129161,7 @@
           "valac.biz",
           "vateno.info",
           "vehicleverificationsystem.com",
+          "velopen.info",
           "veorey.live",
           "verification.ptcl.govpk.live",
           "verify.mod-defence-lk.workers.dev",
@@ -129322,6 +129326,7 @@
           "zero-berlin-covenant.apl-org.online",
           "zhuhai-a1rsh0w-reg1strat1i0n-2o24.netlify.app",
           "ziptec.info",
+          "zlaeso.xyz",
           "zmail.ptcl.pkgov.org",
           "zolosy.top",
           "zone.vtray.tech",
@@ -129441,7 +129446,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2025-11-08T20:39:22+02:00",
+        "last_modified": "2025-11-11T15:54:53+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -130416,12 +130421,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3155,
+          "domain": 3160,
           "file_path": 13,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3244
+        "total": 3249
       }
     },
     "SILENCE": {
