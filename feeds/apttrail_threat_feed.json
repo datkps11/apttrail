@@ -81830,6 +81830,7 @@
           "dfgqdsd.ru",
           "digitall.webhop.me",
           "dilaverho.ru",
+          "dilopendos.serveirc.com",
           "dim1.suizibel.ru",
           "dim10.hoanzo.ru",
           "dim100.heartbreaking.ru",
@@ -86774,7 +86775,7 @@
         ],
         "apt_group": "GAMAREDON-1",
         "filename": "apt_gamaredon-1.txt",
-        "last_modified": "2025-11-10T12:12:58+02:00",
+        "last_modified": "2025-11-11T14:43:49+02:00",
         "references": [
           "https://www.virustotal.com/gui/ip-address/168.100.10.184/relations",
           "https://www.virustotal.com/gui/ip-address/162.33.178.84/relations",
@@ -88054,12 +88055,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 9949,
+          "domain": 9950,
           "file_path": 339,
           "ipv4": 5,
           "url": 181
         },
-        "total": 10474
+        "total": 10475
       }
     },
     "GAZA": {
