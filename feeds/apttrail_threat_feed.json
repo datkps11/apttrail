@@ -91790,6 +91790,7 @@
           "airstate.click",
           "airwatch.msoffic.homes",
           "aiyac-updaite.hol.es",
+          "ajdtemp.p-e.kr",
           "ajerbairjan.store",
           "ajoyable.store",
           "akaysun.store",
@@ -93672,6 +93673,7 @@
           "dns.userinfo.nts-edoc.o-r.kr",
           "dnss.world",
           "do-can.click",
+          "doanthi.myvnc.com",
           "doc-info.ultimamilla.cl",
           "doc-nps.server-on.net",
           "doc-portal.o-r.kr",
@@ -93766,6 +93768,7 @@
           "doorsym.click",
           "dorey.work",
           "dorray.site",
+          "dorushop.p-e.kr",
           "dosi-info.world",
           "dosi-team.world",
           "dotypelist.kro.kr",
@@ -96319,6 +96322,7 @@
           "l-info.userinfoblg.o-r.kr",
           "l0psmx9cls.online",
           "l2loyal.site",
+          "l2piazoninterlude.servegame.com",
           "labbanki.click",
           "labirol.click",
           "labislandi.click",
@@ -96421,6 +96425,7 @@
           "lealarmexpe.click",
           "leascng.click",
           "leaserent.site",
+          "lebane.duckdns.org",
           "lecture-site.kro.kr",
           "leehana-investment.site",
           "leehr24.mywebcommunity.org",
@@ -97574,6 +97579,7 @@
           "myinfo.nsupport.ml",
           "myinfo.yarhoo.cf",
           "mylogin.p-e.kr",
+          "myoldtibia772.servegame.com",
           "myonlineblog.r-e.kr",
           "myonlinedoc.kro.kr",
           "myprivacy.work",
@@ -102618,6 +102624,7 @@
           "profuso.life",
           "prohomepage.net",
           "projectiqi.click",
+          "projectpgc.ddns.net",
           "projevduwykamc.website",
           "promori.click",
           "proposalo.p-e.kr",
@@ -103470,6 +103477,7 @@
           "shop.ntsposting.homes",
           "shop.sdoc-kr.host",
           "shoping.kro.kr",
+          "shoptemp.p-e.kr",
           "shore.ml",
           "short-line.work",
           "shortacut.tech",
@@ -104090,6 +104098,7 @@
           "t1ma.certuser.info",
           "t22a44es.atwebpages.com",
           "tablemacfood.click",
+          "tableview.p-e.kr",
           "taikodao.org",
           "taikodao.top",
           "taikohub.top",
@@ -104262,6 +104271,7 @@
           "totopppplayy3.shop",
           "totopppplayy5.shop",
           "totopppppick3.shop",
+          "tourview.p-e.kr",
           "toyota.datastore.pe.hu",
           "tp1966.duckdns.org",
           "traceasa.click",
@@ -105017,6 +105027,8 @@
           "volume-chartyoon.site",
           "voosinm.site",
           "vouge90blog.com",
+          "vpn-remote.ddns.net",
+          "vpn-remote.duckdns.org",
           "vpn.atooi.ga",
           "vpn.karist.cf",
           "vpn.kfshop.lol",
@@ -105769,6 +105781,7 @@
           "yahodrive.net-all.website",
           "yahoo-jp.center",
           "yahoo.socketplug.store",
+          "yahooamn.ddnsking.com",
           "yahoolor.ddnsking.com",
           "yandafe.click",
           "yandex.net-all.website",
@@ -105853,6 +105866,7 @@
           "zawerty.ink",
           "zcafqawgdsrhfdrh.cfd",
           "zdnet.ga",
+          "zdspgc.ddns.net",
           "zebracalculator.cloud",
           "zeland.xyz",
           "zelend.top",
@@ -106356,7 +106370,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2025-11-12T14:46:05+02:00",
+        "last_modified": "2025-11-12T14:58:04+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -107786,17 +107800,18 @@
           "https://github.com/Meesvanwickeren/Threat_Intel/blob/main/DPRK_UNC3782_Indicators",
           "https://x.com/smica83/status/1988579542227952086",
           "https://www.virustotal.com/gui/file/812f63098324f9555a7cc08f5e3868d47ef3e14a7b981dd7f86900bb85f49d31/detection",
-          "https://www.virustotal.com/gui/ip-address/158.247.244.237/relations"
+          "https://www.virustotal.com/gui/ip-address/158.247.244.237/relations",
+          "https://www.virustotal.com/gui/ip-address/133.186.229.122/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 14788,
+          "domain": 14802,
           "file_path": 280,
           "ipv4": 68,
           "url": 47
         },
-        "total": 15183
+        "total": 15197
       }
     },
     "KUN3": {
@@ -143484,6 +143499,7 @@
           "acrobatverify.com",
           "adobeactiveupdate.com",
           "adobeactiveupdates.com",
+          "adobeonline.org",
           "adobeseupdater.com",
           "ads.teleryanhart.com",
           "adstelemetry.com",
@@ -144502,6 +144518,7 @@
           "tracking.dgip.gov.pk",
           "trasatlis.sytes.net",
           "tribun.site",
+          "tubitak-gov-tr.adobeonline.org",
           "turkcall.mobi",
           "turkmenairlines.ru",
           "turkmentel-gov.ru",
@@ -144893,7 +144910,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2025-11-10T11:34:32+02:00",
+        "last_modified": "2025-11-12T15:01:40+02:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -145334,17 +145351,19 @@
           "https://www.virustotal.com/gui/file/223b09b6b10c6c3480f98480b0302e5fd78132e23b6470c354e0e23a25aa8082/detection",
           "https://www.virustotal.com/gui/file/6eeaf9fcc4dcfda3d8dde2d6bacddc77aeea6400a1eb01ee007a5cb5a97513b5/detection",
           "https://www.virustotal.com/gui/file/fcf1d041b9a6353e14c5f0c72e1aaf8fbfd37c08679a0a01393572ed2d1ef86b/detection",
-          "https://www.virustotal.com/gui/file/e976537f7fdfc032ea05902a4bf8600ade7c3e1f54d7d417e0a32deeef7ee9dd/detection"
+          "https://www.virustotal.com/gui/file/e976537f7fdfc032ea05902a4bf8600ade7c3e1f54d7d417e0a32deeef7ee9dd/detection",
+          "https://x.com/malwrhunterteam/status/1988590544231293337",
+          "https://www.virustotal.com/gui/file/8bbc0b45edb265a0ba51d6b017e0bc3b883382e29e70db5a52b11d1ccfeb1458/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1203,
+          "domain": 1205,
           "file_path": 77,
           "ipv4": 115,
           "url": 56
         },
-        "total": 1451
+        "total": 1453
       }
     },
     "USH": {
