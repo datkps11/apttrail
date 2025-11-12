@@ -84428,6 +84428,7 @@
           "read97.acaenaso.ru",
           "read97.nubiumbi.ru",
           "read98.acaenaso.ru",
+          "readers.serveirc.com",
           "recreational-bosnia-granny-interventions.trycloudflare.com",
           "redanblue.ru",
           "redim.norasold.ru",
@@ -86780,7 +86781,7 @@
         ],
         "apt_group": "GAMAREDON-1",
         "filename": "apt_gamaredon-1.txt",
-        "last_modified": "2025-11-11T14:49:36+02:00",
+        "last_modified": "2025-11-12T15:59:25+02:00",
         "references": [
           "https://www.virustotal.com/gui/ip-address/168.100.10.184/relations",
           "https://www.virustotal.com/gui/ip-address/162.33.178.84/relations",
@@ -88060,12 +88061,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 9951,
+          "domain": 9952,
           "file_path": 339,
           "ipv4": 5,
           "url": 181
         },
-        "total": 10476
+        "total": 10477
       }
     },
     "GAZA": {
