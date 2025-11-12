@@ -91467,6 +91467,7 @@
           "account-login.kro.kr",
           "account-login.r-e.kr",
           "account-login.security-service.kro.kr",
+          "account-manage.pro",
           "account-mexc.kro.kr",
           "account-naver.com",
           "account-profile.servepics.com",
@@ -94921,6 +94922,7 @@
           "google-submit.kro.kr",
           "google.account-contact.kro.kr",
           "google.account-login.kro.kr",
+          "google.account-manage.pro",
           "google.account-service.kro.kr",
           "google.account-sign.kro.kr",
           "google.account-v3sign.server-on.net",
@@ -96989,6 +96991,7 @@
           "main.winters.r-e.kr",
           "main.zmting.kro.kr",
           "mainboard.p-e.kr",
+          "mainbundle.dns.army",
           "maincontrol.in",
           "mainoutband.store",
           "mairketid.click",
@@ -98267,6 +98270,7 @@
           "naver-drives.com",
           "naver-edoc.com",
           "naver-edoc.kro.kr",
+          "naver-edocs.v6.navy",
           "naver-edocu.com",
           "naver-email.report",
           "naver-eml.com",
@@ -99832,6 +99836,7 @@
           "nid-naverctl.ddnsking.com",
           "nid-naverdqw.servequake.com",
           "nid-naverdsf.servecounterstrike.com",
+          "nid-naverdsm.servecounterstrike.com",
           "nid-naverduq.servegame.com",
           "nid-naverekt.servecounterstrike.com",
           "nid-navereqp.servegame.com",
@@ -99894,6 +99899,7 @@
           "nid-otp.navermails.com",
           "nid-protect-team.pe.hu",
           "nid-security.com",
+          "nid-service.naver-edocs.v6.navy",
           "nid-user.edoc-nts.mydns.bz",
           "nid-user.ips-auth.mydns.vc",
           "nid-user.ips-calleve.mydns.vc",
@@ -102012,6 +102018,7 @@
           "oethtoken.xyz",
           "oextrae.click",
           "office.hiworks.ga",
+          "office.mainbundle.dns.army",
           "office.myclouds.r-e.kr",
           "office.pushitlive.net",
           "office8349.in.net",
@@ -106349,7 +106356,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2025-11-10T18:14:33+02:00",
+        "last_modified": "2025-11-12T14:46:05+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -107776,17 +107783,20 @@
           "https://www.virustotal.com/gui/ip-address/149.248.79.197/relations",
           "https://www.virustotal.com/gui/ip-address/64.176.224.71/relations",
           "https://medium.com/@meeswicky1100/dprk-unc3782-d66329e5c071",
-          "https://github.com/Meesvanwickeren/Threat_Intel/blob/main/DPRK_UNC3782_Indicators"
+          "https://github.com/Meesvanwickeren/Threat_Intel/blob/main/DPRK_UNC3782_Indicators",
+          "https://x.com/smica83/status/1988579542227952086",
+          "https://www.virustotal.com/gui/file/812f63098324f9555a7cc08f5e3868d47ef3e14a7b981dd7f86900bb85f49d31/detection",
+          "https://www.virustotal.com/gui/ip-address/158.247.244.237/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 14781,
+          "domain": 14788,
           "file_path": 280,
           "ipv4": 68,
           "url": 47
         },
-        "total": 15176
+        "total": 15183
       }
     },
     "KUN3": {
