@@ -120341,6 +120341,7 @@
           "adaptation-funds.org",
           "adhath-learning.com",
           "adobefileshare.com",
+          "adobeonline.org",
           "ados.fyicompsol.xyz",
           "adskochbus.org",
           "alfred.ignorelist.com",
@@ -120862,6 +120863,7 @@
           "triptrans.info",
           "truth786.com",
           "tsinghua-edu.org",
+          "tubitak-gov-tr.adobeonline.org",
           "tumblebin.com",
           "tweetychat.com",
           "twigreader.com",
@@ -121139,7 +121141,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2025-11-06T10:45:07+02:00",
+        "last_modified": "2025-11-12T16:57:25+02:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -121534,17 +121536,19 @@
           "https://x.com/suyog41/status/1978396001778999417",
           "https://www.virustotal.com/gui/file/9f5b34ee5a5cd2eebc8923a961de8bc7b67c3048f7b6ebc1287fa8be613b9d83/detection",
           "https://x.com/malwrhunterteam/status/1986334542123159792",
-          "https://www.virustotal.com/gui/file/dc297aded70b0692ad0a24509e7bbec210bc0a1c7a105e99e1a8f76e3861ad34/detection"
+          "https://www.virustotal.com/gui/file/dc297aded70b0692ad0a24509e7bbec210bc0a1c7a105e99e1a8f76e3861ad34/detection",
+          "https://x.com/malwrhunterteam/status/1988590544231293337",
+          "https://www.virustotal.com/gui/file/8bbc0b45edb265a0ba51d6b017e0bc3b883382e29e70db5a52b11d1ccfeb1458/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 607,
+          "domain": 609,
           "file_path": 76,
           "ipv4": 57,
           "url": 42
         },
-        "total": 782
+        "total": 784
       }
     },
     "PEEPINGTITLE": {
@@ -143500,7 +143504,6 @@
           "acrobatverify.com",
           "adobeactiveupdate.com",
           "adobeactiveupdates.com",
-          "adobeonline.org",
           "adobeseupdater.com",
           "ads.teleryanhart.com",
           "adstelemetry.com",
@@ -144519,7 +144522,6 @@
           "tracking.dgip.gov.pk",
           "trasatlis.sytes.net",
           "tribun.site",
-          "tubitak-gov-tr.adobeonline.org",
           "turkcall.mobi",
           "turkmenairlines.ru",
           "turkmentel-gov.ru",
@@ -144911,7 +144913,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2025-11-12T15:01:40+02:00",
+        "last_modified": "2025-11-12T16:57:06+02:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -145352,19 +145354,17 @@
           "https://www.virustotal.com/gui/file/223b09b6b10c6c3480f98480b0302e5fd78132e23b6470c354e0e23a25aa8082/detection",
           "https://www.virustotal.com/gui/file/6eeaf9fcc4dcfda3d8dde2d6bacddc77aeea6400a1eb01ee007a5cb5a97513b5/detection",
           "https://www.virustotal.com/gui/file/fcf1d041b9a6353e14c5f0c72e1aaf8fbfd37c08679a0a01393572ed2d1ef86b/detection",
-          "https://www.virustotal.com/gui/file/e976537f7fdfc032ea05902a4bf8600ade7c3e1f54d7d417e0a32deeef7ee9dd/detection",
-          "https://x.com/malwrhunterteam/status/1988590544231293337",
-          "https://www.virustotal.com/gui/file/8bbc0b45edb265a0ba51d6b017e0bc3b883382e29e70db5a52b11d1ccfeb1458/detection"
+          "https://www.virustotal.com/gui/file/e976537f7fdfc032ea05902a4bf8600ade7c3e1f54d7d417e0a32deeef7ee9dd/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1205,
+          "domain": 1203,
           "file_path": 77,
           "ipv4": 115,
           "url": 56
         },
-        "total": 1453
+        "total": 1451
       }
     },
     "USH": {
