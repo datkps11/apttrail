@@ -128427,6 +128427,7 @@
           "np.pkgov.org",
           "nr3c-govpk.com",
           "nrdi-gov.com",
+          "nrdi-govt.com",
           "nrlpak.pkgov.org",
           "nrots.net",
           "nrtc-supporl2.com",
@@ -129477,7 +129478,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2025-11-11T15:54:53+02:00",
+        "last_modified": "2025-11-12T17:47:18+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -130452,12 +130453,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3160,
+          "domain": 3161,
           "file_path": 13,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3249
+        "total": 3250
       }
     },
     "SILENCE": {
