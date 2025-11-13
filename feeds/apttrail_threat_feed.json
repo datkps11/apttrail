@@ -120675,6 +120675,7 @@
           "msoutllook.ddns.net",
           "muqaddasquran.com",
           "musickeepers.org",
+          "mydropboxbackup.com",
           "myprivatedrives.com",
           "myrocketchat.com",
           "mysugarbin.com",
@@ -121141,7 +121142,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2025-11-12T16:57:25+02:00",
+        "last_modified": "2025-11-13T10:01:56+02:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -121538,17 +121539,20 @@
           "https://x.com/malwrhunterteam/status/1986334542123159792",
           "https://www.virustotal.com/gui/file/dc297aded70b0692ad0a24509e7bbec210bc0a1c7a105e99e1a8f76e3861ad34/detection",
           "https://x.com/malwrhunterteam/status/1988590544231293337",
-          "https://www.virustotal.com/gui/file/8bbc0b45edb265a0ba51d6b017e0bc3b883382e29e70db5a52b11d1ccfeb1458/detection"
+          "https://www.virustotal.com/gui/file/8bbc0b45edb265a0ba51d6b017e0bc3b883382e29e70db5a52b11d1ccfeb1458/detection",
+          "https://x.com/RedDrip7/status/1988809385234297203",
+          "https://www.virustotal.com/gui/file/dbe909b6c6c03b4000d96de1f4b1bdd10eef8ef34876a648a00cd5ee7117bd31/detection",
+          "https://www.virustotal.com/gui/file/3a4f47c60edf1e00adb3ca60a7643062657fe2c6dd85ace9dfd8fdec47078d4e/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 609,
+          "domain": 610,
           "file_path": 76,
           "ipv4": 57,
           "url": 42
         },
-        "total": 784
+        "total": 785
       }
     },
     "PEEPINGTITLE": {
