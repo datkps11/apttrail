@@ -109981,6 +109981,7 @@
           "mzweb3.bu-zoom.us",
           "mzweb3.er-zoom.us",
           "mzweb3.jp-zoom.com",
+          "n34kr3z26f3jzp4ckmwuv5ipqyatumdxhgjgsmucc65jac56khdy5zqd.onion",
           "nadlan-dubai.com",
           "name.ownemail.me",
           "nansenpro.org",
@@ -112309,6 +112310,7 @@
           "http://144.76.201.229",
           "http://145.232.235.222",
           "http://146.4.21.94",
+          "http://146.70.253.10",
           "http://15.235.33.14",
           "http://151.106.2.139",
           "http://152.89.247.236",
@@ -112339,6 +112341,8 @@
           "http://213.180.180.154",
           "http://216.107.137.53",
           "http://23.127.202.249",
+          "http://23.227.202.242",
+          "http://23.254.164.156",
           "http://23.254.164.232",
           "http://23.254.204.184",
           "http://23.27.177.183",
@@ -112356,6 +112360,7 @@
           "http://45.57.245.17",
           "http://45.61.136.204",
           "http://45.61.148.153",
+          "http://45.76.160.53",
           "http://45.8.146.93",
           "http://45.84.226.239",
           "http://45.89.53.54",
@@ -112458,7 +112463,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2025-11-11T17:08:17+02:00",
+        "last_modified": "2025-11-13T16:00:06+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -113567,17 +113572,19 @@
           "https://blog.talosintelligence.com/beavertail-and-ottercookie/",
           "https://www.welivesecurity.com/en/eset-research/gotta-fly-lazarus-targets-uav-sector/",
           "https://www.virustotal.com/gui/file/aefc12b500b58fbc09ebbf34fe64b34cb32a27513478f4769447280ad23af4d2/detection",
-          "https://x.com/TuringAlex/status/1986746682084839459"
+          "https://x.com/TuringAlex/status/1986746682084839459",
+          "https://x.com/lazarusholic/status/1988962619659886724",
+          "https://blog.nviso.eu/2025/11/13/contagious-interview-actors-now-utilize-json-storage-services-for-malware-delivery/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3333,
+          "domain": 3334,
           "file_path": 474,
           "ipv4": 407,
-          "url": 97
+          "url": 101
         },
-        "total": 4311
+        "total": 4316
       }
     },
     "LAZYSCRIPTER": {
@@ -134998,6 +135005,7 @@
           "armypostalservice.com",
           "arvnd.duckdns.org",
           "aryanprint.site",
+          "aryterrimerikeri.space",
           "as4care.help",
           "as4care.live",
           "asatvm.duckdns.org",
@@ -135905,6 +135913,7 @@
           "dybn.cn",
           "e-prints.xyz",
           "e0ffice.in",
+          "echs.online",
           "edistrictservice.shop",
           "educationportals.biz",
           "educationportals.in",
@@ -139031,7 +139040,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2025-11-04T17:50:22+02:00",
+        "last_modified": "2025-11-13T15:51:35+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -140047,17 +140056,19 @@
           "https://www.virustotal.com/gui/file/8d39c29ce28f81eb9b3bdadc92b2679d843d73f857fc9818f2d32e27355ce165/detection",
           "https://www.virustotal.com/gui/file/6b83f4fc2e8bf8d913ed90344ee0b8408ed19e31993ce77d34e216d527365667/detection",
           "https://www.virustotal.com/gui/file/34e9bd70599532a3a54ec4441c5ac95dcbe2f97411b27cf7d4de2e2b70b70e94/detection",
-          "https://x.com/kaushikkpal/status/1985690995560960079"
+          "https://x.com/kaushikkpal/status/1985690995560960079",
+          "https://x.com/PrakkiSathwik/status/1988966650293747851",
+          "https://www.virustotal.com/gui/file/6898fa164271170bed069152016e8914964c2a378f8c01a9b9276c429e64dc42/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3211,
+          "domain": 3213,
           "file_path": 40,
           "ipv4": 762,
           "url": 121
         },
-        "total": 4134
+        "total": 4136
       }
     },
     "TRIANGULATION": {
