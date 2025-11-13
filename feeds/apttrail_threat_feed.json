@@ -127443,6 +127443,7 @@
           "invitation.bahariafoundation.live",
           "iportal-ntdcgovpk.myvnc.com",
           "ipv6.seoshz.live",
+          "iseonea.live",
           "ishd.directt88.org",
           "islamabadclub.docuserve.ltd",
           "islamabadpk.site",
@@ -129490,7 +129491,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2025-11-12T23:01:25+02:00",
+        "last_modified": "2025-11-13T17:47:36+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -130466,12 +130467,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3162,
+          "domain": 3163,
           "file_path": 13,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3251
+        "total": 3252
       }
     },
     "SILENCE": {
