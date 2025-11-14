@@ -11679,6 +11679,7 @@
           "shor-fg.live",
           "shor-trv.live",
           "shoring-live.live",
+          "short-abbreviate.info",
           "short-ion-per.live",
           "short-jg934hw.live",
           "short-join-live.online",
@@ -11764,6 +11765,7 @@
           "summit-files.com",
           "superlite.online",
           "superset.sandbox.live-meet.blog",
+          "supervisor-protector.online",
           "support-aasaam.bid",
           "support-aasaam.com",
           "support-account.xyz",
@@ -12285,7 +12287,7 @@
         ],
         "apt_group": "CHARMINGKITTEN",
         "filename": "apt_charmingkitten.txt",
-        "last_modified": "2025-11-07T23:34:11+02:00",
+        "last_modified": "2025-11-14T22:38:58+02:00",
         "references": [
           "https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc (2018-06-12 Charming Kitten waterhole)",
           "https://www.clearskysec.com/charmingkitten/",
@@ -12501,12 +12503,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 2046,
+          "domain": 2048,
           "file_path": 4,
           "ipv4": 104,
           "url": 24
         },
-        "total": 2178
+        "total": 2180
       }
     },
     "CLEAVER": {
