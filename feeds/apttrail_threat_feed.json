@@ -82201,6 +82201,7 @@
           "earsplitting.ru",
           "echappes.ru",
           "eddie-lewis-exercises-conventions.trycloudflare.com",
+          "edmmzqo.ic0n1cvalley.com",
           "efficiency-ww-hospitality-jesus.trycloudflare.com",
           "efficiently-noble-pubs-armed.trycloudflare.com",
           "egebox.igelekle.ru",
@@ -83127,6 +83128,7 @@
           "iafren.ru",
           "ibadbi.ru",
           "ibragimbi.ru",
+          "ic0n1cvalley.com",
           "ideolot.ru",
           "idogbpa.ru",
           "idrakbi.ru",
@@ -85374,6 +85376,7 @@
           "test.basamdi.ru",
           "testadmin.gapolsa.ru",
           "textinputlayoutsample.aytashpo.ru",
+          "tfngkbg.ic0n1cvalley.com",
           "thatsok.ru",
           "then1.drakhalos.ru",
           "then21.balduron.ru",
@@ -85650,6 +85653,7 @@
           "ukrainefacility.store",
           "ulisar.ru",
           "umbrose.soputh.ru",
+          "umpgynjm.ic0n1cvalley.com",
           "unapparent.bismutumo.ru",
           "unchaining.ru",
           "uncle-drives-accommodate-packaging.trycloudflare.com",
@@ -85837,10 +85841,12 @@
           "warrantiesford.ddns.net",
           "wasic.ru",
           "wastlano.ru",
+          "waxdsgiy.ic0n1cvalley.com",
           "weeklyoptional.ddns.net",
           "wefxzaq.ru",
           "wer.rnexo.shop",
           "weratas.ru",
+          "wfhmfpt.ic0n1cvalley.com",
           "while1.atonpi.ru",
           "while10.atonpi.ru",
           "while100.atonpi.ru",
@@ -86781,7 +86787,7 @@
         ],
         "apt_group": "GAMAREDON-1",
         "filename": "apt_gamaredon-1.txt",
-        "last_modified": "2025-11-12T15:59:25+02:00",
+        "last_modified": "2025-11-14T10:46:10+02:00",
         "references": [
           "https://www.virustotal.com/gui/ip-address/168.100.10.184/relations",
           "https://www.virustotal.com/gui/ip-address/162.33.178.84/relations",
@@ -88056,17 +88062,20 @@
           "https://www.virustotal.com/gui/file/27bd90199e426719d1c3ef214215a17fae23f257d8bcb7a806e394e8666158f0/detection",
           "https://x.com/smica83/status/1987823831394730264",
           "https://tria.ge/251110-l15dwswmcy",
-          "https://www.virustotal.com/gui/ip-address/194.87.240.215/relations"
+          "https://www.virustotal.com/gui/ip-address/194.87.240.215/relations",
+          "https://x.com/smica83/status/1989236892467098030",
+          "https://www.virustotal.com/gui/file/1f932c25c2ab37ea44652ee303d3b3ec2340fd60a2947b896797ef575fe957bf/detection",
+          "https://www.virustotal.com/gui/file/412b02dea9d7b88a929e922992253653b22e5da3b7b2a596cd0471c698651680/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 9952,
+          "domain": 9958,
           "file_path": 339,
           "ipv4": 5,
           "url": 181
         },
-        "total": 10477
+        "total": 10483
       }
     },
     "GAZA": {
