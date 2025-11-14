@@ -93849,6 +93849,7 @@
           "dropbox-file.o-r.kr",
           "dropcoins.top",
           "dropdao.top",
+          "dropfiles2img.com",
           "droplabs.xyz",
           "dropnft.xyz",
           "dropnfts.xyz",
@@ -106328,6 +106329,7 @@
           "http://165.154.230.24",
           "http://166.88.11.10",
           "http://172.93.193.158",
+          "http://174.138.184.236",
           "http://183.105.107.132",
           "http://185.18.222.117",
           "http://185.235.128.114",
@@ -106380,7 +106382,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2025-11-12T14:58:04+02:00",
+        "last_modified": "2025-11-14T17:10:04+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -107811,17 +107813,20 @@
           "https://x.com/smica83/status/1988579542227952086",
           "https://www.virustotal.com/gui/file/812f63098324f9555a7cc08f5e3868d47ef3e14a7b981dd7f86900bb85f49d31/detection",
           "https://www.virustotal.com/gui/ip-address/158.247.244.237/relations",
-          "https://www.virustotal.com/gui/ip-address/133.186.229.122/relations"
+          "https://www.virustotal.com/gui/ip-address/133.186.229.122/relations",
+          "https://x.com/byrne_emmy12099/status/1989273058931351899",
+          "https://www.virustotal.com/gui/ip-address/174.138.184.236/relations",
+          "https://www.virustotal.com/gui/file/d96a88f0378d8234490f56057441ac98287d3da398bec01feb7a7809ff43ed46/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 14802,
+          "domain": 14803,
           "file_path": 280,
           "ipv4": 68,
-          "url": 47
+          "url": 48
         },
-        "total": 15197
+        "total": 15199
       }
     },
     "KUN3": {
