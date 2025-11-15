@@ -117252,6 +117252,7 @@
           "149.202.242.84:443",
           "149.202.242.85:22",
           "149.202.242.86:22",
+          "157.20.182.75:1269",
           "164.132.237.64:22",
           "164.132.237.65:22",
           "164.132.237.66:22",
@@ -117289,6 +117290,8 @@
           "51.255.19.178:443",
           "51.255.19.179:443",
           "51.255.19.183:22",
+          "64.7.198.12:1259",
+          "64.7.198.12:8080",
           "78.129.139.134:8080",
           "78.129.139.134:8864",
           "78.129.222.56:8090 # LisfonService RAT",
@@ -117432,7 +117435,7 @@
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2025-08-23T11:59:41+03:00",
+        "last_modified": "2025-11-15T19:46:47+02:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
@@ -117641,17 +117644,19 @@
           "https://www.lookout.com/threat-intelligence/article/lookout-discovers-iranian-dchsy-surveillanceware",
           "https://www.virustotal.com/gui/file/aa656a243d2008327e06fd5bbad919eea99aa271132dbaeabb146e22effbfd1b/detection",
           "https://www.virustotal.com/gui/file/524ae76c16a38476e9a4d1721d2f0144ee1c93e6d01261af958a0043488b68d4/detection",
-          "https://hunt.io/blog/apt-muddywater-deploys-multi-stage-phishing-to-target-cfos"
+          "https://hunt.io/blog/apt-muddywater-deploys-multi-stage-phishing-to-target-cfos",
+          "https://x.com/blackorbird/status/1989745708174643682",
+          "https://mp.weixin.qq.com/s/BHyqfnMMMAvDDX_LZVubyA"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 160,
           "file_path": 187,
-          "ipv4": 83,
+          "ipv4": 86,
           "url": 109
         },
-        "total": 539
+        "total": 542
       }
     },
     "MURENSHARK": {
