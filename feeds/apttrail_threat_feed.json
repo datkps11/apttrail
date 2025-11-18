@@ -138286,6 +138286,11 @@
           "154.216.18.90:67",
           "154.216.18.90:909",
           "154.38.175.83:3232",
+          "155.117.42.144:11636",
+          "155.117.42.144:14523",
+          "155.117.42.144:16167",
+          "155.117.42.144:26762",
+          "155.117.42.144:28867",
           "155.94.209.4:33678",
           "155.94.209.4:8888",
           "155.94.209.4:9009",
@@ -138896,6 +138901,11 @@
           "92.12.144.246:5321",
           "92.84.154.5:6443",
           "92.84.154.5:8443",
+          "93.127.128.118:15248",
+          "93.127.128.118:17898",
+          "93.127.128.118:19869",
+          "93.127.128.118:23241",
+          "93.127.128.118:29421",
           "93.127.133.58:1097",
           "93.127.133.58:17241",
           "93.127.133.58:19821",
@@ -139085,7 +139095,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2025-11-13T15:51:35+02:00",
+        "last_modified": "2025-11-18T13:25:49+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -140103,17 +140113,19 @@
           "https://www.virustotal.com/gui/file/34e9bd70599532a3a54ec4441c5ac95dcbe2f97411b27cf7d4de2e2b70b70e94/detection",
           "https://x.com/kaushikkpal/status/1985690995560960079",
           "https://x.com/PrakkiSathwik/status/1988966650293747851",
-          "https://www.virustotal.com/gui/file/6898fa164271170bed069152016e8914964c2a378f8c01a9b9276c429e64dc42/detection"
+          "https://www.virustotal.com/gui/file/6898fa164271170bed069152016e8914964c2a378f8c01a9b9276c429e64dc42/detection",
+          "https://x.com/PrakkiSathwik/status/1990738847844470844",
+          "https://www.virustotal.com/gui/file/7b55d5ed121f6891272f412cf047dd5939a65d5820e2af37940f99c01a07e27a/detection"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 3213,
           "file_path": 40,
-          "ipv4": 762,
+          "ipv4": 772,
           "url": 121
         },
-        "total": 4136
+        "total": 4146
       }
     },
     "TRIANGULATION": {
