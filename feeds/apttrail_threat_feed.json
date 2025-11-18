@@ -116961,6 +116961,7 @@
           "microword.itemdb.com",
           "mirosoftcloud.ddns.net",
           "moffice.mrface.com",
+          "moodleuni.com",
           "muhacirder.com",
           "muonline.dns04.com",
           "muteciyar.info",
@@ -117005,6 +117006,7 @@
           "softnewdomain.com",
           "softwaree-cloud.com",
           "softwarehosts.com",
+          "sso.moodleuni.com",
           "suppcloudtech.com",
           "supportstaff.in",
           "supptechcloud.com",
@@ -117431,11 +117433,12 @@
           "Toneshell",
           "lightphoenix",
           "unc3313",
-          "unc5667"
+          "unc5667",
+          "kalim"
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2025-11-15T19:46:47+02:00",
+        "last_modified": "2025-11-18T16:41:14+02:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
@@ -117646,17 +117649,20 @@
           "https://www.virustotal.com/gui/file/524ae76c16a38476e9a4d1721d2f0144ee1c93e6d01261af958a0043488b68d4/detection",
           "https://hunt.io/blog/apt-muddywater-deploys-multi-stage-phishing-to-target-cfos",
           "https://x.com/blackorbird/status/1989745708174643682",
-          "https://mp.weixin.qq.com/s/BHyqfnMMMAvDDX_LZVubyA"
+          "https://mp.weixin.qq.com/s/BHyqfnMMMAvDDX_LZVubyA",
+          "https://x.com/MalGamy12/status/1990764630625698158",
+          "https://www.virustotal.com/gui/file/0c8071494bc155c96f2cee998200f63efffcb5a064c021de0925504271806229/detection",
+          "https://www.virustotal.com/gui/file/2fb21fa13c308228ae89c000cc1f9aa488cb010478ba8d15de372a0fbf37f1fb/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 160,
+          "domain": 162,
           "file_path": 187,
           "ipv4": 86,
           "url": 109
         },
-        "total": 542
+        "total": 544
       }
     },
     "MURENSHARK": {
