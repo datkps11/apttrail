@@ -111734,6 +111734,7 @@
           "mge.sn/themes/classic/modules/ps_rssfeed/feedmd.zip",
           "mileage.krb.co.kr/common/db_conf.asp",
           "mk.bital.com.br/sac/Formule/Manager.jsp",
+          "mnmathleague.com/ckeditor/adapters/index.php",
           "mnmathleague.org/ckeditor/adapters/index.php",
           "mokawafm.com/wp-content/plugins/ckeditor-for-wordpress/ckeditor/plugins/image/dialog.php",
           "moonge.cc/wp-content/plugins/google-sitemap-generator/sitemap-builder-embed.php",
@@ -112481,11 +112482,12 @@
           "beavertail",
           "invisibleferret",
           "tropidoor",
-          "wagemole"
+          "wagemole",
+          "scoringmathtea"
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2025-11-15T11:18:55+02:00",
+        "last_modified": "2025-11-19T13:53:11+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -113596,17 +113598,19 @@
           "https://www.virustotal.com/gui/file/aefc12b500b58fbc09ebbf34fe64b34cb32a27513478f4769447280ad23af4d2/detection",
           "https://x.com/TuringAlex/status/1986746682084839459",
           "https://x.com/lazarusholic/status/1988962619659886724",
-          "https://blog.nviso.eu/2025/11/13/contagious-interview-actors-now-utilize-json-storage-services-for-malware-delivery/"
+          "https://blog.nviso.eu/2025/11/13/contagious-interview-actors-now-utilize-json-storage-services-for-malware-delivery/",
+          "https://x.com/lazarusholic/status/1990925548269568447",
+          "https://0x0d4y.blog/arsenal-analysis-of-a-nation-state-actor-an-in-depth-look-at-lazarus-scoringmathtea/"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 3334,
-          "file_path": 474,
+          "file_path": 475,
           "ipv4": 413,
           "url": 101
         },
-        "total": 4322
+        "total": 4323
       }
     },
     "LAZYSCRIPTER": {
@@ -137386,6 +137390,7 @@
           "lewcare.help",
           "linkcare.help",
           "linkuclmp.xyz",
+          "lionsdenim.xyz",
           "livcare.help",
           "livepc.info",
           "livepcx.help",
@@ -138579,6 +138584,7 @@
           "185.235.137.195:3309",
           "185.235.137.195:3311",
           "185.235.137.237:24156",
+          "185.235.137.90:32587",
           "185.244.30.102:4590",
           "185.244.30.102:4950",
           "191.101.172.44:11422",
@@ -139101,7 +139107,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2025-11-18T13:25:49+02:00",
+        "last_modified": "2025-11-19T13:58:39+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -140121,17 +140127,21 @@
           "https://x.com/PrakkiSathwik/status/1988966650293747851",
           "https://www.virustotal.com/gui/file/6898fa164271170bed069152016e8914964c2a378f8c01a9b9276c429e64dc42/detection",
           "https://x.com/PrakkiSathwik/status/1990738847844470844",
-          "https://www.virustotal.com/gui/file/7b55d5ed121f6891272f412cf047dd5939a65d5820e2af37940f99c01a07e27a/detection"
+          "https://www.virustotal.com/gui/file/7b55d5ed121f6891272f412cf047dd5939a65d5820e2af37940f99c01a07e27a/detection",
+          "https://x.com/PrakkiSathwik/status/1991112929375338841",
+          "https://www.virustotal.com/gui/file/40a59422fa486c7ae214d6e816c2fd00bf4d75c081993a49c4bc22bb0165b7fe/detection",
+          "https://www.virustotal.com/gui/file/5ff9777aac434cae5995bf26979b892197e3f0e521c73f127c2e2628e84ef509/detection",
+          "https://www.virustotal.com/gui/file/04ef2bd123c6b73e9ba71c0219bf4e4502de2258a380649033fa749eca26c023/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3213,
+          "domain": 3214,
           "file_path": 40,
-          "ipv4": 772,
+          "ipv4": 773,
           "url": 121
         },
-        "total": 4146
+        "total": 4148
       }
     },
     "TRIANGULATION": {
