@@ -117258,6 +117258,7 @@
           "149.202.242.84:443",
           "149.202.242.85:22",
           "149.202.242.86:22",
+          "154.90.32.88:8043",
           "157.20.182.75:1269",
           "164.132.237.64:22",
           "164.132.237.65:22",
@@ -117301,6 +117302,8 @@
           "78.129.139.134:8080",
           "78.129.139.134:8864",
           "78.129.222.56:8090 # LisfonService RAT",
+          "8.217.47.190:8848",
+          "8.217.56.157:6379",
           "85.239.61.97:443",
           "88.99.17.148:443",
           "91.121.240.104:443",
@@ -117442,7 +117445,7 @@
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2025-11-18T16:41:14+02:00",
+        "last_modified": "2025-11-20T21:17:27+02:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
@@ -117656,17 +117659,22 @@
           "https://mp.weixin.qq.com/s/BHyqfnMMMAvDDX_LZVubyA",
           "https://x.com/MalGamy12/status/1990764630625698158",
           "https://www.virustotal.com/gui/file/0c8071494bc155c96f2cee998200f63efffcb5a064c021de0925504271806229/detection",
-          "https://www.virustotal.com/gui/file/2fb21fa13c308228ae89c000cc1f9aa488cb010478ba8d15de372a0fbf37f1fb/detection"
+          "https://www.virustotal.com/gui/file/2fb21fa13c308228ae89c000cc1f9aa488cb010478ba8d15de372a0fbf37f1fb/detection",
+          "https://x.com/ThreatrayLabs/status/1991461534694826093",
+          "https://www.virustotal.com/gui/file/5c0fc49ed99e75886fe61c3fc41c587900775230ac518e059dbf779660dfaec6/detection",
+          "https://www.virustotal.com/gui/file/aac8e8b1b20c9b6199dac77d88fb4d696cb1f01f2000238dd9d367d9c6dbf936/detection",
+          "https://www.virustotal.com/gui/file/ef0d64f099058e8656da1ff85203e74eedbf3f5aca6442c6025e06b96e567077/detection",
+          "https://www.virustotal.com/gui/file/3c1eefad5b96e8f9e8ecaab6c054ca2bc7a7929b03f814f94ba4beab2703aa07/detection"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 162,
           "file_path": 187,
-          "ipv4": 86,
+          "ipv4": 89,
           "url": 109
         },
-        "total": 544
+        "total": 547
       }
     },
     "MURENSHARK": {
@@ -120554,6 +120562,7 @@
           "fierybarrels.com",
           "file-downloader.ga",
           "file-star.buzz",
+          "fileonlinetransfer.center",
           "fileshares.online",
           "fimong.breatlee.org",
           "firebasebackups.com",
@@ -121186,7 +121195,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2025-11-13T10:01:56+02:00",
+        "last_modified": "2025-11-20T20:49:28+02:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -121586,17 +121595,20 @@
           "https://www.virustotal.com/gui/file/8bbc0b45edb265a0ba51d6b017e0bc3b883382e29e70db5a52b11d1ccfeb1458/detection",
           "https://x.com/RedDrip7/status/1988809385234297203",
           "https://www.virustotal.com/gui/file/dbe909b6c6c03b4000d96de1f4b1bdd10eef8ef34876a648a00cd5ee7117bd31/detection",
-          "https://www.virustotal.com/gui/file/3a4f47c60edf1e00adb3ca60a7643062657fe2c6dd85ace9dfd8fdec47078d4e/detection"
+          "https://www.virustotal.com/gui/file/3a4f47c60edf1e00adb3ca60a7643062657fe2c6dd85ace9dfd8fdec47078d4e/detection",
+          "https://x.com/__0XYC__/status/1991382897543245882",
+          "https://x.com/volrant136/status/1991427420831010894",
+          "https://www.virustotal.com/gui/file/6d31baf9a4c5e973c500b4fd9824c0a9e64ac65749aa33ce485eeed60a1d9289/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 610,
+          "domain": 611,
           "file_path": 76,
           "ipv4": 57,
           "url": 42
         },
-        "total": 785
+        "total": 786
       }
     },
     "PEEPINGTITLE": {
@@ -137862,6 +137874,7 @@
           "shareboxs.net",
           "shareflix.co",
           "sharemaxme24.net",
+          "sharemaxme66.net",
           "sharemydrives.com",
           "shareone.live",
           "sharingmymedia.com",
@@ -138848,6 +138861,11 @@
           "69.197.178.193:23867",
           "69.197.178.193:26261",
           "69.197.178.193:29426",
+          "69.30.204.65:22224",
+          "69.30.204.65:25866",
+          "69.30.204.65:31824",
+          "69.30.204.65:6827",
+          "69.30.204.65:8927",
           "70.34.223.234:8001",
           "72.11.156.132:5863",
           "75.119.133.15:10101",
@@ -139116,7 +139134,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2025-11-20T19:31:44+02:00",
+        "last_modified": "2025-11-20T21:12:02+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -140149,17 +140167,19 @@
           "https://www.virustotal.com/gui/file/580d6401775cd9dbd029893a97d0523315b7ccf70feaa9383bd1a67bf2016ab6/detection",
           "https://www.virustotal.com/gui/file/597aa58166a9db1cd10d3f53be1c8f375b9069fd356de66095d6d27088464aba/detection",
           "https://x.com/PrakkiSathwik/status/1991559485903802392",
-          "https://www.virustotal.com/gui/file/2932cb92262eb399be9fc56a3e875fbfaab6fee9277e40cead3bda1716d1c210/detection"
+          "https://www.virustotal.com/gui/file/2932cb92262eb399be9fc56a3e875fbfaab6fee9277e40cead3bda1716d1c210/detection",
+          "https://x.com/RedDrip7/status/1991331260200108412",
+          "https://www.virustotal.com/gui/file/8accc5fb18780747bccbd0f042f686c5191e2f782ee32b97cfa0786f04ab2283/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3223,
+          "domain": 3224,
           "file_path": 40,
-          "ipv4": 773,
+          "ipv4": 778,
           "url": 121
         },
-        "total": 4157
+        "total": 4163
       }
     },
     "TRIANGULATION": {
