@@ -137489,6 +137489,7 @@
           "mgovcloud.in.indiagov.support",
           "mgovcloud.in.storagecloud.download",
           "mgovcloud.in.virtualeoffice.cloud",
+          "microsoft.windowsdns.com",
           "micrsoft.ddns.net",
           "migration.jkpolice.gov.in.mgovcloud.de",
           "millitarytocorp.com",
@@ -137727,6 +137728,7 @@
           "qheelsec.duckdns.org",
           "qhev18.duckdns.org",
           "qsupport.online",
+          "query.windowsdns.com",
           "r6xyvcqm04wp1i4p.myfritz.net",
           "raf74.duckdns.org",
           "rbhhelp.live",
@@ -137948,6 +137950,7 @@
           "swissaccount.ddns.net",
           "sycare.help",
           "sync.amsisupport.com",
+          "sync.windowsdns.com",
           "syntheticschoolsystem.com",
           "syscare.help",
           "systemsupdated.duckdns.org",
@@ -138110,6 +138113,7 @@
           "whyareyouseeing.shop",
           "widgetservicecenter.com",
           "wiev.xyz",
+          "windowsdns.com",
           "windowupdatecache.in",
           "winp247.cloud",
           "winupdatess.no-ip.biz",
@@ -139107,7 +139111,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2025-11-19T13:58:39+02:00",
+        "last_modified": "2025-11-20T14:23:12+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -140131,17 +140135,20 @@
           "https://x.com/PrakkiSathwik/status/1991112929375338841",
           "https://www.virustotal.com/gui/file/40a59422fa486c7ae214d6e816c2fd00bf4d75c081993a49c4bc22bb0165b7fe/detection",
           "https://www.virustotal.com/gui/file/5ff9777aac434cae5995bf26979b892197e3f0e521c73f127c2e2628e84ef509/detection",
-          "https://www.virustotal.com/gui/file/04ef2bd123c6b73e9ba71c0219bf4e4502de2258a380649033fa749eca26c023/detection"
+          "https://www.virustotal.com/gui/file/04ef2bd123c6b73e9ba71c0219bf4e4502de2258a380649033fa749eca26c023/detection",
+          "https://x.com/PrakkiSathwik/status/1991453042454196244",
+          "https://www.virustotal.com/gui/file/01e30dcf71af4e5c8e2210c0656e3e53934aed9f58916be6bb0b067cca0161e8/detection",
+          "https://www.virustotal.com/gui/file/f52fc437aad277a4f338a74819e43a93deecf58c82467bf875b24a6c6ca7bbf6/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3214,
+          "domain": 3218,
           "file_path": 40,
           "ipv4": 773,
           "url": 121
         },
-        "total": 4148
+        "total": 4152
       }
     },
     "TRIANGULATION": {
