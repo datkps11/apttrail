@@ -134996,6 +134996,7 @@
           "advanceservice.in",
           "advanceservice.in.103-160-106-28.cpanel.site",
           "advising-receipts.com",
+          "aeroclubofindia.co.in",
           "afgcloud7.com",
           "afghannewsnetwork.com",
           "aiabcd.xyz",
@@ -135935,6 +135936,7 @@
           "dkprintportal.xyz.crsorgidc.co.in",
           "dmsupport.live",
           "dns.educationportals.biz",
+          "dns.wmiprovider.com",
           "dns1.indianblog.xyz",
           "dobview.in",
           "dobviwe.in",
@@ -137956,6 +137958,7 @@
           "systemsupdated.duckdns.org",
           "t775.top",
           "tasnimnewstehran.club",
+          "teamindia.quest",
           "techdc.shop",
           "techhost.in",
           "teelpath.shop",
@@ -137990,6 +137993,7 @@
           "umcare.help",
           "up.onlinenic.in.net",
           "up.samajkalyan.onlinenic.in.net",
+          "update.wmiprovider.com",
           "updatedportal.com",
           "updater-cloud.us",
           "updates.biossysinternal.com",
@@ -138117,6 +138121,7 @@
           "windowupdatecache.in",
           "winp247.cloud",
           "winupdatess.no-ip.biz",
+          "wmiprovider.com",
           "worksirf.xyz",
           "wsdcare.help",
           "wservice.help",
@@ -139111,7 +139116,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2025-11-20T14:23:12+02:00",
+        "last_modified": "2025-11-20T19:31:44+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -140138,17 +140143,23 @@
           "https://www.virustotal.com/gui/file/04ef2bd123c6b73e9ba71c0219bf4e4502de2258a380649033fa749eca26c023/detection",
           "https://x.com/PrakkiSathwik/status/1991453042454196244",
           "https://www.virustotal.com/gui/file/01e30dcf71af4e5c8e2210c0656e3e53934aed9f58916be6bb0b067cca0161e8/detection",
-          "https://www.virustotal.com/gui/file/f52fc437aad277a4f338a74819e43a93deecf58c82467bf875b24a6c6ca7bbf6/detection"
+          "https://www.virustotal.com/gui/file/f52fc437aad277a4f338a74819e43a93deecf58c82467bf875b24a6c6ca7bbf6/detection",
+          "https://x.com/PrakkiSathwik/status/1991504149419287009",
+          "https://www.virustotal.com/gui/file/bbcbce9a08d971a4bbcd9a0af3576f1e0aa0dad1b3cf281c139b7a8dd8147605/detection",
+          "https://www.virustotal.com/gui/file/580d6401775cd9dbd029893a97d0523315b7ccf70feaa9383bd1a67bf2016ab6/detection",
+          "https://www.virustotal.com/gui/file/597aa58166a9db1cd10d3f53be1c8f375b9069fd356de66095d6d27088464aba/detection",
+          "https://x.com/PrakkiSathwik/status/1991559485903802392",
+          "https://www.virustotal.com/gui/file/2932cb92262eb399be9fc56a3e875fbfaab6fee9277e40cead3bda1716d1c210/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3218,
+          "domain": 3223,
           "file_path": 40,
           "ipv4": 773,
           "url": 121
         },
-        "total": 4152
+        "total": 4157
       }
     },
     "TRIANGULATION": {
