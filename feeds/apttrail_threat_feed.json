@@ -144034,6 +144034,7 @@
           "ghtc.mobi",
           "glavpost.site",
           "glendyling.ddns.net",
+          "global-reia.com",
           "globalinfosta.com",
           "gmail-warning.top",
           "gmail.skypetm.com.tw",
@@ -145110,7 +145111,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2025-11-12T16:57:06+02:00",
+        "last_modified": "2025-11-21T23:30:01+02:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -145551,17 +145552,19 @@
           "https://www.virustotal.com/gui/file/223b09b6b10c6c3480f98480b0302e5fd78132e23b6470c354e0e23a25aa8082/detection",
           "https://www.virustotal.com/gui/file/6eeaf9fcc4dcfda3d8dde2d6bacddc77aeea6400a1eb01ee007a5cb5a97513b5/detection",
           "https://www.virustotal.com/gui/file/fcf1d041b9a6353e14c5f0c72e1aaf8fbfd37c08679a0a01393572ed2d1ef86b/detection",
-          "https://www.virustotal.com/gui/file/e976537f7fdfc032ea05902a4bf8600ade7c3e1f54d7d417e0a32deeef7ee9dd/detection"
+          "https://www.virustotal.com/gui/file/e976537f7fdfc032ea05902a4bf8600ade7c3e1f54d7d417e0a32deeef7ee9dd/detection",
+          "https://x.com/malwrhunterteam/status/1991875797762842913",
+          "https://www.virustotal.com/gui/file/818dbb421dcb451e41e266be43cfe238dd88c5ac6ce34622f85a9e67551c7583/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1203,
+          "domain": 1204,
           "file_path": 77,
           "ipv4": 115,
           "url": 56
         },
-        "total": 1451
+        "total": 1452
       }
     },
     "USH": {
