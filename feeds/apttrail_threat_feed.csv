@@ -96458,6 +96458,7 @@ LAZARUS,domain,api.willoassessment.com
 LAZARUS,domain,api.yourdomainhost.store
 LAZARUS,domain,api.zoom-sdk.us
 LAZARUS,domain,api.zoomsdk.us
+LAZARUS,domain,api.zynoracreative.com
 LAZARUS,domain,apiarc.net
 LAZARUS,domain,apkv3.clarionhpdu.top
 LAZARUS,domain,apnsolution.in
@@ -96513,6 +96514,7 @@ LAZARUS,domain,app.willotalentes.com
 LAZARUS,domain,app.willotalents.org
 LAZARUS,domain,app.wilo-talent.com
 LAZARUS,domain,app.wtalents.us
+LAZARUS,domain,app.zynoracreative.com
 LAZARUS,domain,apply-blocknovas.site
 LAZARUS,domain,apply-camera.com
 LAZARUS,domain,apply-oneof.com
@@ -97848,6 +97850,7 @@ LAZARUS,domain,lei.dropfile.online
 LAZARUS,domain,lenvny.com
 LAZARUS,domain,letsmeetnow.site
 LAZARUS,domain,levelframeblog.com
+LAZARUS,domain,levinpros.com
 LAZARUS,domain,lianxinxiao.com
 LAZARUS,domain,license.cloudplus.one
 LAZARUS,domain,lido.web05zoom.us
@@ -98434,6 +98437,8 @@ LAZARUS,domain,parallel.eskillprov.com
 LAZARUS,domain,parallel.skillview360.com
 LAZARUS,domain,partner.hartmanmcapital.com
 LAZARUS,domain,partners.boolnetwork.xyz
+LAZARUS,domain,patch.levinpros.com
+LAZARUS,domain,patch.zynoracreative.com
 LAZARUS,domain,patchpal.pro
 LAZARUS,domain,pathsummitx.com
 LAZARUS,domain,pathsummitx.pages.dev
@@ -99555,6 +99560,7 @@ LAZARUS,domain,ztec.store
 LAZARUS,domain,zvc.capital
 LAZARUS,domain,zvc1ijau.naveicoipa.tech
 LAZARUS,domain,zvc1ijau.naveicoipc.tech
+LAZARUS,domain,zynoracreative.com
 LAZARUS,domain,zyperfect.com
 LAZARUS,domain,zzyzxz.net
 LAZARUS,file_path,/018ueCdS/018ueCdS32.acm
@@ -100314,8 +100320,10 @@ LAZARUS,ipv4,23.81.246.179:443
 LAZARUS,ipv4,26.165.218.44:2248
 LAZARUS,ipv4,27.102.118.204:6099
 LAZARUS,ipv4,27.102.128.152:8098
+LAZARUS,ipv4,31.220.62.190:3000
 LAZARUS,ipv4,31.57.243.190:8080
 LAZARUS,ipv4,31.57.243.29:8080
+LAZARUS,ipv4,31.97.211.52:3000
 LAZARUS,ipv4,31.97.218.133:6168
 LAZARUS,ipv4,35.188.212.32:3000
 LAZARUS,ipv4,35.219.62.75:3001
@@ -100439,6 +100447,7 @@ LAZARUS,ipv4,95.164.45.239:3001
 LAZARUS,ipv4,95.164.7.171:1244
 LAZARUS,ipv4,95.164.7.171:2249
 LAZARUS,ipv4,95.164.7.171:445
+LAZARUS,ipv4,95.169.180.140:8080
 LAZARUS,ipv4,95.169.180.146:3389
 LAZARUS,ipv4,95.169.180.146:4444
 LAZARUS,ipv4,95.169.180.146:8080

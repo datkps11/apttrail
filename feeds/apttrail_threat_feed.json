@@ -108387,6 +108387,7 @@
           "api.yourdomainhost.store",
           "api.zoom-sdk.us",
           "api.zoomsdk.us",
+          "api.zynoracreative.com",
           "apiarc.net",
           "apkv3.clarionhpdu.top",
           "apnsolution.in",
@@ -108442,6 +108443,7 @@
           "app.willotalents.org",
           "app.wilo-talent.com",
           "app.wtalents.us",
+          "app.zynoracreative.com",
           "apply-blocknovas.site",
           "apply-camera.com",
           "apply-oneof.com",
@@ -109777,6 +109779,7 @@
           "lenvny.com",
           "letsmeetnow.site",
           "levelframeblog.com",
+          "levinpros.com",
           "lianxinxiao.com",
           "license.cloudplus.one",
           "lido.web05zoom.us",
@@ -110363,6 +110366,8 @@
           "parallel.skillview360.com",
           "partner.hartmanmcapital.com",
           "partners.boolnetwork.xyz",
+          "patch.levinpros.com",
+          "patch.zynoracreative.com",
           "patchpal.pro",
           "pathsummitx.com",
           "pathsummitx.pages.dev",
@@ -111484,6 +111489,7 @@
           "zvc.capital",
           "zvc1ijau.naveicoipa.tech",
           "zvc1ijau.naveicoipc.tech",
+          "zynoracreative.com",
           "zyperfect.com",
           "zzyzxz.net"
         ],
@@ -112247,8 +112253,10 @@
           "26.165.218.44:2248",
           "27.102.118.204:6099",
           "27.102.128.152:8098",
+          "31.220.62.190:3000",
           "31.57.243.190:8080",
           "31.57.243.29:8080",
+          "31.97.211.52:3000",
           "31.97.218.133:6168",
           "35.188.212.32:3000",
           "35.219.62.75:3001",
@@ -112372,6 +112380,7 @@
           "95.164.7.171:1244",
           "95.164.7.171:2249",
           "95.164.7.171:445",
+          "95.169.180.140:8080",
           "95.169.180.146:3389",
           "95.169.180.146:4444",
           "95.169.180.146:8080",
@@ -112560,7 +112569,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2025-11-21T11:46:24+02:00",
+        "last_modified": "2025-11-23T00:38:53+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -113674,17 +113683,19 @@
           "https://blog.nviso.eu/2025/11/13/contagious-interview-actors-now-utilize-json-storage-services-for-malware-delivery/",
           "https://x.com/lazarusholic/status/1990925548269568447",
           "https://0x0d4y.blog/arsenal-analysis-of-a-nation-state-actor-an-in-depth-look-at-lazarus-scoringmathtea/",
-          "https://www.validin.com/blog/inside_dprk_fake_job_platform/"
+          "https://www.validin.com/blog/inside_dprk_fake_job_platform/",
+          "https://x.com/L0Psec/status/1992348070101791152",
+          "https://www.virustotal.com/gui/file/0048b92365f3ab21540b20a00a306c20ad016b334bce1dbb4fd85999278d5b54/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3345,
+          "domain": 3351,
           "file_path": 475,
-          "ipv4": 413,
+          "ipv4": 416,
           "url": 101
         },
-        "total": 4334
+        "total": 4343
       }
     },
     "LAZYSCRIPTER": {
