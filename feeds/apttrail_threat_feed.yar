@@ -2274,8 +2274,8 @@ rule APT_CHARMINGKITTEN
         $domain47 = "accounts-logins\.net" ascii wide nocase
         $domain48 = "accounts-mails\.com" ascii wide nocase
         $domain49 = "accounts-manager\.info" ascii wide nocase
-        $ip50 = "136.243.108.10" ascii wide
-        $ip51 = "136.243.108.10" ascii wide
+        $ip50 = "103.57.251.153" ascii wide
+        $ip51 = "103.57.251.153" ascii wide
         $ip52 = "136.243.108.10" ascii wide
         $ip53 = "136.243.108.10" ascii wide
         $ip54 = "136.243.108.10" ascii wide
@@ -2283,8 +2283,8 @@ rule APT_CHARMINGKITTEN
         $ip56 = "136.243.108.10" ascii wide
         $ip57 = "136.243.108.10" ascii wide
         $ip58 = "136.243.108.10" ascii wide
-        $ip59 = "136.243.108.11" ascii wide
-        $ip60 = "136.243.108.11" ascii wide
+        $ip59 = "136.243.108.10" ascii wide
+        $ip60 = "136.243.108.10" ascii wide
         $ip61 = "136.243.108.11" ascii wide
         $ip62 = "136.243.108.11" ascii wide
         $ip63 = "136.243.108.11" ascii wide
@@ -2292,8 +2292,8 @@ rule APT_CHARMINGKITTEN
         $ip65 = "136.243.108.11" ascii wide
         $ip66 = "136.243.108.11" ascii wide
         $ip67 = "136.243.108.11" ascii wide
-        $ip68 = "136.243.108.12" ascii wide
-        $ip69 = "136.243.108.12" ascii wide
+        $ip68 = "136.243.108.11" ascii wide
+        $ip69 = "136.243.108.11" ascii wide
         $ip70 = "136.243.108.12" ascii wide
         $ip71 = "136.243.108.12" ascii wide
         $ip72 = "136.243.108.12" ascii wide
@@ -2301,8 +2301,8 @@ rule APT_CHARMINGKITTEN
         $ip74 = "136.243.108.12" ascii wide
         $ip75 = "136.243.108.12" ascii wide
         $ip76 = "136.243.108.12" ascii wide
-        $ip77 = "136.243.108.13" ascii wide
-        $ip78 = "136.243.108.13" ascii wide
+        $ip77 = "136.243.108.12" ascii wide
+        $ip78 = "136.243.108.12" ascii wide
         $ip79 = "136.243.108.13" ascii wide
         $url80 = "/t/ruleset-update-summary-2024-05-06-v10590/1615" ascii wide nocase
 

@@ -12180,6 +12180,8 @@
           "/gadfTs55sghsSSS/phppost.php"
         ],
         "ipv4": [
+          "103.57.251.153:2000",
+          "103.57.251.153:443",
           "136.243.108.10:10000",
           "136.243.108.10:22",
           "136.243.108.10:25",
@@ -12259,6 +12261,7 @@
           "195.201.46.42:587",
           "195.201.46.42:993",
           "195.201.46.42:995",
+          "212.175.168.58:443",
           "45.143.167.87:443",
           "45.77.76.158:23643",
           "46.249.58.136:4444",
@@ -12304,6 +12307,7 @@
           "http://194.11.226.9",
           "http://194.4.49.175",
           "http://195.201.46.42",
+          "http://212.175.168.58",
           "http://37.120.222.168",
           "http://45.143.167.87",
           "http://78.47.90.60",
@@ -12343,7 +12347,7 @@
         ],
         "apt_group": "CHARMINGKITTEN",
         "filename": "apt_charmingkitten.txt",
-        "last_modified": "2025-11-14T22:38:58+02:00",
+        "last_modified": "2025-11-22T10:40:13+02:00",
         "references": [
           "https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc (2018-06-12 Charming Kitten waterhole)",
           "https://www.clearskysec.com/charmingkitten/",
@@ -12554,17 +12558,19 @@
           "https://www.virustotal.com/gui/file/48883dcbac14e1f57613f482ec69b1a50458c8fd59e78a5ce66b988bf4a06347/detection",
           "https://www.virustotal.com/gui/file/5b1b7d9c5f08d67834dcb8d15a25941363441b235dd82bface19588ece8a9841/detection",
           "https://www.virustotal.com/gui/file/c8baf145f2f586167ed108eca143ce4d2b86af8df050a226959fcb172462cd0a/detection",
-          "https://www.proofpoint.com/us/blog/threat-insight/crossed-wires-case-study-iranian-espionage-and-attribution"
+          "https://www.proofpoint.com/us/blog/threat-insight/crossed-wires-case-study-iranian-espionage-and-attribution",
+          "https://x.com/blackorbird/status/1992075483836744154",
+          "https://dti.domaintools.com/threat-intelligence-report-apt35-internal-leak-of-hacking-campaigns-against-lebanon-kuwait-turkey-saudi-arabia-korea-and-domestic-iranian-targets/"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 2048,
           "file_path": 4,
-          "ipv4": 104,
-          "url": 24
+          "ipv4": 107,
+          "url": 25
         },
-        "total": 2180
+        "total": 2184
       }
     },
     "CLEAVER": {
