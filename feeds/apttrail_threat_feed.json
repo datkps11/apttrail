@@ -94587,6 +94587,7 @@
           "ffxxwef.top",
           "ffxxzs.top",
           "ffxxzxl.top",
+          "fgcenugetp.store",
           "fghr5tfhdhtryrty.cfd",
           "fianlss.site",
           "ficpafopanvzmcxads.site",
@@ -106470,7 +106471,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2025-11-23T17:56:17+02:00",
+        "last_modified": "2025-11-23T19:38:30+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -107910,12 +107911,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 14827,
+          "domain": 14828,
           "file_path": 280,
           "ipv4": 68,
           "url": 48
         },
-        "total": 15223
+        "total": 15224
       }
     },
     "KUN3": {
