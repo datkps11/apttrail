@@ -142058,6 +142058,8 @@
       "indicators": {
         "domain": [
           "app-cdn.celixi6266.workers.dev",
+          "app.pofelal314.workers.dev",
+          "bapiyat727.workers.dev",
           "cdn-app-server.vewojo9572.workers.dev",
           "cdn-app-web.piniyi9484.workers.dev",
           "cdn-server-1.xiren77418.workers.dev",
@@ -142074,6 +142076,7 @@
           "floral-paper-8eb1.pihara4672.workers.dev",
           "keystore-explorer.com",
           "mstore.framfarmers.co.uk",
+          "pofelal314.workers.dev",
           "server-cdn.jawigaw383.workers.dev",
           "server-cdn.lafise2419.workers.dev",
           "server-cdn.lecoc56350.workers.dev",
@@ -142093,6 +142096,7 @@
           "server-web-cdn1.gekod80409.workers.dev",
           "soft-base-01.ginigiy117.workers.dev",
           "soft-dns.sejilod748.workers.dev",
+          "ssl.bapiyat727.workers.dev",
           "web-app.dasik14289.workers.dev",
           "work-server-1.picalob750.workers.dev"
         ]
@@ -142103,17 +142107,19 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2025-05-21T17:42:31+03:00",
+        "last_modified": "2025-11-25T20:56:39+02:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
-          "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1"
+          "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
+          "https://x.com/SquiblydooBlog/status/1993311260512075967",
+          "https://app.any.run/tasks/a9391be5-4e71-4a95-9072-477f8afd906f/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 38
+          "domain": 42
         },
-        "total": 38
+        "total": 42
       }
     },
     "UNC2529": {
