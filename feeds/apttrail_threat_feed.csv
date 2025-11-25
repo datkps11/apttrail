@@ -96564,6 +96564,7 @@ LAZARUS,domain,app.blockchain-assess.com
 LAZARUS,domain,app.blockchain-checkup.com
 LAZARUS,domain,app.carrerlilla.com
 LAZARUS,domain,app.coinhouse360.com
+LAZARUS,domain,app.compassidea.org
 LAZARUS,domain,app.crypto-assessment.com
 LAZARUS,domain,app.detankzone.com
 LAZARUS,domain,app.docsend.site
@@ -96572,6 +96573,8 @@ LAZARUS,domain,app.dropfile.cloud
 LAZARUS,domain,app.dropfile.online
 LAZARUS,domain,app.eboardcareer.com
 LAZARUS,domain,app.evalixhub.com
+LAZARUS,domain,app.evaluino.com
+LAZARUS,domain,app.evaluza.com
 LAZARUS,domain,app.expertssavingai.com
 LAZARUS,domain,app.hiring-interview.com
 LAZARUS,domain,app.hiringinterview.org
@@ -96582,6 +96585,7 @@ LAZARUS,domain,app.lenvny.com
 LAZARUS,domain,app.limesurvey.us
 LAZARUS,domain,app.meeting-zone.online
 LAZARUS,domain,app.merreo.org
+LAZARUS,domain,app.proficiencycert.com
 LAZARUS,domain,app.quickvidintro.com
 LAZARUS,domain,app.qwary.org
 LAZARUS,domain,app.skill-share.org
@@ -97047,6 +97051,7 @@ LAZARUS,domain,commoncome.online
 LAZARUS,domain,commoncome.site
 LAZARUS,domain,communicationhub.us
 LAZARUS,domain,companydetail.online
+LAZARUS,domain,compassidea.org
 LAZARUS,domain,competency-core.com
 LAZARUS,domain,completehomenetworks.com
 LAZARUS,domain,complexassess.com
@@ -97429,6 +97434,8 @@ LAZARUS,domain,evalixhub.com
 LAZARUS,domain,evalonboard.com
 LAZARUS,domain,evalswift.com
 LAZARUS,domain,evaluateiq.com
+LAZARUS,domain,evaluino.com
+LAZARUS,domain,evaluza.com
 LAZARUS,domain,evalvideo.com
 LAZARUS,domain,evalvidz.com
 LAZARUS,domain,eventorg.online
@@ -98226,6 +98233,7 @@ LAZARUS,domain,mulvara.co.za
 LAZARUS,domain,muyunqichen.com
 LAZARUS,domain,mx.dropfile.online
 LAZARUS,domain,mx2.dropfile.online
+LAZARUS,domain,my-n8n-76.duckdns.org
 LAZARUS,domain,my3website.pages.dev
 LAZARUS,domain,mydealoman.com
 LAZARUS,domain,myemail.works
@@ -98614,6 +98622,7 @@ LAZARUS,domain,process-log.vercel.app
 LAZARUS,domain,product.onlinedoc.dev
 LAZARUS,domain,professionalsnapshot.com
 LAZARUS,domain,professiondesc.com
+LAZARUS,domain,proficiencycert.com
 LAZARUS,domain,proficientmint.com
 LAZARUS,domain,proficientmint.pages.dev
 LAZARUS,domain,prohirevideo.com
@@ -100336,6 +100345,7 @@ LAZARUS,ipv4,185.142.239.173
 LAZARUS,ipv4,185.153.182.241:1224
 LAZARUS,ipv4,185.153.182.251:1224
 LAZARUS,ipv4,185.153.182.251:1245
+LAZARUS,ipv4,185.164.111.104:3000
 LAZARUS,ipv4,185.208.158.203:5555
 LAZARUS,ipv4,185.208.158.203:8080
 LAZARUS,ipv4,185.208.158.204:443
@@ -100421,6 +100431,7 @@ LAZARUS,ipv4,23.81.246.179:443
 LAZARUS,ipv4,26.165.218.44:2248
 LAZARUS,ipv4,27.102.118.204:6099
 LAZARUS,ipv4,27.102.128.152:8098
+LAZARUS,ipv4,31.220.48.106:3000
 LAZARUS,ipv4,31.220.62.190:3000
 LAZARUS,ipv4,31.57.243.190:8080
 LAZARUS,ipv4,31.57.243.29:8080
@@ -100503,6 +100514,8 @@ LAZARUS,ipv4,69.43.130.141:3000
 LAZARUS,ipv4,69.43.130.153:3000
 LAZARUS,ipv4,70.224.36.194:59681
 LAZARUS,ipv4,72.5.42.93:8080
+LAZARUS,ipv4,72.60.117.70:3000
+LAZARUS,ipv4,72.60.173.32:3000
 LAZARUS,ipv4,72.60.174.178:3000
 LAZARUS,ipv4,74.119.194.129:3000
 LAZARUS,ipv4,74.119.194.129:3001

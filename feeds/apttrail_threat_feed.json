@@ -108498,6 +108498,7 @@
           "app.blockchain-checkup.com",
           "app.carrerlilla.com",
           "app.coinhouse360.com",
+          "app.compassidea.org",
           "app.crypto-assessment.com",
           "app.detankzone.com",
           "app.docsend.site",
@@ -108506,6 +108507,8 @@
           "app.dropfile.online",
           "app.eboardcareer.com",
           "app.evalixhub.com",
+          "app.evaluino.com",
+          "app.evaluza.com",
           "app.expertssavingai.com",
           "app.hiring-interview.com",
           "app.hiringinterview.org",
@@ -108516,6 +108519,7 @@
           "app.limesurvey.us",
           "app.meeting-zone.online",
           "app.merreo.org",
+          "app.proficiencycert.com",
           "app.quickvidintro.com",
           "app.qwary.org",
           "app.skill-share.org",
@@ -108981,6 +108985,7 @@
           "commoncome.site",
           "communicationhub.us",
           "companydetail.online",
+          "compassidea.org",
           "competency-core.com",
           "completehomenetworks.com",
           "complexassess.com",
@@ -109363,6 +109368,8 @@
           "evalonboard.com",
           "evalswift.com",
           "evaluateiq.com",
+          "evaluino.com",
+          "evaluza.com",
           "evalvideo.com",
           "evalvidz.com",
           "eventorg.online",
@@ -110160,6 +110167,7 @@
           "muyunqichen.com",
           "mx.dropfile.online",
           "mx2.dropfile.online",
+          "my-n8n-76.duckdns.org",
           "my3website.pages.dev",
           "mydealoman.com",
           "myemail.works",
@@ -110548,6 +110556,7 @@
           "product.onlinedoc.dev",
           "professionalsnapshot.com",
           "professiondesc.com",
+          "proficiencycert.com",
           "proficientmint.com",
           "proficientmint.pages.dev",
           "prohirevideo.com",
@@ -112274,6 +112283,7 @@
           "185.153.182.241:1224",
           "185.153.182.251:1224",
           "185.153.182.251:1245",
+          "185.164.111.104:3000",
           "185.208.158.203:5555",
           "185.208.158.203:8080",
           "185.208.158.204:443",
@@ -112359,6 +112369,7 @@
           "26.165.218.44:2248",
           "27.102.118.204:6099",
           "27.102.128.152:8098",
+          "31.220.48.106:3000",
           "31.220.62.190:3000",
           "31.57.243.190:8080",
           "31.57.243.29:8080",
@@ -112441,6 +112452,8 @@
           "69.43.130.153:3000",
           "70.224.36.194:59681",
           "72.5.42.93:8080",
+          "72.60.117.70:3000",
+          "72.60.173.32:3000",
           "72.60.174.178:3000",
           "74.119.194.129:3000",
           "74.119.194.129:3001",
@@ -112676,7 +112689,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2025-11-24T03:15:23+02:00",
+        "last_modified": "2025-11-25T17:18:31+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -113793,17 +113806,18 @@
           "https://www.validin.com/blog/inside_dprk_fake_job_platform/",
           "https://x.com/L0Psec/status/1992348070101791152",
           "https://x.com/__pberba__/status/1992762008069161317",
-          "https://www.virustotal.com/gui/file/0048b92365f3ab21540b20a00a306c20ad016b334bce1dbb4fd85999278d5b54/detection"
+          "https://www.virustotal.com/gui/file/0048b92365f3ab21540b20a00a306c20ad016b334bce1dbb4fd85999278d5b54/detection",
+          "https://www.jamf.com/blog/flexibleferret-malware-continues-to-adapt/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3359,
+          "domain": 3368,
           "file_path": 475,
-          "ipv4": 419,
+          "ipv4": 423,
           "url": 101
         },
-        "total": 4354
+        "total": 4367
       }
     },
     "LAZYSCRIPTER": {
