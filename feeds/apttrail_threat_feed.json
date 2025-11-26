@@ -117482,6 +117482,7 @@
           "193.200.16.3:443",
           "194.61.121.86:443",
           "3.129.246.94:443",
+          "37.120.233.84:2000",
           "37.120.237.204:443",
           "37.120.237.248:443",
           "43.246.209.139:3389",
@@ -117512,6 +117513,7 @@
           "8.217.47.190:8848",
           "8.217.56.157:6379",
           "85.239.61.97:443",
+          "85.239.63.179:443",
           "88.99.17.148:443",
           "91.121.240.104:443",
           "91.121.240.108:443",
@@ -117521,7 +117523,8 @@
           "94.131.98.34:443",
           "94.23.148.194:80",
           "95.164.38.99:443",
-          "95.164.46.199:443"
+          "95.164.46.199:443",
+          "95.179.207.105:443"
         ],
         "url": [
           "http://103.27.108.14",
@@ -117544,6 +117547,7 @@
           "http://162.223.89.11",
           "http://164.132.237.65",
           "http://178.32.30.3",
+          "http://18.219.14.54",
           "http://185.117.73.74",
           "http://185.117.75.101",
           "http://185.117.75.116/tmp.php",
@@ -117652,7 +117656,7 @@
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2025-11-20T21:17:27+02:00",
+        "last_modified": "2025-11-26T12:56:23+02:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
@@ -117871,17 +117875,18 @@
           "https://www.virustotal.com/gui/file/5c0fc49ed99e75886fe61c3fc41c587900775230ac518e059dbf779660dfaec6/detection",
           "https://www.virustotal.com/gui/file/aac8e8b1b20c9b6199dac77d88fb4d696cb1f01f2000238dd9d367d9c6dbf936/detection",
           "https://www.virustotal.com/gui/file/ef0d64f099058e8656da1ff85203e74eedbf3f5aca6442c6025e06b96e567077/detection",
-          "https://www.virustotal.com/gui/file/3c1eefad5b96e8f9e8ecaab6c054ca2bc7a7929b03f814f94ba4beab2703aa07/detection"
+          "https://www.virustotal.com/gui/file/3c1eefad5b96e8f9e8ecaab6c054ca2bc7a7929b03f814f94ba4beab2703aa07/detection",
+          "https://aws.amazon.com/cn/blogs/security/new-amazon-threat-intelligence-findings-nation-state-actors-bridging-cyber-and-kinetic-warfare/"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 162,
           "file_path": 187,
-          "ipv4": 89,
-          "url": 109
+          "ipv4": 92,
+          "url": 110
         },
-        "total": 547
+        "total": 551
       }
     },
     "MURENSHARK": {
