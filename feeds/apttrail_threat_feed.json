@@ -8597,6 +8597,7 @@
           "floriventuresfund.linkpc.net",
           "foundico.mefound.com",
           "frameworks.ventures",
+          "ftp.uswe05.us",
           "fxbet.linkpc.net",
           "galaxydigital.cc",
           "galaxydigital.cloud",
@@ -8861,6 +8862,7 @@
           "reforgevc.web08zoom.us",
           "regcnlab.com",
           "reit.live",
+          "remoteorder.shop",
           "rentyourmac.xyz",
           "republicrypto.vc",
           "room-meeting.online",
@@ -9116,8 +9118,13 @@
           "us12web-zoom.us",
           "us17web-zoom.us",
           "us4web.us",
+          "us50webzoom.us",
           "usecrowdpay.xyz",
+          "uswe01.us",
+          "uswe03.us",
           "uswe04.us",
+          "uswe05.us",
+          "uswe06.us",
           "uswe07.us",
           "uswe08.us",
           "uswe20.us",
@@ -9214,12 +9221,15 @@
           "zoom.us07office.us",
           "zoom.us4web.us",
           "zoom.uswe04.us",
+          "zoom.uswe05.us",
+          "zoom.uswe06.us",
           "zoom.uswe07.us",
           "zoom.uswe08.us",
           "zoom.uswe20.us",
           "zoom.usweb0.us",
           "zoom.usweb04.com",
-          "zoom.webus04.us"
+          "zoom.webus04.us",
+          "zoomweb.uswe05.us"
         ],
         "ipv4": [
           "104.168.145.52:8080",
@@ -9257,7 +9267,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2025-11-21T11:37:14+02:00",
+        "last_modified": "2025-11-26T17:47:37+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -9356,6 +9366,7 @@
           "https://x.com/IstaPee/status/1935788234468213130",
           "https://x.com/ValidinLLC/status/1943648048401244489",
           "https://www.validin.com/blog/zooming_through_bluenoroff_pivots/",
+          "https://www.virustotal.com/gui/ip-address/147.79.103.251/relations",
           "https://app.validin.com/lookalikes?lookback=90&depth=2&find=%2Fus%5B0-9%5D%7B2%7D%5Ba-z%5D%7B3%7D-zoom%5C.%5Ba-z%5D%7B2%2C5%7D%2F (# 2025-06-20)",
           "https://github.com/hagezi/dns-blocklists/issues/6545",
           "https://fieldeffect.com/blog/zoom-doom-bluenoroff-call-opens-the-door",
@@ -9375,11 +9386,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 931,
+          "domain": 941,
           "ipv4": 13,
           "url": 3
         },
-        "total": 947
+        "total": 957
       }
     },
     "BLUEPRINT": {
@@ -111590,6 +111601,7 @@
           "zoommetting.dev.retrocubedevs.com",
           "zoomsdk.us",
           "zoomtomeet.pposbc.org",
+          "zoomwebapi.com",
           "zoomworkspace.us.meeting.document-content.online",
           "zoomzipdrop.pages.dev",
           "zooom.in",
@@ -112692,7 +112704,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2025-11-26T15:13:03+02:00",
+        "last_modified": "2025-11-26T17:52:43+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -113817,12 +113829,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3368,
+          "domain": 3369,
           "file_path": 475,
           "ipv4": 425,
           "url": 102
         },
-        "total": 4370
+        "total": 4371
       }
     },
     "LAZYSCRIPTER": {

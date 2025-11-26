@@ -6210,6 +6210,7 @@ BLUENOROFF,domain,floriventuresfinance.linkpc.net
 BLUENOROFF,domain,floriventuresfund.linkpc.net
 BLUENOROFF,domain,foundico.mefound.com
 BLUENOROFF,domain,frameworks.ventures
+BLUENOROFF,domain,ftp.uswe05.us
 BLUENOROFF,domain,fxbet.linkpc.net
 BLUENOROFF,domain,galaxydigital.cc
 BLUENOROFF,domain,galaxydigital.cloud
@@ -6474,6 +6475,7 @@ BLUENOROFF,domain,refogevc.web08zoom.us
 BLUENOROFF,domain,reforgevc.web08zoom.us
 BLUENOROFF,domain,regcnlab.com
 BLUENOROFF,domain,reit.live
+BLUENOROFF,domain,remoteorder.shop
 BLUENOROFF,domain,rentyourmac.xyz
 BLUENOROFF,domain,republicrypto.vc
 BLUENOROFF,domain,room-meeting.online
@@ -6729,8 +6731,13 @@ BLUENOROFF,domain,us09www-zoom.us
 BLUENOROFF,domain,us12web-zoom.us
 BLUENOROFF,domain,us17web-zoom.us
 BLUENOROFF,domain,us4web.us
+BLUENOROFF,domain,us50webzoom.us
 BLUENOROFF,domain,usecrowdpay.xyz
+BLUENOROFF,domain,uswe01.us
+BLUENOROFF,domain,uswe03.us
 BLUENOROFF,domain,uswe04.us
+BLUENOROFF,domain,uswe05.us
+BLUENOROFF,domain,uswe06.us
 BLUENOROFF,domain,uswe07.us
 BLUENOROFF,domain,uswe08.us
 BLUENOROFF,domain,uswe20.us
@@ -6827,12 +6834,15 @@ BLUENOROFF,domain,zoom.us05we.us
 BLUENOROFF,domain,zoom.us07office.us
 BLUENOROFF,domain,zoom.us4web.us
 BLUENOROFF,domain,zoom.uswe04.us
+BLUENOROFF,domain,zoom.uswe05.us
+BLUENOROFF,domain,zoom.uswe06.us
 BLUENOROFF,domain,zoom.uswe07.us
 BLUENOROFF,domain,zoom.uswe08.us
 BLUENOROFF,domain,zoom.uswe20.us
 BLUENOROFF,domain,zoom.usweb0.us
 BLUENOROFF,domain,zoom.usweb04.com
 BLUENOROFF,domain,zoom.webus04.us
+BLUENOROFF,domain,zoomweb.uswe05.us
 BLUENOROFF,ipv4,104.168.145.52:8080
 BLUENOROFF,ipv4,104.168.151.70:8080
 BLUENOROFF,ipv4,104.168.198.145:8080
@@ -99656,6 +99666,7 @@ LAZARUS,domain,zoommeetspace.com
 LAZARUS,domain,zoommetting.dev.retrocubedevs.com
 LAZARUS,domain,zoomsdk.us
 LAZARUS,domain,zoomtomeet.pposbc.org
+LAZARUS,domain,zoomwebapi.com
 LAZARUS,domain,zoomworkspace.us.meeting.document-content.online
 LAZARUS,domain,zoomzipdrop.pages.dev
 LAZARUS,domain,zooom.in
