@@ -112352,6 +112352,8 @@
           "23.227.199.69:443",
           "23.227.202.244:1224",
           "23.227.202.244:1245",
+          "23.227.202.51:1224",
+          "23.227.202.51:1245",
           "23.227.203.192:1224",
           "23.227.203.192:1245",
           "23.227.203.204:1224",
@@ -112527,6 +112529,7 @@
           "http://138.201.50.5",
           "http://141.98.168.79",
           "http://143.198.48.95",
+          "http://144.172.112.106",
           "http://144.172.112.50",
           "http://144.172.94.226",
           "http://144.172.96.35",
@@ -112689,7 +112692,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2025-11-25T17:18:31+02:00",
+        "last_modified": "2025-11-26T15:13:03+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -113612,7 +113615,9 @@
           "https://app.validin.com/detail?find=528ab116aa10f63a5156ed906744fcc9&type=hash#tab=host_pairs (# 2025-03-24)",
           "https://app.validin.com/detail?find=Zoom%20Meeting&type=raw&ref_id=af1604aa97f#tab=host_pairs",
           "https://x.com/zoomeye_team/status/1901822378348568825",
+          "https://x.com/blackorbird/status/1993135605623218560",
           "https://socket.dev/blog/lazarus-strikes-npm-again-with-a-new-wave-of-malicious-packages",
+          "https://www.gendigital.com/blog/insights/research/apt-cyber-alliances-2025",
           "https://app.validin.com/detail?find=L-Administrator&type=raw&ref_id=7c876e7935a#tab=host_pairs",
           "https://x.com/blackorbird/status/1924832471621030031",
           "https://x.com/TLP_R3D/status/1900511506518970638",
@@ -113814,10 +113819,10 @@
         "by_type": {
           "domain": 3368,
           "file_path": 475,
-          "ipv4": 423,
-          "url": 101
+          "ipv4": 425,
+          "url": 102
         },
-        "total": 4367
+        "total": 4370
       }
     },
     "LAZYSCRIPTER": {
