@@ -6931,6 +6931,7 @@
           "outlook.officeweb.live",
           "parcaredrive.com",
           "paulalesiastyles.com",
+          "pawsandtailcare.com",
           "pdcunaco.com",
           "pentree.online",
           "pflix.camdvr.org",
@@ -7286,7 +7287,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2025-11-27T08:10:46+02:00",
+        "last_modified": "2025-11-27T14:46:00+02:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -7815,17 +7816,19 @@
           "https://x.com/smica83/status/1988162278563238145",
           "https://www.virustotal.com/gui/file/2bcd2424b5c74bcfcda5aadfbcede3ad623e092ef7c725832d8950e79d3e2b51/detection",
           "https://x.com/RedDrip7/status/1993874904710828150",
-          "https://www.virustotal.com/gui/file/258918e48a7aaf393af89858f95af666d260c4035b63195f29c8ecfb3291ccb5/detection"
+          "https://www.virustotal.com/gui/file/258918e48a7aaf393af89858f95af666d260c4035b63195f29c8ecfb3291ccb5/detection",
+          "https://x.com/malwrhunterteam/status/1994001214795862270",
+          "https://www.virustotal.com/gui/file/09647fabb086acf09fdc72f3e8703c77c65e27fa52de14c9976389ef1bf4a843/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 439,
+          "domain": 440,
           "file_path": 77,
           "ipv4": 69,
           "url": 18
         },
-        "total": 603
+        "total": 604
       }
     },
     "BLACKGEAR": {
@@ -9038,9 +9041,23 @@
           "twosigmateam.info",
           "twosigmavc.capital",
           "twosigmaventures.us",
+          "uc04webzoom.us",
+          "uc05webzoom.us",
+          "uc07webzoom.us",
           "ue03webzoom.us",
+          "ue04webzoom.us",
           "ue05webzoom.us",
           "ue06webzoom.us",
+          "ue07webzoom.us",
+          "ue08webzoom.us",
+          "ue09webzoom.us",
+          "uk01webzoom.us",
+          "uk02webzoom.us",
+          "uk03webzoom.us",
+          "uk04webzoom.us",
+          "uk05webzoom.us",
+          "uk06webzoom.us",
+          "uk07webzoom.us",
           "ukweb08.us",
           "unchainedcapital.co",
           "unitpowergeneration.top",
@@ -9170,8 +9187,20 @@
           "us08www-zoom.us",
           "us09web-zoom.live",
           "us09www-zoom.us",
+          "us10webzoom.us",
+          "us11webzoom.us",
           "us12web-zoom.us",
+          "us12webzoom.us",
+          "us13webzoom.us",
+          "us14webzoom.us",
+          "us15webzoom.us",
           "us17web-zoom.us",
+          "us17webzoom.us",
+          "us19webzoom.us",
+          "us21webzoom.us",
+          "us24webzoom.us",
+          "us25webzoom.us",
+          "us26webzoom.us",
           "us4web.us",
           "us50webzoom.us",
           "usecrowdpay.xyz",
@@ -9190,8 +9219,12 @@
           "usweb08.us",
           "usweb09.us",
           "usweb5.us",
+          "uz01webzoom.us",
+          "uz02webzoom.us",
           "uz04webzoom.us",
           "uz05webzoom.us",
+          "uz06webzoom.us",
+          "uz07webzoom.us",
           "venture-meeting.online",
           "venturelabo.co",
           "verify.googleauth.pro",
@@ -9341,7 +9374,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2025-11-27T13:18:34+02:00",
+        "last_modified": "2025-11-27T13:30:59+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -9465,11 +9498,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1011,
+          "domain": 1041,
           "ipv4": 13,
           "url": 3
         },
-        "total": 1027
+        "total": 1057
       }
     },
     "BLUEPRINT": {
@@ -108417,6 +108450,7 @@
           "advisorflux.pages.dev",
           "advisoryfit.com",
           "advisoryfit.pages.dev",
+          "advisorygrid.com",
           "adzjvazj.naveicoipg.online",
           "ae-zoom.us",
           "ae-zooom-hegne-meetingsfromf6758s.pages.dev",
@@ -108478,6 +108512,8 @@
           "annovate.tech",
           "anomgaming.online",
           "answerpanel.org",
+          "answerpart.com",
+          "answerpart.pages.dev",
           "antcapital.us",
           "antifirmware.online",
           "antifirmware.site",
@@ -108601,6 +108637,7 @@
           "app-zoom.website",
           "app.aixstore.info",
           "app.alwayswelcome.online",
+          "app.answerpart.com",
           "app.axionara.com",
           "app.blockchain-assess.com",
           "app.blockchain-checkup.com",
@@ -109456,6 +109493,7 @@
           "eosszzc.hateoo.space",
           "epicms.com.pk",
           "epicms.com.pk.confido360.com",
+          "equisphirep.com",
           "er-zoom.us",
           "esilet.com",
           "eskillence.com",
@@ -110914,6 +110952,7 @@
           "skillprops.com",
           "skillquestion.com",
           "skillquestions.com",
+          "skillroar.com",
           "skillsquestions.com",
           "skillstandard360.com",
           "skilluplifestylehub.com",
@@ -110988,6 +111027,7 @@
           "stablemarket.org",
           "staffingedges.com",
           "staffordlaboratories.com",
+          "stafnex.com",
           "stage-framework.recruitboard.video",
           "stage-yuga.recruitboard.video",
           "stage.bizmeet.online",
@@ -112804,7 +112844,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2025-11-27T12:25:09+02:00",
+        "last_modified": "2025-11-27T14:44:04+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -113925,17 +113965,18 @@
           "https://x.com/__pberba__/status/1992762008069161317",
           "https://www.virustotal.com/gui/file/0048b92365f3ab21540b20a00a306c20ad016b334bce1dbb4fd85999278d5b54/detection",
           "https://www.jamf.com/blog/flexibleferret-malware-continues-to-adapt/",
-          "https://socket.dev/blog/north-korea-contagious-interview-npm-attacks"
+          "https://socket.dev/blog/north-korea-contagious-interview-npm-attacks",
+          "https://x.com/ValidinLLC/status/1994006209284788529"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3371,
+          "domain": 3378,
           "file_path": 475,
           "ipv4": 426,
           "url": 102
         },
-        "total": 4374
+        "total": 4381
       }
     },
     "LAZYSCRIPTER": {
