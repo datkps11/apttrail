@@ -112506,6 +112506,8 @@
           "23.227.202.244:1245",
           "23.227.202.51:1224",
           "23.227.202.51:1245",
+          "23.227.202.52:1224",
+          "23.227.202.52:1245",
           "23.227.203.192:1224",
           "23.227.203.192:1245",
           "23.227.203.204:1224",
@@ -112840,11 +112842,12 @@
           "invisibleferret",
           "tropidoor",
           "wagemole",
-          "scoringmathtea"
+          "scoringmathtea",
+          "sectora01"
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2025-11-27T14:44:04+02:00",
+        "last_modified": "2025-11-27T15:04:51+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -113973,10 +113976,10 @@
         "by_type": {
           "domain": 3378,
           "file_path": 475,
-          "ipv4": 426,
+          "ipv4": 428,
           "url": 102
         },
-        "total": 4381
+        "total": 4383
       }
     },
     "LAZYSCRIPTER": {
