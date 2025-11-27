@@ -109940,6 +109940,7 @@
           "kirschneigroup.com",
           "kkvps.buzz",
           "kmsignite.dev",
+          "knightsbridge-dex.vercel.app",
           "kodecamp.org",
           "koliinfotech.company",
           "kourosh.uefa-meeting.com",
@@ -111252,6 +111253,7 @@
           "testforhire.com",
           "testwolf-assessment.com",
           "testwolfpro.com",
+          "tetrismic.vercel.app",
           "thaibit.io",
           "theboxart.xyz",
           "thecloudnet.org",
@@ -112256,6 +112258,7 @@
           "144.172.104.10:1245",
           "144.172.104.113:1224",
           "144.172.104.113:1245",
+          "144.172.104.117:5918",
           "144.172.105.189:1224",
           "144.172.105.189:1245",
           "144.172.105.235:1224",
@@ -112783,7 +112786,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2025-11-26T17:52:43+02:00",
+        "last_modified": "2025-11-27T12:25:09+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -113903,17 +113906,18 @@
           "https://x.com/L0Psec/status/1992348070101791152",
           "https://x.com/__pberba__/status/1992762008069161317",
           "https://www.virustotal.com/gui/file/0048b92365f3ab21540b20a00a306c20ad016b334bce1dbb4fd85999278d5b54/detection",
-          "https://www.jamf.com/blog/flexibleferret-malware-continues-to-adapt/"
+          "https://www.jamf.com/blog/flexibleferret-malware-continues-to-adapt/",
+          "https://socket.dev/blog/north-korea-contagious-interview-npm-attacks"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3369,
+          "domain": 3371,
           "file_path": 475,
-          "ipv4": 425,
+          "ipv4": 426,
           "url": 102
         },
-        "total": 4371
+        "total": 4374
       }
     },
     "LAZYSCRIPTER": {
