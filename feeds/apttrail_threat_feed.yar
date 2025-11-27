@@ -1384,18 +1384,18 @@ rule APT_BITTER
         $ip65 = "162.252.175.131" ascii wide
         $ip66 = "167.88.15.93" ascii wide
         $ip67 = "185.106.123.198" ascii wide
-        $ip68 = "185.117.73.195" ascii wide
-        $ip69 = "185.117.73.209" ascii wide
-        $ip70 = "185.141.25.244" ascii wide
-        $ip71 = "185.193.48.135" ascii wide
-        $ip72 = "185.237.166.24" ascii wide
-        $ip73 = "185.76.79.30" ascii wide
-        $ip74 = "192.71.213.128" ascii wide
-        $ip75 = "192.71.249.194" ascii wide
-        $ip76 = "193.142.58.38" ascii wide
-        $ip77 = "193.29.58.210" ascii wide
-        $ip78 = "194.110.246.254" ascii wide
-        $ip79 = "194.71.227.222" ascii wide
+        $ip68 = "185.117.72.87" ascii wide
+        $ip69 = "185.117.73.195" ascii wide
+        $ip70 = "185.117.73.209" ascii wide
+        $ip71 = "185.141.25.244" ascii wide
+        $ip72 = "185.193.48.135" ascii wide
+        $ip73 = "185.237.166.24" ascii wide
+        $ip74 = "185.76.79.30" ascii wide
+        $ip75 = "192.71.213.128" ascii wide
+        $ip76 = "192.71.249.194" ascii wide
+        $ip77 = "193.142.58.38" ascii wide
+        $ip78 = "193.29.58.210" ascii wide
+        $ip79 = "194.110.246.254" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
