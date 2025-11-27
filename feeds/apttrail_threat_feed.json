@@ -8573,6 +8573,7 @@
           "drw.capital",
           "dunamu.in-zoom.us",
           "dunamuventures.com",
+          "e.ms-live.xyz",
           "edgetunnel.leungkc.eu.org",
           "edwardcaputo.shop",
           "eii.world",
@@ -8744,6 +8745,7 @@
           "longlastfor.online",
           "lservs.linkpc.net",
           "lundbergs.cc",
+          "m.ms-live.xyz",
           "maelstromfund.org",
           "maelstroms.fund",
           "mail.gdriveupload.info",
@@ -8788,6 +8790,8 @@
           "mmsreceive.linkpc.net",
           "mpksl.publicvm.com",
           "ms-live.com",
+          "ms-live.us",
+          "ms-live.xyz",
           "ms-meet.live",
           "mskpupdate.publicvm.com",
           "msoffice.qooqle.download",
@@ -8880,6 +8884,7 @@
           "pvset.itsaol.com",
           "qooqle.download",
           "qoqle.online",
+          "quick-meeting.online",
           "raizerverify.online",
           "readysafe.xyz",
           "real-update.xyz",
@@ -8986,6 +8991,7 @@
           "support-google.us",
           "support-google.ws",
           "support-zoom.us",
+          "support.teams-live.us",
           "support.us05web-zoom.biz",
           "support.us05web-zoom.cloud",
           "support.us05web-zoom.forum",
@@ -9003,6 +9009,9 @@
           "team-meets.store",
           "team-meets.xyz",
           "teams-live-meet.carriebrigham-c.com",
+          "teams-live.biz",
+          "teams-live.org",
+          "teams-live.us",
           "teams-meet.us",
           "techevent.us",
           "techopscentral.com",
@@ -9029,6 +9038,9 @@
           "twosigmateam.info",
           "twosigmavc.capital",
           "twosigmaventures.us",
+          "ue03webzoom.us",
+          "ue05webzoom.us",
+          "ue06webzoom.us",
           "ukweb08.us",
           "unchainedcapital.co",
           "unitpowergeneration.top",
@@ -9178,6 +9190,8 @@
           "usweb08.us",
           "usweb09.us",
           "usweb5.us",
+          "uz04webzoom.us",
+          "uz05webzoom.us",
           "venture-meeting.online",
           "venturelabo.co",
           "verify.googleauth.pro",
@@ -9327,7 +9341,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2025-11-26T22:23:13+02:00",
+        "last_modified": "2025-11-27T13:18:34+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -9442,16 +9456,20 @@
           "https://www.validin.com/blog/pivots_revisited/#bluenoroff",
           "https://securelist.com/bluenoroff-apt-campaigns-ghostcall-and-ghosthire/117842/",
           "https://www.virustotal.com/gui/ip-address/192.64.119.54/relations",
-          "https://app.validin.com/detail?find=One%20platform%20to%20connect%20%7C%20Zoom&type=raw&ref_id=da1dd79bcfb&os.sortcol=3&res.sortcol=4&res.headers_a=Key&res.headers_a=Type&res.headers_a=Value&res.headers_a=First+Seen&res.headers_a=Last+Seen&atr.sortcol=4&sub.sortcol=0&dns.sortcol=4&dns.headers_a=Key&dns.headers_a=Type&dns.headers_a=Value&dns.headers_a=First+Seen&dns.headers_a=Last+Seen&hp.pagesize=1000&hp.filters.Value.text_search.prefix_match=&hp.filters.Value.text_search.suffix_match=%21.zoom.us%2C%21.zoom.com&hp.filters.Value.text_search.contains=&hp.filters.Type.types.Type_a=TITLE-HOST&hr.sortcol=5&hr.headers_a=Host%2FIP&hr.headers_a=Port&hr.headers_a=Response%2FPath&hr.headers_a=Bytes+Received&hr.headers_a=Title&hr.headers_a=Response+Date&crts.sortcol=4&rdap.sortcol=2&rdap.headers_a=Domain&rdap.headers_a=Registrar&rdap.headers_a=Registered&rdap.headers_a=Expires&rdap.headers_a=Changed&rdap.headers_a=Updated&rdap.headers_a=Count#tab=host_pairs"
+          "https://app.validin.com/detail?find=One%20platform%20to%20connect%20%7C%20Zoom&type=raw&ref_id=da1dd79bcfb&os.sortcol=3&res.sortcol=4&res.headers_a=Key&res.headers_a=Type&res.headers_a=Value&res.headers_a=First+Seen&res.headers_a=Last+Seen&atr.sortcol=4&sub.sortcol=0&dns.sortcol=4&dns.headers_a=Key&dns.headers_a=Type&dns.headers_a=Value&dns.headers_a=First+Seen&dns.headers_a=Last+Seen&hp.pagesize=1000&hp.filters.Value.text_search.prefix_match=&hp.filters.Value.text_search.suffix_match=%21.zoom.us%2C%21.zoom.com&hp.filters.Value.text_search.contains=&hp.filters.Type.types.Type_a=TITLE-HOST&hr.sortcol=5&hr.headers_a=Host%2FIP&hr.headers_a=Port&hr.headers_a=Response%2FPath&hr.headers_a=Bytes+Received&hr.headers_a=Title&hr.headers_a=Response+Date&crts.sortcol=4&rdap.sortcol=2&rdap.headers_a=Domain&rdap.headers_a=Registrar&rdap.headers_a=Registered&rdap.headers_a=Expires&rdap.headers_a=Changed&rdap.headers_a=Updated&rdap.headers_a=Count#tab=host_pairs",
+          "https://x.com/malwrhunterteam/status/1992990780521124298",
+          "https://x.com/malwrhunterteam/status/1992991375604781075",
+          "https://www.virustotal.com/gui/file/9135fb9e74bdb39828bfecf7919430062ce482a523999bd7ff1a368038f32371/detection",
+          "https://www.virustotal.com/gui/file/ed705e5bab5da0f62ddfca9eb3e91ade284355ced3ed0efb366d7c3b892065c6/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 997,
+          "domain": 1011,
           "ipv4": 13,
           "url": 3
         },
-        "total": 1013
+        "total": 1027
       }
     },
     "BLUEPRINT": {
