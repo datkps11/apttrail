@@ -120945,6 +120945,7 @@
           "flexmade.org",
           "flyinfishwater.info",
           "flyingcow.info",
+          "flytree.info",
           "food-madeness.info",
           "foundersthub.org",
           "frameworksupport.net",
@@ -121569,7 +121570,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2025-11-20T20:49:28+02:00",
+        "last_modified": "2025-11-28T10:23:24+02:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -121977,12 +121978,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 611,
+          "domain": 612,
           "file_path": 76,
           "ipv4": 57,
           "url": 42
         },
-        "total": 786
+        "total": 787
       }
     },
     "PEEPINGTITLE": {
