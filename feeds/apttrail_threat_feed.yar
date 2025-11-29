@@ -1643,6 +1643,33 @@ rule APT_BLINDEAGLE
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_BLOODYWOLF
+{
+    meta:
+        description = "Detects IOCs associated with APT BLOODYWOLF"
+        author = "APTtrail Automated Collection"
+        apt_group = "BLOODYWOLF"
+        reference = "https://www.group-ib.com/blog/bloody-wolf/"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "ach-uz\.com" ascii wide nocase
+        $domain1 = "audit-kg\.com" ascii wide nocase
+        $domain2 = "esf-kg\.com" ascii wide nocase
+        $domain3 = "hgame33\.com" ascii wide nocase
+        $domain4 = "hisobot-uz\.com" ascii wide nocase
+        $domain5 = "minjust-kg\.com" ascii wide nocase
+        $domain6 = "nac-ac\.com" ascii wide nocase
+        $domain7 = "ravinads\.com" ascii wide nocase
+        $domain8 = "soliq-uz\.com" ascii wide nocase
+        $domain9 = "ttbbaits\.com" ascii wide nocase
+        $domain10 = "uzaudit\.com" ascii wide nocase
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
+}
+
 rule APT_BLUENOROFF
 {
     meta:

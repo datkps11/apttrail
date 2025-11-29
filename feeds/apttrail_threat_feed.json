@@ -5325,6 +5325,7 @@
           "162.33.178.23:443",
           "163.197.32.39:443",
           "163.197.34.109:443",
+          "163.61.102.245:443",
           "164.215.103.248:443",
           "165.154.201.115:443",
           "165.154.227.192:443",
@@ -6072,7 +6073,7 @@
         ],
         "apt_group": "BARIUM",
         "filename": "apt_barium.txt",
-        "last_modified": "2025-06-24T13:07:47+03:00",
+        "last_modified": "2025-11-29T15:40:49+02:00",
         "references": [
           "https://securelist.com/operation-shadowhammer/89992/",
           "https://twitter.com/ydklijnsma/status/1110220766778286080",
@@ -6243,17 +6244,18 @@
           "https://www.virustotal.com/gui/file/3e8f51ec601e6e9c3aaafd3d156721fc85911544417d43f6b6c0b029a009c584/detection",
           "https://www.virustotal.com/gui/file/9ed37a790ed5d90511d5b88140e531d789357e6fd745efba6a1ec0d42f20aeec/detection",
           "https://www.proofpoint.com/us/blog/threat-insight/malware-must-not-be-named-suspected-espionage-campaign-delivers-voldemort",
-          "https://cloud.google.com/blog/topics/threat-intelligence/apt41-innovative-tactics"
+          "https://cloud.google.com/blog/topics/threat-intelligence/apt41-innovative-tactics",
+          "https://asec.ahnlab.com/en/91166/"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 413,
           "file_path": 1,
-          "ipv4": 2042,
+          "ipv4": 2043,
           "url": 184
         },
-        "total": 2640
+        "total": 2641
       }
     },
     "BATSHADOW": {
@@ -8291,6 +8293,38 @@
           "url": 9
         },
         "total": 94
+      }
+    },
+    "BLOODYWOLF": {
+      "indicators": {
+        "domain": [
+          "ach-uz.com",
+          "audit-kg.com",
+          "esf-kg.com",
+          "hgame33.com",
+          "hisobot-uz.com",
+          "minjust-kg.com",
+          "nac-ac.com",
+          "ravinads.com",
+          "soliq-uz.com",
+          "ttbbaits.com",
+          "uzaudit.com"
+        ]
+      },
+      "metadata": {
+        "aliases": [],
+        "apt_group": "BLOODYWOLF",
+        "filename": "apt_bloodywolf.txt",
+        "last_modified": "2025-11-29T16:09:21+02:00",
+        "references": [
+          "https://www.group-ib.com/blog/bloody-wolf/"
+        ]
+      },
+      "statistics": {
+        "by_type": {
+          "domain": 11
+        },
+        "total": 11
       }
     },
     "BLUENOROFF": {
@@ -147023,5 +147057,5 @@
     }
   },
   "source": "Maltrail APT Indicators",
-  "total_apt_groups": 328
+  "total_apt_groups": 329
 }

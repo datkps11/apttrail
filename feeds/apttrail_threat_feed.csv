@@ -4034,6 +4034,7 @@ BARIUM,ipv4,16.163.146.134:8443
 BARIUM,ipv4,162.33.178.23:443
 BARIUM,ipv4,163.197.32.39:443
 BARIUM,ipv4,163.197.34.109:443
+BARIUM,ipv4,163.61.102.245:443
 BARIUM,ipv4,164.215.103.248:443
 BARIUM,ipv4,165.154.201.115:443
 BARIUM,ipv4,165.154.227.192:443
@@ -5905,6 +5906,17 @@ BLINDEAGLE,url,http://185.29.10.52
 BLINDEAGLE,url,http://198.46.129.134
 BLINDEAGLE,url,http://45.79.190.156
 BLINDEAGLE,url,http://72.5.43.53
+BLOODYWOLF,domain,ach-uz.com
+BLOODYWOLF,domain,audit-kg.com
+BLOODYWOLF,domain,esf-kg.com
+BLOODYWOLF,domain,hgame33.com
+BLOODYWOLF,domain,hisobot-uz.com
+BLOODYWOLF,domain,minjust-kg.com
+BLOODYWOLF,domain,nac-ac.com
+BLOODYWOLF,domain,ravinads.com
+BLOODYWOLF,domain,soliq-uz.com
+BLOODYWOLF,domain,ttbbaits.com
+BLOODYWOLF,domain,uzaudit.com
 BLUENOROFF,domain,02usweb.us
 BLUENOROFF,domain,05usweb.us
 BLUENOROFF,domain,163qiye.top
