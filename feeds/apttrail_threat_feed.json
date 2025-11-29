@@ -9078,6 +9078,7 @@
           "uc04webzoom.us",
           "uc05webzoom.us",
           "uc07webzoom.us",
+          "ue01webzoom.us",
           "ue03webzoom.us",
           "ue04webzoom.us",
           "ue05webzoom.us",
@@ -9093,6 +9094,8 @@
           "uk06webzoom.us",
           "uk07webzoom.us",
           "ukweb08.us",
+          "um05webzoom.us",
+          "um06webzoom.us",
           "unchainedcapital.co",
           "unitpowergeneration.top",
           "up.digifincx.com",
@@ -9110,6 +9113,7 @@
           "uploadmyfile.space",
           "uploadmyfile.tech",
           "uploadsfiles.xyz",
+          "ur05webzoom.us",
           "urgent-update.cloud",
           "us-playground.vc",
           "us001web.us",
@@ -9408,7 +9412,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2025-11-27T13:30:59+02:00",
+        "last_modified": "2025-11-29T21:40:29+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -9532,11 +9536,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1041,
+          "domain": 1045,
           "ipv4": 13,
           "url": 3
         },
-        "total": 1057
+        "total": 1061
       }
     },
     "BLUEPRINT": {
