@@ -120836,6 +120836,7 @@
           "auth.fyicompsol.xyz",
           "avangrid.info",
           "avtofrom.us",
+          "azureinternalupdates.com",
           "b3autybab3s.com",
           "baidunetdisk.info",
           "bayanat.co.nf",
@@ -121346,6 +121347,7 @@
           "vibrantforest.info",
           "videvideocaller.ml",
           "viperdenx.info",
+          "virtualworldsapinner.com",
           "viterwin.club",
           "vlc-updates.ddns.net",
           "vorm.vormliebe.club",
@@ -121608,7 +121610,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2025-11-28T10:23:24+02:00",
+        "last_modified": "2025-12-01T13:32:34+02:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -122011,17 +122013,21 @@
           "https://www.virustotal.com/gui/file/3a4f47c60edf1e00adb3ca60a7643062657fe2c6dd85ace9dfd8fdec47078d4e/detection",
           "https://x.com/__0XYC__/status/1991382897543245882",
           "https://x.com/volrant136/status/1991427420831010894",
-          "https://www.virustotal.com/gui/file/6d31baf9a4c5e973c500b4fd9824c0a9e64ac65749aa33ce485eeed60a1d9289/detection"
+          "https://www.virustotal.com/gui/file/6d31baf9a4c5e973c500b4fd9824c0a9e64ac65749aa33ce485eeed60a1d9289/detection",
+          "https://x.com/RedDrip7/status/1995419506399924723",
+          "https://www.virustotal.com/gui/file/8ffdc7d783f87eab110921b33c74867a5eed7566d67d943f8d7deb5659d60c27/detection",
+          "https://www.virustotal.com/gui/file/a943b5b03b31604830766f41187f65dff2f18d9f7dcdb4241b375a5d95aaa043/detection",
+          "https://www.virustotal.com/gui/file/6c4c388acbd9790526cc7e8c567e430540436da94c6febe0766a1bdc39016da7/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 612,
+          "domain": 614,
           "file_path": 76,
           "ipv4": 57,
           "url": 42
         },
-        "total": 787
+        "total": 789
       }
     },
     "PEEPINGTITLE": {
