@@ -1706,6 +1706,7 @@
           "instantreceive.org",
           "israanews.zz.com.ve",
           "itamaraty.net",
+          "jlrandsons.co.uk",
           "jquery.services",
           "js.ad4949.co.kr",
           "js5950.cafe24.com",
@@ -2004,7 +2005,7 @@
         ],
         "apt_group": "37",
         "filename": "apt_37.txt",
-        "last_modified": "2025-09-09T10:05:44+03:00",
+        "last_modified": "2025-12-02T11:44:17+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5d4456d289603cc548ddbc92",
           "https://blog.alyac.co.kr/2453 (Korean)",
@@ -2160,17 +2161,19 @@
           "https://www.virustotal.com/gui/file/d8d86b15e68889bf76b3cf8e335f43afe0287b9b20aeb18b136b90a516695989/detection",
           "https://x.com/Threatlabz/status/1965060646405574786",
           "https://www.zscaler.com/blogs/security-research/apt37-targets-windows-rust-backdoor-and-python-loader",
-          "https://www.virustotal.com/gui/file/738a31e7a0d96fe1b0ad6778db39425160835a80ac33ce8a84f26b71c00c26b9/detection"
+          "https://www.virustotal.com/gui/file/738a31e7a0d96fe1b0ad6778db39425160835a80ac33ce8a84f26b71c00c26b9/detection",
+          "https://x.com/suyog41/status/1995767452786196839",
+          "https://www.virustotal.com/gui/file/4f2617a971b9c78c8b215d6cb65525ff56f0633a3bcd381695a19efe08156a04/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 400,
+          "domain": 401,
           "file_path": 34,
           "ipv4": 1,
           "url": 7
         },
-        "total": 442
+        "total": 443
       }
     },
     "38": {
@@ -121615,7 +121618,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2025-12-01T19:17:14+02:00",
+        "last_modified": "2025-12-02T11:49:46+02:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -122014,6 +122017,8 @@
           "https://x.com/malwrhunterteam/status/1988590544231293337",
           "https://www.virustotal.com/gui/file/8bbc0b45edb265a0ba51d6b017e0bc3b883382e29e70db5a52b11d1ccfeb1458/detection",
           "https://x.com/RedDrip7/status/1988809385234297203",
+          "https://x.com/RexorVc0/status/1995393637409321214",
+          "https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247507603&idx=1&sn=af41be456f6393a24771846328e8d7f2&chksm=f9c1ed9aceb6648ce3bc17578a9255fc21c310815312dc066e133762b9b088b365eaa831b734&scene=178&cur_album_id=1955835290309230595&search_click_id",
           "https://www.virustotal.com/gui/file/dbe909b6c6c03b4000d96de1f4b1bdd10eef8ef34876a648a00cd5ee7117bd31/detection",
           "https://www.virustotal.com/gui/file/3a4f47c60edf1e00adb3ca60a7643062657fe2c6dd85ace9dfd8fdec47078d4e/detection",
           "https://x.com/__0XYC__/status/1991382897543245882",
