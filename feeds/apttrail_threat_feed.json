@@ -18956,6 +18956,7 @@
           "briefdeal.buzz",
           "brightnew.xyz",
           "brilient.buzz",
+          "brityservice.info",
           "brokensences.info",
           "bsodsupport.icu",
           "bulk.fun",
@@ -19117,6 +19118,7 @@
           "guild.domainoutlet.site",
           "guitarshop.space",
           "gymchecktaker.buzz",
+          "hafybreaks.info",
           "harddive.info",
           "help.domainoutlet.site",
           "hibiscus.live",
@@ -19396,6 +19398,7 @@
           "sco-gov-pk.tk",
           "screenreader.buzz",
           "scriptlydev.com",
+          "scrollzshare.info",
           "seacloud.buzz",
           "seahome.top",
           "searchindexservices.xyz",
@@ -19874,7 +19877,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2025-10-30T13:02:56+02:00",
+        "last_modified": "2025-12-03T15:35:32+02:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -20491,17 +20494,21 @@
           "https://x.com/ThreatBookLabs/status/1974988141854609418",
           "https://x.com/RedDrip7/status/1983733647925719381",
           "https://www.virustotal.com/gui/file/b91a8af21b4e16b9990c9e3a8067d993883e833301274d1300a48a87b4f0ca70/detection",
-          "https://www.virustotal.com/gui/file/93e26c69cd06add4acbe97aa2b01c4344debff786735c736bc102e74968f9ce7/detection"
+          "https://www.virustotal.com/gui/file/93e26c69cd06add4acbe97aa2b01c4344debff786735c736bc102e74968f9ce7/detection",
+          "https://x.com/malwrhunterteam/status/1986334542123159792",
+          "https://ti.qianxin.com/blog/articles/analysis-of-streamspy-a-new-trojan-using-websocket-by-patchwork-en/",
+          "https://www.virustotal.com/gui/file/dc297aded70b0692ad0a24509e7bbec210bc0a1c7a105e99e1a8f76e3861ad34/detection",
+          "https://www.virustotal.com/gui/ip-address/64.111.92.6/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 694,
+          "domain": 697,
           "file_path": 231,
           "ipv4": 47,
           "url": 4
         },
-        "total": 976
+        "total": 979
       }
     },
     "DOWNEX": {
@@ -120872,7 +120879,6 @@
           "breachframework.website",
           "breatlee.org",
           "brightpathos.eu",
-          "brityservice.info",
           "buzzstack.org",
           "c-cdn77.com",
           "caapakistaan.com",
@@ -121258,7 +121264,6 @@
           "sanping.info",
           "sapdf.org",
           "scapematic.info",
-          "scrollzshare.info",
           "sdfsecs.org",
           "sechshun8.com",
           "secretchatpoint.com",
@@ -121614,11 +121619,12 @@
           "sarit",
           "quilted tiger",
           "apt-c-09",
-          "zinc emerson"
+          "zinc emerson",
+          "streamspy"
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2025-12-02T11:49:46+02:00",
+        "last_modified": "2025-12-03T15:22:20+02:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -121868,6 +121874,7 @@
           "https://www.virustotal.com/gui/file/f6d171e79e2fb38b3919011835c8117a1c56788bcf634e69ae67a5e255fb9d58/detection",
           "https://x.com/malwrhunterteam/status/1985321336240013357",
           "https://x.com/malwrhunterteam/status/1985321351784055132",
+          "https://ti.qianxin.com/blog/articles/analysis-of-streamspy-a-new-trojan-using-websocket-by-patchwork-en/",
           "https://www.virustotal.com/gui/file/5193c3ade7f0cc89b8b3202391b1099c60688ac6f27ca3ae6773ddbe4b31aca1/detection",
           "https://x.com/SquiblydooBlog/status/1842535888938729871",
           "https://www.virustotal.com/gui/file/e6071ae0da3289eb87edf67b2b198b0a3f0cf9da8eb35a8a2b5aa8989b6c0ef5/detection",
@@ -122012,8 +122019,6 @@
           "https://www.virustotal.com/gui/file/582f4c583086a67f8942777b7a65a054b020a6732abd954a92ff525d9d0a3dba/detection",
           "https://x.com/suyog41/status/1978396001778999417",
           "https://www.virustotal.com/gui/file/9f5b34ee5a5cd2eebc8923a961de8bc7b67c3048f7b6ebc1287fa8be613b9d83/detection",
-          "https://x.com/malwrhunterteam/status/1986334542123159792",
-          "https://www.virustotal.com/gui/file/dc297aded70b0692ad0a24509e7bbec210bc0a1c7a105e99e1a8f76e3861ad34/detection",
           "https://x.com/malwrhunterteam/status/1988590544231293337",
           "https://www.virustotal.com/gui/file/8bbc0b45edb265a0ba51d6b017e0bc3b883382e29e70db5a52b11d1ccfeb1458/detection",
           "https://x.com/RedDrip7/status/1988809385234297203",
@@ -122034,12 +122039,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 617,
+          "domain": 615,
           "file_path": 78,
           "ipv4": 57,
           "url": 42
         },
-        "total": 794
+        "total": 792
       }
     },
     "PEEPINGTITLE": {
