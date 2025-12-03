@@ -6451,6 +6451,7 @@ BLUENOROFF,domain,ns2.trytiponlineresult.com
 BLUENOROFF,domain,obituary2.redirectme.net
 BLUENOROFF,domain,offerings.cloud
 BLUENOROFF,domain,ok.docupload.store
+BLUENOROFF,domain,onedrive.ms-live.com
 BLUENOROFF,domain,onedrivecloud.store
 BLUENOROFF,domain,onedriveglobal.com
 BLUENOROFF,domain,onedrivems.online
@@ -6610,12 +6611,16 @@ BLUENOROFF,domain,star-bucks.life
 BLUENOROFF,domain,starbucksevent.pics
 BLUENOROFF,domain,static.cdnkit.io
 BLUENOROFF,domain,sts.interalliancemediagroups.cloud
+BLUENOROFF,domain,suport.ms-live.com
 BLUENOROFF,domain,support-gmeet.com
 BLUENOROFF,domain,support-google.co.im
 BLUENOROFF,domain,support-google.co.in
 BLUENOROFF,domain,support-google.us
 BLUENOROFF,domain,support-google.ws
 BLUENOROFF,domain,support-zoom.us
+BLUENOROFF,domain,support.ms-live.com
+BLUENOROFF,domain,support.ms-meet.live
+BLUENOROFF,domain,support.teams-live.org
 BLUENOROFF,domain,support.teams-live.us
 BLUENOROFF,domain,support.us05web-zoom.biz
 BLUENOROFF,domain,support.us05web-zoom.cloud
@@ -6628,6 +6633,7 @@ BLUENOROFF,domain,system-update.cloud
 BLUENOROFF,domain,system-update.xyz
 BLUENOROFF,domain,systemupdate.cloud
 BLUENOROFF,domain,tastebuds.buzz
+BLUENOROFF,domain,team-live.us.com
 BLUENOROFF,domain,team-meets.cloud
 BLUENOROFF,domain,team-meets.online
 BLUENOROFF,domain,team-meets.site
@@ -6635,9 +6641,12 @@ BLUENOROFF,domain,team-meets.store
 BLUENOROFF,domain,team-meets.xyz
 BLUENOROFF,domain,teams-live-meet.carriebrigham-c.com
 BLUENOROFF,domain,teams-live.biz
+BLUENOROFF,domain,teams-live.cn.com
 BLUENOROFF,domain,teams-live.org
 BLUENOROFF,domain,teams-live.us
+BLUENOROFF,domain,teams-live.us.com
 BLUENOROFF,domain,teams-meet.us
+BLUENOROFF,domain,teams.ms-meet.live
 BLUENOROFF,domain,techevent.us
 BLUENOROFF,domain,techopscentral.com
 BLUENOROFF,domain,termsofservice.onmypc.org
