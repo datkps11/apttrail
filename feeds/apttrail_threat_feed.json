@@ -10300,6 +10300,7 @@
           "1drv.surf",
           "1drv.xyz",
           "1stemployer.com",
+          "1stl.ink",
           "3dauth.live",
           "3dconfirrnation.com",
           "8ghefkwdvbfdsg3asdf1.com",
@@ -11438,6 +11439,7 @@
           "msnapp.help",
           "msnapp.live",
           "msnclouds.com",
+          "msnl.ink",
           "msnotetask-insights.azurewebsites.net",
           "msoffice-update.com",
           "mstrakcer-tools.azurewebsites.net",
@@ -11920,6 +11922,7 @@
           "shorting-urling.live",
           "shortingurling.live",
           "shortlinkview.live",
+          "shortlycc.site",
           "shortoni.live",
           "shortulonline.live",
           "shorturlbot.club",
@@ -12511,7 +12514,7 @@
         ],
         "apt_group": "CHARMINGKITTEN",
         "filename": "apt_charmingkitten.txt",
-        "last_modified": "2025-11-22T10:40:13+02:00",
+        "last_modified": "2025-12-03T21:03:00+02:00",
         "references": [
           "https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc (2018-06-12 Charming Kitten waterhole)",
           "https://www.clearskysec.com/charmingkitten/",
@@ -12729,12 +12732,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 2048,
+          "domain": 2051,
           "file_path": 4,
           "ipv4": 107,
           "url": 25
         },
-        "total": 2184
+        "total": 2187
       }
     },
     "CLEAVER": {
