@@ -111568,6 +111568,7 @@
           "videocarddrivers.cloud",
           "videodriverzone.cloud",
           "videoforrecruitment.com",
+          "videohirepro.com",
           "videomaxgreece.com",
           "videomeethub.online",
           "videoplayermaxgr.com",
@@ -112929,7 +112930,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2025-12-04T10:34:15+02:00",
+        "last_modified": "2025-12-04T16:52:32+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -114052,17 +114053,18 @@
           "https://www.jamf.com/blog/flexibleferret-malware-continues-to-adapt/",
           "https://socket.dev/blog/north-korea-contagious-interview-npm-attacks",
           "https://x.com/ValidinLLC/status/1994006209284788529",
-          "https://github.com/motuariki/IOCs/blob/main/DPRK%20Tracking/04-12-2025-DPRK-Fake-Meeting-Infrastructure"
+          "https://github.com/motuariki/IOCs/blob/main/DPRK%20Tracking/04-12-2025-DPRK-Fake-Meeting-Infrastructure",
+          "https://urlscan.io/result/019ae9c9-3021-722e-a3db-20cc2005fc0f/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3382,
+          "domain": 3383,
           "file_path": 475,
           "ipv4": 428,
           "url": 102
         },
-        "total": 4387
+        "total": 4388
       }
     },
     "LAZYSCRIPTER": {
