@@ -9257,6 +9257,7 @@
           "us26webzoom.us",
           "us4web.us",
           "us50webzoom.us",
+          "us60webzoom.us",
           "usecrowdpay.xyz",
           "uswe01.us",
           "uswe03.us",
@@ -9430,7 +9431,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2025-12-04T10:37:47+02:00",
+        "last_modified": "2025-12-04T11:29:43+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -9561,11 +9562,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1059,
+          "domain": 1060,
           "ipv4": 14,
           "url": 3
         },
-        "total": 1076
+        "total": 1077
       }
     },
     "BLUEPRINT": {
