@@ -9087,10 +9087,12 @@
           "twosigmateam.info",
           "twosigmavc.capital",
           "twosigmaventures.us",
+          "ua02webzoom.us",
           "uc04webzoom.us",
           "uc05webzoom.us",
           "uc07webzoom.us",
           "ue01webzoom.us",
+          "ue02webzoom.us",
           "ue03webzoom.us",
           "ue04webzoom.us",
           "ue05webzoom.us",
@@ -9106,6 +9108,8 @@
           "uk06webzoom.us",
           "uk07webzoom.us",
           "ukweb08.us",
+          "um02webzoom.us",
+          "um04webzoom.us",
           "um05webzoom.us",
           "um06webzoom.us",
           "unchainedcapital.co",
@@ -9328,6 +9332,7 @@
           "webthreefinance.club",
           "webus04.us",
           "webus05.us",
+          "webus06.us",
           "wechart.org",
           "werfaultserver.com",
           "wesco-distributors.com",
@@ -9396,6 +9401,7 @@
           "140.117.91.22:8080",
           "140.136.134.201:8080",
           "163.25.24.44:443",
+          "163.5.254.70:3000",
           "186.183.185.94:8080",
           "23.254.202.223:8080",
           "41.85.145.164:8080",
@@ -9424,7 +9430,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2025-12-03T22:01:36+02:00",
+        "last_modified": "2025-12-04T10:37:47+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -9549,16 +9555,17 @@
           "https://x.com/malwrhunterteam/status/1992990780521124298",
           "https://x.com/malwrhunterteam/status/1992991375604781075",
           "https://www.virustotal.com/gui/file/9135fb9e74bdb39828bfecf7919430062ce482a523999bd7ff1a368038f32371/detection",
-          "https://www.virustotal.com/gui/file/ed705e5bab5da0f62ddfca9eb3e91ade284355ced3ed0efb366d7c3b892065c6/detection"
+          "https://www.virustotal.com/gui/file/ed705e5bab5da0f62ddfca9eb3e91ade284355ced3ed0efb366d7c3b892065c6/detection",
+          "https://github.com/motuariki/IOCs/blob/main/DPRK%20Tracking/04-12-2025-DPRK-Fake-Meeting-Infrastructure"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1054,
-          "ipv4": 13,
+          "domain": 1059,
+          "ipv4": 14,
           "url": 3
         },
-        "total": 1070
+        "total": 1076
       }
     },
     "BLUEPRINT": {
@@ -109027,6 +109034,7 @@
           "buiweggajhqwj.naveicoipg.online",
           "bujey.store",
           "business-zoom.us",
+          "businessgoogledoc.com",
           "businesshire.cv",
           "businesshire.top",
           "businessmeet.xyz",
@@ -110354,6 +110362,7 @@
           "micrsofts.tech",
           "milancyber.com",
           "mingeloem.com",
+          "mircosoftclouddocment.com",
           "mirotalk.net",
           "mizuhogroup.uk",
           "mktrending.com",
@@ -110971,6 +110980,7 @@
           "shared.drop-box.cloud",
           "shared.dropbox-docsend.cloud",
           "shared.dropbox-docsend.online",
+          "sharefilesdocment.com",
           "sharemanage.elwoodasset.xyz",
           "sharesvr.net",
           "shconstmarket.com",
@@ -111257,6 +111267,7 @@
           "suntcijm.mouradvps43hostwin.online",
           "superdocsoff.com",
           "superstarscanner.com",
+          "superstate-team.xyz",
           "superstatefund.co",
           "support-ledger.net",
           "support-pishgam.site",
@@ -112917,7 +112928,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2025-11-27T15:04:51+02:00",
+        "last_modified": "2025-12-04T10:34:15+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -114039,17 +114050,18 @@
           "https://www.virustotal.com/gui/file/0048b92365f3ab21540b20a00a306c20ad016b334bce1dbb4fd85999278d5b54/detection",
           "https://www.jamf.com/blog/flexibleferret-malware-continues-to-adapt/",
           "https://socket.dev/blog/north-korea-contagious-interview-npm-attacks",
-          "https://x.com/ValidinLLC/status/1994006209284788529"
+          "https://x.com/ValidinLLC/status/1994006209284788529",
+          "https://github.com/motuariki/IOCs/blob/main/DPRK%20Tracking/04-12-2025-DPRK-Fake-Meeting-Infrastructure"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3378,
+          "domain": 3382,
           "file_path": 475,
           "ipv4": 428,
           "url": 102
         },
-        "total": 4383
+        "total": 4387
       }
     },
     "LAZYSCRIPTER": {
