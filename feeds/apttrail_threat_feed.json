@@ -127396,6 +127396,7 @@
           "discount.kpt-gov.org",
           "discount.srvapp.co",
           "discounts-ptclnetpk.servehttp.com",
+          "dl.vlc-services.cfd",
           "dlimpunjabgov.com",
           "dlimsindhgov.com",
           "dlimsitp-gov.com",
@@ -128869,6 +128870,7 @@
           "nadra.gov.pk.d-dns.co",
           "nadra.pakgov.net",
           "nadra.update.customs-lk.org",
+          "nadracloudx.pages.dev",
           "nanfung.servehttp.com",
           "narda-moi.cdn-dl.cn",
           "nastp-govpk.com",
@@ -129778,6 +129780,7 @@
           "vinver.live",
           "visa-nadra-gov-pk.pk",
           "vistavue.shop",
+          "vlc-services.cfd",
           "vmi1789770.contaboserver.net",
           "vmi2186317.contaboserver.net",
           "volt.ruve.live",
@@ -130050,7 +130053,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2025-11-25T09:12:29+02:00",
+        "last_modified": "2025-12-04T13:22:55+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -131025,17 +131028,19 @@
           "https://x.com/volrant136/status/1989955653058875805",
           "https://x.com/volrant136/status/1989957481687388457",
           "https://x.com/volrant136/status/1989958731027943578",
-          "https://x.com/volrant136/status/1993209945299599830"
+          "https://x.com/volrant136/status/1993209945299599830",
+          "https://x.com/__0XYC__/status/1996536016123892101",
+          "https://tria.ge/251204-m88xqavkd1/behavioral2"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3201,
+          "domain": 3204,
           "file_path": 14,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3291
+        "total": 3294
       }
     },
     "SILENCE": {
