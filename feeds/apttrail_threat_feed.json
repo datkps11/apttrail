@@ -77705,6 +77705,7 @@
           "21desire.aytashpo.ru",
           "21position.crudoes.ru",
           "228489319.faturan.ru",
+          "228w1mx7-80.usw3.devtunnels.ms",
           "22981548.dfgqdsd.ru",
           "22deceive.alceaso.ru",
           "22decimal.savalanpo.ru",
@@ -78289,6 +78290,7 @@
           "483237315.dfgqdsd.ru",
           "487667314.dfgqdsd.ru",
           "488624743.humahu.ru",
+          "488c65e6d7175f5e696ece9711c0ec37.loophole.site",
           "48deception.fatuamos.ru",
           "48decipher.savalanpo.ru",
           "48declared.savalanpo.ru",
@@ -80389,6 +80391,7 @@
           "boborak.ru",
           "bolonna.ru",
           "boobasword.ru",
+          "books-drunk-typical-indirect.trycloudflare.com",
           "bootesso.ru",
           "boptizol.ru",
           "boraito.ru",
@@ -87056,7 +87059,7 @@
         ],
         "apt_group": "GAMAREDON-1",
         "filename": "apt_gamaredon-1.txt",
-        "last_modified": "2025-11-26T22:28:02+02:00",
+        "last_modified": "2025-12-05T14:49:22+02:00",
         "references": [
           "https://www.virustotal.com/gui/ip-address/168.100.10.184/relations",
           "https://www.virustotal.com/gui/ip-address/162.33.178.84/relations",
@@ -88336,17 +88339,18 @@
           "https://www.virustotal.com/gui/file/1f932c25c2ab37ea44652ee303d3b3ec2340fd60a2947b896797ef575fe957bf/detection",
           "https://www.virustotal.com/gui/file/412b02dea9d7b88a929e922992253653b22e5da3b7b2a596cd0471c698651680/detection",
           "https://www.virustotal.com/gui/ip-address/194.87.230.166/relations",
-          "https://www.virustotal.com/gui/ip-address/194.87.240.217/relations"
+          "https://www.virustotal.com/gui/ip-address/194.87.240.217/relations",
+          "https://mp.weixin.qq.com/s/zerWPti8aO8ymhOT1Ij-ig"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 9962,
+          "domain": 9965,
           "file_path": 339,
           "ipv4": 5,
           "url": 181
         },
-        "total": 10487
+        "total": 10490
       }
     },
     "GAZA": {
@@ -128541,6 +128545,7 @@
           "mitlec.site",
           "mm.gov-org.net",
           "mmcert-org-mm.donwloaded.com",
+          "mms.phone-update.click",
           "mo.treasury.gov.lk.pk-mail.org",
           "mobta.govaf.org",
           "mocat-gov-bd.filenest.live",
@@ -129218,6 +129223,7 @@
           "permitinterior.gov-pk.site",
           "permitsinteriors-gov-pk.com",
           "pertest-ntdccompk.ddnsking.com",
+          "phone-update.click",
           "piac-compk.servehttp.com",
           "pimec-paknavy.updates-installer.store",
           "pin-up.amazingbonis.com",
@@ -130056,7 +130062,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2025-12-04T13:22:55+02:00",
+        "last_modified": "2025-12-05T14:54:31+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -131033,17 +131039,19 @@
           "https://x.com/volrant136/status/1989958731027943578",
           "https://x.com/volrant136/status/1993209945299599830",
           "https://x.com/__0XYC__/status/1996536016123892101",
-          "https://tria.ge/251204-m88xqavkd1/behavioral2"
+          "https://tria.ge/251204-m88xqavkd1/behavioral2",
+          "https://x.com/volrant136/status/1996677391704289400",
+          "https://www.virustotal.com/gui/file/21cb07f97127a5427603d9d9540c68e0fce7e1d4863216d86799a84f32074d05/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3204,
+          "domain": 3206,
           "file_path": 14,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3294
+        "total": 3296
       }
     },
     "SILENCE": {
