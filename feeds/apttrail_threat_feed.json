@@ -111791,6 +111791,7 @@
           "zoom-sdk.us",
           "zoom.2vanx.com",
           "zoom.app-center.download",
+          "zoom.callapp.us",
           "zoom.callservice.us",
           "zoom.communicationhub.us",
           "zoom.downloadcenter.website",
@@ -112930,7 +112931,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2025-12-04T16:52:32+02:00",
+        "last_modified": "2025-12-05T11:02:04+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -114059,12 +114060,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3383,
+          "domain": 3384,
           "file_path": 475,
           "ipv4": 428,
           "url": 102
         },
-        "total": 4388
+        "total": 4389
       }
     },
     "LAZYSCRIPTER": {
