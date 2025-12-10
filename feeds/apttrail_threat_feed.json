@@ -85649,6 +85649,7 @@
           "teftons.ru",
           "tenders.turap.ru",
           "tenterons.ru",
+          "terras.serveirc.com",
           "terry-training-springer-engagement.trycloudflare.com",
           "test.basamdi.ru",
           "testadmin.gapolsa.ru",
@@ -86535,6 +86536,7 @@
           "/1-ПК/courageous/courageous.69alf",
           "/27.12_otck/days.rtf",
           "/6BNOTE/loyalty/bikes/endanger.drf",
+          "/?/SVrr_12.11.2025",
           "/ADMIN-%D0%9F%D0%9A/alternate.kdc",
           "/AKADEMIK1211/clasped/globe/printing.61itdb",
           "/BONDARENKOA/faithful/faithful.dot",
@@ -86620,6 +86622,7 @@
           "/SSU/sieveq2c/standMn7.epub",
           "/SSU/sniffV09/scatterod6.tif",
           "/SU/rageSc4/circularPti.pptx",
+          "/SVrr_12.11.2025",
           "/Sb_12_12/barefooted.jpeg",
           "/Sb_12_12/basically.jpeg",
           "/Sb_12_12/headache.jpeg",
@@ -87065,7 +87068,7 @@
         ],
         "apt_group": "GAMAREDON-1",
         "filename": "apt_gamaredon-1.txt",
-        "last_modified": "2025-12-05T14:49:22+02:00",
+        "last_modified": "2025-12-10T16:55:27+02:00",
         "references": [
           "https://www.virustotal.com/gui/ip-address/168.100.10.184/relations",
           "https://www.virustotal.com/gui/ip-address/162.33.178.84/relations",
@@ -88346,17 +88349,19 @@
           "https://www.virustotal.com/gui/file/412b02dea9d7b88a929e922992253653b22e5da3b7b2a596cd0471c698651680/detection",
           "https://www.virustotal.com/gui/ip-address/194.87.230.166/relations",
           "https://www.virustotal.com/gui/ip-address/194.87.240.217/relations",
-          "https://mp.weixin.qq.com/s/zerWPti8aO8ymhOT1Ij-ig"
+          "https://mp.weixin.qq.com/s/zerWPti8aO8ymhOT1Ij-ig",
+          "https://www.virustotal.com/gui/ip-address/194.87.230.166/relations",
+          "https://www.virustotal.com/gui/file/6256022d6a548acaf7fda1781a1121d2ea4d92ada829c9902c292e3aab27bd3f/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 9965,
-          "file_path": 339,
+          "domain": 9966,
+          "file_path": 341,
           "ipv4": 5,
           "url": 181
         },
-        "total": 10490
+        "total": 10493
       }
     },
     "GAZA": {
