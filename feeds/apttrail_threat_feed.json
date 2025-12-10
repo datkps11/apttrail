@@ -137849,6 +137849,7 @@
           "inii.shop",
           "inktrim.xyz",
           "inniaromas.com",
+          "innlive.in",
           "inrex.info",
           "insight.defenseinsight.in",
           "intelupates.com",
@@ -138902,6 +138903,7 @@
           "162.245.191.217:9149",
           "164.215.103.129:14500",
           "164.215.103.129:8080",
+          "164.215.103.230:20145",
           "164.215.103.231:8621",
           "164.215.103.55:8080",
           "164.68.101.194:3312",
@@ -139655,7 +139657,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2025-11-20T21:12:02+02:00",
+        "last_modified": "2025-12-10T16:11:22+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -140690,17 +140692,19 @@
           "https://x.com/PrakkiSathwik/status/1991559485903802392",
           "https://www.virustotal.com/gui/file/2932cb92262eb399be9fc56a3e875fbfaab6fee9277e40cead3bda1716d1c210/detection",
           "https://x.com/RedDrip7/status/1991331260200108412",
-          "https://www.virustotal.com/gui/file/8accc5fb18780747bccbd0f042f686c5191e2f782ee32b97cfa0786f04ab2283/detection"
+          "https://www.virustotal.com/gui/file/8accc5fb18780747bccbd0f042f686c5191e2f782ee32b97cfa0786f04ab2283/detection",
+          "https://x.com/malwrhunterteam/status/1998750026898579556",
+          "https://www.virustotal.com/gui/file/b4c4e5e3d334ca1dc4f64435656f0aa011c8651cd4343707d0397ee9dc6c41e5/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3224,
+          "domain": 3225,
           "file_path": 40,
-          "ipv4": 778,
+          "ipv4": 779,
           "url": 121
         },
-        "total": 4163
+        "total": 4165
       }
     },
     "TRIANGULATION": {
@@ -146799,12 +146803,15 @@
         "domain": [
           "allaccounting.ca",
           "bankjordan.com",
+          "check.office365-update.com",
           "dentalaccord.com",
           "dentalmatrix.net",
           "doctoressolis.com",
+          "download.share2file.pro",
           "easybackupcloud.com",
           "economymentor.com",
           "economystocking.com",
+          "eg.foxlove.life",
           "egyptican.com",
           "egyptskytours.com",
           "egypttourism-online.com",
@@ -146814,11 +146821,13 @@
           "financecovers.com",
           "financeinfoguide.com",
           "firstohiobank.com",
+          "fox.foxlove.life",
           "foxlove.life",
           "healthcarb.com",
           "healthoptionstoday.com",
           "healthscratches.com",
           "imagine-world.com",
+          "jo.foxlove.life",
           "jordanrefugees.com",
           "jordansons.com",
           "king-pharmacy.com",
@@ -146849,6 +146858,7 @@
           "theshortner.com",
           "trendingcharts.finance-analyst.com",
           "unitedfamilyhealth.net",
+          "update.share2file.pro",
           "wellhealthtech.com"
         ],
         "ipv4": [
@@ -146856,7 +146866,8 @@
           "104.24.109.64:2082",
           "104.28.1.134:2087",
           "172.86.75.211:80",
-          "185.86.79.243:2082"
+          "185.86.79.243:2082",
+          "194.38.11.3:1790"
         ],
         "url": [
           "http://20.43.53.72"
@@ -146866,12 +146877,14 @@
         "aliases": [],
         "apt_group": "WIRTE",
         "filename": "apt_wirte.txt",
-        "last_modified": "2025-01-02T01:18:47+01:00",
+        "last_modified": "2025-12-10T16:21:54+02:00",
         "references": [
           "https://blog.talosintelligence.com/2018/02/targeted-attacks-in-middle-east.html",
           "https://twitter.com/SaudiDFIR/status/1119666633251930113",
           "https://twitter.com/James_inthe_box/status/1119932303088578561",
           "https://twitter.com/MoBustami/status/1119959411156488192",
+          "https://x.com/malwrhunterteam/status/1998743764630732932",
+          "https://www.virustotal.com/gui/file/d9dc90fd23cd2ad5e5a1b9df65d36f5328e0bfec7c278b2b6010d9812012ec5a/detection",
           "https://www.securityartwork.es/2019/01/18/grupo-wirte-atacando-a-oriente-medio/",
           "https://www.securityartwork.es/2019/01/25/wirte-group-attacking-the-middle-east/",
           "https://twitter.com/malwrhunterteam/status/1233666708616941570",
@@ -146896,11 +146909,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 53,
-          "ipv4": 5,
+          "domain": 59,
+          "ipv4": 6,
           "url": 1
         },
-        "total": 59
+        "total": 66
       }
     },
     "WUQIONGDONG": {
