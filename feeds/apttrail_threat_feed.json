@@ -6673,6 +6673,7 @@
           "alkhaleejpk.info",
           "alvesbarcelona.com",
           "andbouncersclub.com",
+          "andrewswebstorage.com",
           "apifilestore.net",
           "app.chabaka.com",
           "app2.appvlc.com",
@@ -6962,6 +6963,7 @@
           "rxnovelapps.info",
           "samsnewlooker.com",
           "sangellobrighthouse.com",
+          "sanolegazy.com",
           "sartetextile.com",
           "sbss.com.pk",
           "seragoonupdates.com",
@@ -7292,7 +7294,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2025-11-27T14:46:00+02:00",
+        "last_modified": "2025-12-10T10:23:32+02:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -7823,17 +7825,21 @@
           "https://x.com/RedDrip7/status/1993874904710828150",
           "https://www.virustotal.com/gui/file/258918e48a7aaf393af89858f95af666d260c4035b63195f29c8ecfb3291ccb5/detection",
           "https://x.com/malwrhunterteam/status/1994001214795862270",
-          "https://www.virustotal.com/gui/file/09647fabb086acf09fdc72f3e8703c77c65e27fa52de14c9976389ef1bf4a843/detection"
+          "https://www.virustotal.com/gui/file/09647fabb086acf09fdc72f3e8703c77c65e27fa52de14c9976389ef1bf4a843/detection",
+          "https://x.com/RedDrip7/status/1998638735358128307",
+          "https://www.virustotal.com/gui/file/1f262d5838e29f56eb190100f0753f2ae9c6a2b56954b0fef0f5481a2014fe00/detection",
+          "https://www.virustotal.com/gui/file/1854e0e0a59a82e4d9629dd54a506eb442a4d71e0b8c9984b444cb9407a89f42/detection",
+          "https://www.virustotal.com/gui/file/ffea43ead04d4bda567b1fd32ec68c8903ac7dbf9d63e001f804dbd0f717bbdf/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 440,
+          "domain": 442,
           "file_path": 77,
           "ipv4": 69,
           "url": 18
         },
-        "total": 604
+        "total": 606
       }
     },
     "BLACKGEAR": {
