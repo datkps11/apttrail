@@ -81293,6 +81293,7 @@ KIMSUKY,domain,account-google.notice-service.kro.kr
 KIMSUKY,domain,account-google.security-notice.kro.kr
 KIMSUKY,domain,account-google.security-sign.kro.kr
 KIMSUKY,domain,account-google.security-user.kro.kr
+KIMSUKY,domain,account-google.sign-protect.kro.kr
 KIMSUKY,domain,account-google.sign-security.kro.kr
 KIMSUKY,domain,account-live.p-e.kr
 KIMSUKY,domain,account-login.kro.kr
@@ -81604,6 +81605,7 @@ KIMSUKY,domain,aiozlabs.top
 KIMSUKY,domain,aiozlabs.xyz
 KIMSUKY,domain,aioztoken.top
 KIMSUKY,domain,air000sorricesnets.shop
+KIMSUKY,domain,airdrop.asterdex.kro.kr
 KIMSUKY,domain,airdrop.p2pb2b.kro.kr
 KIMSUKY,domain,airdropdao.top
 KIMSUKY,domain,airdrophubs.xyz
@@ -81976,6 +81978,7 @@ KIMSUKY,domain,assernbly.n-e.kr
 KIMSUKY,domain,asset.kyc.mexc-service.store
 KIMSUKY,domain,asssambly.mywebcommunity.org
 KIMSUKY,domain,astaibs.co.kr
+KIMSUKY,domain,asterdex.kro.kr
 KIMSUKY,domain,asteth.org
 KIMSUKY,domain,astrozeneca.ml
 KIMSUKY,domain,aswxvn.site
@@ -83538,6 +83541,7 @@ KIMSUKY,domain,dns.userinfo.nts-edoc.o-r.kr
 KIMSUKY,domain,dnss.world
 KIMSUKY,domain,do-can.click
 KIMSUKY,domain,doanthi.myvnc.com
+KIMSUKY,domain,doc-hometax.mydns.bz
 KIMSUKY,domain,doc-info.ultimamilla.cl
 KIMSUKY,domain,doc-nps.server-on.net
 KIMSUKY,domain,doc-portal.o-r.kr
@@ -83835,6 +83839,7 @@ KIMSUKY,domain,edoc.invoicesystem.n-e.kr
 KIMSUKY,domain,edoc.linkpc.net
 KIMSUKY,domain,edoc.maildocusers.mydns.vc
 KIMSUKY,domain,edoc.nhsdonate.mydns.vc
+KIMSUKY,domain,edoc.npinvoicesecurity.mydns.vc
 KIMSUKY,domain,edoc.ntdocument.r-e.kr
 KIMSUKY,domain,edoc.ntpservice.kro.kr
 KIMSUKY,domain,edoc.nts-service.o-r.kr
@@ -84836,6 +84841,7 @@ KIMSUKY,domain,google.onlinegdrive.kro.kr
 KIMSUKY,domain,google.secureactivity.kro.kr
 KIMSUKY,domain,google.securevalidation.live-on.net
 KIMSUKY,domain,google.secureverification.kro.kr
+KIMSUKY,domain,google.securityaccountverif.kro.kr
 KIMSUKY,domain,google.sign-account.o-r.kr
 KIMSUKY,domain,google.sign-account.r-e.kr
 KIMSUKY,domain,google.sign-security.kro.kr
@@ -85579,6 +85585,7 @@ KIMSUKY,domain,ipinst.shop
 KIMSUKY,domain,ipinst.store
 KIMSUKY,domain,ips-as.mydns.bz
 KIMSUKY,domain,ips-auth.mydns.vc
+KIMSUKY,domain,ips-callev.mydns.vc
 KIMSUKY,domain,ips-calleve.mydns.vc
 KIMSUKY,domain,ips-check.o-r.kr
 KIMSUKY,domain,ips-cloud.nid-recheck.kro.kr
@@ -85586,10 +85593,12 @@ KIMSUKY,domain,ips-doc.mydns.vc
 KIMSUKY,domain,ips-doc.r-e.kr
 KIMSUKY,domain,ips-ecall.mydns.bz
 KIMSUKY,domain,ips-edoc.mydns.bz
+KIMSUKY,domain,ips-go.mydns.bz
 KIMSUKY,domain,ips-gov.mydns.vc
 KIMSUKY,domain,ips-htax.mydns.bz
 KIMSUKY,domain,ips-info.mydns.vc
 KIMSUKY,domain,ips-nid.mydns.vc
+KIMSUKY,domain,ips-nidhelp.mydns.bz
 KIMSUKY,domain,ips-nidservice.mydns.vc
 KIMSUKY,domain,ips-ntax.mydns.bz
 KIMSUKY,domain,ips-org.mydns.vc
@@ -87555,6 +87564,7 @@ KIMSUKY,domain,n-corp.ips-auth.mydns.vc
 KIMSUKY,domain,n-corp.ips-doc.mydns.vc
 KIMSUKY,domain,n-corp.ips-htax.mydns.bz
 KIMSUKY,domain,n-corp.ips-info.mydns.vc
+KIMSUKY,domain,n-corp.notice-blog.mydns.bz
 KIMSUKY,domain,n-corp.nts-eml.mydns.bz
 KIMSUKY,domain,n-corp.nts-info.mydns.bz
 KIMSUKY,domain,n-corp.nts-kit.mydns.bz
@@ -87599,6 +87609,7 @@ KIMSUKY,domain,n-main.r-e.kr
 KIMSUKY,domain,n-sign.n-e.kr
 KIMSUKY,domain,n-store.edoc-nts.mydns.bz
 KIMSUKY,domain,n-store.ips-edoc.mydns.bz
+KIMSUKY,domain,n-store.ips-nidhelp.mydns.bz
 KIMSUKY,domain,n-store.ips-org.mydns.vc
 KIMSUKY,domain,n-store.nts-auth.mydns.bz
 KIMSUKY,domain,n-store.nts-gov.mydns.bz
@@ -89743,9 +89754,11 @@ KIMSUKY,domain,nid-naver.top
 KIMSUKY,domain,nid-naver.xyz
 KIMSUKY,domain,nid-naverahs.servequake.com
 KIMSUKY,domain,nid-naverawf.serveftp.com
+KIMSUKY,domain,nid-naverazd.servehalflife.com
 KIMSUKY,domain,nid-naverbmn.servecounterstrike.com
 KIMSUKY,domain,nid-naverbpk.onthewifi.com
 KIMSUKY,domain,nid-naverbqe.ddnsking.com
+KIMSUKY,domain,nid-naverbxw.servegame.com
 KIMSUKY,domain,nid-naverctl.ddnsking.com
 KIMSUKY,domain,nid-naverdqw.servequake.com
 KIMSUKY,domain,nid-naverdsf.servecounterstrike.com
@@ -89755,10 +89768,12 @@ KIMSUKY,domain,nid-naverekt.servecounterstrike.com
 KIMSUKY,domain,nid-navereqp.servegame.com
 KIMSUKY,domain,nid-navereyc.onthewifi.com
 KIMSUKY,domain,nid-naverfaq.onthewifi.com
+KIMSUKY,domain,nid-navergup.servecounterstrike.com
 KIMSUKY,domain,nid-naveriro.onthewifi.com
 KIMSUKY,domain,nid-naverixo.servemp3.com
 KIMSUKY,domain,nid-naverjdq.3utilities.com
 KIMSUKY,domain,nid-naverjlm.ddnsking.com
+KIMSUKY,domain,nid-naverjpd.servequake.com
 KIMSUKY,domain,nid-naverjxt.3utilities.com
 KIMSUKY,domain,nid-naverkae.servecounterstrike.com
 KIMSUKY,domain,nid-naverkga.servemp3.com
@@ -89779,6 +89794,7 @@ KIMSUKY,domain,nid-naveroic.servequake.com
 KIMSUKY,domain,nid-naverosa.servecounterstrike.com
 KIMSUKY,domain,nid-naveroyq.servemp3.com
 KIMSUKY,domain,nid-naverpns.onthewifi.com
+KIMSUKY,domain,nid-naverpog.ddnsking.com
 KIMSUKY,domain,nid-naverpvp.servequake.com
 KIMSUKY,domain,nid-naverpxi.servegame.com
 KIMSUKY,domain,nid-naverqcr.servepics.com
@@ -89822,9 +89838,11 @@ KIMSUKY,domain,nid-security.com
 KIMSUKY,domain,nid-service.naver-edocs.v6.navy
 KIMSUKY,domain,nid-user.edoc-nts.mydns.bz
 KIMSUKY,domain,nid-user.ips-auth.mydns.vc
+KIMSUKY,domain,nid-user.ips-callev.mydns.vc
 KIMSUKY,domain,nid-user.ips-calleve.mydns.vc
 KIMSUKY,domain,nid-user.ips-nid.mydns.vc
 KIMSUKY,domain,nid-user.ips-tax.mydns.vc
+KIMSUKY,domain,nid-user.notice-blog.mydns.bz
 KIMSUKY,domain,nid-yyanagemeniteam.890m.com
 KIMSUKY,domain,nid.account.myus93nsesq.kro.kr
 KIMSUKY,domain,nid.accountlive.store
@@ -90674,6 +90692,7 @@ KIMSUKY,domain,noteyou.live-on.net
 KIMSUKY,domain,noteyou.mydns.bz
 KIMSUKY,domain,noti.mailcorp.eu
 KIMSUKY,domain,notice-account.kro.kr
+KIMSUKY,domain,notice-blog.mydns.bz
 KIMSUKY,domain,notice-dosi.world
 KIMSUKY,domain,notice-irshome.site
 KIMSUKY,domain,notice-security.kro.kr
@@ -90714,6 +90733,7 @@ KIMSUKY,domain,npalarm.store
 KIMSUKY,domain,npay.r-e.kr
 KIMSUKY,domain,npcwscmainconfig.store
 KIMSUKY,domain,npdocinfo.kro.kr
+KIMSUKY,domain,npinvoicesecurity.mydns.vc
 KIMSUKY,domain,npiramid00grps.xyz
 KIMSUKY,domain,npkoruserconf.tech
 KIMSUKY,domain,npkrbooknets.website
@@ -93231,6 +93251,7 @@ KIMSUKY,domain,security-user.kro.kr
 KIMSUKY,domain,security.google-policy.com
 KIMSUKY,domain,security.p-e.kr
 KIMSUKY,domain,security.servepics.com
+KIMSUKY,domain,securityaccountverif.kro.kr
 KIMSUKY,domain,securitycenter.link
 KIMSUKY,domain,securitycenter.space
 KIMSUKY,domain,securitycloud.store
@@ -93445,6 +93466,7 @@ KIMSUKY,domain,sign-again.n-e.kr
 KIMSUKY,domain,sign-cetifyinform.n-e.kr
 KIMSUKY,domain,sign-dns.r-e.kr
 KIMSUKY,domain,sign-in.work
+KIMSUKY,domain,sign-protect.kro.kr
 KIMSUKY,domain,sign-secuicentry.n-e.kr
 KIMSUKY,domain,sign-security.kro.kr
 KIMSUKY,domain,sign-user.kro.kr
