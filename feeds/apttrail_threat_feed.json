@@ -103101,6 +103101,7 @@
           "qcxqocle.online",
           "qecgfuteproas.shop",
           "qehuwh.top",
+          "qeing.qooglegle.kro.kr",
           "qeoqwo.shop",
           "qeowsc.site",
           "qeuivul.click",
@@ -103122,6 +103123,7 @@
           "qokfqb.freedynamicdns.org",
           "qolpamcb.shop",
           "qoocqlle.online",
+          "qooglegle.kro.kr",
           "qoooglle.space",
           "qoooqle.site",
           "qoooqledrive.site",
@@ -106795,7 +106797,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2025-12-10T21:13:58+02:00",
+        "last_modified": "2025-12-10T21:26:34+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -108235,17 +108237,18 @@
           "https://www.virustotal.com/gui/file/315e433cf27e7eb08d3d6c204477a8563d51e9f659ed179594f013ba9fdd244f/detection",
           "https://www.virustotal.com/gui/file/9b7afcd4d0f2dc91a8909d913543d822abf2a6ccdf7e301e2823811f6b8e27e2/detection",
           "https://www.virustotal.com/gui/ip-address/64.176.224.132/relations",
-          "https://app.validin.com/detail?find=34be99c7e4dfe06ce03b91cddb103a2d&type=hash#tab=host_pairs (# 2025-12-10)"
+          "https://app.validin.com/detail?find=34be99c7e4dfe06ce03b91cddb103a2d&type=hash#tab=host_pairs (# 2025-12-10)",
+          "https://www.virustotal.com/gui/ip-address/27.102.138.45/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 14930,
+          "domain": 14932,
           "file_path": 280,
           "ipv4": 68,
           "url": 48
         },
-        "total": 15326
+        "total": 15328
       }
     },
     "KUN3": {
@@ -120960,6 +120963,7 @@
           "buzzstack.org",
           "c-cdn77.com",
           "caapakistaan.com",
+          "cabinetdivisionpakgov.org",
           "cartmizer.info",
           "cas-cn.org",
           "centling.nihaoucloud.org",
@@ -121175,6 +121179,7 @@
           "learnroots.org",
           "letschat-5d5e3-default-rtdb.firebaseio.com",
           "letsgetclose.com",
+          "lifengine.org",
           "little-nuts.com",
           "liuyi.neectar.info",
           "loma.breatlee.org",
@@ -121325,6 +121330,7 @@
           "redbanana36.info",
           "redcardboard.info",
           "redcrocodilepuppet.online",
+          "redwebsoft.org",
           "remitmetahk.org",
           "renovaragora.info",
           "retinoa.info",
@@ -121476,6 +121482,7 @@
           "xinhuanet.nihaoucloud.org",
           "xmachinez.com",
           "xuang.breatlee.org",
+          "xydizainten.org",
           "xydzaim.org",
           "yetwq.twilightparadox.com",
           "yooho-c3345-default-rtdb.firebaseio.com",
@@ -121702,7 +121709,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2025-12-03T15:22:20+02:00",
+        "last_modified": "2025-12-10T21:34:01+02:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -122112,17 +122119,19 @@
           "https://www.virustotal.com/gui/file/a943b5b03b31604830766f41187f65dff2f18d9f7dcdb4241b375a5d95aaa043/detection",
           "https://www.virustotal.com/gui/file/6c4c388acbd9790526cc7e8c567e430540436da94c6febe0766a1bdc39016da7/detection",
           "https://x.com/malwrhunterteam/status/1995494898431045933",
-          "https://www.virustotal.com/gui/file/54fb4b99a4a45338809ee58a3ee43bf0bd9cb97b356c466cd19a87497f216985/detection"
+          "https://www.virustotal.com/gui/file/54fb4b99a4a45338809ee58a3ee43bf0bd9cb97b356c466cd19a87497f216985/detection",
+          "https://x.com/wa1Ile/status/1995787286253035918",
+          "https://www.virustotal.com/gui/file/79192cba1c7037e1fe15dbf50bb2b3a96e53a85fbcbd2ce229af0efacdcb73c7/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 615,
+          "domain": 619,
           "file_path": 78,
           "ipv4": 57,
           "url": 42
         },
-        "total": 792
+        "total": 796
       }
     },
     "PEEPINGTITLE": {
@@ -127859,6 +127868,7 @@
           "govbd-div.com",
           "goverment-pk-update.top",
           "government-pak.workers.dev",
+          "govmm.me",
           "govmm.org",
           "govnp.live",
           "govnp.org",
@@ -130100,7 +130110,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2025-12-06T12:30:20+02:00",
+        "last_modified": "2025-12-10T21:37:13+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -131079,17 +131089,18 @@
           "https://x.com/__0XYC__/status/1996536016123892101",
           "https://tria.ge/251204-m88xqavkd1/behavioral2",
           "https://x.com/volrant136/status/1996677391704289400",
-          "https://www.virustotal.com/gui/file/21cb07f97127a5427603d9d9540c68e0fce7e1d4863216d86799a84f32074d05/detection"
+          "https://www.virustotal.com/gui/file/21cb07f97127a5427603d9d9540c68e0fce7e1d4863216d86799a84f32074d05/detection",
+          "https://app.validin.com/detail?type=hash&find=5bdf6ee243a03479ed1b1f05c2cee35a#tab=host_pairs (# 2025-10-12)"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3208,
+          "domain": 3209,
           "file_path": 14,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3298
+        "total": 3299
       }
     },
     "SILENCE": {
