@@ -96062,6 +96062,7 @@
           "ips-gov.mydns.vc",
           "ips-htax.mydns.bz",
           "ips-info.mydns.vc",
+          "ips-logmail.mydns.bz",
           "ips-nid.mydns.vc",
           "ips-nidhelp.mydns.bz",
           "ips-nidservice.mydns.vc",
@@ -98029,6 +98030,7 @@
           "n-corp.ips-doc.mydns.vc",
           "n-corp.ips-htax.mydns.bz",
           "n-corp.ips-info.mydns.vc",
+          "n-corp.ips-logmail.mydns.bz",
           "n-corp.notice-blog.mydns.bz",
           "n-corp.nts-eml.mydns.bz",
           "n-corp.nts-info.mydns.bz",
@@ -106793,7 +106795,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2025-12-10T20:32:03+02:00",
+        "last_modified": "2025-12-10T21:13:58+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -108238,12 +108240,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 14928,
+          "domain": 14930,
           "file_path": 280,
           "ipv4": 68,
           "url": 48
         },
-        "total": 15324
+        "total": 15326
       }
     },
     "KUN3": {
