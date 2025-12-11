@@ -11009,6 +11009,7 @@
           "featurespace.ooguy.com",
           "featurespace.serveblog.net",
           "file-access.com",
+          "file-review.hopto.org",
           "filecloudmanager.site",
           "fileeditiontools.linkpc.net",
           "filemanager.theworkpc.com",
@@ -11021,6 +11022,7 @@
           "finaledition.redirectme.net",
           "finance-usbnc.info",
           "first-course.online",
+          "first-myshortel.ddns.net",
           "flash-adobe.org",
           "flashpointfarm.gotdns.ch",
           "flighthelicopterahtest.azurewebsites.net",
@@ -11947,6 +11949,7 @@
           "shortener.ddns.net",
           "shortenurl.online",
           "shorter.kozow.com",
+          "shortfile-interactive.webredirect.org",
           "shorting-ce.live",
           "shorting-urling.live",
           "shortingurling.live",
@@ -12543,7 +12546,7 @@
         ],
         "apt_group": "CHARMINGKITTEN",
         "filename": "apt_charmingkitten.txt",
-        "last_modified": "2025-12-03T21:03:00+02:00",
+        "last_modified": "2025-12-11T17:04:51+02:00",
         "references": [
           "https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc (2018-06-12 Charming Kitten waterhole)",
           "https://www.clearskysec.com/charmingkitten/",
@@ -12740,6 +12743,7 @@
           "https://app.validin.com/detail?find=URL%20Shortener&type=raw&ref_id=7eee58f2849#tab=host_pairs (# 2025-08-18)",
           "https://x.com/ThreatBookLabs/status/1968132855827181901",
           "https://www.virustotal.com/gui/ip-address/185.132.176.27/relations",
+          "https://www.virustotal.com/gui/ip-address/185.182.194.50/relations",
           "https://app.validin.com/detail?find=%3A%3A%22og%3Atitle%22%3A%22title%22%3A%22ShortURL%20-%20URL%20Shortener%22&type=raw&ref_id=9b9c611b5fd#tab=host_pairs (# 2025-09-17)",
           "https://app.validin.com/detail?find=%3A%3A%22og%3Atitle%22%3A%22title%22%3A%22ShortURL%20-%20URL%20Shortener%22&type=raw&ref_id=9b9c611b5fd#tab=host_pairs (# 2025-09-17)",
           "https://research.checkpoint.com/2025/nimbus-manticore-deploys-new-malware-targeting-europe/",
@@ -12761,12 +12765,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 2051,
+          "domain": 2054,
           "file_path": 4,
           "ipv4": 107,
           "url": 25
         },
-        "total": 2187
+        "total": 2190
       }
     },
     "CLEAVER": {
@@ -19459,6 +19463,7 @@
           "sharepoint-google.ml",
           "sharereliable.buzz",
           "sharetobijoy.buzz",
+          "sharetosharing.info",
           "shop.toysgift.store",
           "shortdeserve.buzz",
           "shortler.xyz",
@@ -19911,7 +19916,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2025-12-03T20:26:15+02:00",
+        "last_modified": "2025-12-11T16:57:26+02:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -20539,12 +20544,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 699,
+          "domain": 700,
           "file_path": 231,
           "ipv4": 47,
           "url": 4
         },
-        "total": 981
+        "total": 982
       }
     },
     "DOWNEX": {
