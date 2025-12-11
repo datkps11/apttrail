@@ -139711,7 +139711,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2025-12-11T13:19:11+02:00",
+        "last_modified": "2025-12-11T14:02:34+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -140749,7 +140749,8 @@
           "https://www.virustotal.com/gui/file/8accc5fb18780747bccbd0f042f686c5191e2f782ee32b97cfa0786f04ab2283/detection",
           "https://x.com/malwrhunterteam/status/1998750026898579556",
           "https://www.virustotal.com/gui/file/b4c4e5e3d334ca1dc4f64435656f0aa011c8651cd4343707d0397ee9dc6c41e5/detection",
-          "https://www.virustotal.com/gui/file/2592a19569dc0635adb175b8e3732b1c0aa43a3055227b10be98760cfbea43fa/detection"
+          "https://www.virustotal.com/gui/file/2592a19569dc0635adb175b8e3732b1c0aa43a3055227b10be98760cfbea43fa/detection",
+          "https://www.virustotal.com/gui/file/4a091d21c18682b1fcb5d9bc097eb57d546be09cdf3594da159c4551cbe7dbe8/detection"
         ]
       },
       "statistics": {
@@ -146858,6 +146859,7 @@
         "domain": [
           "allaccounting.ca",
           "bankjordan.com",
+          "cdn.techpointinfo.com",
           "check.office365-update.com",
           "dentalaccord.com",
           "dentalmatrix.net",
@@ -146909,6 +146911,7 @@
           "sun-tourist.com",
           "suppertools.com",
           "support-api.financecovers.com",
+          "techpointinfo.com",
           "thefinanceinvest.com",
           "theshortner.com",
           "trendingcharts.finance-analyst.com",
@@ -146932,7 +146935,7 @@
         "aliases": [],
         "apt_group": "WIRTE",
         "filename": "apt_wirte.txt",
-        "last_modified": "2025-12-10T16:21:54+02:00",
+        "last_modified": "2025-12-11T14:22:44+02:00",
         "references": [
           "https://blog.talosintelligence.com/2018/02/targeted-attacks-in-middle-east.html",
           "https://twitter.com/SaudiDFIR/status/1119666633251930113",
@@ -146959,16 +146962,18 @@
           "https://www.virustotal.com/gui/file/e21362195463fe7c953afe07bea6a26ffead024c7f7394f51b683cbfe139b917/detection",
           "https://www.virustotal.com/gui/file/08a8ecc39817a81bb9cde3775ce7289d56e678e94b56b120e06eca171634a97d/detection",
           "https://x.com/k3yp0d/status/1857000802067345730",
-          "https://research.checkpoint.com/2024/hamas-affiliated-threat-actor-expands-to-disruptive-activity/"
+          "https://research.checkpoint.com/2024/hamas-affiliated-threat-actor-expands-to-disruptive-activity/",
+          "https://unit42.paloaltonetworks.com/hamas-affiliate-ashen-lepus-uses-new-malware-suite-ashtag/",
+          "https://www.virustotal.com/gui/file/9979ed5993fb6d678727e6dacb15d26c1b4f07f16404b62dc8b5e25a359d9aec/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 59,
+          "domain": 61,
           "ipv4": 6,
           "url": 1
         },
-        "total": 66
+        "total": 68
       }
     },
     "WUQIONGDONG": {
