@@ -141306,6 +141306,7 @@
           "acount-passport.site",
           "acounts.net-verification.online",
           "aff-gos.top",
+          "agelessinvesting.xyz",
           "ais-gos.top",
           "akademia-mil.space",
           "all-ukraine.top",
@@ -141881,11 +141882,13 @@
           "TA445",
           "frostyneighbor",
           "UAC-0057",
-          "UAC-0100"
+          "UAC-0100",
+          "WhiteLynx",
+          "Storm-0257"
         ],
         "apt_group": "UNC1151",
         "filename": "apt_unc1151.txt",
-        "last_modified": "2025-09-08T11:20:57+03:00",
+        "last_modified": "2025-12-11T20:10:32+02:00",
         "references": [
           "https://content.fireeye.com/web-assets/rpt-unc1151-ghostwriter-update",
           "https://www.fireeye.com/blog/threat-research/2021/04/espionage-group-unc1151-likely-conducts-ghostwriter-influence-activity.html",
@@ -141965,16 +141968,17 @@
           "https://github.com/HarfangLab/iocs/blob/main/TRR250801/trr250801_iocs.txt",
           "https://x.com/malwrhunterteam/status/1909235735850279070",
           "https://x.com/malwrhunterteam/status/1909280553821741451",
-          "https://www.virustotal.com/gui/file/146df172a08f3b8bec4d5e2f3ac552af28ac2e17f682712f135e7c94c28263c8/detection"
+          "https://www.virustotal.com/gui/file/146df172a08f3b8bec4d5e2f3ac552af28ac2e17f682712f135e7c94c28263c8/detection",
+          "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-12-08-White-Lynx-uses-CAPTCHA-macros.txt"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 580,
+          "domain": 581,
           "ipv4": 5,
           "url": 4
         },
-        "total": 589
+        "total": 590
       }
     },
     "UNC215": {
