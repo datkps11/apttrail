@@ -137907,6 +137907,7 @@
           "indianarmy.pl",
           "indianblog.xyz",
           "indianbosssystems.ddns.net",
+          "indiancyberteam.website",
           "indiandefence.com",
           "indiandefence.directory",
           "indiandefence.in",
@@ -139755,7 +139756,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2025-12-11T14:02:34+02:00",
+        "last_modified": "2025-12-12T10:39:50+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -140794,17 +140795,22 @@
           "https://x.com/malwrhunterteam/status/1998750026898579556",
           "https://www.virustotal.com/gui/file/b4c4e5e3d334ca1dc4f64435656f0aa011c8651cd4343707d0397ee9dc6c41e5/detection",
           "https://www.virustotal.com/gui/file/2592a19569dc0635adb175b8e3732b1c0aa43a3055227b10be98760cfbea43fa/detection",
-          "https://www.virustotal.com/gui/file/4a091d21c18682b1fcb5d9bc097eb57d546be09cdf3594da159c4551cbe7dbe8/detection"
+          "https://www.virustotal.com/gui/file/4a091d21c18682b1fcb5d9bc097eb57d546be09cdf3594da159c4551cbe7dbe8/detection",
+          "https://x.com/RedDrip7/status/1999311448552710501",
+          "https://www.virustotal.com/gui/file/95cf02a68dcc20569823e5af4dae98e1c3a8d6e0c6b2a302f872a52cf4fb4f6f/detection",
+          "https://www.virustotal.com/gui/file/09ef53876f1d5d5dfb97a9291e96f6869a3e94f07e5ef4534c37122fc1a41e66/detection",
+          "https://x.com/suyog41/status/1999366858387128363",
+          "https://www.virustotal.com/gui/file/3d06a17127cea0e05d750f0e42fb46fdbd166c1086a63aeea9abe5b2328de55b/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3225,
+          "domain": 3226,
           "file_path": 40,
           "ipv4": 779,
           "url": 121
         },
-        "total": 4165
+        "total": 4166
       }
     },
     "TRIANGULATION": {
@@ -146905,7 +146911,16 @@
     "WIRTE": {
       "indicators": {
         "domain": [
+          "account.techupinfo.com",
           "allaccounting.ca",
+          "api.healthylifefeed.com",
+          "api.medicinefinders.com",
+          "api.softmatictech.com",
+          "api.systemsync.info",
+          "api.technology-system.com",
+          "api.widetechno.info",
+          "apiv2.onlinefieldtech.com",
+          "auth.onlinefieldtech.com",
           "bankjordan.com",
           "cdn.techpointinfo.com",
           "check.office365-update.com",
@@ -146926,11 +146941,14 @@
           "financecovers.com",
           "financeinfoguide.com",
           "firstohiobank.com",
+          "forum.technoforts.com",
+          "forum.techtg.com",
           "fox.foxlove.life",
           "foxlove.life",
           "healthcarb.com",
           "healthoptionstoday.com",
           "healthscratches.com",
+          "healthylifefeed.com",
           "imagine-world.com",
           "jo.foxlove.life",
           "jordanrefugees.com",
@@ -146938,6 +146956,7 @@
           "king-pharmacy.com",
           "kneeexercises.net",
           "master-dental.com",
+          "medicinefinders.com",
           "micorsoft.store",
           "microsoftliveforums.com",
           "microsoftteams365.com",
@@ -146949,23 +146968,31 @@
           "office365-update.co",
           "office365-update.com",
           "omegaeyehospital.com",
+          "onlinefieldtech.com",
           "pocket-property.com",
           "printspoolerupdates.com",
           "qrdorks.com",
           "saudiarabianow.org",
           "saudiday.org",
           "share2file.pro",
+          "softmatictech.com",
+          "status.techupinfo.com",
           "stgeorgebankers.com",
           "sun-tourist.com",
           "suppertools.com",
           "support-api.financecovers.com",
+          "systemsync.info",
+          "technoforts.com",
           "techpointinfo.com",
+          "techtg.com",
+          "techupinfo.com",
           "thefinanceinvest.com",
           "theshortner.com",
           "trendingcharts.finance-analyst.com",
           "unitedfamilyhealth.net",
           "update.share2file.pro",
-          "wellhealthtech.com"
+          "wellhealthtech.com",
+          "widetechno.info"
         ],
         "ipv4": [
           "104.24.108.64:2082",
@@ -146980,10 +147007,15 @@
         ]
       },
       "metadata": {
-        "aliases": [],
+        "aliases": [
+          "ashenloader",
+          "ashtag",
+          "ashenorchestrator",
+          "ashenstager"
+        ],
         "apt_group": "WIRTE",
         "filename": "apt_wirte.txt",
-        "last_modified": "2025-12-11T14:22:44+02:00",
+        "last_modified": "2025-12-12T10:50:51+02:00",
         "references": [
           "https://blog.talosintelligence.com/2018/02/targeted-attacks-in-middle-east.html",
           "https://twitter.com/SaudiDFIR/status/1119666633251930113",
@@ -147017,11 +147049,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 61,
+          "domain": 82,
           "ipv4": 6,
           "url": 1
         },
-        "total": 68
+        "total": 89
       }
     },
     "WUQIONGDONG": {
