@@ -142470,8 +142470,10 @@
           "cdn-web-server1.techserver01.workers.dev",
           "cdn1.cowivat156.workers.dev",
           "cdn1.poyag17470.workers.dev",
+          "crimson-unit-2561.kopis56799.workers.dev",
           "dash-server.servertech03.workers.dev",
           "ec2-app.lewoha7320.workers.dev",
+          "ec2-server-noisy-band-0fe8.focapaj280.workers.dev",
           "ec2-server.bayaj19162.workers.dev",
           "ec2-server.gegodec527.workers.dev",
           "ec2-server.milago3967.workers.dev",
@@ -142479,6 +142481,7 @@
           "keystore-explorer.com",
           "mstore.framfarmers.co.uk",
           "pofelal314.workers.dev",
+          "server-cd2.bipewi2747.workers.dev",
           "server-cdn.jawigaw383.workers.dev",
           "server-cdn.lafise2419.workers.dev",
           "server-cdn.lecoc56350.workers.dev",
@@ -142496,10 +142499,12 @@
           "server-web-cdn.vosax32455.workers.dev",
           "server-web-cdn.yevobod379.workers.dev",
           "server-web-cdn1.gekod80409.workers.dev",
+          "server-web.sasex59966.workers.dev",
           "soft-base-01.ginigiy117.workers.dev",
           "soft-dns.sejilod748.workers.dev",
           "ssl.bapiyat727.workers.dev",
           "web-app.dasik14289.workers.dev",
+          "web-app.larij21770.workers.dev",
           "work-server-1.picalob750.workers.dev"
         ]
       },
@@ -142509,7 +142514,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2025-11-25T20:56:39+02:00",
+        "last_modified": "2025-12-12T23:50:39+02:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -142519,9 +142524,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 42
+          "domain": 47
         },
-        "total": 42
+        "total": 47
       }
     },
     "UNC2529": {
