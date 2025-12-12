@@ -19318,6 +19318,7 @@
           "newpoolinwes.site",
           "nextgent.top",
           "nextra.buzz",
+          "notedupdatez.info",
           "nucleusvision.sytes.net",
           "oceansurvey.club",
           "office-updatecentral.com",
@@ -19638,6 +19639,11 @@
           "/3fHYKahOXhkVV3Uj/dqyWpAfXBcyQkTkzoamk25hn3cbTbeuhImfJO08uTOFCkhIa.mp3",
           "/3fHYKahOXhkVV3Uj/dqyWpAfXBcyQkTkzoamk25hn3cbTbeuhImfJO08uTOFCkhIa.mp4",
           "/3fHYKahOXhkVV3Uj/dqyWpAfXBcyQkTkzoamk25hn3cbTbeuhImfJO08uTOFCkhIa.png",
+          "/3ivxayg3nG4kHvuM/99EEDcFpfjyTjN9V.php",
+          "/3ivxayg3nG4kHvuM/99EEDcFpfjyTjN9V33woG1SJhAOQ9LWFSYGfKWMb0TagC95p.ico",
+          "/3ivxayg3nG4kHvuM/99EEDcFpfjyTjN9V33woG1SJhAOQ9LWFSYGfKWMb0TagC95p.mp3",
+          "/3ivxayg3nG4kHvuM/99EEDcFpfjyTjN9V33woG1SJhAOQ9LWFSYGfKWMb0TagC95p.mp4",
+          "/3ivxayg3nG4kHvuM/99EEDcFpfjyTjN9V33woG1SJhAOQ9LWFSYGfKWMb0TagC95p.png",
           "/442WpoKwPlGlPBMPFMI1q5TzgOKfNQXZhkIKRv9rfAgEQfC6.ico",
           "/442WpoKwPlGlPBMPFMI1q5TzgOKfNQXZhkIKRv9rfAgEQfC6.mp3",
           "/442WpoKwPlGlPBMPFMI1q5TzgOKfNQXZhkIKRv9rfAgEQfC6.mp4",
@@ -19660,6 +19666,11 @@
           "/8sGTwkBeWj8fffzq/0KA8upLw0aegRS7drA7LQPe47teqkg9IVINUH3ZmUSMPiRzW.png",
           "/8ujdfuyer8d8f7d98jreerje.doc",
           "/8ujdfuyer8d8f7d98jreerje.dot",
+          "/99EEDcFpfjyTjN9V.php",
+          "/99EEDcFpfjyTjN9V33woG1SJhAOQ9LWFSYGfKWMb0TagC95p.ico",
+          "/99EEDcFpfjyTjN9V33woG1SJhAOQ9LWFSYGfKWMb0TagC95p.mp3",
+          "/99EEDcFpfjyTjN9V33woG1SJhAOQ9LWFSYGfKWMb0TagC95p.mp4",
+          "/99EEDcFpfjyTjN9V33woG1SJhAOQ9LWFSYGfKWMb0TagC95p.png",
           "/9MBOzdRlUhSvqLmN/b4MjHpJj3H2wBmWaJg5XGHC9FRQbU4lMQ3i55kDNyYU1NhQr.ico",
           "/9MBOzdRlUhSvqLmN/b4MjHpJj3H2wBmWaJg5XGHC9FRQbU4lMQ3i55kDNyYU1NhQr.mp3",
           "/9MBOzdRlUhSvqLmN/b4MjHpJj3H2wBmWaJg5XGHC9FRQbU4lMQ3i55kDNyYU1NhQr.mp4",
@@ -19932,7 +19943,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2025-12-11T17:57:01+02:00",
+        "last_modified": "2025-12-12T10:30:27+02:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -20565,17 +20576,19 @@
           "https://www.virustotal.com/gui/file/074c7910dc0561341d433eb39a51942919a0fefa5745d4365b229b7152b2b7fe/detection",
           "https://www.virustotal.com/gui/file/3fd00f82b82cde16486f8404a000742dbeaf1148d74d655a77f0ad20fd372682/detection",
           "https://www.virustotal.com/gui/file/cd4f9c18ee5cec21c5bd2d3154a36ac0244fcb3bf46eeac9b9e426b6a43d91f3/detection",
-          "https://www.virustotal.com/gui/file/e3260137c712111e555564d8ae1ae637e01a626d38a3ceeabef38d1bc1f8f876/detection"
+          "https://www.virustotal.com/gui/file/e3260137c712111e555564d8ae1ae637e01a626d38a3ceeabef38d1bc1f8f876/detection",
+          "https://x.com/malwrhunterteam/status/1999232155797365157",
+          "https://www.virustotal.com/gui/file/c61a761cf63e14107e5dfa82aa931bce2342f71288a1435ac2470d1c4bf3c7de/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 708,
-          "file_path": 239,
+          "domain": 709,
+          "file_path": 249,
           "ipv4": 47,
           "url": 4
         },
-        "total": 998
+        "total": 1009
       }
     },
     "DOWNEX": {
