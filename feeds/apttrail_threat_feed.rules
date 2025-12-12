@@ -5594,7 +5594,7 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT WINTERVIVERN - HTTP Requ
 
 # ==================================================
 # APT Group: WIRTE
-# Aliases: ashenloader, ashtag, ashenorchestrator, ashenstager
+# Aliases: ashenloader, ashtag, ashenorchestrator, ashenstager, ashenlepus
 # ==================================================
 
 # WIRTE - Domain Indicators (82 domains)

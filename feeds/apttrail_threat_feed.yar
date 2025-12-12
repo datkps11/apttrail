@@ -13711,7 +13711,7 @@ rule APT_WIRTE
         description = "Detects IOCs associated with APT WIRTE"
         author = "APTtrail Automated Collection"
         apt_group = "WIRTE"
-        aliases = "ashenloader, ashenorchestrator, ashenstager"
+        aliases = "ashenlepus, ashenloader, ashenorchestrator"
         reference = "https://app.any.run/tasks/4c404a75-4caf-430b-a901-c18bc8fb0824/"
         severity = "high"
         tlp = "white"
