@@ -121402,6 +121402,7 @@
           "securematrixx.com",
           "securemessagingapps.blogspot.com",
           "sensors.opensecurity-legacy.com",
+          "setappleclin.info",
           "sfpay.online",
           "shareboostfile.com",
           "sheicen.info",
@@ -121755,7 +121756,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2025-12-10T21:34:01+02:00",
+        "last_modified": "2025-12-13T10:57:58+02:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -122099,6 +122100,7 @@
           "https://app.validin.com/detail?find=29b09458486f130ead14f1143f4a2b72&type=hash&ref_id=05ab0d824fc#tab=host_pairs (# 2025-05-26)",
           "https://www.virustotal.com/gui/file/8f845267623cb3b8dbc99fcb374afcd695778addcc57c098714610c8f854e58a/detection",
           "https://x.com/malwrhunterteam/status/1928036337292132790",
+          "https://www.virustotal.com/gui/ip-address/185.225.17.36/relations",
           "https://app.validin.com/detail?find=b0a0f886d1efaa5802076ac21043632186b5a781&type=hash&ref_id=15af9f26bc4#tab=host_pairs (# 2025-05-29)",
           "https://www.virustotal.com/gui/file/2b24fe48628fe0405db4fa3534d31c305947a7eed8ff5e42724ab4d8117fb8ab/detection",
           "https://www.virustotal.com/gui/file/abefd29c85d69f35f3cf8f5e6a2be76834416cc43d87d1f6643470b359ed4b1b/detection",
@@ -122172,12 +122174,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 619,
+          "domain": 620,
           "file_path": 78,
           "ipv4": 57,
           "url": 42
         },
-        "total": 796
+        "total": 797
       }
     },
     "PEEPINGTITLE": {
