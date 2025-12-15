@@ -121111,6 +121111,7 @@
           "eyescreem.com",
           "faridun.com",
           "feng.breatlee.org",
+          "fgeha-gov-pk.pages.dev",
           "fideline.info",
           "fierybarrels.com",
           "file-downloader.ga",
@@ -121333,6 +121334,8 @@
           "outlook-updates.ddns.net",
           "outlookkz.com",
           "overtures.info",
+          "paacdn-deliver.pages.dev",
+          "paapakistan-com-pk.pages.dev",
           "pankilo.xyz",
           "parkways.info",
           "pd35.b-cdn.net",
@@ -121601,6 +121604,7 @@
           "/hailo/cert.php",
           "/hailo/load_img.php",
           "/hailo/pakart.php",
+          "/hnseb3229nbhs.html",
           "/ipimp.txt",
           "/j8fiandfuesmg.php",
           "/ksJ9_Ks9J.bin",
@@ -121756,7 +121760,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2025-12-13T10:57:58+02:00",
+        "last_modified": "2025-12-15T12:21:08+02:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -122169,17 +122173,19 @@
           "https://x.com/malwrhunterteam/status/1995494898431045933",
           "https://www.virustotal.com/gui/file/54fb4b99a4a45338809ee58a3ee43bf0bd9cb97b356c466cd19a87497f216985/detection",
           "https://x.com/wa1Ile/status/1995787286253035918",
-          "https://www.virustotal.com/gui/file/79192cba1c7037e1fe15dbf50bb2b3a96e53a85fbcbd2ce229af0efacdcb73c7/detection"
+          "https://www.virustotal.com/gui/file/79192cba1c7037e1fe15dbf50bb2b3a96e53a85fbcbd2ce229af0efacdcb73c7/detection",
+          "https://x.com/malwrhunterteam/status/1999049247728291932",
+          "https://www.virustotal.com/gui/file/5dc5de87fb868fb06e107a7695d7f002dfd31c51b9ef7e237c35973ce4716608/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 620,
-          "file_path": 78,
+          "domain": 623,
+          "file_path": 79,
           "ipv4": 57,
           "url": 42
         },
-        "total": 797
+        "total": 801
       }
     },
     "PEEPINGTITLE": {
@@ -127710,7 +127716,6 @@
           "fetchdrive.info",
           "fetchdrive.org",
           "ffc.gov.pk-mail.org",
-          "fgeha-gov-pk.pages.dev",
           "fia-gob.net",
           "fia-gov.com",
           "fia-gov.net",
@@ -130059,7 +130064,6 @@
           "/RWlVOGJCSUxEaVljT0dKaQ==.aspx",
           "/cetcc/crud.php",
           "/cvbnhmj7.php",
-          "/hnseb3229nbhs.html",
           "/mail/AFA/RWlVOGJCSUxEaVljT0dKaQ==.aspx",
           "/pl200_TMP2831474WDF.php",
           "/r3diRecT/redirector/proxy.php",
@@ -130165,7 +130169,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2025-12-11T12:44:49+02:00",
+        "last_modified": "2025-12-15T12:20:49+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -131147,19 +131151,17 @@
           "https://www.virustotal.com/gui/file/21cb07f97127a5427603d9d9540c68e0fce7e1d4863216d86799a84f32074d05/detection",
           "https://app.validin.com/detail?type=hash&find=5bdf6ee243a03479ed1b1f05c2cee35a#tab=host_pairs (# 2025-10-12)",
           "https://x.com/wa1Ile/status/1999042315726295358",
-          "https://www.virustotal.com/gui/file/30be03d9709a15d677b7692855993f1ef3708d568c27c293cc2f02295ce99c4b/detection",
-          "https://x.com/malwrhunterteam/status/1999049247728291932",
-          "https://www.virustotal.com/gui/file/5dc5de87fb868fb06e107a7695d7f002dfd31c51b9ef7e237c35973ce4716608/detection"
+          "https://www.virustotal.com/gui/file/30be03d9709a15d677b7692855993f1ef3708d568c27c293cc2f02295ce99c4b/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3215,
-          "file_path": 15,
+          "domain": 3214,
+          "file_path": 14,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3306
+        "total": 3304
       }
     },
     "SILENCE": {
