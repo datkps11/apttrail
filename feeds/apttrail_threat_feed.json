@@ -9094,6 +9094,8 @@
           "twosigmavc.capital",
           "twosigmaventures.us",
           "ua02webzoom.us",
+          "ua05webzoom.us",
+          "uc02webzoom.us",
           "uc04webzoom.us",
           "uc05webzoom.us",
           "uc07webzoom.us",
@@ -9118,6 +9120,8 @@
           "um04webzoom.us",
           "um05webzoom.us",
           "um06webzoom.us",
+          "un02webzoom.us",
+          "un04webzoom.us",
           "unchainedcapital.co",
           "unitpowergeneration.top",
           "up.digifincx.com",
@@ -9261,8 +9265,13 @@
           "us24webzoom.us",
           "us25webzoom.us",
           "us26webzoom.us",
+          "us27webzoom.us",
+          "us28webzoom.us",
+          "us45webzoom.us",
           "us4web.us",
           "us50webzoom.us",
+          "us51webzoom.us",
+          "us53webzoom.us",
           "us60webzoom.us",
           "usecrowdpay.xyz",
           "uswe01.us",
@@ -9280,6 +9289,9 @@
           "usweb08.us",
           "usweb09.us",
           "usweb5.us",
+          "ux02webzoom.us",
+          "ux04webzoom.us",
+          "ux05webzoom.us",
           "uz01webzoom.us",
           "uz02webzoom.us",
           "uz04webzoom.us",
@@ -9437,7 +9449,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2025-12-04T11:29:43+02:00",
+        "last_modified": "2025-12-16T13:06:55+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -9568,11 +9580,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1060,
+          "domain": 1072,
           "ipv4": 14,
           "url": 3
         },
-        "total": 1077
+        "total": 1089
       }
     },
     "BLUEPRINT": {
