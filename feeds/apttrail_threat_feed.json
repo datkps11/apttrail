@@ -106821,6 +106821,13 @@
           "216.189.159.34:443",
           "216.219.87.41:3389",
           "23.236.181.108:52390",
+          "27.102.137.106:443",
+          "27.102.137.180:443",
+          "27.102.137.181:443",
+          "27.102.137.214:443",
+          "27.102.137.93:443",
+          "27.102.138.163:443",
+          "27.102.138.181:443",
           "38.110.1.69:993",
           "43.201.69.58:8080",
           "45.114.129.138:33890",
@@ -106886,8 +106893,15 @@
           "http://213.248.132.108",
           "http://216.189.159.34",
           "http://23.27.140.49",
+          "http://27.102.137.106",
+          "http://27.102.137.180",
+          "http://27.102.137.181",
+          "http://27.102.137.214",
           "http://27.102.137.242",
+          "http://27.102.137.93",
           "http://27.102.138.10",
+          "http://27.102.138.163",
+          "http://27.102.138.181",
           "http://27.102.138.216",
           "http://27.102.138.226",
           "http://27.102.138.91",
@@ -106926,7 +106940,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2025-12-17T15:33:46+02:00",
+        "last_modified": "2025-12-17T15:40:27+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -108370,17 +108384,18 @@
           "https://www.virustotal.com/gui/ip-address/27.102.138.45/relations",
           "https://x.com/Dixit_404/status/1998976475849175247",
           "https://tria.ge/251211-fx9xbaxjan/behavioral1",
-          "https://www.virustotal.com/gui/ip-address/158.247.224.152/relations"
+          "https://www.virustotal.com/gui/ip-address/158.247.224.152/relations",
+          "https://www.enki.co.kr/en/media-center/blog/kimsuky-distributing-malicious-mobile-app-via-qr-code"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 15005,
           "file_path": 280,
-          "ipv4": 68,
-          "url": 48
+          "ipv4": 75,
+          "url": 55
         },
-        "total": 15401
+        "total": 15415
       }
     },
     "KUN3": {
