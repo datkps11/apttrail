@@ -10525,6 +10525,7 @@
           "bahaius.info",
           "bailment.org",
           "basementofdarkness.ddns.net",
+          "bbmovements.com",
           "bdroyer.webredirect.org",
           "beape.live",
           "beasze.live",
@@ -10604,6 +10605,7 @@
           "careersworld.org",
           "carservices.dns-dynamic.net",
           "cashcloudservices.com",
+          "cavinet.org",
           "cc-newton.info",
           "ccreservoir.info",
           "cdn-workspacestudio.redirectme.net",
@@ -11229,6 +11231,8 @@
           "islamicemojimaker.com",
           "ismywhs.com.de",
           "isra-help.org",
+          "israel-talent.com",
+          "israel-talent.xyz",
           "israelhayum.com",
           "it-service.men",
           "itemselectionmode.info",
@@ -11259,6 +11263,7 @@
           "jupyternotebookscollection.azurewebsites.net",
           "k2intelliqence.com",
           "kandovani.org",
+          "kanplus.org",
           "kavkazru.press",
           "khaleejtimes.co",
           "khaleejtimes.org",
@@ -11476,6 +11481,8 @@
           "mofa-ic.ae",
           "mojavemassageandwellness.com",
           "monitor-ua.com",
+          "moses-staff.io",
+          "moses-staff.to",
           "mrz.fazadi.info",
           "msn-center.uk",
           "msn-service.co",
@@ -11867,6 +11874,7 @@
           "scribdinc.site",
           "searchfilterapp.info",
           "searchstatistics.duckdns.org",
+          "secnetdc.com",
           "securelogicalrepository.com",
           "security-supportteams-mail-change.ga",
           "see-us.info",
@@ -12073,12 +12081,14 @@
           "teamspeaks.cf",
           "technewsblogapi.azurewebsites.net",
           "technical-updates.info",
+          "tecret.com",
           "telagram.cf",
           "telagram.net",
           "teledyneflir.com.de",
           "telehealthconnectpro.azurewebsites.net",
           "telespazio-careers.com",
           "tensore.online",
+          "termite.nu",
           "terms-service-notification.info",
           "terms-service-notlfication.info",
           "termsstatement.duckdns.org",
@@ -12558,7 +12568,7 @@
         ],
         "apt_group": "CHARMINGKITTEN",
         "filename": "apt_charmingkitten.txt",
-        "last_modified": "2025-12-11T17:04:51+02:00",
+        "last_modified": "2025-12-17T17:44:09+02:00",
         "references": [
           "https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc (2018-06-12 Charming Kitten waterhole)",
           "https://www.clearskysec.com/charmingkitten/",
@@ -12772,17 +12782,18 @@
           "https://www.virustotal.com/gui/file/c8baf145f2f586167ed108eca143ce4d2b86af8df050a226959fcb172462cd0a/detection",
           "https://www.proofpoint.com/us/blog/threat-insight/crossed-wires-case-study-iranian-espionage-and-attribution",
           "https://x.com/blackorbird/status/1992075483836744154",
-          "https://dti.domaintools.com/threat-intelligence-report-apt35-internal-leak-of-hacking-campaigns-against-lebanon-kuwait-turkey-saudi-arabia-korea-and-domestic-iranian-targets/"
+          "https://dti.domaintools.com/threat-intelligence-report-apt35-internal-leak-of-hacking-campaigns-against-lebanon-kuwait-turkey-saudi-arabia-korea-and-domestic-iranian-targets/",
+          "https://dti.domaintools.com/the-apt35-dump-episode-4-leaking-the-backstage-pass-to-an-iranian-intelligence-operation/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 2054,
+          "domain": 2064,
           "file_path": 4,
           "ipv4": 107,
           "url": 25
         },
-        "total": 2190
+        "total": 2200
       }
     },
     "CLEAVER": {
