@@ -95956,6 +95956,8 @@
           "imxnfts.top",
           "imxnfts.xyz",
           "in-voice.navarajbudha.com.np",
+          "in-voice.naveredocs.abrdns.com",
+          "in-voices.abrdns.com",
           "in.mogovernts.kro.kr",
           "inbox-mail.work",
           "inbox-yahoo.com",
@@ -99019,6 +99021,7 @@
           "navercorp.com-signin.live-on.net",
           "navercorp.com.co",
           "navercorp.date",
+          "navercorp.in-voices.abrdns.com",
           "navercorp.nid-login.live-on.net",
           "navercorp.tech",
           "navercorp.top",
@@ -99107,6 +99110,7 @@
           "naverecenter.store",
           "naverecom.click",
           "naveredoc.com",
+          "naveredocs.abrdns.com",
           "naverenid.live",
           "naverenid.xyz",
           "naverereact.store",
@@ -106922,7 +106926,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2025-12-16T15:56:56+02:00",
+        "last_modified": "2025-12-17T15:33:46+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -108371,12 +108375,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 15001,
+          "domain": 15005,
           "file_path": 280,
           "ipv4": 68,
           "url": 48
         },
-        "total": 15397
+        "total": 15401
       }
     },
     "KUN3": {
