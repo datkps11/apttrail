@@ -6674,6 +6674,29 @@ rule APT_LONGHORN
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_LONGNOSEDGOBLIN
+{
+    meta:
+        description = "Detects IOCs associated with APT LONGNOSEDGOBLIN"
+        author = "APTtrail Automated Collection"
+        apt_group = "LONGNOSEDGOBLIN"
+        aliases = "nosydoor, nosydownloader, nosyhistorian"
+        reference = "https://www.virustotal.com/gui/ip-address/103.159.132.75/relations"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "assesscompplan\.com" ascii wide nocase
+        $domain1 = "blazenewso\.com" ascii wide nocase
+        $domain2 = "privacypolicy-my\.com" ascii wide nocase
+        $domain3 = "rethinkpayequity\.com" ascii wide nocase
+        $domain4 = "sslvpnserver\.com" ascii wide nocase
+        $domain5 = "threadstub\.com" ascii wide nocase
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
+}
+
 rule APT_LOTUSBLOSSOM
 {
     meta:

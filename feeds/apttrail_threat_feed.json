@@ -114475,6 +114475,38 @@
         "total": 7
       }
     },
+    "LONGNOSEDGOBLIN": {
+      "indicators": {
+        "domain": [
+          "assesscompplan.com",
+          "blazenewso.com",
+          "privacypolicy-my.com",
+          "rethinkpayequity.com",
+          "sslvpnserver.com",
+          "threadstub.com"
+        ]
+      },
+      "metadata": {
+        "aliases": [
+          "nosydownloader",
+          "nosydoor",
+          "nosyhistorian"
+        ],
+        "apt_group": "LONGNOSEDGOBLIN",
+        "filename": "apt_longnosedgoblin.txt",
+        "last_modified": "2025-12-18T17:59:08+02:00",
+        "references": [
+          "https://www.welivesecurity.com/en/eset-research/longnosedgoblin-tries-sniff-out-governmental-affairs-southeast-asia-japan/",
+          "https://www.virustotal.com/gui/ip-address/103.159.132.75/relations"
+        ]
+      },
+      "statistics": {
+        "by_type": {
+          "domain": 6
+        },
+        "total": 6
+      }
+    },
     "LOTUSBLOSSOM": {
       "indicators": {
         "domain": [
@@ -127698,7 +127730,9 @@
           "downnload.org",
           "dr-doom.xyz",
           "draft-paper-advertisementfdg.netlify.app",
+          "drive-acct-offl-pdf.com",
           "drive-afd-gov-bd-account-file.netlify.app",
+          "drive-armed-force-day-cas-msg.netlify.app",
           "drive-army-mil-bd-account-data-file.netlify.app",
           "drive-baf-mil-bd-share-file.netlify.app",
           "drive-bcc-registraion-cloud-storage.netlify.app",
@@ -130309,7 +130343,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2025-12-18T14:17:22+02:00",
+        "last_modified": "2025-12-18T17:43:37+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -131294,17 +131328,18 @@
           "https://x.com/suyog41/status/2001622867822415897",
           "https://www.virustotal.com/gui/file/30be03d9709a15d677b7692855993f1ef3708d568c27c293cc2f02295ce99c4b/detection",
           "https://www.virustotal.com/gui/file/7d8109940eb9b9c5f00f6ff8b4db21585c1a2723766a359eef39e6926e0807ea/detection",
-          "https://x.com/volrant136/status/2000684285901332534"
+          "https://x.com/volrant136/status/2000684285901332534",
+          "https://x.com/volrant136/status/2001677935397474324"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3217,
+          "domain": 3219,
           "file_path": 14,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3307
+        "total": 3309
       }
     },
     "SILENCE": {
@@ -147460,5 +147495,5 @@
     }
   },
   "source": "Maltrail APT Indicators",
-  "total_apt_groups": 329
+  "total_apt_groups": 330
 }
