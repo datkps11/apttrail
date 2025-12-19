@@ -8467,11 +8467,12 @@ rule APT_PAPERWEREWOLF
         $domain9 = "timebits\.online" ascii wide nocase
         $domain10 = "timecheck\.site" ascii wide nocase
         $domain11 = "timefetch\.online" ascii wide nocase
-        $domain12 = "timeget\.online" ascii wide nocase
-        $domain13 = "timemaster\.site" ascii wide nocase
-        $domain14 = "timematch\.online" ascii wide nocase
-        $domain15 = "timemirror\.online" ascii wide nocase
-        $domain16 = "timesync\.cloud" ascii wide nocase
+        $domain12 = "timeget\.cloud" ascii wide nocase
+        $domain13 = "timeget\.online" ascii wide nocase
+        $domain14 = "timemaster\.site" ascii wide nocase
+        $domain15 = "timematch\.online" ascii wide nocase
+        $domain16 = "timemirror\.online" ascii wide nocase
+        $domain17 = "timesync\.cloud" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)

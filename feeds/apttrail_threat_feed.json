@@ -121047,6 +121047,7 @@
           "timebits.online",
           "timecheck.site",
           "timefetch.online",
+          "timeget.cloud",
           "timeget.online",
           "timemaster.site",
           "timematch.online",
@@ -121058,16 +121059,16 @@
         "aliases": [],
         "apt_group": "PAPERWEREWOLF",
         "filename": "apt_paperwerewolf.txt",
-        "last_modified": "2025-12-19T18:00:51+02:00",
+        "last_modified": "2025-12-19T22:07:07+02:00",
         "references": [
           "https://intezer.com/blog/tracing-a-paper-werewolf-campaign-through-ai-generated-decoys-and-excel-xlls/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 17
+          "domain": 18
         },
-        "total": 17
+        "total": 18
       }
     },
     "PARAGON": {
