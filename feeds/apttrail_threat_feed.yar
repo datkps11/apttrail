@@ -8444,6 +8444,39 @@ rule APT_PACKRAT
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_PAPERWEREWOLF
+{
+    meta:
+        description = "Detects IOCs associated with APT PAPERWEREWOLF"
+        author = "APTtrail Automated Collection"
+        apt_group = "PAPERWEREWOLF"
+        reference = "https://intezer.com/blog/tracing-a-paper-werewolf-campaign-through-ai-generated-decoys-and-excel-xlls/"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "awalitalk\.com" ascii wide nocase
+        $domain1 = "easytrns\.com" ascii wide nocase
+        $domain2 = "fast-eda\.my" ascii wide nocase
+        $domain3 = "fastchessplay\.com" ascii wide nocase
+        $domain4 = "fungaros\.com" ascii wide nocase
+        $domain5 = "hakyru\.com" ascii wide nocase
+        $domain6 = "jantyroza\.com" ascii wide nocase
+        $domain7 = "ruzede\.com" ascii wide nocase
+        $domain8 = "timealign\.online" ascii wide nocase
+        $domain9 = "timebits\.online" ascii wide nocase
+        $domain10 = "timecheck\.site" ascii wide nocase
+        $domain11 = "timefetch\.online" ascii wide nocase
+        $domain12 = "timeget\.online" ascii wide nocase
+        $domain13 = "timemaster\.site" ascii wide nocase
+        $domain14 = "timematch\.online" ascii wide nocase
+        $domain15 = "timemirror\.online" ascii wide nocase
+        $domain16 = "timesync\.cloud" ascii wide nocase
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
+}
+
 rule APT_PARAGON
 {
     meta:
