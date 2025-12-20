@@ -8450,6 +8450,7 @@ rule APT_PAPERWEREWOLF
         description = "Detects IOCs associated with APT PAPERWEREWOLF"
         author = "APTtrail Automated Collection"
         apt_group = "PAPERWEREWOLF"
+        aliases = "goffee"
         reference = "https://intezer.com/blog/tracing-a-paper-werewolf-campaign-through-ai-generated-decoys-and-excel-xlls/"
         severity = "high"
         tlp = "white"

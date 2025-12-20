@@ -3713,6 +3713,7 @@ alert dns any any -> any any (msg:"APT PACKRAT - Malicious Domain Activity"; dns
 
 # ==================================================
 # APT Group: PAPERWEREWOLF
+# Aliases: goffee
 # ==================================================
 
 # PAPERWEREWOLF - Domain Indicators (18 domains)

@@ -121056,10 +121056,12 @@
         ]
       },
       "metadata": {
-        "aliases": [],
+        "aliases": [
+          "goffee"
+        ],
         "apt_group": "PAPERWEREWOLF",
         "filename": "apt_paperwerewolf.txt",
-        "last_modified": "2025-12-19T22:07:07+02:00",
+        "last_modified": "2025-12-20T13:03:36+02:00",
         "references": [
           "https://intezer.com/blog/tracing-a-paper-werewolf-campaign-through-ai-generated-decoys-and-excel-xlls/"
         ]
