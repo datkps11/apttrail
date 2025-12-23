@@ -3716,8 +3716,8 @@ alert dns any any -> any any (msg:"APT PACKRAT - Malicious Domain Activity"; dns
 # Aliases: goffee
 # ==================================================
 
-# PAPERWEREWOLF - Domain Indicators (18 domains)
-alert dns any any -> any any (msg:"APT PAPERWEREWOLF - Malicious Domain Activity"; dns.query; pcre:"/^(awalitalk\.com|easytrns\.com|fast-eda\.my|fastchessplay\.com|fungaros\.com|hakyru\.com|jantyroza\.com|ruzede\.com|timealign\.online|timebits\.online|timecheck\.site|timefetch\.online|timeget\.cloud|timeget\.online|timemaster\.site|timematch\.online|timemirror\.online|timesync\.cloud)$/i"; classtype:trojan-activity; sid:9002089; rev:1; metadata:apt_group PAPERWEREWOLF, chunk 1;)
+# PAPERWEREWOLF - Domain Indicators (19 domains)
+alert dns any any -> any any (msg:"APT PAPERWEREWOLF - Malicious Domain Activity"; dns.query; pcre:"/^(awalitalk\.com|easytrns\.com|fast-eda\.my|fastchessplay\.com|fungaros\.com|hakyru\.com|jantyroza\.com|ntpsync\.online|ruzede\.com|timealign\.online|timebits\.online|timecheck\.site|timefetch\.online|timeget\.cloud|timeget\.online|timemaster\.site|timematch\.online|timemirror\.online|timesync\.cloud)$/i"; classtype:trojan-activity; sid:9002089; rev:1; metadata:apt_group PAPERWEREWOLF, chunk 1;)
 
 # ==================================================
 # APT Group: PARAGON

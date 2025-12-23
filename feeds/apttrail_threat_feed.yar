@@ -8463,17 +8463,18 @@ rule APT_PAPERWEREWOLF
         $domain4 = "fungaros\.com" ascii wide nocase
         $domain5 = "hakyru\.com" ascii wide nocase
         $domain6 = "jantyroza\.com" ascii wide nocase
-        $domain7 = "ruzede\.com" ascii wide nocase
-        $domain8 = "timealign\.online" ascii wide nocase
-        $domain9 = "timebits\.online" ascii wide nocase
-        $domain10 = "timecheck\.site" ascii wide nocase
-        $domain11 = "timefetch\.online" ascii wide nocase
-        $domain12 = "timeget\.cloud" ascii wide nocase
-        $domain13 = "timeget\.online" ascii wide nocase
-        $domain14 = "timemaster\.site" ascii wide nocase
-        $domain15 = "timematch\.online" ascii wide nocase
-        $domain16 = "timemirror\.online" ascii wide nocase
-        $domain17 = "timesync\.cloud" ascii wide nocase
+        $domain7 = "ntpsync\.online" ascii wide nocase
+        $domain8 = "ruzede\.com" ascii wide nocase
+        $domain9 = "timealign\.online" ascii wide nocase
+        $domain10 = "timebits\.online" ascii wide nocase
+        $domain11 = "timecheck\.site" ascii wide nocase
+        $domain12 = "timefetch\.online" ascii wide nocase
+        $domain13 = "timeget\.cloud" ascii wide nocase
+        $domain14 = "timeget\.online" ascii wide nocase
+        $domain15 = "timemaster\.site" ascii wide nocase
+        $domain16 = "timematch\.online" ascii wide nocase
+        $domain17 = "timemirror\.online" ascii wide nocase
+        $domain18 = "timesync\.cloud" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)
