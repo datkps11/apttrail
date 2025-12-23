@@ -3469,27 +3469,30 @@ rule APT_DOMESTICKITTEN
         tlp = "white"
 
     strings:
-        $domain0 = "androidsystemswebview\.com" ascii wide nocase
-        $domain1 = "appsoftupdate\.com" ascii wide nocase
-        $domain2 = "arzdigitals\.com" ascii wide nocase
-        $domain3 = "firmwaresystemupdate\.com" ascii wide nocase
-        $domain4 = "georgethompson\.space" ascii wide nocase
-        $domain5 = "googleassisstants\.com" ascii wide nocase
-        $domain6 = "googleservicesforar\.com" ascii wide nocase
-        $domain7 = "googlextabv\.com" ascii wide nocase
-        $domain8 = "lohefeshordeh\.net" ascii wide nocase
-        $domain9 = "newportschoolupdateserver\.com" ascii wide nocase
-        $domain10 = "ns1\.googleassisstants\.com" ascii wide nocase
-        $domain11 = "ns2\.googleassisstants\.com" ascii wide nocase
-        $domain12 = "padre914\.com" ascii wide nocase
-        $domain13 = "ronaldlubbers\.site" ascii wide nocase
-        $domain14 = "sarayemaghale\.hami24\.net" ascii wide nocase
-        $domain15 = "stevenwentz\.com" ascii wide nocase
-        $domain16 = "systemdriverupdate\.com" ascii wide nocase
-        $domain17 = "ychatonline\.net" ascii wide nocase
-        $domain18 = "ydownyload\.net" ascii wide nocase
-        $domain19 = "ynewnow\.net" ascii wide nocase
-        $ip20 = "198.50.220.44" ascii wide
+        $domain0 = "androidsecurityupdate\.com" ascii wide nocase
+        $domain1 = "androidsystemsupdate\.com" ascii wide nocase
+        $domain2 = "androidsystemswebview\.com" ascii wide nocase
+        $domain3 = "appsoftupdate\.com" ascii wide nocase
+        $domain4 = "arzdigitals\.com" ascii wide nocase
+        $domain5 = "firmwaresystemupdate\.com" ascii wide nocase
+        $domain6 = "georgethompson\.space" ascii wide nocase
+        $domain7 = "googleassisstants\.com" ascii wide nocase
+        $domain8 = "googleservicesforar\.com" ascii wide nocase
+        $domain9 = "googleupdateservicese\.com" ascii wide nocase
+        $domain10 = "googlextabv\.com" ascii wide nocase
+        $domain11 = "lohefeshordeh\.net" ascii wide nocase
+        $domain12 = "newportschoolupdateserver\.com" ascii wide nocase
+        $domain13 = "ns1\.googleassisstants\.com" ascii wide nocase
+        $domain14 = "ns2\.googleassisstants\.com" ascii wide nocase
+        $domain15 = "padre914\.com" ascii wide nocase
+        $domain16 = "ronaldlubbers\.site" ascii wide nocase
+        $domain17 = "sarayemaghale\.hami24\.net" ascii wide nocase
+        $domain18 = "stevenwentz\.com" ascii wide nocase
+        $domain19 = "systemdriverupdate\.com" ascii wide nocase
+        $domain20 = "ychatonline\.net" ascii wide nocase
+        $domain21 = "ydownyload\.net" ascii wide nocase
+        $domain22 = "ynewnow\.net" ascii wide nocase
+        $ip23 = "198.50.220.44" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)

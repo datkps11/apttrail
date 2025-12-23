@@ -10540,6 +10540,7 @@
           "beaviews.online",
           "becker624.online",
           "beeasaze.top",
+          "beetly.online",
           "benefitsredington.ddns.net",
           "beparas.com",
           "berozkhodro.com",
@@ -12576,7 +12577,7 @@
         ],
         "apt_group": "CHARMINGKITTEN",
         "filename": "apt_charmingkitten.txt",
-        "last_modified": "2025-12-17T17:44:09+02:00",
+        "last_modified": "2025-12-23T17:55:01+02:00",
         "references": [
           "https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc (2018-06-12 Charming Kitten waterhole)",
           "https://www.clearskysec.com/charmingkitten/",
@@ -12796,12 +12797,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 2064,
+          "domain": 2065,
           "file_path": 4,
           "ipv4": 107,
           "url": 25
         },
-        "total": 2200
+        "total": 2201
       }
     },
     "CLEAVER": {
@@ -18858,6 +18859,8 @@
     "DOMESTICKITTEN": {
       "indicators": {
         "domain": [
+          "androidsecurityupdate.com",
+          "androidsystemsupdate.com",
           "androidsystemswebview.com",
           "appsoftupdate.com",
           "arzdigitals.com",
@@ -18865,6 +18868,7 @@
           "georgethompson.space",
           "googleassisstants.com",
           "googleservicesforar.com",
+          "googleupdateservicese.com",
           "googlextabv.com",
           "lohefeshordeh.net",
           "newportschoolupdateserver.com",
@@ -18911,7 +18915,7 @@
         ],
         "apt_group": "DOMESTICKITTEN",
         "filename": "apt_domestickitten.txt",
-        "last_modified": "2025-01-02T01:18:47+01:00",
+        "last_modified": "2025-12-23T17:39:28+02:00",
         "references": [
           "https://research.checkpoint.com/domestic-kitten-an-iranian-surveillance-operation/",
           "https://twitter.com/malwrhunterteam/status/1340344596698677250",
@@ -18932,17 +18936,18 @@
           "https://www.virustotal.com/gui/file/679355b0f689d745eb6943ed3aa821615122a648f02f7a557aa99e0007834085/detection",
           "https://www.virustotal.com/gui/file/a7edd5586ac6cd64eaa1d3fd19077b3cb9232f13514d86ea315a4e2f501ee14b/detection",
           "https://github.com/ti-research-io/ti/blob/main/ioc_extender/ET_Lazarus.json",
-          "https://www.welivesecurity.com/2022/10/20/domestic-kitten-campaign-spying-iranian-citizens-furball-malware/"
+          "https://www.welivesecurity.com/2022/10/20/domestic-kitten-campaign-spying-iranian-citizens-furball-malware/",
+          "https://x.com/ThreatBookLabs/status/2003261920439091378"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 20,
+          "domain": 23,
           "file_path": 13,
           "ipv4": 1,
           "url": 5
         },
-        "total": 39
+        "total": 42
       }
     },
     "DONOT": {
@@ -129235,6 +129240,7 @@
           "nationpk.org",
           "navy-govbd.servehttp.com",
           "navy-lk.direct888.net",
+          "navy-mil-bd-download.up.railway.app",
           "navy-mil-bd.jmicc.xyz",
           "navy-mil.co",
           "navy-support.org",
@@ -129476,6 +129482,7 @@
           "pafmodernwebclient-srirj3dq.b4a.run",
           "pafroa.pak-gov.com",
           "pafwa.info",
+          "page-view-mail.zeabur.app",
           "pak-army.com",
           "pak-gov-pk.workers.dev",
           "pak-gov.com",
@@ -130421,7 +130428,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2025-12-21T19:14:29+02:00",
+        "last_modified": "2025-12-23T18:12:22+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -131411,17 +131418,18 @@
           "https://x.com/volrant136/status/2002000970570690709",
           "https://x.com/volrant136/status/2001706314045727114",
           "https://x.com/volrant136/status/2002046264809296061",
-          "https://x.com/volrant136/status/2002771041505149206"
+          "https://x.com/volrant136/status/2002771041505149206",
+          "https://x.com/volrant136/status/2003498589851668860"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3249,
+          "domain": 3251,
           "file_path": 14,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3339
+        "total": 3341
       }
     },
     "SILENCE": {
