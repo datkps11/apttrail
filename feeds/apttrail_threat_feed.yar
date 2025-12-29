@@ -6636,18 +6636,20 @@ rule APT_LIBRARIANGHOULS
         $domain13 = "email-office\.ru" ascii wide nocase
         $domain14 = "hostingforme\.nl" ascii wide nocase
         $domain15 = "mail-cheker\.nl" ascii wide nocase
-        $domain16 = "office-account\.ru" ascii wide nocase
-        $domain17 = "office-email\.ru" ascii wide nocase
-        $domain18 = "outinfo\.ru" ascii wide nocase
-        $domain19 = "redaction-voenmeh\.info" ascii wide nocase
-        $domain20 = "supersuit\.site" ascii wide nocase
-        $domain21 = "unifikator\.ru" ascii wide nocase
-        $domain22 = "users-mail\.ru" ascii wide nocase
-        $domain23 = "verificationc\.nl" ascii wide nocase
-        $domain24 = "verificationc\.online" ascii wide nocase
-        $domain25 = "verifikations\.ru" ascii wide nocase
-        $domain26 = "vniir\.nl" ascii wide nocase
-        $domain27 = "vniir\.space" ascii wide nocase
+        $domain16 = "mail\.vniir\.nl" ascii wide nocase
+        $domain17 = "office-account\.ru" ascii wide nocase
+        $domain18 = "office-email\.ru" ascii wide nocase
+        $domain19 = "outinfo\.ru" ascii wide nocase
+        $domain20 = "redaction-voenmeh\.info" ascii wide nocase
+        $domain21 = "supersuit\.site" ascii wide nocase
+        $domain22 = "unifikator\.ru" ascii wide nocase
+        $domain23 = "users-mail\.ru" ascii wide nocase
+        $domain24 = "verificationc\.nl" ascii wide nocase
+        $domain25 = "verificationc\.online" ascii wide nocase
+        $domain26 = "verifikations\.ru" ascii wide nocase
+        $domain27 = "vniir\.nl" ascii wide nocase
+        $domain28 = "vniir\.space" ascii wide nocase
+        $ip29 = "92.63.173.61" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
