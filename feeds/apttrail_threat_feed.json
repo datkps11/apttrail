@@ -19179,6 +19179,7 @@
           "geographiclocation.info",
           "germsandwaterbro.buzz",
           "getsr.xyz",
+          "getsupdated.info",
           "getupdates.buzz",
           "getzarvis.xyz",
           "giffyserve.info",
@@ -19987,7 +19988,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2025-12-20T18:52:47+02:00",
+        "last_modified": "2025-12-29T23:17:12+02:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -20623,17 +20624,18 @@
           "https://www.virustotal.com/gui/file/e3260137c712111e555564d8ae1ae637e01a626d38a3ceeabef38d1bc1f8f876/detection",
           "https://x.com/malwrhunterteam/status/1999232155797365157",
           "https://www.virustotal.com/gui/file/c61a761cf63e14107e5dfa82aa931bce2342f71288a1435ac2470d1c4bf3c7de/detection",
-          "https://www.virustotal.com/gui/ip-address/45.61.139.243/relations"
+          "https://www.virustotal.com/gui/ip-address/45.61.139.243/relations",
+          "https://www.virustotal.com/gui/ip-address/193.149.190.162/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 710,
+          "domain": 711,
           "file_path": 249,
           "ipv4": 47,
           "url": 4
         },
-        "total": 1010
+        "total": 1011
       }
     },
     "DOWNEX": {
@@ -130288,6 +130290,7 @@
           "workermdxxx.naychilin-pk.workers.dev",
           "wpda-mom-meeting-invitation-letter.netlify.app",
           "wqkwqcwvcn.filenest.live",
+          "wqqwysd-qwbeaxsb.zeabur.app",
           "wsde.pakgov.net",
           "wsed.pkrepublic.org",
           "wsink.live",
@@ -130484,7 +130487,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2025-12-23T18:12:22+02:00",
+        "last_modified": "2025-12-29T23:15:19+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -131475,17 +131478,18 @@
           "https://x.com/volrant136/status/2001706314045727114",
           "https://x.com/volrant136/status/2002046264809296061",
           "https://x.com/volrant136/status/2002771041505149206",
-          "https://x.com/volrant136/status/2003498589851668860"
+          "https://x.com/volrant136/status/2003498589851668860",
+          "https://x.com/volrant136/status/2005680099560153314"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3251,
+          "domain": 3252,
           "file_path": 14,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3341
+        "total": 3342
       }
     },
     "SILENCE": {
