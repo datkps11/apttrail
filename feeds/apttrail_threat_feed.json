@@ -121572,6 +121572,7 @@
           "myprivatedrives.com",
           "myrocketchat.com",
           "mysugarbin.com",
+          "myworkdrivemanager.org",
           "nationalsecuritysolutions.com.co",
           "nayatelmediashare.info",
           "nduformation.com",
@@ -122044,7 +122045,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2025-12-15T12:21:08+02:00",
+        "last_modified": "2025-12-30T11:41:21+02:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -122459,17 +122460,18 @@
           "https://x.com/wa1Ile/status/1995787286253035918",
           "https://www.virustotal.com/gui/file/79192cba1c7037e1fe15dbf50bb2b3a96e53a85fbcbd2ce229af0efacdcb73c7/detection",
           "https://x.com/malwrhunterteam/status/1999049247728291932",
-          "https://www.virustotal.com/gui/file/5dc5de87fb868fb06e107a7695d7f002dfd31c51b9ef7e237c35973ce4716608/detection"
+          "https://www.virustotal.com/gui/file/5dc5de87fb868fb06e107a7695d7f002dfd31c51b9ef7e237c35973ce4716608/detection",
+          "https://x.com/__0XYC__/status/2005891200453136414"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 623,
+          "domain": 624,
           "file_path": 79,
           "ipv4": 57,
           "url": 42
         },
-        "total": 801
+        "total": 802
       }
     },
     "PEEPINGTITLE": {
