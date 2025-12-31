@@ -136359,6 +136359,7 @@
           "crsorgi.gov.in.ncrs.site",
           "crsorgi.gov.in.ngicrs.info",
           "crsorgi.gov.in.ogri.site",
+          "crsorgi.gov.in.omsaicomputerucl.site",
           "crsorgi.gov.in.oneepson.xyz",
           "crsorgi.gov.in.onlineconvetar.in",
           "crsorgi.gov.in.onlineuclshop.xyz",
@@ -136713,6 +136714,7 @@
           "dc.crsorgi.gov.in.ogri.live",
           "dc.crsorgi.gov.in.ogri.site",
           "dc.crsorgi.gov.in.ogrii.live",
+          "dc.crsorgi.gov.in.omsaicomputerucl.site",
           "dc.crsorgi.gov.in.oneepson.xyz",
           "dc.crsorgi.gov.in.onlineconvetar.in",
           "dc.crsorgi.gov.in.onlineuclshop.xyz",
@@ -137568,6 +137570,7 @@
           "gov.in.ogri.site",
           "gov.in.ogrii.live",
           "gov.in.ogrl.live",
+          "gov.in.omsaicomputerucl.site",
           "gov.in.onedrive-storage.in",
           "gov.in.oneepson.xyz",
           "gov.in.onlineconvetar.in",
@@ -138099,6 +138102,7 @@
           "in.ogri.site",
           "in.ogrii.live",
           "in.ogrl.live",
+          "in.omsaicomputerucl.site",
           "in.onedrive-storage.in",
           "in.oneepson.xyz",
           "in.onlineconvetar.in",
@@ -138668,6 +138672,7 @@
           "olidspot.shop",
           "ompanion.bio",
           "omsai.site",
+          "omsaicomputerucl.site",
           "oncare.help",
           "onedrive-storage.in",
           "onedrives.cc",
@@ -140169,7 +140174,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2025-12-31T20:29:12+02:00",
+        "last_modified": "2025-12-31T21:57:16+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -141227,12 +141232,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3284,
+          "domain": 3289,
           "file_path": 40,
           "ipv4": 783,
           "url": 124
         },
-        "total": 4231
+        "total": 4236
       }
     },
     "TRIANGULATION": {
