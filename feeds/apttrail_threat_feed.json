@@ -145677,6 +145677,7 @@
           "the2021olympicgames.org",
           "the2021olympicstokyo.com",
           "theblack2015.no-ip.biz",
+          "theepad0loc93x.ddns.net",
           "thefuturisus.ddns.net",
           "theironshop.net",
           "thejoe.publicvm.com",
@@ -146005,6 +146006,7 @@
           "206.119.171.140:443",
           "206.188.196.77:8080",
           "207.220.1.3",
+          "207.244.230.94:12345",
           "208.87.201.17:8001",
           "210.178.134.254:7778",
           "213.171.212.212:443",
@@ -146102,7 +146104,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2025-11-21T23:30:01+02:00",
+        "last_modified": "2025-12-31T18:34:06+02:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -146545,17 +146547,20 @@
           "https://www.virustotal.com/gui/file/fcf1d041b9a6353e14c5f0c72e1aaf8fbfd37c08679a0a01393572ed2d1ef86b/detection",
           "https://www.virustotal.com/gui/file/e976537f7fdfc032ea05902a4bf8600ade7c3e1f54d7d417e0a32deeef7ee9dd/detection",
           "https://x.com/malwrhunterteam/status/1991875797762842913",
-          "https://www.virustotal.com/gui/file/818dbb421dcb451e41e266be43cfe238dd88c5ac6ce34622f85a9e67551c7583/detection"
+          "https://www.virustotal.com/gui/file/818dbb421dcb451e41e266be43cfe238dd88c5ac6ce34622f85a9e67551c7583/detection",
+          "https://x.com/jaydinbas/status/2006014559027347678",
+          "https://www.virustotal.com/gui/file/f817f65edbc77f7bbdd6e4f469e82c0e770b7e221bdb348f366a475a8a39242b/detection",
+          "https://www.virustotal.com/gui/file/63f6c85fc16b346cc3f18da9380aee6ffbb3e735863e2e8f118f38737e0d1348/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1204,
+          "domain": 1205,
           "file_path": 77,
-          "ipv4": 115,
+          "ipv4": 116,
           "url": 56
         },
-        "total": 1452
+        "total": 1454
       }
     },
     "USH": {
