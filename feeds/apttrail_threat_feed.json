@@ -86964,6 +86964,7 @@
           "/srresistible27/index.html",
           "/srresistible52/index.html",
           "/srresistible94/index.html",
+          "/srv/log/sIfLDJ.dot",
           "/ssU/obligationrTB.webp",
           "/ss_07.11.2025/flashlightsK8Q/pondjSQ.pdf",
           "/sso44/index.html",
@@ -87198,7 +87199,7 @@
         ],
         "apt_group": "GAMAREDON-1",
         "filename": "apt_gamaredon-1.txt",
-        "last_modified": "2026-01-01T21:25:30+02:00",
+        "last_modified": "2026-01-01T22:39:44+02:00",
         "references": [
           "https://www.virustotal.com/gui/ip-address/168.100.10.184/relations",
           "https://www.virustotal.com/gui/ip-address/162.33.178.84/relations",
@@ -88491,11 +88492,11 @@
       "statistics": {
         "by_type": {
           "domain": 9974,
-          "file_path": 343,
+          "file_path": 344,
           "ipv4": 5,
           "url": 182
         },
-        "total": 10504
+        "total": 10505
       }
     },
     "GAZA": {
