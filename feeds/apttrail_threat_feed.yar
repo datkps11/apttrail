@@ -4619,7 +4619,7 @@ rule APT_GAMAREDON_1
         description = "Detects IOCs associated with APT GAMAREDON-1"
         author = "APTtrail Automated Collection"
         apt_group = "GAMAREDON-1"
-        aliases = "pteroeffigy, pterographin, pterolnk"
+        aliases = "gamaload, gamawiper, litterdrifter"
         reference = "https://app.validin.com/axon?find=31.129.22.48"
         severity = "high"
         tlp = "white"
