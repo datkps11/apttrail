@@ -86776,6 +86776,7 @@
           "/c.18.06",
           "/c.19.06",
           "/cableW2l/comparableKrE.pptx",
+          "/cache/root/KOBEko.dot",
           "/call/network/22.03/guide.jpeg",
           "/circularPti.pptx",
           "/comparableKrE.pptx",
@@ -86892,6 +86893,7 @@
           "/reluctantEhD.webp",
           "/retirementH20/meaninglesskfx.jpeg",
           "/risejw5.jpeg",
+          "/root/var/LmXEMM.dot",
           "/rottenAZS.webp",
           "/s.24.11/headline.jpeg",
           "/s.24.11/seldom.jpeg",
@@ -87199,7 +87201,7 @@
         ],
         "apt_group": "GAMAREDON-1",
         "filename": "apt_gamaredon-1.txt",
-        "last_modified": "2026-01-01T22:39:44+02:00",
+        "last_modified": "2026-01-01T23:49:04+02:00",
         "references": [
           "https://www.virustotal.com/gui/ip-address/168.100.10.184/relations",
           "https://www.virustotal.com/gui/ip-address/162.33.178.84/relations",
@@ -88492,11 +88494,11 @@
       "statistics": {
         "by_type": {
           "domain": 9974,
-          "file_path": 344,
+          "file_path": 346,
           "ipv4": 5,
           "url": 182
         },
-        "total": 10505
+        "total": 10507
       }
     },
     "GAZA": {
