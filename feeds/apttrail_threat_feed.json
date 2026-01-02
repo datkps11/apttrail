@@ -33,7 +33,7 @@
         ],
         "apt_group": "12",
         "filename": "apt_12.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.fireeye.com/blog/threat-research/2014/09/darwins-favorite-apt-group-2.html",
           "https://github.com/fireeye/iocs/tree/master/APT12",
@@ -72,7 +72,7 @@
         ],
         "apt_group": "17",
         "filename": "apt_17.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.fireeye.com/blog/threat-research/2015/05/hiding_in_plain_sigh.html",
           "https://github.com/fireeye/iocs/blob/master/APT17/7b9e87c5-b619-4a13-b862-0145614d359a.ioc",
@@ -120,7 +120,7 @@
         "aliases": [],
         "apt_group": "18",
         "filename": "apt_18.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.fireeye.com/blog/threat-research/2015/07/demonstrating_hustle.html (# APT18's campaign)",
           "https://github.com/fireeye/iocs/blob/master/APT18/0ae061d7-c624-4a84-8adf-00281b97797b.ioc",
@@ -240,7 +240,7 @@
         "aliases": [],
         "apt_group": "1877TEAM",
         "filename": "apt_1877team.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://otx.alienvault.com/pulse/64524a56a61ad32b77d042d9"
         ]
@@ -858,7 +858,7 @@
         ],
         "apt_group": "23",
         "filename": "apt_23.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.symantec.com/blogs/expert-perspectives/ongoing-android-malware-campaign-targets-palestinians-part-1",
           "https://www.symantec.com/blogs/expert-perspectives/ongoing-android-malware-campaign-targets-palestinians-part-2",
@@ -1241,7 +1241,7 @@
         ],
         "apt_group": "27",
         "filename": "apt_27.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.ru/luckymouse-hits-national-data-center/90213/",
           "https://securelist.com/luckymouse-ndisproxy-driver/87914/",
@@ -1359,7 +1359,7 @@
         "aliases": [],
         "apt_group": "30",
         "filename": "apt_30.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2015/05/20081935/rpt-apt30.pdf",
           "https://twitter.com/Vishnyak0v/status/1252495730486456321",
@@ -1492,7 +1492,7 @@
         "aliases": [],
         "apt_group": "33",
         "filename": "apt_33.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.fireeye.com/blog/threat-research/2017/09/apt33-insights-into-iranian-cyber-espionage.html",
           "https://twitter.com/ClearskySec/status/1059532789572386817",
@@ -2005,7 +2005,7 @@
         ],
         "apt_group": "37",
         "filename": "apt_37.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://otx.alienvault.com/pulse/5d4456d289603cc548ddbc92",
           "https://blog.alyac.co.kr/2453 (Korean)",
@@ -2196,7 +2196,7 @@
         "aliases": [],
         "apt_group": "38",
         "filename": "apt_38.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://content.fireeye.com/apt/rpt-apt38",
           "https://otx.alienvault.com/pulse/5bb4bdccd63eeb0a87994870",
@@ -2224,7 +2224,7 @@
         "aliases": [],
         "apt_group": "45",
         "filename": "apt_45.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/alphasoc/status/1816851184356888979",
           "https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine",
@@ -2254,7 +2254,7 @@
         ],
         "apt_group": "48",
         "filename": "apt_48.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/blackorbird/status/1861348202156564993",
           "https://mp.weixin.qq.com/s/Xb8bEZMV3FHC1O6lWt-4pg",
@@ -2323,7 +2323,7 @@
         ],
         "apt_group": "5",
         "filename": "apt_5.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2013/04/20082912/C5_APT_SKHack.pdf"
         ]
@@ -2367,7 +2367,7 @@
         ],
         "apt_group": "60",
         "filename": "apt_60.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://threatbook.io/blog/Military-Topics-in-Focus:-APT-C-60-Threat-Continues-to-be-Exposed",
           "https://www.virustotal.com/gui/ip-address/162.222.215.164/relations",
@@ -2406,7 +2406,7 @@
         ],
         "apt_group": "68",
         "filename": "apt_68.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/Timele9527"
         ]
@@ -2440,7 +2440,7 @@
         ],
         "apt_group": "73",
         "filename": "apt_73.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/AlvieriD/status/1782471876897394839",
           "https://twitter.com/karol_paciorek/status/1783071332583780594",
@@ -2588,7 +2588,7 @@
         ],
         "apt_group": "AOQINDRAGON",
         "filename": "apt_aoqindragon.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.sentinelone.com/labs/aoqin-dragon-newly-discovered-chinese-linked-apt-has-been-quietly-spying-on-organizations-for-10-years/",
           "https://www.virustotal.com/gui/ip-address/172.111.192.233/relations",
@@ -2731,7 +2731,7 @@
         ],
         "apt_group": "APPIN",
         "filename": "apt_appin.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.sentinelone.com/labs/elephant-hunting-inside-an-indian-hack-for-hire-group/",
           "https://www.virustotal.com/gui/file/cd661a71d7f7e7076bd90af46ca5b3202b5a4af1067ac9ddff8dfcb8e6987426/detection",
@@ -2855,7 +2855,7 @@
         ],
         "apt_group": "ARIDVIPER",
         "filename": "apt_aridviper.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/ClearskySec/status/965985346222723072",
           "https://twitter.com/cyberintproject/status/950930433595924480",
@@ -2920,7 +2920,7 @@
         "aliases": [],
         "apt_group": "ATLASCROSS",
         "filename": "apt_atlascross.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://nsfocusglobal.com/warning-newly-discovered-apt-attacker-atlascross-exploits-red-cross-blood-drive-phishing-for-cyberattack/",
           "https://otx.alienvault.com/pulse/6514782fe337d1b070430c99",
@@ -2943,7 +2943,7 @@
         "aliases": [],
         "apt_group": "BABAR",
         "filename": "apt_babar.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://www.cyphort.com/babar-suspected-nation-state-spyware-spotlight/"
         ]
@@ -2974,7 +2974,7 @@
         "aliases": [],
         "apt_group": "BABYSHARK",
         "filename": "apt_babyshark.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://github.com/Neo23x0/signature-base/blob/master/yara/apt_babyshark.yar",
           "https://otx.alienvault.com/pulse/5d932d449de02b0e8c0b8cba",
@@ -3036,7 +3036,7 @@
         "aliases": [],
         "apt_group": "BADMAGIC",
         "filename": "apt_badmagic.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/h2jazi/status/1573309097021444096",
           "https://www.virustotal.com/gui/file/c75d905cd7826182505c15d39ebe952dca5b4c80fb62b8f7283fa09d7f51c815/detection",
@@ -3292,7 +3292,7 @@
         "aliases": [],
         "apt_group": "BAHAMUT",
         "filename": "apt_bahamut.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://blog.talosintelligence.com/2018/07/Mobile-Malware-Campaign-uses-Malicious-MDM-Part2.html",
           "https://www.blackberry.com/us/en/pdfviewer?file=/content/dam/blackberry-com/asset/enterprise/pdf/direct/report-spark-bahamut.pdf",
@@ -3378,7 +3378,7 @@
         ],
         "apt_group": "BANISHEDKITTEN",
         "filename": "apt_banishedkitten.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/ClearskySec/status/1960296933295104369",
           "https://apt.etda.or.th/cgi-bin/showcard.cgi?g=HomeLand%20Justice",
@@ -6076,7 +6076,7 @@
         ],
         "apt_group": "BARIUM",
         "filename": "apt_barium.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/operation-shadowhammer/89992/",
           "https://twitter.com/ydklijnsma/status/1110220766778286080",
@@ -6296,7 +6296,7 @@
         ],
         "apt_group": "BATSHADOW",
         "filename": "apt_batshadow.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/Thisism23567356/status/1861367550774292804",
           "https://x.com/DaveLikesMalwre/status/1861387766812078398",
@@ -6581,7 +6581,7 @@
         ],
         "apt_group": "BISONAL",
         "filename": "apt_bisonal.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://researchcenter.paloaltonetworks.com/2018/07/unit42-bisonal-malware-used-attacks-russia-south-korea/",
           "https://twitter.com/Vishnyak0v/status/1216689015035977730",
@@ -7299,7 +7299,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -7987,7 +7987,7 @@
         "aliases": [],
         "apt_group": "BLACKGEAR",
         "filename": "apt_blackgear.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://malpedia.caad.fkie.fraunhofer.de/actor/blackgear",
           "https://documents.trendmicro.com/assets/appendix-blackgear-cyberespionage-campaign-resurfaces-abuses-social-media-for-c&c-communication.pdf",
@@ -8071,7 +8071,7 @@
         "aliases": [],
         "apt_group": "BLACKTECH",
         "filename": "apt_blacktech.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://blog.jpcert.or.jp/2018/06/plead-downloader-used-by-blacktech.html",
           "https://www.welivesecurity.com/2018/07/09/certificates-stolen-taiwanese-tech-companies-plead-malware-campaign/",
@@ -8140,7 +8140,7 @@
         ],
         "apt_group": "BLADEDFELINE",
         "filename": "apt_bladedfeline.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.welivesecurity.com/en/eset-research/bladedfeline-whispering-dark/"
         ]
@@ -8269,7 +8269,7 @@
         ],
         "apt_group": "BLINDEAGLE",
         "filename": "apt_blindeagle.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://ti.360.net/blog/articles/apt-c-36-continuous-attacks-targeting-colombian-government-institutions-and-corporations-en/",
           "https://twitter.com/HONKONE_K/status/1145536069435195392",
@@ -8339,7 +8339,7 @@
         "aliases": [],
         "apt_group": "BLOODYWOLF",
         "filename": "apt_bloodywolf.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.group-ib.com/blog/bloody-wolf/"
         ]
@@ -9464,7 +9464,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -9613,7 +9613,7 @@
         "aliases": [],
         "apt_group": "BLUEPRINT",
         "filename": "apt_blueprint.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.bitdefender.com/files/News/CaseStudies/study/262/Bitdefender-WhitePaper-An-APT-Blueprint-Gaining-New-Visibility-into-Financial-Threats-interactive.pdf",
           "https://otx.alienvault.com/pulse/5cf63c5f1c20b24747675033"
@@ -9646,7 +9646,7 @@
         "aliases": [],
         "apt_group": "BOOKWORM",
         "filename": "apt_bookworm.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://researchcenter.paloaltonetworks.com/2015/11/bookworm-trojan-a-model-of-modular-architecture/",
           "https://twitter.com/kienbigmummy/status/1557762252870385664",
@@ -9690,7 +9690,7 @@
         ],
         "apt_group": "BOTEAM",
         "filename": "apt_boteam.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.ru/bo-team-upgrades-brockendoor-and-zeronetkit-backdoors/113536"
         ]
@@ -9748,7 +9748,7 @@
         ],
         "apt_group": "BUHTRAP",
         "filename": "apt_buhtrap.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.ru/news-buhtrap/89540/",
           "https://securelist.ru/buhtrap-strikes-again/90980/",
@@ -9780,7 +9780,7 @@
         "aliases": [],
         "apt_group": "CADETBLIZZARD",
         "filename": "apt_cadetblizzard.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://explore.avertium.com/resource/threat-actor-profile-cadet-blizzard",
           "https://www.virustotal.com/gui/ip-address/179.43.187.33/detection",
@@ -9849,7 +9849,7 @@
         "aliases": [],
         "apt_group": "CALYPSO",
         "filename": "apt_calypso.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.ptsecurity.com/ww-en/analytics/calypso-apt-2019/",
           "https://www.virustotal.com/gui/ip-address/46.105.227.110/relations",
@@ -9883,7 +9883,7 @@
         "aliases": [],
         "apt_group": "CAMARODRAGON",
         "filename": "apt_camarodragon.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://research.checkpoint.com/2023/the-dragon-who-sold-his-camaro-analyzing-custom-router-implant/"
         ]
@@ -9910,7 +9910,7 @@
         ],
         "apt_group": "CARACALKITTEN",
         "filename": "apt_caracalkitten.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/RexorVc0/status/1712725980924518898",
           "https://www.ctfiot.com/138538.html (Chinese)",
@@ -9954,7 +9954,7 @@
         "aliases": [],
         "apt_group": "CARBONSPIDER",
         "filename": "apt_carbonspider.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.crowdstrike.com/blog/carbon-spider-embraces-big-game-hunting-part-1/",
           "https://www.crowdstrike.com/blog/carbon-spider-embraces-big-game-hunting-part-2/",
@@ -9994,7 +9994,7 @@
         "aliases": [],
         "apt_group": "CARDERBEE",
         "filename": "apt_carderbee.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/carderbee-software-supply-chain-certificate-abuse"
         ]
@@ -10048,7 +10048,7 @@
         "aliases": [],
         "apt_group": "CARETO",
         "filename": "apt_careto.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://discussions.nessus.org/thread/7087",
           "http://kernelmode.info/forum/viewtopic.php?f=16&t=3159",
@@ -10070,7 +10070,7 @@
         "aliases": [],
         "apt_group": "CASPER",
         "filename": "apt_casper.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://www.welivesecurity.com/2015/03/05/casper-malware-babar-bunny-another-espionage-cartoon/"
         ]
@@ -10107,7 +10107,7 @@
         "aliases": [],
         "apt_group": "CDT",
         "filename": "apt_cdt.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://citizenlab.ca/2017/07/insider-information-an-intrusion-campaign-targeting-chinese-language-news-sites/"
         ]
@@ -10213,7 +10213,7 @@
         ],
         "apt_group": "CHAFER",
         "filename": "apt_chafer.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.symantec.com/blogs/threat-intelligence/chafer-latest-attacks-reveal-heightened-ambitions",
           "https://twitter.com/clearskysec/status/976170940722708480",
@@ -10324,7 +10324,7 @@
         ],
         "apt_group": "CHAMELGANG",
         "filename": "apt_chamelgang.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/new-apt-group-chamelgang/",
           "https://stillu.cc/assets/slides/2023-08-Unmasking%20CamoFei.pdf",
@@ -12592,7 +12592,7 @@
         ],
         "apt_group": "CHARMINGKITTEN",
         "filename": "apt_charmingkitten.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc (2018-06-12 Charming Kitten waterhole)",
           "https://www.clearskysec.com/charmingkitten/",
@@ -12844,7 +12844,7 @@
         "aliases": [],
         "apt_group": "CLEAVER",
         "filename": "apt_cleaver.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://www.cylance.com/assets/Cleaver/Cylance_Operation_Cleaver_Report.pdf"
         ]
@@ -13026,7 +13026,7 @@
         ],
         "apt_group": "CLOUDATLAS",
         "filename": "apt_cloudatlas.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/cloud-atlas-redoctober-apt-is-back-in-style/68083/",
           "https://securelist.com/recent-cloud-atlas-activity/92016/",
@@ -13168,7 +13168,7 @@
         "aliases": [],
         "apt_group": "CLOUDWIZARD",
         "filename": "apt_cloudwizard.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/cloudwizard-apt/109722/",
           "https://www.virustotal.com/gui/file/041e4dcdc0c7eea5740a65c3a15b51ed0e1f0ebd6ba820e2c4cd8fa34fb891a2/detection"
@@ -14031,7 +14031,7 @@
         ],
         "apt_group": "COBALTDICKENS",
         "filename": "apt_cobaltdickens.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.secureworks.com/blog/back-to-school-cobalt-dickens-targets-universities",
           "https://www.secureworks.com/blog/cobalt-dickens-goes-back-to-school-again",
@@ -14288,7 +14288,7 @@
         ],
         "apt_group": "CODOSO",
         "filename": "apt_codoso.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.fireeye.com/blog/threat-research/2017/06/phished-at-the-request-of-counsel.html (Network Based Indicators (NBI))",
           "https://unit42.paloaltonetworks.com/new-attacks-linked-to-c0d0s0-group/",
@@ -14809,7 +14809,7 @@
         ],
         "apt_group": "COLDRIVER",
         "filename": "apt_coldriver.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://blog.google/threat-analysis-group/tracking-cyber-activity-eastern-europe/",
           "https://blog.sekoia.io/calisto-continues-its-credential-harvesting-campaign/",
@@ -14978,7 +14978,7 @@
         "aliases": [],
         "apt_group": "COLDWASTREL",
         "filename": "apt_coldwastrel.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/",
           "https://www.virustotal.com/gui/file/4a9a2c2926b7b8e388984d38cb9e259fb4060cccc2d291c7910be030ae5301a3/detection",
@@ -17117,7 +17117,7 @@
         "aliases": [],
         "apt_group": "COMMENTCREW",
         "filename": "apt_commentcrew.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://raw.githubusercontent.com/carbonblack/cbapi-python/master/examples/legacy/data/mandiant-domains.txt",
           "http://www.secureworks.com/cyber-threat-intelligence/threats/htran/",
@@ -17175,7 +17175,7 @@
         "aliases": [],
         "apt_group": "COPYKITTENS",
         "filename": "apt_copykittens.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://s3-eu-west-1.amazonaws.com/minervaresearchpublic/CopyKittens/CopyKittens.pdf"
         ]
@@ -17197,7 +17197,7 @@
         "aliases": [],
         "apt_group": "COSMICDUKE",
         "filename": "apt_cosmicduke.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": []
       },
       "statistics": {
@@ -17231,7 +17231,7 @@
         ],
         "apt_group": "CRIMSONCOLLECTIVE",
         "filename": "apt_crimsoncollective.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.rapid7.com/blog/post/tr-crimson-collective-a-new-threat-group-observed-operating-in-the-cloud/"
         ]
@@ -17261,7 +17261,7 @@
         ],
         "apt_group": "CYBERAV3NGERS",
         "filename": "apt_cyberav3ngers.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://claroty.com/team82/research/inside-a-new-ot-iot-cyber-weapon-iocontrol",
           "https://www.virustotal.com/gui/ip-address/159.100.6.69/relations",
@@ -17303,7 +17303,7 @@
         "aliases": [],
         "apt_group": "CYBERBIT",
         "filename": "apt_cyberbit.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://citizenlab.ca/2017/12/champing-cyberbit-ethiopian-dissidents-targeted-commercial-spyware/"
         ]
@@ -17346,7 +17346,7 @@
         ],
         "apt_group": "DALBIT",
         "filename": "apt_dalbit.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://1275.ru/ioc/1401/dalbit-m00nlight-apt-iocs/ (Russian)",
           "https://asec.ahnlab.com/en/47455/",
@@ -17410,7 +17410,7 @@
         "aliases": [],
         "apt_group": "DARKCARACAL",
         "filename": "apt_darkcaracal.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://info.lookout.com/rs/051-ESQ-475/images/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf",
           "https://www.virustotal.com/gui/file/fb101e91397dddbdf7aeb799cb3651b233e37997ecbdb8e5b6247f5775b915ad/detection",
@@ -17770,7 +17770,7 @@
         ],
         "apt_group": "DARKHOTEL",
         "filename": "apt_darkhotel.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://securelist.com/blog/research/66779/the-darkhotel-apt/",
           "https://ti.360.net/blog/articles/analyzing-attack-of-cve-2018-8373-and-darkhotel/",
@@ -17884,7 +17884,7 @@
         "aliases": [],
         "apt_group": "DARKHYDRUS",
         "filename": "apt_darkhydrus.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://researchcenter.paloaltonetworks.com/2018/07/unit42-new-threat-actor-group-darkhydrus-targets-middle-east-government/",
           "https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc (DarkHydrus 2017 activity)",
@@ -17912,7 +17912,7 @@
         "aliases": [],
         "apt_group": "DARKPINK",
         "filename": "apt_darkpink.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.group-ib.com/blog/dark-pink-apt/",
           "https://www.group-ib.com/blog/dark-pink-episode-2/"
@@ -17987,7 +17987,7 @@
         ],
         "apt_group": "DARKRIVER",
         "filename": "apt_darkriver.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/dark-river-you-can-t-see-them-but-they-re-there/",
           "https://www.virustotal.com/gui/ip-address/172.234.26.236/relations",
@@ -18020,7 +18020,7 @@
         "aliases": [],
         "apt_group": "DEADLYKISS",
         "filename": "apt_deadlykiss.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/blackorbird/status/1176695813822648326",
           "https://blog.telsy.com/wp-content/uploads/2019/09/DeadlyKiss_TAAR.pdf"
@@ -18232,7 +18232,7 @@
         "aliases": [],
         "apt_group": "DEATHSTALKER",
         "filename": "apt_deathstalker.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/deathstalker-mercenary-triumvirate/98177/",
           "https://otx.alienvault.com/pulse/5f43eff7af4508bf663e17ea",
@@ -18285,7 +18285,7 @@
         "aliases": [],
         "apt_group": "DESERTFALCON",
         "filename": "apt_desertfalcon.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/files/2015/02/The-Desert-Falcons-targeted-attacks.pdf",
           "http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-operation-arid-viper.pdf"
@@ -18826,7 +18826,7 @@
         "aliases": [],
         "apt_group": "DNSPIONAGE",
         "filename": "apt_dnspionage.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://blog.talosintelligence.com/2018/11/dnspionage-campaign-targets-middle-east.html",
           "https://github.com/ti-research-io/ti/blob/main/ioc_extender/ET_DNS_Query_for_DNSpionage.json",
@@ -18854,7 +18854,7 @@
         "aliases": [],
         "apt_group": "DOCLESS",
         "filename": "apt_docless.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/teoseller/status/1118119539525455874",
           "https://blog.en.elevenpaths.com/2019/04/new-research-docless-vietnam-apt.html",
@@ -18930,7 +18930,7 @@
         ],
         "apt_group": "DOMESTICKITTEN",
         "filename": "apt_domestickitten.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://research.checkpoint.com/domestic-kitten-an-iranian-surveillance-operation/",
           "https://twitter.com/malwrhunterteam/status/1340344596698677250",
@@ -20004,7 +20004,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -20692,7 +20692,7 @@
         ],
         "apt_group": "DOWNEX",
         "filename": "apt_downex.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.bitdefender.com/blog/businessinsights/deep-dive-into-downex-espionage-operation-in-central-asia/",
           "https://cert.gov.ua/article/4697016 (Ukrainian)",
@@ -20745,7 +20745,7 @@
         "aliases": [],
         "apt_group": "DRAGONOK",
         "filename": "apt_dragonok.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://researchcenter.paloaltonetworks.com/2015/04/unit-42-identifies-new-dragonok-backdoor-malware-deployed-against-japanese-targets/",
           "https://app.validin.com/detail?find=153.234.67.222&type=ip4&ref_id=d4329fdcf8a#tab=resolutions",
@@ -20785,7 +20785,7 @@
         "aliases": [],
         "apt_group": "DRIFTINGCLOUD",
         "filename": "apt_driftingcloud.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.volexity.com/blog/2022/06/15/driftingcloud-zero-day-sophos-firewall-exploitation-and-an-insidious-breach/",
           "https://github.com/volexity/threat-intel/blob/main/2022/2022-06-15%20DriftingCloud%20-%20Zero-Day%20Sophos%20Firewall%20Exploitation%20and%20an%20Insidious%20Breach/indicators/indicators.csv"
@@ -21678,7 +21678,7 @@
         ],
         "apt_group": "DUKE",
         "filename": "apt_duke.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://otx.alienvault.com/pulse/55fae83567db8c6fb3518bcd/",
           "https://www.f-secure.com/documents/996508/1030745/dukes_whitepaper.pdf",
@@ -21802,7 +21802,7 @@
         ],
         "apt_group": "DUNEQUIXOTE",
         "filename": "apt_dunequixote.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/dunequixote/112425/"
         ]
@@ -21859,7 +21859,7 @@
         ],
         "apt_group": "DUSTSQUAD",
         "filename": "apt_dustsquad.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/octopus-infested-seas-of-central-asia/88200/",
           "https://twitter.com/Rmy_Reserve/status/1197448735422238721",
@@ -21945,7 +21945,7 @@
         "aliases": [],
         "apt_group": "EARTHBERBEROKA",
         "filename": "apt_earthberberoka.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.trendmicro.com/en_us/research/22/d/new-apt-group-earth-berberoka-targets-gambling-websites-with-old.html",
           "https://documents.trendmicro.com/assets/txt/earth-berberoka-domains-2.txt",
@@ -22060,7 +22060,7 @@
         ],
         "apt_group": "EARTHESTRIES",
         "filename": "apt_earthestries.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.trendmicro.com/en_us/research/23/h/earth-estries-targets-government-tech-for-cyberespionage.html",
           "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/23/h/earth-estries-targets-government-tech-for-cyberespionage/IOCs-earth-estries-targets-government-tech-for-cyberespionage.txt",
@@ -22097,7 +22097,7 @@
         "aliases": [],
         "apt_group": "EARTHHUNDUN",
         "filename": "apt_earthhundun.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.trendmicro.com/en_ca/research/24/d/earth-hundun-waterbear-deuterbear.html",
           "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/d/cyberespionage-group-earth-hundun%27s-continuous-refinement-of-waterbear-and-deuterbear/ioc-earth-hundun.txt"
@@ -22152,7 +22152,7 @@
         ],
         "apt_group": "EARTHKRAHANG",
         "filename": "apt_earthkrahang.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.welivesecurity.com/en/eset-research/operation-jacana-spying-guyana-entity/",
           "https://github.com/eset/malware-ioc/tree/master/operation_jacana",
@@ -22231,7 +22231,7 @@
         ],
         "apt_group": "EARTHKURMA",
         "filename": "apt_earthkurma.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.trendmicro.com/en_us/research/25/d/earth-kurma-apt-campaign.html",
           "https://documents.trendmicro.com/assets/txt/EarthKurma-IOCssVJ3RcK.txt"
@@ -22259,7 +22259,7 @@
         "aliases": [],
         "apt_group": "EARTHWENDIGO",
         "filename": "apt_earthwendigo.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.trendmicro.com/en_us/research/21/a/earth-wendigo-injects-javascript-backdoor-to-service-worker-for-.html",
           "https://otx.alienvault.com/pulse/5ff4910b62daeb96d924cce8"
@@ -22290,7 +22290,7 @@
         "aliases": [],
         "apt_group": "EGOMANIAC",
         "filename": "apt_egomaniac.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.sentinelone.com/labs/egomaniac-an-unscrupulous-turkish-nexus-threat-actor/EGoManiac.pdf",
           "https://otx.alienvault.com/pulse/6138debb9bd98b0f5c3983a4"
@@ -22326,7 +22326,7 @@
         ],
         "apt_group": "ENERGETICBEAR",
         "filename": "apt_energeticbear.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://lab52.io/blog/the-geopolitical-and-potential-cyber-influence-of-russia-in-africa/",
           "https://securelist.com/energetic-bear-crouching-yeti/85345/",
@@ -22463,7 +22463,7 @@
         "aliases": [],
         "apt_group": "EQUATIONGROUP",
         "filename": "apt_equationgroup.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://securelist.com/files/2015/02/Equation_group_questions_and_answers.pdf"
         ]
@@ -22494,7 +22494,7 @@
         ],
         "apt_group": "EVAPIKS",
         "filename": "apt_evapiks.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://research.checkpoint.com/finteam-trojanized-teamviewer-against-government-targets/",
           "https://twitter.com/blackorbird/status/1120535432708722690"
@@ -22536,7 +22536,7 @@
         ],
         "apt_group": "EVASIVEPANDA",
         "filename": "apt_evasivepanda.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/h2jazi/status/1296919948598673409",
           "https://blog.malwarebytes.com/threat-analysis/2020/07/chinese-apt-group-targets-india-and-hong-kong-using-new-variant-of-mgbot-malware/",
@@ -22575,7 +22575,7 @@
         "aliases": [],
         "apt_group": "EZQ",
         "filename": "apt_ezq.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/issuemakerslab/status/1035111245257404417",
           "https://twitter.com/issuemakerslab/status/1035109539740172289"
@@ -22613,7 +22613,7 @@
         "aliases": [],
         "apt_group": "FAMILIARFEELING",
         "filename": "apt_familiarfeeling.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://citizenlab.ca/2018/08/familiar-feeling-a-malware-campaign-targeting-the-tibetan-diaspora-resurfaces/",
           "https://citizenlab.ca/2018/01/spying-on-a-budget-inside-a-phishing-operation-with-targets-in-the-tibetan-community/",
@@ -22662,7 +22662,7 @@
         ],
         "apt_group": "FEROCIOUSKITTEN",
         "filename": "apt_ferociouskitten.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/360CoreSec/status/1407604585896632323",
           "https://twitter.com/360CoreSec/status/1407653661816201226",
@@ -22722,7 +22722,7 @@
         "aliases": [],
         "apt_group": "FINFISHER",
         "filename": "apt_finfisher.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://securityaffairs.co/wordpress/8085/intelligence/finfisher-the-case-of-a-cyber-espionage-found-everywhere.html",
           "https://community.rapid7.com/community/infosec/blog/2012/08/08/finfisher",
@@ -22797,7 +22797,7 @@
         "aliases": [],
         "apt_group": "FLAME",
         "filename": "apt_flame.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/the-roof-is-on-fire-tackling-flames-cc-servers-6/33033/"
         ]
@@ -22826,7 +22826,7 @@
         "aliases": [],
         "apt_group": "FLAXTYPHOON",
         "filename": "apt_flaxtyphoon.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.microsoft.com/en-us/security/blog/2023/08/24/flax-typhoon-using-legitimate-software-to-quietly-access-taiwanese-organizations/",
           "https://otx.alienvault.com/pulse/64e86c65ba511d1d4c4aa590",
@@ -22857,7 +22857,7 @@
         "aliases": [],
         "apt_group": "FLIGHTNIGHT",
         "filename": "apt_flightnight.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://blog.eclecticiq.com/operation-flightnight-indian-government-entities-and-energy-sector-targeted-by-cyber-espionage-campaign",
           "https://www.virustotal.com/gui/file/4455ca4e12b5ff486c466897522536ad753cd459d0eb3bfb1747ffc79a2ce5dd/detection",
@@ -22888,7 +22888,7 @@
         ],
         "apt_group": "FLYINGYETI",
         "filename": "apt_flyingyeti.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://cert.gov.ua/article/6277849 (# UAC-0149)",
           "https://blog.cloudflare.com/disrupting-flyingyeti-campaign-targeting-ukraine"
@@ -22944,7 +22944,7 @@
         ],
         "apt_group": "FORUMTROLL",
         "filename": "apt_forumtroll.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/k3yp0d/status/1782082055905690092",
           "https://x.com/blackorbird/status/1935254424789860703",
@@ -22981,7 +22981,7 @@
         "aliases": [],
         "apt_group": "FRUITYARMOR",
         "filename": "apt_fruityarmor.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/cve-2018-8453-used-in-targeted-attacks/88151/"
         ]
@@ -22999,7 +22999,7 @@
         "aliases": [],
         "apt_group": "GALLMAKER",
         "filename": "apt_gallmaker.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.symantec.com/blogs/threat-intelligence/gallmaker-attack-group",
           "https://securityaffairs.co/wordpress/77041/apt/gallmaker-apt-emerges.html"
@@ -74859,7 +74859,7 @@
         ],
         "apt_group": "GAMAREDON",
         "filename": "apt_gamaredon.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://researchcenter.paloaltonetworks.com/2017/02/unit-42-title-gamaredon-group-toolset-evolution/",
           "https://arstechnica.com/information-technology/2018/11/ukraine-detects-new-pterado-backdoor-malware-warns-of-russian-cyberattack/",
@@ -87217,7 +87217,7 @@
         ],
         "apt_group": "GAMAREDON-1",
         "filename": "apt_gamaredon-1.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.virustotal.com/gui/ip-address/168.100.10.184/relations",
           "https://www.virustotal.com/gui/ip-address/162.33.178.84/relations",
@@ -88804,7 +88804,7 @@
         ],
         "apt_group": "GAZA",
         "filename": "apt_gaza.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/blog/research/72283/gaza-cybergang-wheres-your-ir-team/",
           "https://ti.360.net/blog/articles/suspected-molerats-new-attack-in-the-middle-east/",
@@ -88900,7 +88900,7 @@
         ],
         "apt_group": "GHOSTEMPEROR",
         "filename": "apt_ghostemperor.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/ghostemperor-from-proxylogon-to-kernel-mode/104407/",
           "https://www.sygnia.co/blog/ghost-emperor-demodex-rootkit/",
@@ -88931,7 +88931,7 @@
         "aliases": [],
         "apt_group": "GLASSES",
         "filename": "apt_glasses.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://citizenlab.ca/2013/02/apt1s-glasses-watching-a-human-rights-organization/"
         ]
@@ -88973,7 +88973,7 @@
         ],
         "apt_group": "GOLDDRAGON",
         "filename": "apt_golddragon.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/gold-dragon-widens-olympics-malware-attacks-gains-permanent-presence-on-victims-systems/",
           "https://x.com/malwrhunterteam/status/1851566881825538348",
@@ -89001,7 +89001,7 @@
         "aliases": [],
         "apt_group": "GOLDENBIRD",
         "filename": "apt_goldenbird.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c914fcb2a0f7c3043d01d5e",
           "https://blog.alyac.co.kr/2205 (Korean)"
@@ -89066,7 +89066,7 @@
         "aliases": [],
         "apt_group": "GOLDENJACKAL",
         "filename": "apt_goldenjackal.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/goldenjackal-apt-group/109677/",
           "https://twitter.com/k3yp0d/status/1693249804166422939",
@@ -89098,7 +89098,7 @@
         "aliases": [],
         "apt_group": "GOLDENRAT",
         "filename": "apt_goldenrat.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://vxcube.com/recent-threats-ioc/5b56b22da39bb5094a3c9231/detail"
         ]
@@ -89136,7 +89136,7 @@
         ],
         "apt_group": "GOLDMELODY",
         "filename": "apt_goldmelody.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.secureworks.com/research/gold-melody-profile-of-an-initial-access-broker",
           "https://otx.alienvault.com/pulse/6511e50028c3953453406132"
@@ -89167,7 +89167,7 @@
         ],
         "apt_group": "GOLDMOUSE",
         "filename": "apt_goldmouse.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://ti.360.net/blog/articles/apt-c-27-(goldmouse):-suspected-target-attack-against-the-middle-east-with-winrar-exploit-en/"
         ]
@@ -89239,7 +89239,7 @@
         "aliases": [],
         "apt_group": "GORGON",
         "filename": "apt_gorgon.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/gorgon/domains.txt",
           "https://www.virustotal.com/gui/file/24adef104d6f177525f24c927e764cf8e53c0ce50fbdd1c414305d5fc8b15116/detection",
@@ -89293,7 +89293,7 @@
         ],
         "apt_group": "GOTHICPANDA",
         "filename": "apt_gothicpanda.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.fireeye.com/blog/threat-research/2014/11/operation_doubletap.html",
           "https://www.fireeye.com/blog/threat-research/2015/07/demonstrating_hustle.html (# APT3’s campaign)"
@@ -89316,7 +89316,7 @@
         "aliases": [],
         "apt_group": "GRAYLING",
         "filename": "apt_grayling.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/grayling-taiwan-cyber-attacks",
           "https://cybersecuritynews.com/apt-group-custom-malware/",
@@ -89536,7 +89536,7 @@
         ],
         "apt_group": "GREENSPOT",
         "filename": "apt_greenspot.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/RedDrip7/status/1118009381679878144",
           "https://www.virustotal.com/gui/domain/webplurk.com/relations",
@@ -89721,7 +89721,7 @@
         "aliases": [],
         "apt_group": "GREF",
         "filename": "apt_gref.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.fireeye.com/blog/threat-research/2014/09/forced-to-adapt-xslcmd-backdoor-now-on-os-x.html",
           "https://blog.lookout.com/multiyear-surveillance-campaigns-discovered-targeting-uyghurs",
@@ -89772,7 +89772,7 @@
         "aliases": [],
         "apt_group": "GREYENERGY",
         "filename": "apt_greyenergy.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://github.com/eset/malware-ioc/tree/master/greyenergy"
         ]
@@ -89804,7 +89804,7 @@
         "aliases": [],
         "apt_group": "GROUNDBAIT",
         "filename": "apt_groundbait.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://github.com/eset/malware-ioc/tree/master/groundbait",
           "https://www.virustotal.com/gui/file/a72fd9b23d0388ddcf38e6ca324a6853d08f261360236bb14e5594e879f9ea88/behavior"
@@ -89831,7 +89831,7 @@
         "aliases": [],
         "apt_group": "GROUP5",
         "filename": "apt_group5.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://citizenlab.ca/2016/08/group5-syria/"
         ]
@@ -89879,7 +89879,7 @@
         "aliases": [],
         "apt_group": "HACKINGTEAM",
         "filename": "apt_hackingteam.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://itw01.com/FOCQDE4.html",
           "http://reddittt.com/post/8pcl6a/",
@@ -89925,7 +89925,7 @@
         ],
         "apt_group": "HAFNIUM",
         "filename": "apt_hafnium.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/",
           "https://twitter.com/BushidoToken/status/1369273531867992064",
@@ -89969,7 +89969,7 @@
         ],
         "apt_group": "HANGOVER",
         "filename": "apt_hangover.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://unit42.paloaltonetworks.com/updated-backconfig-malware-targeting-government-and-military-organizations/",
           "https://twitter.com/blackorbird/status/1260217348792844289",
@@ -90024,7 +90024,7 @@
         "aliases": [],
         "apt_group": "HEADMARE",
         "filename": "apt_headmare.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/head-mare-hacktivists/113555/",
           "https://www.virustotal.com/gui/file/063a8cad2115f6021532fa5093b33ec322b052c936659ec5cb42aa53a8207e59/detection",
@@ -90093,7 +90093,7 @@
         "aliases": [],
         "apt_group": "HELLHOUNDS",
         "filename": "apt_hellhounds.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/hellhounds-operation-lahat/",
           "https://www.virustotal.com/gui/ip-address/194.87.68.65/relations",
@@ -90136,7 +90136,7 @@
         "aliases": [],
         "apt_group": "HERMIT",
         "filename": "apt_hermit.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://s.tencent.com/research/report/727.html",
           "https://s.tencent.com/research/report/613.html"
@@ -90160,7 +90160,7 @@
         "aliases": [],
         "apt_group": "HEZIRASH",
         "filename": "apt_hezirash.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://blog.checkpoint.com/research/hezi-rash-rising-kurdish-hacktivist-group-targets-global-sites/",
           "https://e.cyberint.com/hubfs/Hezi%20Rash%20Report%20-%20OCT.pdf"
@@ -90201,7 +90201,7 @@
         "aliases": [],
         "apt_group": "HIGAISA",
         "filename": "apt_higaisa.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://blog.malwarebytes.com/threat-analysis/2020/06/higaisa/",
           "https://otx.alienvault.com/pulse/5eda8caf8ef3aa0d8d0b8030",
@@ -90238,7 +90238,7 @@
         "aliases": [],
         "apt_group": "HOGFISH",
         "filename": "apt_hogfish.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.accenture.com/t20180423T055005Z__w__/us-en/_acnmedia/PDF-76/Accenture-Hogfish-Threat-Analysis.pdf"
         ]
@@ -90311,7 +90311,7 @@
         "aliases": [],
         "apt_group": "ICEFOG",
         "filename": "apt_icefog.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/clearskysec/status/968104469014761472?lang=en",
           "https://speakerdeck.com/ashley920/into-the-fog-the-return-of-icefog-apt?slide=21",
@@ -90374,7 +90374,7 @@
         "aliases": [],
         "apt_group": "ICEPEONY",
         "filename": "apt_icepeony.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/nao_sec/status/1846898971693940782",
           "https://nao-sec.org/2024/10/IcePeony-with-the-996-work-culture.html",
@@ -90414,7 +90414,7 @@
         ],
         "apt_group": "IMPERIALKITTEN",
         "filename": "apt_imperialkitten.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.crowdstrike.com/blog/imperial-kitten-deploys-novel-malware-families/",
           "https://otx.alienvault.com/pulse/65525ca657dbfce9173d57d2"
@@ -90461,7 +90461,7 @@
         "aliases": [],
         "apt_group": "INDIGOZEBRA",
         "filename": "apt_indigozebra.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://research.checkpoint.com/2021/indigozebra-apt-continues-to-attack-central-asia-with-evolving-tools/",
           "https://otx.alienvault.com/pulse/60ddbf90b3211a60e87da15f"
@@ -90493,7 +90493,7 @@
         "aliases": [],
         "apt_group": "INDRA",
         "filename": "apt_indra.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/",
           "https://otx.alienvault.com/pulse/611a554ac771ff97c2273686"
@@ -90521,7 +90521,7 @@
         "aliases": [],
         "apt_group": "INEDIBLEOCHOTENSE",
         "filename": "apt_inedibleochotense.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-apt-activity-report-q2-2025-q3-2025.pdf"
         ]
@@ -90807,7 +90807,7 @@
         ],
         "apt_group": "INFY",
         "filename": "apt_infy.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://malpedia.caad.fkie.fraunhofer.de/details/win.infy",
           "https://unit42.paloaltonetworks.com/prince-of-persia-infy-malware-active-in-decade-of-targeted-attacks/",
@@ -90864,7 +90864,7 @@
         "aliases": [],
         "apt_group": "INNAPUT",
         "filename": "apt_innaput.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://asert.arbornetworks.com/innaput-actors-utilize-remote-access-trojan-since-2016-presumably-targeting-victim-files/"
         ]
@@ -90889,7 +90889,7 @@
         "aliases": [],
         "apt_group": "IRN2",
         "filename": "apt_irn2.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.area1security.com/resources/operation-doos/"
         ]
@@ -90918,7 +90918,7 @@
         ],
         "apt_group": "IRONHUSKY",
         "filename": "apt_ironhusky.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/mysterysnail-attacks-with-windows-zero-day/104509/",
           "https://otx.alienvault.com/pulse/6166cbbeaa321dca2a453f97"
@@ -91024,7 +91024,7 @@
         "aliases": [],
         "apt_group": "IRONTIGER",
         "filename": "apt_irontiger.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://www.secureworks.com/cyber-threat-intelligence/threats/threat-group-3390-targets-organizations-for-cyberespionage/",
           "https://labs.bitdefender.com/wp-content/uploads/downloads/operation-pzchao-inside-a-highly-specialized-espionage-infrastructure/"
@@ -91075,7 +91075,7 @@
         ],
         "apt_group": "ISOON",
         "filename": "apt_isoon.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/craiu/status/1898365894822338798",
           "https://www.justice.gov/opa/media/1391896/dl",
@@ -91132,7 +91132,7 @@
         ],
         "apt_group": "JUDGMENTPANDA",
         "filename": "apt_judgmentpanda.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.secureworks.com/research/bronz-vinewood-uses-hanaloader-to-target-government-supply-chain",
           "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/apt31-new-attacks/",
@@ -91175,7 +91175,7 @@
         ],
         "apt_group": "KAPEKA",
         "filename": "apt_kapeka.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/WithSecure/status/1780510629394080165",
           "https://twitter.com/smica83/status/1780518564341977501",
@@ -91224,7 +91224,7 @@
         ],
         "apt_group": "KARAKURT",
         "filename": "apt_karakurt.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.cisa.gov/uscert/ncas/alerts/aa22-152a",
           "https://www.virustotal.com/gui/ip-address/209.222.98.19/relations",
@@ -91260,7 +91260,7 @@
         "aliases": [],
         "apt_group": "KASABLANKA",
         "filename": "apt_kasablanka.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/HaoZhixiang/status/1704717698280857829",
           "https://www.virustotal.com/gui/domain/karabakhtelekom.com/detection",
@@ -91373,7 +91373,7 @@
         ],
         "apt_group": "KE3CHANG",
         "filename": "apt_ke3chang.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/march/apt15-is-alive-and-strong-an-analysis-of-royalcli-and-royaldns/",
           "https://twitter.com/VK_Intel/status/976977927072985088",
@@ -91551,7 +91551,7 @@
         ],
         "apt_group": "KEYBOY",
         "filename": "apt_keyboy.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://citizenlab.ca/2016/11/parliament-keyboy/",
           "https://documents.trendmicro.com/assets/Tech-Brief-Tropic-Trooper-s-Back-USBferry-Attack-Targets-Air-gapped-Environments.pdf",
@@ -107086,7 +107086,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -108768,7 +108768,7 @@
         ],
         "apt_group": "KUN3",
         "filename": "apt_kun3.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/Des00464472/status/1833089486307344766",
           "https://mp-weixin-qq-com.translate.goog/s/Z-MBBlwGZ7pvylA3Mad03A?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=wapp",
@@ -113285,7 +113285,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -114460,7 +114460,7 @@
         "aliases": [],
         "apt_group": "LAZYSCRIPTER",
         "filename": "apt_lazyscripter.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://resources.malwarebytes.com/files/2021/02/LazyScripter.pdf",
           "https://otx.alienvault.com/pulse/603693b42a32d06720efad59/",
@@ -114499,7 +114499,7 @@
         "aliases": [],
         "apt_group": "LEAFMINER",
         "filename": "apt_leafminer.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.symantec.com/blogs/threat-intelligence/leafminer-espionage-middle-east"
         ]
@@ -114552,7 +114552,7 @@
         "aliases": [],
         "apt_group": "LIBRARIANGHOULS",
         "filename": "apt_librarianghouls.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.kaspersky.ru/blog/malicious-mailout-scr-attachment/37823/",
           "https://www.kaspersky.ru/blog/librarian-ghouls-cad-formats/38199/",
@@ -114597,7 +114597,7 @@
         ],
         "apt_group": "LONGHORN",
         "filename": "apt_longhorn.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://malpedia.caad.fkie.fraunhofer.de/actor/longhorn",
           "https://securelist.com/unraveling-the-lamberts-toolkit/77990/",
@@ -114633,7 +114633,7 @@
         ],
         "apt_group": "LONGNOSEDGOBLIN",
         "filename": "apt_longnosedgoblin.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.welivesecurity.com/en/eset-research/longnosedgoblin-tries-sniff-out-governmental-affairs-southeast-asia-japan/",
           "https://www.virustotal.com/gui/ip-address/103.159.132.75/relations"
@@ -114697,7 +114697,7 @@
         "aliases": [],
         "apt_group": "LOTUSBLOSSOM",
         "filename": "apt_lotusblossom.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/reports/Unit_42/operation-lotus-blossom/unit42-operation-lotus-blossom.pdf",
           "https://www.accenture.com/t20180131T100734Z__w__/us-en/_acnmedia/PDF-46/Accenture-Security-Elise-Threat-Analysis.pdf"
@@ -114794,7 +114794,7 @@
         ],
         "apt_group": "LUCKYCAT",
         "filename": "apt_luckycat.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_luckycat_redux.pdf",
           "https://blog.talosintelligence.com/2019/02/exilerat-shares-c2-with-luckycat.html",
@@ -114834,7 +114834,7 @@
         "aliases": [],
         "apt_group": "LUMINOUSMOTH",
         "filename": "apt_luminousmoth.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/apt-luminousmoth/103332/",
           "https://otx.alienvault.com/pulse/60efe4047c9b9b9564314643"
@@ -114914,7 +114914,7 @@
         ],
         "apt_group": "LYCEUM",
         "filename": "apt_lyceum.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/blackorbird/status/1166345000826724352",
           "https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign",
@@ -115025,7 +115025,7 @@
         ],
         "apt_group": "MACHETE",
         "filename": "apt_machete.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.welivesecurity.com/2019/08/05/sharpening-machete-cyberespionage/",
           "https://www.welivesecurity.com/wp-content/uploads/2019/08/ESET_Machete.pdf",
@@ -115069,7 +115069,7 @@
         "aliases": [],
         "apt_group": "MALKAMAK",
         "filename": "apt_malkamak.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.cybereason.com/blog/operation-ghostshell-novel-rat-targets-global-aerospace-and-telecoms-firms",
           "https://www.virustotal.com/gui/file/a541afa0e73c3942b8c3645a3ba1ea59c4d6e1110e271be34fdb6a8c02a299e2/detection",
@@ -115095,7 +115095,7 @@
         "aliases": [],
         "apt_group": "MARBLEDDUST",
         "filename": "apt_marbleddust.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.microsoft.com/en-us/security/blog/2025/05/12/marbled-dust-leverages-zero-day-in-output-messenger-for-regional-espionage/"
         ]
@@ -116625,7 +116625,7 @@
         ],
         "apt_group": "MENUPASS",
         "filename": "apt_menupass.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://researchcenter.paloaltonetworks.com/2017/02/unit42-menupass-returns-new-malware-new-attacks-japanese-academics-organizations/",
           "http://blog.jpcert.or.jp/2017/02/chches-malware--93d6.html",
@@ -117159,7 +117159,7 @@
         ],
         "apt_group": "MERCENARYAMANDA",
         "filename": "apt_mercenaryamanda.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://citizenlab.ca/2020/06/dark-basin-uncovering-a-massive-hack-for-hire-operation/",
           "https://www.nortonlifelock.com/blogs/security-response/mercenary-amanda-professional-hackers-hire",
@@ -117316,7 +117316,7 @@
         "aliases": [],
         "apt_group": "MIDDLEEAST",
         "filename": "apt_middleeast.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://blog.talosintelligence.com/2020/01/mideast-tensions-preparations.html",
           "https://otx.alienvault.com/pulse/5e1662a18a0e7b520b9cab43"
@@ -117380,7 +117380,7 @@
         ],
         "apt_group": "MIDDLEFLOOR",
         "filename": "apt_middlefloor.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://research.checkpoint.com/2024/disinformation-campaign-moldova/",
           "https://cert.pl/uploads/docs/Raport_CP_2023.pdf"
@@ -117414,7 +117414,7 @@
         "aliases": [],
         "apt_group": "MINIDUKE",
         "filename": "apt_miniduke.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://www.securelist.com/en/blog/208194129/The_MiniDuke_Mystery_PDF_0_day_Government_Spy_Assembler_0x29A_Micro_Backdoor",
           "http://blog.crysys.hu/2013/02/miniduke/",
@@ -117467,7 +117467,7 @@
         ],
         "apt_group": "MIRRORFACE",
         "filename": "apt_mirrorface.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.welivesecurity.com/2022/12/14/unmasking-mirrorface-operation-liberalface-targeting-japanese-political-entities/",
           "https://otx.alienvault.com/pulse/639b01a88df8698311dc2b43",
@@ -117523,7 +117523,7 @@
         "aliases": [],
         "apt_group": "MODIFIEDELEPHANT",
         "filename": "apt_modifiedelephant.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://assets.sentinelone.com/sentinellabs-apt/modified-elephant-apt",
           "https://otx.alienvault.com/pulse/62053151ca89868dc36f41e8",
@@ -117555,7 +117555,7 @@
         ],
         "apt_group": "MOTORBEACON",
         "filename": "apt_motorbeacon.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.seqrite.com/blog/seqrite-capi-backdoor-dotnet-stealer-russian-auto-commerce-oct-2025/",
           "https://www.virustotal.com/gui/file/7b53e13f0431a8c785a7b65440e53db716aa8ce2575927e2fa4f4c4b0eb75490/detection",
@@ -117593,7 +117593,7 @@
         "aliases": [],
         "apt_group": "MOUSTACHEDBOUNCER",
         "filename": "apt_moustachedbouncer.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.welivesecurity.com/en/eset-research/moustachedbouncer-espionage-against-foreign-diplomats-in-belarus/"
         ]
@@ -117695,7 +117695,7 @@
         ],
         "apt_group": "MUDCARP",
         "filename": "apt_mudcarp.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://otx.alienvault.com/pulse/5ca740c67a9dbc78fe32f9b9",
           "https://www.accenture.com/t20190305T200954Z__w__/us-en/_acnmedia/PDF-96/Accenture-Security-MUDCARP-Full-Report.pdf",
@@ -118301,7 +118301,7 @@
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
@@ -118547,7 +118547,7 @@
         "aliases": [],
         "apt_group": "MURENSHARK",
         "filename": "apt_murenshark.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/fuyinglab/status/1560583590236135424",
           "http://blog.nsfocus.net/murenshark/",
@@ -118993,7 +118993,7 @@
         ],
         "apt_group": "MUSTANGPANDA",
         "filename": "apt_mustangpanda.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.anomali.com/blog/china-based-apt-mustang-panda-targets-minority-groups-public-and-private-sector-organizations",
           "https://otx.alienvault.com/pulse/5d9c72d7e2efa3b5aa799b41",
@@ -119281,7 +119281,7 @@
         ],
         "apt_group": "NAIKON",
         "filename": "apt_naikon.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/analysis/publications/69567/the-chronicles-of-the-hellsing-apt-the-empire-strikes-back/",
           "https://securelist.com/the-naikon-apt/69953/",
@@ -119357,7 +119357,7 @@
         "aliases": [],
         "apt_group": "NETTRAVELER",
         "filename": "apt_nettraveler.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://securelist.com/blog/research/35936/nettraveler-is-running-red-star-apt-attacks-compromise-high-profile-victims/",
           "https://www.proofpoint.com/us/threat-insight/post/nettraveler-apt-targets-russian-european-interests"
@@ -119385,7 +119385,7 @@
         "aliases": [],
         "apt_group": "NEWSBEEF",
         "filename": "apt_newsbeef.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/blog/research/77725/from-shamoon-to-stonedrill/",
           "https://www.symantec.com/security_response/writeup.jsp?docid=2017-022712-2204-99&tabid=2"
@@ -119410,7 +119410,7 @@
         "aliases": [],
         "apt_group": "NEWSPENGUIN",
         "filename": "apt_newspenguin.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/__0XYC__/status/1617408058573094914",
           "https://twitter.com/doc_guard/status/1617483771275784192",
@@ -119470,7 +119470,7 @@
         ],
         "apt_group": "NIGHTEAGLE",
         "filename": "apt_nighteagle.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/RedDrip7/status/1940637150158139764",
           "https://x.com/RedDrip7/status/1940780494662390135",
@@ -119503,7 +119503,7 @@
         "aliases": [],
         "apt_group": "NOISYBEAR",
         "filename": "apt_noisybear.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/malwrhunterteam/status/1922587000646848586",
           "https://www.seqrite.com/blog/operation-barrelfire-noisybear-kazakhstan-oil-gas-sector/",
@@ -119579,7 +119579,7 @@
         ],
         "apt_group": "NONAME05716",
         "filename": "apt_noname05716.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://decoded.avast.io/martinchlumecky/bobik/",
           "https://www.virustotal.com/gui/ip-address/2.57.122.243/relations",
@@ -119616,7 +119616,7 @@
         "aliases": [],
         "apt_group": "NOVISPY",
         "filename": "apt_novispy.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/amnesty/status/1868604055708143655",
           "https://x.com/smica83/status/1868657766451322961",
@@ -119771,7 +119771,7 @@
         ],
         "apt_group": "OBSMOGWAI",
         "filename": "apt_obsmogwai.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/XakepRU/status/1844785033208316090",
           "https://rt-solar.ru/solar-4rays/blog/4753/",
@@ -120342,7 +120342,7 @@
         ],
         "apt_group": "OCEANLOTUS",
         "filename": "apt_oceanlotus.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
           "https://github.com/eset/malware-ioc/tree/master/oceanlotus",
@@ -120577,7 +120577,7 @@
         "aliases": [],
         "apt_group": "OILALPHA",
         "filename": "apt_oilalpha.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.recordedfuture.com/oilalpha-likely-pro-houthi-group-targeting-arabian-peninsula",
           "https://go.recordedfuture.com/hubfs/reports/cta-2023-0516.pdf",
@@ -120880,7 +120880,7 @@
         ],
         "apt_group": "OILRIG",
         "filename": "apt_oilrig.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/ClearskySec/status/1026297541581664257",
           "https://researchcenter.paloaltonetworks.com/2018/07/unit42-oilrig-targets-technology-service-provider-government-agency-quadagent/",
@@ -121005,7 +121005,7 @@
         "aliases": [],
         "apt_group": "ONYXSLEET",
         "filename": "apt_onyxsleet.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.microsoft.com/en-us/security/blog/2023/10/18/multiple-north-korean-threat-actors-exploiting-the-teamcity-cve-2023-42793-vulnerability/",
           "https://otx.alienvault.com/pulse/65534130052d1800f62e7ba2"
@@ -121116,7 +121116,7 @@
         ],
         "apt_group": "OPERA1ER",
         "filename": "apt_opera1er.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/blackorbird/status/1588353576723976192",
           "http://c-apt-ure.blogspot.com/2022/01/who-is-desktop-group.html",
@@ -121158,7 +121158,7 @@
         "aliases": [],
         "apt_group": "PACKRAT",
         "filename": "apt_packrat.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://citizenlab.ca/2015/12/packrat-report/"
         ]
@@ -121200,7 +121200,7 @@
         ],
         "apt_group": "PAPERWEREWOLF",
         "filename": "apt_paperwerewolf.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://intezer.com/blog/tracing-a-paper-werewolf-campaign-through-ai-generated-decoys-and-excel-xlls/"
         ]
@@ -121261,7 +121261,7 @@
         ],
         "apt_group": "PARAGON",
         "filename": "apt_paragon.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://citizenlab.ca/2025/03/a-first-look-at-paragons-proliferating-spyware-operations/",
           "https://search.censys.io/hosts/178.237.39.204",
@@ -122111,7 +122111,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -122573,7 +122573,7 @@
         ],
         "apt_group": "PEEPINGTITLE",
         "filename": "apt_peepingtitle.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.sentinelone.com/labs/operation-magalenha-long-running-campaign-pursues-portuguese-credentials-and-pii/"
         ]
@@ -124118,7 +124118,7 @@
         "aliases": [],
         "apt_group": "PEGASUS",
         "filename": "apt_pegasus.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/",
           "https://www.proofpoint.com/us/daily-ruleset-update-summary-20160825",
@@ -124191,7 +124191,7 @@
         ],
         "apt_group": "PITTYTIGER",
         "filename": "apt_pittytiger.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://apt.thaicert.or.th/cgi-bin/showcard.cgi?g=PittyTiger%2C%20Pitty%20Panda",
           "https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2014/2014.07.11.Pitty_Tiger/Pitty_Tiger_Final_Report.pdf",
@@ -124273,7 +124273,7 @@
         "aliases": [],
         "apt_group": "PKPLUG",
         "filename": "apt_pkplug.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://unit42.paloaltonetworks.com/pkplug_chinese_cyber_espionage_group_attacking_asia/",
           "https://pan-unit42.github.io/playbook_viewer/?pb=pkplug",
@@ -124303,7 +124303,7 @@
         "aliases": [],
         "apt_group": "PLATINUM",
         "filename": "apt_platinum.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/platinum-is-back/91135/",
           "https://otx.alienvault.com/pulse/5cf7ccd8e9e95f3f24518a6a",
@@ -124328,7 +124328,7 @@
         "aliases": [],
         "apt_group": "POISONNEEDLES",
         "filename": "apt_poisonneedles.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/souiten/status/1548929893752193024",
           "https://blogs.360.net/post/PoisonNeedles_CVE-2018-15982_EN.html",
@@ -124559,7 +124559,7 @@
         ],
         "apt_group": "POKINGTHEBEAR",
         "filename": "apt_pokingthebear.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://threatvector.cylance.com/en_us/home/poking-the-bear-three-year-campaign-targets-russian-critical-infrastructure.html"
         ]
@@ -124604,7 +124604,7 @@
         "aliases": [],
         "apt_group": "POLONIUM",
         "filename": "apt_polonium.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.welivesecurity.com/2022/10/11/polonium-targets-israel-creepy-malware/",
           "https://github.com/eset/malware-ioc/tree/master/polonium",
@@ -124636,7 +124636,7 @@
         "aliases": [],
         "apt_group": "POTAO",
         "filename": "apt_potao.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://github.com/eset/malware-ioc/tree/master/potao"
         ]
@@ -124789,7 +124789,7 @@
         ],
         "apt_group": "PREDATOR",
         "filename": "apt_predator.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://citizenlab.ca/2023/09/predator-in-the-wires-ahmed-eltantawy-targeted-with-predator-spyware-after-announcing-presidential-ambitions/",
           "https://www.virustotal.com/gui/ip-address/192.169.7.252/relations",
@@ -124845,7 +124845,7 @@
         ],
         "apt_group": "PURPLEHAZE",
         "filename": "apt_purplehaze.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/milenkowski/status/1932038909455684056",
           "https://www.sentinelone.com/labs/follow-the-smoke-china-nexus-threat-actors-hammer-at-the-doors-of-top-tier-targets/"
@@ -124884,7 +124884,7 @@
         ],
         "apt_group": "PUTTERPANDA",
         "filename": "apt_putterpanda.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://samples.vx-underground.org/APTs/2010/2010.09.06/Paper/MSUpdater%20Trojan.pdf",
           "https://www.virustotal.com/gui/file/d8a976979d4eeaf7485249c49d4a31824638a49dac308c5114c113b4a3eed9c9/detection",
@@ -124929,7 +124929,7 @@
         ],
         "apt_group": "Q015",
         "filename": "apt_q015.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/blackorbird/status/1927669064308314381",
           "https://ti.qianxin.com/blog/articles/operation-run-the-cyber-carnival-of-offshore-patriots-en/",
@@ -125004,7 +125004,7 @@
         "aliases": [],
         "apt_group": "Q12",
         "filename": "apt_q12.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.secrss.com/articles/36606 (Chinese)",
           "https://www.virustotal.com/gui/ip-address/162.222.214.109/relations",
@@ -125067,7 +125067,7 @@
         ],
         "apt_group": "Q27",
         "filename": "apt_q27.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://news.sophos.com/en-us/2023/05/03/doubled-dll-sideloading-dragon-breath/",
           "https://github.com/sophoslabs/IoCs/blob/master/double-dragon-breath-iocs.csv"
@@ -125162,7 +125162,7 @@
         ],
         "apt_group": "QUARIAN",
         "filename": "apt_quarian.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://github.com/advanced-threat-research/IOCs/blob/master/2013/2013-10-07-quarian-group-targets-victims-with-spearphishing-attacks/quarian-group-targets-victims-with-spearphishing-attacks.csv",
           "https://www.welivesecurity.com/2021/06/10/backdoordiplomacy-upgrading-quarian-turian/",
@@ -125224,7 +125224,7 @@
         "aliases": [],
         "apt_group": "QUASAR",
         "filename": "apt_quasar.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.symantec.com/security_response/writeup.jsp?docid=2017-020114-1619-99&tabid=2",
           "http://researchcenter.paloaltonetworks.com/2017/01/unit42-downeks-and-quasar-rat-used-in-recent-targeted-attacks-against-governments/"
@@ -125265,7 +125265,7 @@
         "aliases": [],
         "apt_group": "RAMPANTKITTEN",
         "filename": "apt_rampantkitten.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://research.checkpoint.com/2020/rampant-kitten-an-iranian-espionage-campaign/",
           "https://otx.alienvault.com/pulse/5f64d3ca157b5eecc4646710"
@@ -125312,7 +125312,7 @@
         "aliases": [],
         "apt_group": "RANCOR",
         "filename": "apt_rancor.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/MeltX0R/status/1172046597942915072",
           "https://meltx0r.github.io/tech/2019/09/11/rancor-apt.html",
@@ -125364,7 +125364,7 @@
         "aliases": [],
         "apt_group": "REAPER",
         "filename": "apt_reaper.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
           "https://twitter.com/QW5kcmV3/status/1033495729258606597",
@@ -125402,7 +125402,7 @@
         "aliases": [],
         "apt_group": "REDBALDKNIGHT",
         "filename": "apt_redbaldknight.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://blog.talosintelligence.com/2018/10/tracking-tick-through-recent-campaigns.html"
         ]
@@ -125573,7 +125573,7 @@
         "aliases": [],
         "apt_group": "REDFOXTROT",
         "filename": "apt_redfoxtrot.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://go.recordedfuture.com/hubfs/reports/cta-2021-0616.pdf",
           "https://github.com/Insikt-Group/Research/blob/master/RedFoxtrot%20June%202021",
@@ -125634,7 +125634,7 @@
         "aliases": [],
         "apt_group": "REDJULIETT",
         "filename": "apt_redjuliett.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.recordedfuture.com/research/redjuliett-intensifies-taiwanese-cyber-espionage-via-network-perimeter",
           "https://www.virustotal.com/gui/ip-address/38.147.190.192/relations",
@@ -125675,7 +125675,7 @@
         ],
         "apt_group": "REDNOVEMBER",
         "filename": "apt_rednovember.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.recordedfuture.com/research/rednovember-targets-government-defense-and-technology-organizations"
         ]
@@ -125755,7 +125755,7 @@
         "aliases": [],
         "apt_group": "REDOCTOBER",
         "filename": "apt_redoctober.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.alienvault.com/blog-content/2013/01/RedOctober-Indicatorsofcompromise-2.pdf"
         ]
@@ -125844,7 +125844,7 @@
         ],
         "apt_group": "REDWOLF",
         "filename": "apt_redwolf.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/k3yp0d/status/1710230683870785767",
           "https://bi-zone.medium.com/hunting-the-hunter-bi-zone-traces-the-footsteps-of-red-wolf-3677783e164d",
@@ -125890,7 +125890,7 @@
         "aliases": [],
         "apt_group": "RNEXUS",
         "filename": "apt_rnexus.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://citizenlab.ca/2017/05/tainted-leaks-disinformation-phish/"
         ]
@@ -125919,7 +125919,7 @@
         "aliases": [],
         "apt_group": "ROCKETMAN",
         "filename": "apt_rocketman.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://blog.alyac.co.kr/1853",
           "https://otx.alienvault.com/pulse/5ccaed31545df8f17b695ffe"
@@ -125947,7 +125947,7 @@
         "aliases": [],
         "apt_group": "RUSTICWEB",
         "filename": "apt_rusticweb.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/fmc_nan/status/1714956705971458377",
           "https://www.virustotal.com/gui/ip-address/89.117.188.126/relations",
@@ -125977,7 +125977,7 @@
         "aliases": [],
         "apt_group": "SAGUARO",
         "filename": "apt_saguaro.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://s3.amazonaws.com/snort-org/www/rules/community/community-rules.tar.gz",
           "https://snort-org-site.s3.amazonaws.com/production/release_files/files/000/012/156/original/snort3-community-rules.tar.gz",
@@ -126005,7 +126005,7 @@
         "aliases": [],
         "apt_group": "SANDMAN",
         "filename": "apt_sandman.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.sentinelone.com/labs/sandman-apt-a-mystery-group-targeting-telcos-with-a-luajit-toolkit/",
           "https://www.virustotal.com/gui/file/0b962ad02e8eef3c717ce6fcfda9587f92ebe9e7ed6ee93be6bc1103daa4e8bf/detection"
@@ -126603,7 +126603,7 @@
         ],
         "apt_group": "SANDWORM",
         "filename": "apt_sandworm.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://web.archive.org/web/20120106212034/http://amada.abuse.ch/blocklist.php?download=domainblocklist",
           "https://www.virustotal.com/gui/ip-address/185.80.53.22/relations",
@@ -126692,7 +126692,7 @@
         "aliases": [],
         "apt_group": "SAURON",
         "filename": "apt_sauron.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/files/2016/07/The-ProjectSauron-APT_IOCs_KL.pdf"
         ]
@@ -126719,7 +126719,7 @@
         "aliases": [],
         "apt_group": "SCANBOX",
         "filename": "apt_scanbox.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://pwc.blogs.com/files/cto-tib-20150223-01a.pdf"
         ]
@@ -126826,7 +126826,7 @@
         ],
         "apt_group": "SCARLETMIMIC",
         "filename": "apt_scarletmimic.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://researchcenter.paloaltonetworks.com/2016/01/scarlet-mimic-years-long-espionage-targets-minority-activists/",
           "https://github.com/kbandla/APTnotes/blob/master/2013/wp-fakem-rat.pdf",
@@ -126918,7 +126918,7 @@
         ],
         "apt_group": "SCIERON",
         "filename": "apt_scieron.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://www.symantec.com/content/en/us/enterprise/media/security_response/docs/Scarab_IOCs_January_2015.txt",
           "https://twitter.com/h2jazi/status/1505887653111209994",
@@ -126976,7 +126976,7 @@
         "aliases": [],
         "apt_group": "SEAFLOWER",
         "filename": "apt_seaflower.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://blog.confiant.com/how-seaflower-%E8%97%8F%E6%B5%B7%E8%8A%B1-installs-backdoors-in-ios-android-web3-wallets-to-steal-your-seed-phrase-d25f0ccdffce"
         ]
@@ -127034,7 +127034,7 @@
         "aliases": [],
         "apt_group": "SECTORA05",
         "filename": "apt_sectora05.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://threatrecon.nshc.net/2019/01/30/operation-kitty-phishing/",
           "http://download.ahnlab.com/kr/site/library/%5BAnalysis_Report%5DOperation_Kabar_Cobra.pdf"
@@ -127067,7 +127067,7 @@
         "aliases": [],
         "apt_group": "SHAMOON",
         "filename": "apt_shamoon.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.arbornetworks.com/blog/asert/additional-insights-on-shamoon2/",
           "https://securityintelligence.com/the-full-shamoon-how-the-devastating-malware-was-inserted-into-networks/",
@@ -127126,7 +127126,7 @@
         "aliases": [],
         "apt_group": "SHARPPANDA",
         "filename": "apt_sharppanda.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://blog.vincss.net/2021/05/re022-phan-1-phan-tich-nhanh-mau-ma-doc-gia-mao-cong-van-cua-uy-ban-kiem-tra-tw-VietNam.html",
           "https://research.checkpoint.com/2021/chinese-apt-group-targets-southeast-asian-government-with-previously-unknown-backdoor/",
@@ -127178,7 +127178,7 @@
         "aliases": [],
         "apt_group": "SHIQIANG",
         "filename": "apt_shiqiang.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/stolen-certificates-shiqiang-gang/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2014/2014-05-03-stolen-certificates-shiqiang-gang/stolen-certificates-shiqiang-gang.csv"
@@ -130562,7 +130562,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -131633,7 +131633,7 @@
         "aliases": [],
         "apt_group": "SILENCE",
         "filename": "apt_silence.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf",
           "https://otx.alienvault.com/pulse/5d5d6e09e5809a8cb83bcea1",
@@ -131665,7 +131665,7 @@
         "aliases": [],
         "apt_group": "SILENCERLION",
         "filename": "apt_silencerlion.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/reddrip7/status/1233779793537056768",
           "https://mp.weixin.qq.com/s/UlTX4M8SzwhjI74tFKg_YA",
@@ -131961,7 +131961,7 @@
         ],
         "apt_group": "SILENTLYNX",
         "filename": "apt_silentlynx.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/StrikeReadyLabs/status/1877839055716581634",
           "https://x.com/virusbtn/status/1882771331726647421",
@@ -132001,7 +132001,7 @@
         "aliases": [],
         "apt_group": "SIMBAA",
         "filename": "apt_simbaa.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.malcrawler.com/team-simbaa-targets-indian-government-using-united-nations-military-observers-themed-malware-nicked-named-keeoil/"
         ]
@@ -132023,7 +132023,7 @@
         "aliases": [],
         "apt_group": "SKYCLOAK",
         "filename": "apt_skycloak.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/smica83/status/1982342773626880217",
           "https://x.com/PrakkiSathwik/status/1984324320731283614",
@@ -132057,7 +132057,7 @@
         "aliases": [],
         "apt_group": "SNOWMAN",
         "filename": "apt_snowman.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.fireeye.com/blog/threat-research/2014/02/operation-snowman-deputydog-actor-compromises-us-veterans-of-foreign-wars-website.html"
         ]
@@ -132116,7 +132116,7 @@
         ],
         "apt_group": "SOBAKEN",
         "filename": "apt_sobaken.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.welivesecurity.com/wp-content/uploads/2018/07/ESET_Quasar_Sobaken_Vermin.pdf",
           "https://malpedia.caad.fkie.fraunhofer.de/details/win.vermin",
@@ -133778,7 +133778,7 @@
         ],
         "apt_group": "SOFACY",
         "filename": "apt_sofacy.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.alienvault.com/open-threat-exchange/blog/from-russia-with-love-sofacy-sednit-apt28-is-in-town",
           "http://permalink.gmane.org/gmane.comp.security.ids.snort.emerging-sigs/22170",
@@ -134182,7 +134182,7 @@
         "aliases": [],
         "apt_group": "SPACEPIRATES",
         "filename": "apt_spacepirates.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/space-pirates-tools-and-connections/",
           "https://www.virustotal.com/gui/ip-address/141.164.35.87/relations",
@@ -134312,7 +134312,7 @@
         "aliases": [],
         "apt_group": "STEALTHFALCON",
         "filename": "apt_stealthfalcon.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://citizenlab.org/2016/05/stealth-falcon-appendices/",
           "https://citizenlab.ca/2016/05/stealth-falcon/",
@@ -134358,7 +134358,7 @@
         ],
         "apt_group": "STOLENPENCIL",
         "filename": "apt_stolenpencil.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://asert.arbornetworks.com/stolen-pencil-campaign-targets-academia/",
           "https://unit42.paloaltonetworks.com/new-babyshark-malware-targets-u-s-national-security-think-tanks/",
@@ -134384,7 +134384,7 @@
         "aliases": [],
         "apt_group": "STONEDRILL",
         "filename": "apt_stonedrill.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.symantec.com/security_response/writeup.jsp?docid=2017-030708-4403-99&tabid=2"
         ]
@@ -134420,7 +134420,7 @@
         ],
         "apt_group": "STONEFLY",
         "filename": "apt_stonefly.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/stonefly-north-korea-espionage",
           "https://otx.alienvault.com/pulse/626bba5ec3f783b80d69a882",
@@ -134534,7 +134534,7 @@
         ],
         "apt_group": "STRONGPITY",
         "filename": "apt_strongpity.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.proofpoint.com/us/daily-ruleset-update-summary-20180522",
           "https://twitter.com/VK_Intel/status/1189939324344766464",
@@ -134628,7 +134628,7 @@
         "aliases": [],
         "apt_group": "STUXNET",
         "filename": "apt_stuxnet.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "http://www.wired.com/images_blogs/threatlevel/2010/10/w32_stuxnet_dossier.pdf"
         ]
@@ -134662,7 +134662,7 @@
         "aliases": [],
         "apt_group": "TA2101",
         "filename": "apt_ta2101.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.proofpoint.com/us/threat-insight/post/ta2101-plays-government-imposter-distribute-malware-german-italian-and-us"
         ]
@@ -134689,7 +134689,7 @@
         ],
         "apt_group": "TA240524",
         "filename": "apt_ta240524.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/fuyinglab/status/1821388288089018486",
           "https://nsfocusglobal.com/new-apt-group-actor240524-a-closer-look-at-its-cyber-tactics-against-azerbaijan-and-israel/",
@@ -134746,7 +134746,7 @@
         ],
         "apt_group": "TA410",
         "filename": "apt_ta410.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.proofpoint.com/us/blog/threat-insight/ta410-group-behind-lookback-attacks-against-us-utilities-sector-returns-new",
           "https://otx.alienvault.com/pulse/5edf9678c760e3c7ca6fdf77",
@@ -134796,7 +134796,7 @@
         "aliases": [],
         "apt_group": "TA416",
         "filename": "apt_ta416.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.proofpoint.com/us/blog/threat-insight/ta416-goes-ground-and-returns-golang-plugx-malware-loader",
           "https://otx.alienvault.com/pulse/5fbc0c5ec4bfeaa7f7956ff4",
@@ -134946,7 +134946,7 @@
         ],
         "apt_group": "TA428",
         "filename": "apt_ta428.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.proofpoint.com/us/threat-insight/post/chinese-apt-operation-lagtime-it-targets-government-information-technology",
           "https://www.virustotal.com/gui/ip-address/95.179.131.29/relations",
@@ -135020,7 +135020,7 @@
         "aliases": [],
         "apt_group": "TA555",
         "filename": "apt_ta555.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/reegun21/status/1224600875777159169",
           "http://www.hexed.in/2020/02/ta555-campaign-feb-2020.html"
@@ -135049,7 +135049,7 @@
         ],
         "apt_group": "TA5918",
         "filename": "apt_ta5918.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://blog.talosintelligence.com/uat-5918-targets-critical-infra-in-taiwan/",
           "https://blog.talosintelligence.com/uat-7237-targets-web-hosting-infra/"
@@ -135077,7 +135077,7 @@
         ],
         "apt_group": "TAG22",
         "filename": "apt_tag22.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.recordedfuture.com/chinese-group-tag-22-targets-nepal-philippines-taiwan/",
           "https://github.com/Insikt-Group/Research/blob/master/Chinese%20APT%20TAG-22%20Targets%20Asian%20Countries",
@@ -135111,7 +135111,7 @@
         ],
         "apt_group": "TAG28",
         "filename": "apt_tag28.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://otx.alienvault.com/pulse/614af64c63989af23d536083"
         ]
@@ -135135,7 +135135,7 @@
         "aliases": [],
         "apt_group": "TAJMAHAL",
         "filename": "apt_tajmahal.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://otx.alienvault.com/pulse/5cad645554fab2031f8d0109",
           "https://securelist.com/project-tajmahal/90240/"
@@ -135213,7 +135213,7 @@
         ],
         "apt_group": "TEALKURMA",
         "filename": "apt_tealkurma.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/tortoise-and-malwahare.html",
           "https://blog.talosintelligence.com/seaturtle/",
@@ -135244,7 +135244,7 @@
         "aliases": [],
         "apt_group": "TELEBOTS",
         "filename": "apt_telebots.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.welivesecurity.com/2018/10/11/new-telebots-backdoor-linking-industroyer-notpetya/"
         ]
@@ -135270,7 +135270,7 @@
         "aliases": [],
         "apt_group": "TEMPPERISCOPE",
         "filename": "apt_tempperiscope.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.fireeye.com/blog/threat-research/2018/07/chinese-espionage-group-targets-cambodia-ahead-of-elections.html",
           "https://www.recordedfuture.com/chinese-threat-actor-tempperiscope/"
@@ -135301,7 +135301,7 @@
         "aliases": [],
         "apt_group": "TEMPTINGCEDAR",
         "filename": "apt_temptingcedar.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://blog.avast.com/avast-tracks-down-tempting-cedar-spyware",
           "https://twitter.com/kyleehmke/status/1233024422581325824"
@@ -135344,7 +135344,7 @@
         ],
         "apt_group": "TENGYUNSNAKE",
         "filename": "apt_tengyunsnake.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/blackorbird/status/1416008782962855936",
           "https://mp.weixin.qq.com/s/Jpw7TqyPzOy57RAZDQdlWA (Chinese)",
@@ -135439,7 +135439,7 @@
         "aliases": [],
         "apt_group": "TIBET",
         "filename": "apt_tibet.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.alienvault.com/open-threat-exchange/blog/cve-2012-0158-tibet-targeted-attacks-and-so-on",
           "https://www.virustotal.com/gui/file/0d2ee9ade24163613772fdda201af985d852ab506e3d3e7f07fb3fa8b0853560/detection",
@@ -135498,7 +135498,7 @@
         "aliases": [],
         "apt_group": "TICK",
         "filename": "apt_tick.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://blogs.jpcert.or.jp/ja/2019/02/tick-activity.html",
           "https://image.ahnlab.com/file_upload/asecissue_files/ASEC%20REPORT_vol.95.pdf",
@@ -135552,7 +135552,7 @@
         ],
         "apt_group": "TIDRONE",
         "filename": "apt_tidrone.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.trendmicro.com/en_us/research/24/i/tidrone-targets-military-and-satellite-industries-in-taiwan.html",
           "https://www.virustotal.com/gui/ip-address/45.121.50.185/relations",
@@ -135637,7 +135637,7 @@
         ],
         "apt_group": "TINYSCOUTS",
         "filename": "apt_tinyscouts.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://rt-solar.ru/events/news/1915/ (Russian)",
           "https://www.securitylab.ru/blog/company/solarsecurity/349248.php (Russian)",
@@ -135727,7 +135727,7 @@
         "aliases": [],
         "apt_group": "TODDYCAT",
         "filename": "apt_toddycat.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/toddycat/106799/",
           "https://securelist.com/toddycat-keep-calm-and-check-logs/110696/",
@@ -135949,7 +135949,7 @@
         ],
         "apt_group": "TORTOISESHELL",
         "filename": "apt_tortoiseshell.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.symantec.com/blogs/threat-intelligence/tortoiseshell-apt-supply-chain",
           "https://otx.alienvault.com/pulse/5d8201965473b98dbf01a84f",
@@ -140236,7 +140236,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -141326,7 +141326,7 @@
         "aliases": [],
         "apt_group": "TRIANGULATION",
         "filename": "apt_triangulation.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/operation-triangulation/109842/"
         ]
@@ -141634,7 +141634,7 @@
         ],
         "apt_group": "TURLA",
         "filename": "apt_turla.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://github.com/eset/malware-ioc/blob/master/turla/README.adoc",
           "https://www.welivesecurity.com/2018/01/09/turlas-backdoor-laced-flash-player-installer/",
@@ -141736,7 +141736,7 @@
         "aliases": [],
         "apt_group": "TVRMS",
         "filename": "apt_tvrms.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/attacks-on-industrial-enterprises-using-rms-and-teamviewer/87104/",
           "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/08/01075510/TV_RMS_IoC_eng.pdf"
@@ -141763,7 +141763,7 @@
         "aliases": [],
         "apt_group": "TWISTEDPANDA",
         "filename": "apt_twistedpanda.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/ShadowChasing1/status/1506573766456864770",
           "https://twitter.com/ShadowChasing1/status/1506573768939909123",
@@ -142396,7 +142396,7 @@
         ],
         "apt_group": "UNC1151",
         "filename": "apt_unc1151.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://content.fireeye.com/web-assets/rpt-unc1151-ghostwriter-update",
           "https://www.fireeye.com/blog/threat-research/2021/04/espionage-group-unc1151-likely-conducts-ghostwriter-influence-activity.html",
@@ -142518,7 +142518,7 @@
         "aliases": [],
         "apt_group": "UNC215",
         "filename": "apt_unc215.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.mandiant.com/resources/unc215-chinese-espionage-campaign-in-israel",
           "https://otx.alienvault.com/pulse/611232c3f696e5681585549a"
@@ -142575,7 +142575,7 @@
         ],
         "apt_group": "UNC2190",
         "filename": "apt_unc2190.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.mandiant.com/resources/sabbath-ransomware-affiliate",
           "https://www.virustotal.com/gui/file/79b47780382f54ca039ad248d8241e42a7ed6b1e4b75af836890e4e46c0f8737/detection",
@@ -142605,7 +142605,7 @@
         "aliases": [],
         "apt_group": "UNC2447",
         "filename": "apt_unc2447.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.fireeye.com/blog/threat-research/2021/04/unc2447-sombrat-and-fivehands-ransomware-sophisticated-financial-threat.html",
           "https://otx.alienvault.com/pulse/608c30d78049ae7a24b0b431",
@@ -142874,7 +142874,7 @@
         ],
         "apt_group": "UNC2452",
         "filename": "apt_unc2452.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html",
           "https://blog.talosintelligence.com/2020/12/solarwinds-supplychain-coverage.html",
@@ -143003,7 +143003,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -143085,7 +143085,7 @@
         ],
         "apt_group": "UNC2529",
         "filename": "apt_unc2529.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.fireeye.com/blog/threat-research/2021/05/unc2529-triple-double-trifecta-phishing-campaign.html",
           "https://twitter.com/ffforward/status/1399781513907015689",
@@ -143115,7 +143115,7 @@
         "aliases": [],
         "apt_group": "UNC2565",
         "filename": "apt_unc2565.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.mandiant.com/resources/blog/tracking-evolution-gootloader-operations",
           "https://otx.alienvault.com/pulse/63d94fda79bac208bafcdc09"
@@ -143257,7 +143257,7 @@
         ],
         "apt_group": "UNC2596",
         "filename": "apt_unc2596.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://unit42.paloaltonetworks.com/cuba-ransomware-tropical-scorpius/",
           "https://otx.alienvault.com/pulse/62f36c89909d6b719ba8d340",
@@ -143344,7 +143344,7 @@
         ],
         "apt_group": "UNC2970",
         "filename": "apt_unc2970.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.mandiant.com/resources/blog/lightshift-and-lightshow",
           "https://otx.alienvault.com/pulse/640feb918ed0617c50fe21a3"
@@ -143378,7 +143378,7 @@
         "aliases": [],
         "apt_group": "UNC3500",
         "filename": "apt_unc3500.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.mandiant.com/resources/mobileiron-log4shell-exploitation",
           "https://otx.alienvault.com/pulse/6244606893ddbc9a6a5bbdeb"
@@ -143403,7 +143403,7 @@
         "aliases": [],
         "apt_group": "UNC3535",
         "filename": "apt_unc3535.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.mandiant.com/resources/mobileiron-log4shell-exploitation",
           "https://otx.alienvault.com/pulse/6244606893ddbc9a6a5bbdeb"
@@ -143441,7 +143441,7 @@
         ],
         "apt_group": "UNC3886",
         "filename": "apt_unc3886.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-backdoor-juniper-routers-for-stealthy-access/",
           "https://cloud.google.com/blog/topics/threat-intelligence/china-nexus-espionage-targets-juniper-routers",
@@ -143506,7 +143506,7 @@
         "aliases": [],
         "apt_group": "UNC3890",
         "filename": "apt_unc3890.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.mandiant.com/resources/suspected-iranian-actor-targeting-israeli-shipping",
           "https://www.virustotal.com/gui/ip-address/128.199.6.246/relations",
@@ -143535,7 +143535,7 @@
         "aliases": [],
         "apt_group": "UNC3966",
         "filename": "apt_unc3966.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.mandiant.com/resources/blog/unc961-multiverse-financially-motivated"
         ]
@@ -143563,7 +143563,7 @@
         ],
         "apt_group": "UNC4108",
         "filename": "apt_unc4108.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://trac-labs.com/dont-ghost-the-socgholish-ghostweaver-backdoor-574154dd9983",
           "https://app.validin.com/detail?find=192.52.167.63&type=ip4&ref_id=5e5d97557ba#tab=resolutions"
@@ -143596,7 +143596,7 @@
         ],
         "apt_group": "UNC4166",
         "filename": "apt_unc4166.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.mandiant.com/resources/blog/trojanized-windows-installers-ukrainian-government"
         ]
@@ -143623,7 +143623,7 @@
         ],
         "apt_group": "UNC4191",
         "filename": "apt_unc4191.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.mandiant.com/resources/blog/china-nexus-espionage-southeast-asia",
           "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/23/c/earth-preta-updated-stealthy-strategies/iocs-earth-pretas-updated-stealthy-strategies.txt",
@@ -143655,7 +143655,7 @@
         ],
         "apt_group": "UNC4210",
         "filename": "apt_unc4210.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.mandiant.com/resources/blog/turla-galaxy-opportunity",
           "https://www.virustotal.com/gui/file/6536b6b50aa1f6899ffa90aaf4b1b67c0ae0f6c0441016f5308b37c12141c61d/detection",
@@ -143777,7 +143777,7 @@
         "aliases": [],
         "apt_group": "UNC4221",
         "filename": "apt_unc4221.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://cert.gov.ua/article/6281632 (# UAC-0185)",
           "https://www.virustotal.com/gui/file/9f29d27cdad37a6451f3ccd2f3c054afa408ef83422b4999eff5915834cd00be/detection",
@@ -143826,7 +143826,7 @@
         ],
         "apt_group": "UNC4553",
         "filename": "apt_unc4553.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rilide-a-new-malicious-browser-extension-for-stealing-cryptocurrencies/",
           "https://www.mandiant.com/resources/blog/lnk-between-browsers",
@@ -144009,7 +144009,7 @@
         ],
         "apt_group": "UNC4841",
         "filename": "apt_unc4841.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.mandiant.com/resources/blog/barracuda-esg-exploited-globally",
           "https://www.mandiant.com/resources/blog/unc4841-post-barracuda-zero-day-remediation",
@@ -144068,7 +144068,7 @@
         ],
         "apt_group": "UNC4899",
         "filename": "apt_unc4899.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/blackorbird/status/1683742730617499650",
           "https://www.sentinelone.com/labs/jumpcloud-intrusion-attacker-infrastructure-links-compromise-to-north-korean-apt-activity/",
@@ -144118,7 +144118,7 @@
         "aliases": [],
         "apt_group": "UNC4990",
         "filename": "apt_unc4990.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware"
         ]
@@ -144167,7 +144167,7 @@
         ],
         "apt_group": "UNC5174",
         "filename": "apt_unc5174.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/malwrhunterteam/status/1925919454099054740",
           "https://sysdig.com/blog/unc5174-chinese-threat-actor-vshell/",
@@ -144258,7 +144258,7 @@
         ],
         "apt_group": "UNC5221",
         "filename": "apt_unc5221.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.volexity.com/blog/2024/01/10/active-exploitation-of-two-zero-day-vulnerabilities-in-ivanti-connect-secure-vpn/",
           "https://www.mandiant.com/resources/blog/suspected-apt-targets-ivanti-zero-day",
@@ -144397,7 +144397,7 @@
         "aliases": [],
         "apt_group": "UNC5537",
         "filename": "apt_unc5537.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://cloud.google.com/blog/topics/threat-intelligence/unc5537-snowflake-data-theft-extortion",
           "https://otx.alienvault.com/pulse/666979aec22f2fa003a8737b"
@@ -144436,7 +144436,7 @@
         "aliases": [],
         "apt_group": "UNC5792",
         "filename": "apt_unc5792.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/TLP_R3D/status/1892221224094445666",
           "https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger"
@@ -144461,7 +144461,7 @@
         "aliases": [],
         "apt_group": "UNC5812",
         "filename": "apt_unc5812.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/blackorbird/status/1851104711304495238",
           "https://cloud.google.com/blog/topics/threat-intelligence/russian-espionage-influence-ukrainian-military-recruits-anti-mobilization-narratives",
@@ -144625,7 +144625,7 @@
         "aliases": [],
         "apt_group": "UNC5952",
         "filename": "apt_unc5952.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://x.com/pancak3lullz/status/1877080477510549779"
         ]
@@ -144650,7 +144650,7 @@
         "aliases": [],
         "apt_group": "UNC6293",
         "filename": "apt_unc6293.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://cloud.google.com/blog/topics/threat-intelligence/creative-phishing-academics-critics-of-russia",
           "https://www.virustotal.com/gui/file/329fda9939930e504f47d30834d769b30ebeaced7d73f3c1aadd0e48320d6b39/detection"
@@ -144692,7 +144692,7 @@
         "aliases": [],
         "apt_group": "UNC961",
         "filename": "apt_unc961.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.mandiant.com/resources/mobileiron-log4shell-exploitation",
           "https://www.mandiant.com/resources/blog/unc961-multiverse-financially-motivated",
@@ -146180,7 +146180,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -146719,7 +146719,7 @@
         ],
         "apt_group": "USH",
         "filename": "apt_ush.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://blogapp.bitdefender.com/labs/content/files/2024/05/Bitdefender-Report-DeepDive-creat7721-en_EN.pdf"
         ]
@@ -146753,7 +146753,7 @@
         ],
         "apt_group": "VAJRAELEPH",
         "filename": "apt_vajraeleph.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://twitter.com/blackorbird/status/1509380434047606785",
           "https://twitter.com/LukasStefanko/status/1509451238366236674",
@@ -146858,7 +146858,7 @@
         ],
         "apt_group": "VENOMSPIDER",
         "filename": "apt_venomspider.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.proofpoint.com/us/threat-insight/post/fake-jobs-campaigns-delivering-moreeggs-backdoor-fake-job-offers",
           "https://twitter.com/VK_Intel/status/1119082329324965893",
@@ -146932,7 +146932,7 @@
         ],
         "apt_group": "VICESOCIETY",
         "filename": "apt_vicesociety.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.sentinelone.com/labs/custom-branded-ransomware-the-vice-society-group-and-the-threat-of-outsourced-development/",
           "https://github.com/thetanz/ransomwatch/blob/main/docs/INDEX.md",
@@ -147022,7 +147022,7 @@
         ],
         "apt_group": "VICIOUSPANDA",
         "filename": "apt_viciouspanda.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://research.checkpoint.com/2020/vicious-panda-the-covid-campaign/",
           "https://twitter.com/Sebdraven/status/1244532660690718722",
@@ -147080,7 +147080,7 @@
         "aliases": [],
         "apt_group": "VOIDARACHNE",
         "filename": "apt_voidarachne.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.trendmicro.com/en_us/research/24/f/behind-the-great-wall-void-arachne-targets-chinese-speaking-user.html",
           "https://www.virustotal.com/gui/file/73c2de45f32cc334fe0a33850cf569fd6a692fcce7f9f9336038c92c41d5e2c4/detection"
@@ -147138,7 +147138,7 @@
         ],
         "apt_group": "VOIDBLIZZARD",
         "filename": "apt_voidblizzard.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.microsoft.com/en-us/security/blog/2025/05/27/new-russia-affiliated-actor-void-blizzard-targets-critical-sectors-for-espionage/",
           "https://www.validin.com/blog/laundry_bear_infrastructure_analysis/"
@@ -147177,7 +147177,7 @@
         ],
         "apt_group": "VOLATILECEDAR",
         "filename": "apt_volatilecedar.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.checkpoint.com/downloads/volatile-cedar-technical-report.pdf",
           "https://securelist.com/defttorero-tactics-techniques-and-procedures/107610/",
@@ -147207,7 +147207,7 @@
         "aliases": [],
         "apt_group": "WEAKESTLINK",
         "filename": "apt_weakestlink.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securelist.com/blog/incidents/77562/breaking-the-weakest-link-of-the-strongest-chain/"
         ]
@@ -147235,7 +147235,7 @@
         "aliases": [],
         "apt_group": "WEBKY",
         "filename": "apt_webky.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://researchcenter.paloaltonetworks.com/2016/05/unit42-new-wekby-attacks-use-dns-requests-as-command-and-control-mechanism/"
         ]
@@ -147257,7 +147257,7 @@
         "aliases": [],
         "apt_group": "WHITECOMPANY",
         "filename": "apt_whitecompany.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://threatvector.cylance.com/en_us/home/the-white-company-inside-the-operation-shaheen-espionage-campaign.html",
           "https://www.cylance.com/content/dam/cylance-web/en-us/resources/knowledge-center/resource-library/reports/WhiteCompanyOperationShaheenReport.pdf"
@@ -147281,7 +147281,7 @@
         "aliases": [],
         "apt_group": "WICKEDPANDA",
         "filename": "apt_wickedpanda.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://app.cdn.lookbookhq.com/lbhq-production/10339/content/original/9dd0e31a-c9c0-4e1c-aea1-f35d3e930f3d/CrowdStrike_GTR_2019_.pdf"
         ]
@@ -147308,7 +147308,7 @@
         "aliases": [],
         "apt_group": "WINDSHIFT",
         "filename": "apt_windshift.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://unit42.paloaltonetworks.com/shifting-in-the-wind-windshift-attacks-target-middle-eastern-governments/",
           "https://gsec.hitb.org/materials/sg2018/D1%20COMMSEC%20-%20In%20the%20Trails%20of%20WINDSHIFT%20APT%20-%20Taha%20Karim.pdf"
@@ -147372,7 +147372,7 @@
         ],
         "apt_group": "WINTERVIVERN",
         "filename": "apt_wintervivern.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/operation-sharpshooter-targets-global-defense-critical-infrastructure/?mid=1",
           "https://www.mcafee.com/enterprise/en-us/assets/reports/rp-operation-sharpshooter.pdf",
@@ -147515,7 +147515,7 @@
         ],
         "apt_group": "WIRTE",
         "filename": "apt_wirte.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://blog.talosintelligence.com/2018/02/targeted-attacks-in-middle-east.html",
           "https://twitter.com/SaudiDFIR/status/1119666633251930113",
@@ -147611,7 +147611,7 @@
         ],
         "apt_group": "WUQIONGDONG",
         "filename": "apt_wuqiongdong.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://mp.weixin.qq.com/s/WBpML3BTxFPHmBgyunmEEA (Chinese)",
           "https://otx.alienvault.com/pulse/61811ddc259f23fdd630e196",
@@ -147733,7 +147733,7 @@
         ],
         "apt_group": "XDSPY",
         "filename": "apt_xdspy.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://www.zdnet.com/article/eset-discovers-a-rare-apt-that-stayed-undetected-for-nine-years/",
           "https://www.welivesecurity.com/2020/10/02/xdspy-stealing-government-secrets-since-2011/",
@@ -147781,7 +147781,7 @@
         "aliases": [],
         "apt_group": "XPATH",
         "filename": "apt_xpath.txt",
-        "last_modified": "2026-01-02T22:46:36+01:00",
+        "last_modified": "2026-01-03T00:10:15+01:00",
         "references": [
           "https://news.drweb.com/show/?lng=en&p=0&i=13907&c=0",
           "https://github.com/DoctorWebLtd/malware-iocs/blob/master/APT_XPath/README.adoc"
