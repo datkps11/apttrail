@@ -128149,6 +128149,7 @@
           "ftp.pk-mail.org",
           "ftp.true-islam.org",
           "fujit.info",
+          "fwd-transaction-slip-52923640.gov1-lk.com",
           "fx1.live",
           "fyujv.bol-north.com",
           "g0v-pk.net",
@@ -128278,6 +128279,7 @@
           "gov.pk.officemuwork.online",
           "gov.pk.pk-mail.org",
           "gov.pk.viewdoc.online",
+          "gov1-lk.com",
           "govaf.org",
           "govaruba.duckdns.org",
           "govbd-div.com",
@@ -129409,6 +129411,7 @@
           "net.pk.hilsa.online",
           "neteease.cdn-dl.cn",
           "new-mof-budgetsgp-ars.zeabur.app",
+          "new-year-message-from-the-chief-of-the-army-staff.gov1-lk.com",
           "new.apl-org.online",
           "newfile.pdf-download.live",
           "newmail-army-mil-bd-owa-apth-mail-dat.netlify.app",
@@ -130559,7 +130562,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2025-12-29T23:15:19+02:00",
+        "last_modified": "2026-01-02T14:10:21+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -131551,17 +131554,20 @@
           "https://x.com/volrant136/status/2002046264809296061",
           "https://x.com/volrant136/status/2002771041505149206",
           "https://x.com/volrant136/status/2003498589851668860",
-          "https://x.com/volrant136/status/2005680099560153314"
+          "https://x.com/volrant136/status/2005680099560153314",
+          "https://x.com/_priyaa_1/status/2007013981622530418",
+          "https://www.virustotal.com/gui/file/b72cd42fae7ff3aae6735891bd41e5a4e84f8bb662de46d07c2548d81ee73a1e/detection",
+          "https://www.virustotal.com/gui/file/f412f7fdc979e31904b6577ff70741ceaa70eeb5c53b773646d58a3685babfa3/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3252,
+          "domain": 3255,
           "file_path": 14,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3342
+        "total": 3345
       }
     },
     "SILENCE": {
