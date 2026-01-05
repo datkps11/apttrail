@@ -138976,6 +138976,7 @@
           "sharemydrives.com",
           "shareone.live",
           "sharingmymedia.com",
+          "sharmaxme11.org",
           "shop.bc-dcrsorgi-in-gov-net.shop",
           "shree-ram.shop",
           "signalchat.chat",
@@ -140062,6 +140063,11 @@
           "93.127.133.58:21817",
           "93.127.133.58:23221",
           "93.127.133.58:27425",
+          "93.127.133.9:18661",
+          "93.127.133.9:20856",
+          "93.127.133.9:26868",
+          "93.127.133.9:29261",
+          "93.127.133.9:36628",
           "93.127.134.155:16643",
           "93.127.134.155:18853",
           "93.127.134.155:24861",
@@ -140248,7 +140254,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-01-03T16:35:25+02:00",
+        "last_modified": "2026-01-05T18:02:39+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -141302,17 +141308,19 @@
           "https://x.com/PrakkiSathwik/status/2006431447759073484",
           "https://www.virustotal.com/gui/file/ef5d63a638e5b96f7026cad397f76ea40a8b745b4156ddb78ebcdeaa8aeea2ed/detection",
           "https://www.virustotal.com/gui/file/e0fddb9adeeb04d5f47beae0e878ef04495b97386cda0efa689435f239e1c99e/detection",
-          "https://x.com/PrakkiSathwik/status/2007457956636590184"
+          "https://x.com/PrakkiSathwik/status/2007457956636590184",
+          "https://x.com/PrakkiSathwik/status/2008193887140278421",
+          "https://www.virustotal.com/gui/file/1092761df305e910f806834fb774dfb09dc64a4d399d578a0d1bf1dd5daf0f98/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3289,
+          "domain": 3290,
           "file_path": 40,
-          "ipv4": 787,
+          "ipv4": 792,
           "url": 124
         },
-        "total": 4240
+        "total": 4246
       }
     },
     "TRIANGULATION": {
