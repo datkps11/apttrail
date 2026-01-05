@@ -9147,7 +9147,8 @@ rule APT_Q12
         $ip13 = "185.231.222.86" ascii wide
         $ip14 = "192.236.209.139" ascii wide
         $ip15 = "23.81.42.154" ascii wide
-        $ip16 = "51.77.72.146" ascii wide
+        $ip16 = "46.183.27.134" ascii wide
+        $ip17 = "51.77.72.146" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)

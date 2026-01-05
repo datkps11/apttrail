@@ -3955,8 +3955,8 @@ alert ip any any -> [194.34.254.219,194.34.254.219,209.250.254.130,209.250.254.1
 # Q12 - Domain Indicators (10 domains)
 alert dns any any -> any any (msg:"APT Q12 - Malicious Domain Activity"; dns.query; pcre:"/^(aufreighttransport\.com|controlmytraffic\.com|coredashcloud\.com|guesttrafficinformation\.com|hoaquincloud\.com|msvsseccloud\.com|nyculturecloud\.com|org-nk\.com|tomatozcloud\.com|trafficcheckdaily\.com)$/i"; classtype:trojan-activity; sid:9002195; rev:1; metadata:apt_group Q12, chunk 1;)
 
-# Q12 - IPv4 Indicators (7 IPs)
-alert ip any any -> [185.181.229.110,185.181.230.110,185.181.230.71,185.231.222.86,192.236.209.139,23.81.42.154,51.77.72.146] any (msg:"APT Q12 - Traffic to Malicious IPs"; threshold:type limit, track by_src, count 1, seconds 3600; classtype:trojan-activity; sid:9002196; rev:1; metadata:apt_group Q12, chunk 1;)
+# Q12 - IPv4 Indicators (8 IPs)
+alert ip any any -> [185.181.229.110,185.181.230.110,185.181.230.71,185.231.222.86,192.236.209.139,23.81.42.154,46.183.27.134,51.77.72.146] any (msg:"APT Q12 - Traffic to Malicious IPs"; threshold:type limit, track by_src, count 1, seconds 3600; classtype:trojan-activity; sid:9002196; rev:1; metadata:apt_group Q12, chunk 1;)
 
 # Q12 - URL Indicators
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT Q12 - HTTP Request to Malicious URL"; flow:established,to_server; http.uri; content:"/"; http.host; content:"131.226.4.22"; classtype:trojan-activity; sid:9002197; rev:1; metadata:apt_group Q12;)

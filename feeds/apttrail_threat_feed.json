@@ -124973,7 +124973,11 @@
           "/wkdo9/2qpmk.asp",
           "/wkdo9/4b3ru.asp",
           "/wkdo9/n3tb4.asp",
-          "/wkdo9/t1802.asp"
+          "/wkdo9/t1802.asp",
+          "/z2jb95/a3pvvu.asp",
+          "/z2jb95/fz0n15.asp",
+          "/z2jb95/hsvxr8.asp",
+          "/z2jb95/yejo9i.asp"
         ],
         "ipv4": [
           "185.181.229.110:443",
@@ -124982,6 +124986,7 @@
           "185.231.222.86:443",
           "192.236.209.139:443",
           "23.81.42.154:443",
+          "46.183.27.134:443",
           "51.77.72.146:443"
         ],
         "url": [
@@ -125004,7 +125009,7 @@
         "aliases": [],
         "apt_group": "Q12",
         "filename": "apt_q12.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-01-05T11:37:02+02:00",
         "references": [
           "https://www.secrss.com/articles/36606 (Chinese)",
           "https://www.virustotal.com/gui/ip-address/162.222.214.109/relations",
@@ -125021,17 +125026,18 @@
           "https://x.com/RedDrip7/status/1967783537232507326",
           "https://x.com/blackorbird/status/1984200996588073442",
           "https://blogs.jpcert.or.jp/ja/2025/10/APT-C-60_update.html",
-          "https://www.virustotal.com/gui/file/1b7502a8a9e17568c1cd31629708f922822eaac86f4685261401b3b1f46de5fe/detection"
+          "https://www.virustotal.com/gui/file/1b7502a8a9e17568c1cd31629708f922822eaac86f4685261401b3b1f46de5fe/detection",
+          "https://x.com/RedDrip7/status/2008083368647508460"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 10,
-          "file_path": 13,
-          "ipv4": 7,
+          "file_path": 17,
+          "ipv4": 8,
           "url": 13
         },
-        "total": 43
+        "total": 48
       }
     },
     "Q27": {
