@@ -83473,6 +83473,7 @@
           "h1bwvfsk-80.euw.devtunnels.ms",
           "h4ls538.rudanka.ru",
           "haltur.ru",
+          "hampay.serveirc.com",
           "hanotip.ru",
           "haoboyulechengguanwang.aytashpo.ru",
           "haramad.ru",
@@ -87217,7 +87218,7 @@
         ],
         "apt_group": "GAMAREDON-1",
         "filename": "apt_gamaredon-1.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-01-06T15:35:30+02:00",
         "references": [
           "https://www.virustotal.com/gui/ip-address/168.100.10.184/relations",
           "https://www.virustotal.com/gui/ip-address/162.33.178.84/relations",
@@ -88510,17 +88511,18 @@
           "https://tria.ge/251123-s612zstjgn/behavioral2",
           "https://tria.ge/251124-yqkb7abp4y/behavioral1",
           "https://tria.ge/251125-17gczaak31/behavioral2",
-          "https://tria.ge/251202-py8v3swjap/behavioral2"
+          "https://tria.ge/251202-py8v3swjap/behavioral2",
+          "https://www.virustotal.com/gui/ip-address/212.193.20.110/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 9979,
+          "domain": 9980,
           "file_path": 353,
           "ipv4": 5,
           "url": 186
         },
-        "total": 10523
+        "total": 10524
       }
     },
     "GAZA": {
