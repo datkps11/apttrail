@@ -112747,6 +112747,9 @@
           "144.172.104.113:1224",
           "144.172.104.113:1245",
           "144.172.104.117:5918",
+          "144.172.105.122:8085",
+          "144.172.105.122:8086",
+          "144.172.105.122:8087",
           "144.172.105.189:1224",
           "144.172.105.189:1245",
           "144.172.105.235:1224",
@@ -113290,7 +113293,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-01-07T14:30:35+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -114418,17 +114421,19 @@
           "https://hunt.io/blog/dprk-lazarus-kimsuky-infrastructure-uncovered",
           "https://x.com/smica83/status/2007012261744030069",
           "https://www.virustotal.com/gui/file/5f9c4af7ac12197fb8df152d27f9aa6cc1add0613eb3ecfd7699807b0d35e577/detection",
-          "https://www.virustotal.com/gui/file/adeeff8fc41d1ba4922e92a5907f430122b9edc3b6dbe51f3d104fbee464b8ae/detection"
+          "https://www.virustotal.com/gui/file/adeeff8fc41d1ba4922e92a5907f430122b9edc3b6dbe51f3d104fbee464b8ae/detection",
+          "https://x.com/malwrhunterteam/status/2008866701707038749",
+          "https://www.virustotal.com/gui/file/ede27865d869f073d2bcafd7c633eee87e3fbfb6dcf115a9a8f39be9840fa6cd/detection"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 3384,
           "file_path": 475,
-          "ipv4": 446,
+          "ipv4": 449,
           "url": 102
         },
-        "total": 4407
+        "total": 4410
       }
     },
     "LAZYSCRIPTER": {
@@ -130002,6 +130007,7 @@
           "ruve.live",
           "s12.cdn-apn.net",
           "s2.cdn-edge.net",
+          "s3-eu-central-1amazonaws-com-2n4.pages.dev",
           "s3-network-pakistan.online",
           "saarc-sec-org.snagdrive.com",
           "safecityctd.com",
@@ -130476,6 +130482,7 @@
           "/update/R0FNd0lCb0RGbU1VTUdwcQ==.php",
           "/update/R1JNU1p4a1RGbU1VTUdwcQ==.php",
           "/wh/glass.php",
+          "/x9238vnhajerh.html",
           "cornerstonebeverly.org/js/files/docufentososo/doecumentosoneso/pantomime.hta",
           "nepra.org.pk/css/32-Advisory-No-32.iso"
         ],
@@ -130575,7 +130582,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-01-06T20:24:25+02:00",
+        "last_modified": "2026-01-07T14:45:31+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -131572,17 +131579,19 @@
           "https://www.virustotal.com/gui/file/b72cd42fae7ff3aae6735891bd41e5a4e84f8bb662de46d07c2548d81ee73a1e/detection",
           "https://www.virustotal.com/gui/file/f412f7fdc979e31904b6577ff70741ceaa70eeb5c53b773646d58a3685babfa3/detection",
           "https://x.com/volrant136/status/2007867704154476691",
-          "https://x.com/volrant136/status/2008605197745193332"
+          "https://x.com/volrant136/status/2008605197745193332",
+          "https://x.com/malwrhunterteam/status/2008471305432003044",
+          "https://www.virustotal.com/gui/file/421f7bdc183b51435cf834c6a2841491e2a9d2246826bb56424d7c42c1632e25/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3257,
-          "file_path": 14,
+          "domain": 3258,
+          "file_path": 15,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3347
+        "total": 3349
       }
     },
     "SILENCE": {

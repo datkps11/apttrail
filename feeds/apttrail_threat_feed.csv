@@ -100700,6 +100700,9 @@ LAZARUS,ipv4,144.172.104.10:1245
 LAZARUS,ipv4,144.172.104.113:1224
 LAZARUS,ipv4,144.172.104.113:1245
 LAZARUS,ipv4,144.172.104.117:5918
+LAZARUS,ipv4,144.172.105.122:8085
+LAZARUS,ipv4,144.172.105.122:8086
+LAZARUS,ipv4,144.172.105.122:8087
 LAZARUS,ipv4,144.172.105.189:1224
 LAZARUS,ipv4,144.172.105.189:1245
 LAZARUS,ipv4,144.172.105.235:1224
@@ -112922,6 +112925,7 @@ SIDEWINDER,domain,rustore.pmreco.xyz
 SIDEWINDER,domain,ruve.live
 SIDEWINDER,domain,s12.cdn-apn.net
 SIDEWINDER,domain,s2.cdn-edge.net
+SIDEWINDER,domain,s3-eu-central-1amazonaws-com-2n4.pages.dev
 SIDEWINDER,domain,s3-network-pakistan.online
 SIDEWINDER,domain,saarc-sec-org.snagdrive.com
 SIDEWINDER,domain,safecityctd.com
@@ -113394,6 +113398,7 @@ SIDEWINDER,file_path,/r3diRecT/redirector/proxy.php
 SIDEWINDER,file_path,/update/R0FNd0lCb0RGbU1VTUdwcQ==.php
 SIDEWINDER,file_path,/update/R1JNU1p4a1RGbU1VTUdwcQ==.php
 SIDEWINDER,file_path,/wh/glass.php
+SIDEWINDER,file_path,/x9238vnhajerh.html
 SIDEWINDER,file_path,cornerstonebeverly.org/js/files/docufentososo/doecumentosoneso/pantomime.hta
 SIDEWINDER,file_path,nepra.org.pk/css/32-Advisory-No-32.iso
 SIDEWINDER,ipv4,110.10.176.193:4443
