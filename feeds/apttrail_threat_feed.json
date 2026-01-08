@@ -96610,6 +96610,7 @@
           "khome.security.p-e.kr",
           "khu.cloudfiles.epizy.com",
           "kida.plusdocs.kro.kr",
+          "kiev.bigsize.com",
           "kijuyh.online",
           "killwha.click",
           "kimchee.p-e.kr",
@@ -107125,7 +107126,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-01-08T16:16:01+02:00",
+        "last_modified": "2026-01-08T20:25:39+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -108570,17 +108571,19 @@
           "https://x.com/Dixit_404/status/1998976475849175247",
           "https://tria.ge/251211-fx9xbaxjan/behavioral1",
           "https://www.virustotal.com/gui/ip-address/158.247.224.152/relations",
-          "https://www.enki.co.kr/en/media-center/blog/kimsuky-distributing-malicious-mobile-app-via-qr-code"
+          "https://www.enki.co.kr/en/media-center/blog/kimsuky-distributing-malicious-mobile-app-via-qr-code",
+          "https://x.com/sakaijjang/status/2009200983956705620",
+          "https://wezard4u.tistory.com/429687"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 15049,
+          "domain": 15050,
           "file_path": 280,
           "ipv4": 75,
           "url": 55
         },
-        "total": 15459
+        "total": 15460
       }
     },
     "KUN3": {
