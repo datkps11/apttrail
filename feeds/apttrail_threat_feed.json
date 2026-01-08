@@ -12864,6 +12864,7 @@
           "agent-group.org",
           "api-help.com",
           "api.office365online.workers.dev",
+          "apkcrypter.com",
           "archive-downloader.com",
           "asia.office365-cloud.workers.dev",
           "avito-service.net",
@@ -12877,9 +12878,13 @@
           "cloud.archive-downloader.com",
           "cloud.digitalstorage.workers.dev",
           "comparelicense.com",
+          "connectcosmo.click",
+          "connectcosmo.online",
           "content-protect.net",
           "control-issue.net",
+          "copilotgptawer.cfd",
           "cortanaupdater.info",
+          "cosmo-service.org",
           "curly-waterfall-360d.fetrikekke531.workers.dev",
           "dc-microsoft.workers.dev",
           "desktoppreview.com",
@@ -12909,6 +12914,7 @@
           "gosportal.net",
           "haarmannsi.cz",
           "host-tools.net",
+          "hostscontrol.com",
           "http-updater.hs.vc",
           "ieobil.asia",
           "information-model.net",
@@ -12945,6 +12951,7 @@
           "msofficeupdate.org",
           "msupdatecheck.com",
           "mta1.medoaaustinsci.info",
+          "multipackage.net",
           "mynewtemplate.com",
           "nedvij-gel.ru",
           "nefteparkstroy.ru",
@@ -12993,6 +13000,7 @@
           "system-logs.com",
           "technology-requests.net",
           "teexgjvvhuab.webhop.me",
+          "telehraf.com",
           "template-new.com",
           "template-office.org",
           "tls-login.com",
@@ -13047,7 +13055,7 @@
         ],
         "apt_group": "CLOUDATLAS",
         "filename": "apt_cloudatlas.txt",
-        "last_modified": "2026-01-08T17:25:00+02:00",
+        "last_modified": "2026-01-08T18:05:38+02:00",
         "references": [
           "https://securelist.com/cloud-atlas-redoctober-apt-is-back-in-style/68083/",
           "https://securelist.com/recent-cloud-atlas-activity/92016/",
@@ -13167,17 +13175,20 @@
           "https://app.any.run/tasks/f95a54b2-8a63-42f9-945e-80cb34d11b58",
           "https://www.virustotal.com/gui/file/b7ea9d1c42d4f5802ae473be09b03472ee9ddacad137d57539a5282a0ed90f2a/detection",
           "https://www.virustotal.com/gui/file/0b5b54f8cf6b994eeba9610c62c7fe83b58566a35cd71968d4ee5e2c5d102f23/detection",
-          "https://securelist.com/cloud-atlas-h1-2025-campaign/118517/"
+          "https://securelist.com/cloud-atlas-h1-2025-campaign/118517/",
+          "https://www.virustotal.com/gui/ip-address/185.143.221.7/relations",
+          "https://www.virustotal.com/gui/ip-address/45.151.62.98/relations",
+          "https://www.virustotal.com/gui/ip-address/95.215.108.187/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 158,
+          "domain": 166,
           "file_path": 3,
           "ipv4": 5,
           "url": 5
         },
-        "total": 171
+        "total": 179
       }
     },
     "CLOUDWIZARD": {
