@@ -7241,6 +7241,7 @@
           "185.117.73.209:49725",
           "185.141.25.244:33324",
           "185.193.48.135:8676",
+          "185.193.50.233:443",
           "185.237.166.24:56218",
           "185.76.79.30:443",
           "192.71.213.128:4431",
@@ -7273,6 +7274,7 @@
           "65.20.103.184:8080",
           "65.20.105.88:8082",
           "83.172.134.186:443",
+          "83.243.121.87:443",
           "89.40.206.85:52529",
           "89.46.234.221:443",
           "89.46.234.221:9672",
@@ -7339,7 +7341,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-01-09T10:28:22+02:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -7884,17 +7886,20 @@
           "https://x.com/RedDrip7/status/2004026276294938903",
           "https://www.virustotal.com/gui/file/974abd4dc03bd9dc1a5d7ae56d2882b5f69627c5af8f77a64fa880186b437007/detection",
           "https://www.virustotal.com/gui/file/8c95b0d740df0f91444d5ddb9107f3a41ac80c12c471c60c26e0a9513092464c/detection",
-          "https://www.virustotal.com/gui/file/c93e0f954cfcfafbb07cc248fab3167eee51f9986304ed4afe0bf92965c83587/detection"
+          "https://www.virustotal.com/gui/file/c93e0f954cfcfafbb07cc248fab3167eee51f9986304ed4afe0bf92965c83587/detection",
+          "https://x.com/RedDrip7/status/2009443295127326763",
+          "https://www.virustotal.com/gui/file/deb241a46da181c8c1f68a43745fcbf8a6927e4344c2fc96ef4cf31c828576c8/detection",
+          "https://www.virustotal.com/gui/file/dfedb0033337aaa8570ef682a931196c36864931fb48605ac82cee94a2d51a4a/detection"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 446,
           "file_path": 77,
-          "ipv4": 70,
+          "ipv4": 72,
           "url": 18
         },
-        "total": 611
+        "total": 613
       }
     },
     "BLACKGEAR": {
