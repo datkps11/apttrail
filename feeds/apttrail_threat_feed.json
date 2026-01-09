@@ -118953,6 +118953,8 @@
           "155.94.200.212:443",
           "159.138.84.217:81",
           "166.88.2.90:443",
+          "172.81.60.97:3389",
+          "172.81.60.97:443",
           "173.199.71.152:443",
           "173.199.71.152:8443",
           "18.163.112.181:443",
@@ -119086,7 +119088,7 @@
         ],
         "apt_group": "MUSTANGPANDA",
         "filename": "apt_mustangpanda.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-01-09T14:51:51+02:00",
         "references": [
           "https://www.anomali.com/blog/china-based-apt-mustang-panda-targets-minority-groups-public-and-private-sector-organizations",
           "https://otx.alienvault.com/pulse/5d9c72d7e2efa3b5aa799b41",
@@ -119264,17 +119266,21 @@
           "https://www.virustotal.com/gui/file/564a03763879aaed4da8a8c1d6067f4112d8e13bb46c2f80e0fcb9ffdd40384c/detection",
           "https://www.virustotal.com/gui/file/c6e2d561b20fa38f79a28350cb397ae0863008585190b6857faabda6cb9b9d7c/detection",
           "https://x.com/SinghSoodeep/status/1974780785782837632",
-          "https://arcticwolf.com/resources/blog/unc6384-weaponizes-zdi-can-25373-vulnerability-to-deploy-plugx/"
+          "https://arcticwolf.com/resources/blog/unc6384-weaponizes-zdi-can-25373-vulnerability-to-deploy-plugx/",
+          "https://x.com/G60930953/status/2008641011514585094",
+          "https://x.com/AzakaSekai_/status/2009481951368135097",
+          "https://www.virustotal.com/gui/file/231bac4015da9157553f5a8090bea35b8657406a18f14455fdaa71eb14427466/detection",
+          "https://www.virustotal.com/gui/file/2c34b47ee7d271326cfff9701377277b05ec4654753b31c89be622e80d225250/detection"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 223,
           "file_path": 1,
-          "ipv4": 121,
+          "ipv4": 123,
           "url": 48
         },
-        "total": 393
+        "total": 395
       }
     },
     "NAIKON": {
