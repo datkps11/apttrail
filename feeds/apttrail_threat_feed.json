@@ -143086,6 +143086,7 @@
     "UNC2465": {
       "indicators": {
         "domain": [
+          "app-cdn-software-gza4gebuf3cqd8h6.z03.azurefd.net",
           "app-cdn.celixi6266.workers.dev",
           "app.pofelal314.workers.dev",
           "bapiyat727.workers.dev",
@@ -143108,6 +143109,8 @@
           "keystore-explorer.com",
           "mstore.framfarmers.co.uk",
           "pofelal314.workers.dev",
+          "rvtoolit.com",
+          "rvtoolspro.info",
           "server-cd2.bipewi2747.workers.dev",
           "server-cdn.jawigaw383.workers.dev",
           "server-cdn.lafise2419.workers.dev",
@@ -143141,19 +143144,21 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-01-12T16:25:31+02:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
           "https://x.com/SquiblydooBlog/status/1993311260512075967",
-          "https://app.any.run/tasks/a9391be5-4e71-4a95-9072-477f8afd906f/"
+          "https://app.any.run/tasks/a9391be5-4e71-4a95-9072-477f8afd906f/",
+          "https://x.com/g0njxa/status/2010485906466394343",
+          "https://www.virustotal.com/gui/file/cbbe98e1b36eb68a7afe534c21055f9cc793c2a6a7ca63256d273020a096f7a7/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 47
+          "domain": 50
         },
-        "total": 47
+        "total": 50
       }
     },
     "UNC2529": {
