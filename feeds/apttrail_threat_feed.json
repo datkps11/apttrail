@@ -143109,8 +143109,14 @@
           "keystore-explorer.com",
           "mstore.framfarmers.co.uk",
           "pofelal314.workers.dev",
+          "rvtoo1s.com",
+          "rvtoolis.com",
           "rvtoolit.com",
+          "rvtoolsac.com",
           "rvtoolspro.info",
+          "rvtoolspro.online",
+          "rvtoolsus.com",
+          "rvtoolsusa.com",
           "server-cd2.bipewi2747.workers.dev",
           "server-cdn.jawigaw383.workers.dev",
           "server-cdn.lafise2419.workers.dev",
@@ -143133,6 +143139,8 @@
           "soft-base-01.ginigiy117.workers.dev",
           "soft-dns.sejilod748.workers.dev",
           "ssl.bapiyat727.workers.dev",
+          "vmbackups.com",
+          "vmsbackup.com",
           "web-app.dasik14289.workers.dev",
           "web-app.larij21770.workers.dev",
           "work-server-1.picalob750.workers.dev"
@@ -143144,7 +143152,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-01-12T16:25:31+02:00",
+        "last_modified": "2026-01-12T16:28:52+02:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -143156,9 +143164,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 50
+          "domain": 58
         },
-        "total": 50
+        "total": 58
       }
     },
     "UNC2529": {
