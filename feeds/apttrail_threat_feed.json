@@ -109456,6 +109456,7 @@
           "box-docsend.online",
           "bqersape.dropfile.online",
           "brands.kavishala.com",
+          "brantwork.vercel.app",
           "brianrep.com",
           "broussardinnovations.com",
           "bs-production.up.railway.app",
@@ -110496,6 +110497,7 @@
           "kas-technology.com",
           "kashaccn4.naveicoiph.online",
           "katztechgroup.com",
+          "kb102531x.vercel.app",
           "kdzdm1rq.naveicoipg.online",
           "kenzou.co.in",
           "keondigital.com",
@@ -111789,6 +111791,7 @@
           "talesseries.com",
           "tamilnadusoftwaresolutions.com",
           "tamizhiautomatetechnology.in",
+          "task-hrec.vercel.app",
           "tdlgzoom.com",
           "team-meet.online",
           "team-meet.xyz",
@@ -113019,6 +113022,10 @@
           "216.173.115.200:1244",
           "216.244.71.233:443",
           "216.250.251.211:1244",
+          "216.250.251.87:1244",
+          "216.250.251.87:1245",
+          "216.250.251.87:1249",
+          "216.250.251.87:3389",
           "216.74.123.191:22",
           "216.74.123.191:3001",
           "216.74.123.191:8080",
@@ -113086,6 +113093,9 @@
           "45.137.213.30:1224",
           "45.140.147.208:53421",
           "45.140.147.208:53422",
+          "45.43.11.199:1244",
+          "45.43.11.199:1249",
+          "45.43.11.199:3389",
           "45.43.11.201:1244",
           "45.59.163.23:1244",
           "45.59.163.55:1244",
@@ -113131,6 +113141,9 @@
           "66.235.168.238:1244",
           "66.235.175.109:1244",
           "66.235.175.117:1244",
+          "66.235.63.55:1244",
+          "66.235.63.55:1249",
+          "66.235.63.55:3389",
           "66.85.157.67:8050",
           "67.203.7.163:1244",
           "67.203.7.171:1244",
@@ -113385,7 +113398,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-01-12T10:19:49+02:00",
+        "last_modified": "2026-01-13T16:24:49+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -114515,17 +114528,19 @@
           "https://www.virustotal.com/gui/file/5f9c4af7ac12197fb8df152d27f9aa6cc1add0613eb3ecfd7699807b0d35e577/detection",
           "https://www.virustotal.com/gui/file/adeeff8fc41d1ba4922e92a5907f430122b9edc3b6dbe51f3d104fbee464b8ae/detection",
           "https://x.com/malwrhunterteam/status/2008866701707038749",
-          "https://www.virustotal.com/gui/file/ede27865d869f073d2bcafd7c633eee87e3fbfb6dcf115a9a8f39be9840fa6cd/detection"
+          "https://www.virustotal.com/gui/file/ede27865d869f073d2bcafd7c633eee87e3fbfb6dcf115a9a8f39be9840fa6cd/detection",
+          "https://x.com/blackorbird/status/2011064658212634920",
+          "https://redasgard.com/blog/hunting-lazarus-contagious-interview-c2-infrastructure"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3384,
+          "domain": 3387,
           "file_path": 475,
-          "ipv4": 451,
+          "ipv4": 461,
           "url": 102
         },
-        "total": 4412
+        "total": 4425
       }
     },
     "LAZYSCRIPTER": {
