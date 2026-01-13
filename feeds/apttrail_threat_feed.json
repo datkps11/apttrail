@@ -6738,6 +6738,7 @@
           "botanoolifeapp.net",
           "box.livevideosonlinepk.com",
           "briarapppro.org",
+          "broadsforthestate.com",
           "bsdqcaptureman.com",
           "btappclientsvc.net",
           "bulltrader.vip",
@@ -7179,6 +7180,7 @@
           "/frst.php?ys=",
           "/healthne/accept.php",
           "/imacnags/edgevrisinze.php",
+          "/jdfgwe.php",
           "/jmv/jmd.php?st=",
           "/jsprc.php?h=",
           "/kna.php?ka=",
@@ -7341,7 +7343,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-01-09T10:28:22+02:00",
+        "last_modified": "2026-01-13T12:52:35+02:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -7889,17 +7891,19 @@
           "https://www.virustotal.com/gui/file/c93e0f954cfcfafbb07cc248fab3167eee51f9986304ed4afe0bf92965c83587/detection",
           "https://x.com/RedDrip7/status/2009443295127326763",
           "https://www.virustotal.com/gui/file/deb241a46da181c8c1f68a43745fcbf8a6927e4344c2fc96ef4cf31c828576c8/detection",
-          "https://www.virustotal.com/gui/file/dfedb0033337aaa8570ef682a931196c36864931fb48605ac82cee94a2d51a4a/detection"
+          "https://www.virustotal.com/gui/file/dfedb0033337aaa8570ef682a931196c36864931fb48605ac82cee94a2d51a4a/detection",
+          "https://x.com/RedDrip7/status/2011023732341686629",
+          "https://www.virustotal.com/gui/file/8753006b62b74c6805e6cb22e149a487784ca31be6f15e94b1ada8a439f91290/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 446,
-          "file_path": 77,
+          "domain": 447,
+          "file_path": 78,
           "ipv4": 72,
           "url": 18
         },
-        "total": 613
+        "total": 615
       }
     },
     "BLACKGEAR": {

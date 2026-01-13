@@ -1363,9 +1363,9 @@ rule APT_BITTER
         $domain44 = "botanoolifeapp\.net" ascii wide nocase
         $domain45 = "box\.livevideosonlinepk\.com" ascii wide nocase
         $domain46 = "briarapppro\.org" ascii wide nocase
-        $domain47 = "bsdqcaptureman\.com" ascii wide nocase
-        $domain48 = "btappclientsvc\.net" ascii wide nocase
-        $domain49 = "bulltrader\.vip" ascii wide nocase
+        $domain47 = "broadsforthestate\.com" ascii wide nocase
+        $domain48 = "bsdqcaptureman\.com" ascii wide nocase
+        $domain49 = "btappclientsvc\.net" ascii wide nocase
         $ip50 = "103.57.251.154" ascii wide
         $ip51 = "107.173.63.218" ascii wide
         $ip52 = "110.42.64.137" ascii wide
