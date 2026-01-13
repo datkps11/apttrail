@@ -147280,6 +147280,7 @@
           "ebsumrnit.eu",
           "ebsurnmit.eu",
           "enticator-secure.com",
+          "gertasd.top",
           "hart-hulp-ua.com",
           "harthulp-ua.com",
           "it-sharepoint.com",
@@ -147327,7 +147328,7 @@
         ],
         "apt_group": "VOIDBLIZZARD",
         "filename": "apt_voidblizzard.txt",
-        "last_modified": "2026-01-13T10:44:31+02:00",
+        "last_modified": "2026-01-13T14:30:46+02:00",
         "references": [
           "https://www.microsoft.com/en-us/security/blog/2025/05/27/new-russia-affiliated-actor-void-blizzard-targets-critical-sectors-for-espionage/",
           "https://www.validin.com/blog/laundry_bear_infrastructure_analysis/",
@@ -147337,11 +147338,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 40,
+          "domain": 41,
           "ipv4": 4,
           "url": 1
         },
-        "total": 45
+        "total": 46
       }
     },
     "VOLATILECEDAR": {
