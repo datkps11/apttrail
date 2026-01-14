@@ -11868,10 +11868,11 @@ rule APT_TURLA
         $domain49 = "dropbox12\.com" ascii wide nocase
         $ip50 = "134.209.222.206" ascii wide
         $ip51 = "154.53.42.194" ascii wide
-        $ip52 = "85.222.235.156" ascii wide
-        $url53 = "/rss_0\.php" ascii wide nocase
-        $url54 = "/config\.php" ascii wide nocase
-        $url55 = "/rss_0\.php" ascii wide nocase
+        $ip52 = "185.126.255.132" ascii wide
+        $ip53 = "85.222.235.156" ascii wide
+        $url54 = "/rss_0\.php" ascii wide nocase
+        $url55 = "/config\.php" ascii wide nocase
+        $url56 = "/rss_0\.php" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)

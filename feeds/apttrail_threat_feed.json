@@ -141568,6 +141568,7 @@
           "ekrn.ydns.eu",
           "elizabi.tk",
           "eset.ydns.eu",
+          "esetcloud.com",
           "ethdns.mywire.org",
           "eu-sciffi.99k.org",
           "euassociate.6te.net",
@@ -141769,6 +141770,7 @@
         "ipv4": [
           "134.209.222.206:15363",
           "154.53.42.194:8062",
+          "185.126.255.132:443",
           "85.222.235.156:8000"
         ],
         "url": [
@@ -141802,7 +141804,7 @@
         ],
         "apt_group": "TURLA",
         "filename": "apt_turla.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-01-14T15:24:32+02:00",
         "references": [
           "https://github.com/eset/malware-ioc/blob/master/turla/README.adoc",
           "https://www.welivesecurity.com/2018/01/09/turlas-backdoor-laced-flash-player-installer/",
@@ -141874,17 +141876,19 @@
           "https://www.virustotal.com/gui/file/13fafb1ae2d5de024e68f2e2fc820bc79ef0690c40dbfd70246bcc394c52ea20/detection",
           "https://www.welivesecurity.com/en/eset-research/gamaredon-x-turla-collab/",
           "https://github.com/eset/malware-ioc/tree/master/turla#gamaredon-x-turla-collab-indicators-of-compromise",
-          "https://www.virustotal.com/gui/file/3ecb09e659bcb500f9f40d022579a09acb11aec3a92c03e7d3fd2e56982d9eea/detection"
+          "https://www.virustotal.com/gui/file/3ecb09e659bcb500f9f40d022579a09acb11aec3a92c03e7d3fd2e56982d9eea/detection",
+          "https://x.com/TheEnergyStory/status/2011407237038620751",
+          "https://r136a1.dev/2026/01/14/command-and-evade-turlas-kazuar-v3-loader/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 202,
+          "domain": 203,
           "file_path": 52,
-          "ipv4": 3,
+          "ipv4": 4,
           "url": 9
         },
-        "total": 266
+        "total": 268
       }
     },
     "TVRMS": {
