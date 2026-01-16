@@ -3438,7 +3438,7 @@ alert dns any any -> any any (msg:"APT MURENSHARK - Malicious Domain Activity"; 
 
 # ==================================================
 # APT Group: MUSTANGPANDA
-# Aliases: MQsTTang, RedDelta, Stately Taurus, Earth Preta, ceranakeeper, toneshell, UTG-Q-011, hive0154, pubload, BASIN, HoneyMyte, Red Lich, TEMP.Hex, Twill Typhoon, UNC6384, Yokai
+# Aliases: MQsTTang, RedDelta, Stately Taurus, Earth Preta, ceranakeeper, toneshell, UTG-Q-011, hive0154, pubload, BASIN, HoneyMyte, Red Lich, TEMP.Hex, Twill Typhoon, UNC6384, Yokai, lotuslite
 # ==================================================
 
 # MUSTANGPANDA - Domain Indicators (223 domains)

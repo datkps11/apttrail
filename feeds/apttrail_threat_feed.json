@@ -119108,11 +119108,12 @@
           "TEMP.Hex",
           "Twill Typhoon",
           "UNC6384",
-          "Yokai"
+          "Yokai",
+          "lotuslite"
         ],
         "apt_group": "MUSTANGPANDA",
         "filename": "apt_mustangpanda.txt",
-        "last_modified": "2026-01-09T14:51:51+02:00",
+        "last_modified": "2026-01-16T14:25:16+02:00",
         "references": [
           "https://www.anomali.com/blog/china-based-apt-mustang-panda-targets-minority-groups-public-and-private-sector-organizations",
           "https://otx.alienvault.com/pulse/5d9c72d7e2efa3b5aa799b41",
@@ -119293,6 +119294,7 @@
           "https://arcticwolf.com/resources/blog/unc6384-weaponizes-zdi-can-25373-vulnerability-to-deploy-plugx/",
           "https://x.com/G60930953/status/2008641011514585094",
           "https://x.com/AzakaSekai_/status/2009481951368135097",
+          "https://www.acronis.com/en/tru/posts/lotuslite-targeted-espionage-leveraging-geopolitical-themes/",
           "https://www.virustotal.com/gui/file/231bac4015da9157553f5a8090bea35b8657406a18f14455fdaa71eb14427466/detection",
           "https://www.virustotal.com/gui/file/2c34b47ee7d271326cfff9701377277b05ec4654753b31c89be622e80d225250/detection"
         ]
