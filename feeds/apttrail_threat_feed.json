@@ -127958,6 +127958,7 @@
           "dfd-punjab.govt-pk.com",
           "dfd.punjab.govt-pk.com",
           "dfgrthy.moma-pk.org",
+          "dfkl-mdalifhossen595864-bqa6juqe.leapcell.dev",
           "dgdfvdf.bol-north.com",
           "dgdp-account-file-data-doc-procuremen.netlify.app",
           "dgdp-drive-file-sharing-pdf-files-doc.netlify.app",
@@ -130350,6 +130351,7 @@
           "tonse.info",
           "torsey.xyz",
           "toss.tercom.site",
+          "training-course-on-improving-safety.up.railway.app",
           "training.detru.info",
           "trans-aws.net",
           "trans-can.net",
@@ -130583,6 +130585,7 @@
           "zero-berlin-covenant.apl-org.online",
           "zhuhai-a1rsh0w-reg1strat1i0n-2o24.netlify.app",
           "zimbra-com.up.railway.app",
+          "zimbra10-nml3wp-max8143-3ipio7e5.leapcell.dev",
           "ziptec.info",
           "zlaeso.xyz",
           "zmail.ptcl.pkgov.org",
@@ -130706,7 +130709,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-01-07T14:45:31+02:00",
+        "last_modified": "2026-01-16T10:59:11+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -131705,17 +131708,20 @@
           "https://x.com/volrant136/status/2007867704154476691",
           "https://x.com/volrant136/status/2008605197745193332",
           "https://x.com/malwrhunterteam/status/2008471305432003044",
-          "https://www.virustotal.com/gui/file/421f7bdc183b51435cf834c6a2841491e2a9d2246826bb56424d7c42c1632e25/detection"
+          "https://www.virustotal.com/gui/file/421f7bdc183b51435cf834c6a2841491e2a9d2246826bb56424d7c42c1632e25/detection",
+          "https://x.com/volrant136/status/2011865662021660819",
+          "https://x.com/volrant136/status/2011859288625725724",
+          "https://x.com/volrant136/status/2011866917179703642"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3258,
+          "domain": 3261,
           "file_path": 15,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3349
+        "total": 3352
       }
     },
     "SILENCE": {
@@ -139107,6 +139113,7 @@
           "serviscart.shop",
           "servteam.help",
           "servyou.help",
+          "sgblranchi.com",
           "share-lienk.info",
           "share.medialinks.cc",
           "shareboxs.net",
@@ -140396,7 +140403,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-01-13T10:36:33+02:00",
+        "last_modified": "2026-01-16T10:52:40+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -141457,17 +141464,18 @@
           "https://www.virustotal.com/gui/file/5129056b8b50c6983c04ed4be2d17f5486825705d3c42b0c70e2bbfd44c9949d/detection",
           "https://x.com/ThreatBookLabs/status/2010905606505263499",
           "https://www.virustotal.com/gui/file/3d06a17127cea0e05d750f0e42fb46fdbd166c1086a63aeea9abe5b2328de55b/detection",
-          "https://www.virustotal.com/gui/file/98e0fc65546d4099c7c3db747d2244ae7ddaf9cb0e28ea951f112c0c7c77c9a2/detection"
+          "https://www.virustotal.com/gui/file/98e0fc65546d4099c7c3db747d2244ae7ddaf9cb0e28ea951f112c0c7c77c9a2/detection",
+          "https://x.com/PrakkiSathwik/status/2012039541516091768"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3290,
+          "domain": 3291,
           "file_path": 40,
           "ipv4": 793,
           "url": 125
         },
-        "total": 4248
+        "total": 4249
       }
     },
     "TRIANGULATION": {
