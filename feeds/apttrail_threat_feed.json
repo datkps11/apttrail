@@ -78441,6 +78441,7 @@
           "44dependant.savalanpo.ru",
           "44depths.artavazd.xyz",
           "44desperate.acanthusso.ru",
+          "44getobject.vitorog.ru",
           "44journal.crudoes.ru",
           "44loop.crudoes.ru",
           "44position.vitorog.ru",
@@ -83077,6 +83078,7 @@
           "for2.lovetco.ru",
           "for20.acaenaso.ru",
           "for20.ahmozpi.ru",
+          "for2023.podriks.ru",
           "for21.acaenaso.ru",
           "for22.acaenaso.ru",
           "for23.acaenaso.ru",
@@ -83099,8 +83101,10 @@
           "for34.nubiumbi.ru",
           "for35.acaenaso.ru",
           "for36.acaenaso.ru",
+          "for364.podriks.ru",
           "for37.acaenaso.ru",
           "for38.acaenaso.ru",
+          "for3836.podriks.ru",
           "for4.acaenaso.ru",
           "for4.geminiso.ru",
           "for40.acaenaso.ru",
@@ -85872,6 +85876,7 @@
           "tfngkbg.ic0n1cvalley.com",
           "thatsok.ru",
           "then1.drakhalos.ru",
+          "then10.mitrala.ru",
           "then21.balduron.ru",
           "then21.vukongos.ru",
           "then30.vukongos.ru",
@@ -85888,6 +85893,7 @@
           "then59.kyanango.shop",
           "then59.suizibel.ru",
           "then67.dumerilipi.ru",
+          "then79.mitrala.ru",
           "then89.vurgungo.ru",
           "think-crash-shows-circus.trycloudflare.com",
           "thisisonlyatest.innocentmillions.ru",
@@ -87307,7 +87313,7 @@
         ],
         "apt_group": "GAMAREDON-1",
         "filename": "apt_gamaredon-1.txt",
-        "last_modified": "2026-01-06T15:35:30+02:00",
+        "last_modified": "2026-01-16T16:20:23+02:00",
         "references": [
           "https://www.virustotal.com/gui/ip-address/168.100.10.184/relations",
           "https://www.virustotal.com/gui/ip-address/162.33.178.84/relations",
@@ -88601,17 +88607,18 @@
           "https://tria.ge/251124-yqkb7abp4y/behavioral1",
           "https://tria.ge/251125-17gczaak31/behavioral2",
           "https://tria.ge/251202-py8v3swjap/behavioral2",
-          "https://www.virustotal.com/gui/ip-address/212.193.20.110/relations"
+          "https://www.virustotal.com/gui/ip-address/212.193.20.110/relations",
+          "https://www.virustotal.com/gui/ip-address/144.172.96.59/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 9980,
+          "domain": 9986,
           "file_path": 353,
           "ipv4": 5,
           "url": 186
         },
-        "total": 10524
+        "total": 10530
       }
     },
     "GAZA": {
@@ -113398,7 +113405,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-01-13T16:24:49+02:00",
+        "last_modified": "2026-01-16T16:17:40+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -114325,6 +114332,7 @@
           "https://socket.dev/blog/lazarus-strikes-npm-again-with-a-new-wave-of-malicious-packages",
           "https://www.gendigital.com/blog/insights/research/apt-cyber-alliances-2025",
           "https://app.validin.com/detail?find=L-Administrator&type=raw&ref_id=7c876e7935a#tab=host_pairs",
+          "https://www.virustotal.com/gui/file/c6edbb0d733798e5e8168a9df2bccaad7834e40f3c30d09816cc9a8ecc431376/detection",
           "https://x.com/blackorbird/status/1924832471621030031",
           "https://x.com/TLP_R3D/status/1900511506518970638",
           "https://x.com/TLP_R3D/status/1900528743732367865",
