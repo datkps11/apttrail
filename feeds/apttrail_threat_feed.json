@@ -22995,25 +22995,36 @@
         "domain": [
           "2025primakovreadings.info",
           "ads-stream-api-v2.global.ssl.fastly.net",
+          "advertnow.org",
+          "adverty.info",
           "browser-time-stats.global.ssl.fastly.net",
           "bus-pod-tenant.global.ssl.fastly.net",
           "clip-rdp-api.global.ssl.fastly.net",
           "common-rdp-front.global.ssl.fastly.net",
+          "corptravel.org",
           "cybers46.team",
           "cybers4646.my.id",
           "e-library.wiki",
           "elibrary.wiki",
           "fast-telemetry-api.global.ssl.fastly.net",
+          "feedstream.info",
           "front-static-api.global.ssl.fastly.net",
           "futurebull.live",
           "futurebull.net",
           "globaloneai.com",
           "infosecteam.info",
+          "kant300.kantiana.info",
+          "kantiana.info",
+          "kpmedia.city",
           "main-front-api.global.ssl.fastly.net",
           "mil-by.info",
+          "moscow.corptravel.org",
           "ms-appdata-fonts.global.ssl.fastly.net",
           "ms-appdata-main.global.ssl.fastly.net",
           "ms-appdata-query.global.ssl.fastly.net",
+          "mstn-ru.com",
+          "passport.yandeks.info",
+          "peerflix.net",
           "perf-service-clients2.global.ssl.fastly.net",
           "primakovreadings.info",
           "primakovreadings2025.info",
@@ -23023,7 +23034,10 @@
           "rdp-statistics-api.global.ssl.fastly.net",
           "srv480138.hstgr.cloud",
           "srv484118.hstgr.cloud",
-          "status-portal-api.global.ssl.fastly.net"
+          "status-portal-api.global.ssl.fastly.net",
+          "svobody.org",
+          "ulitsa.svobody.org",
+          "yandeks.info"
         ]
       },
       "metadata": {
@@ -23033,7 +23047,7 @@
         ],
         "apt_group": "FORUMTROLL",
         "filename": "apt_forumtroll.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-01-16T16:48:24+02:00",
         "references": [
           "https://twitter.com/k3yp0d/status/1782082055905690092",
           "https://x.com/blackorbird/status/1935254424789860703",
@@ -23049,14 +23063,18 @@
           "https://www.virustotal.com/gui/file/823d625481fe8b0299850e9758e43b717b6874d42e0112f1b8281bcefedadd31/detection",
           "https://x.com/blackorbird/status/2001300384737083890",
           "https://www.virustotal.com/gui/ip-address/45.11.181.96/relations",
-          "https://securelist.com/operation-forumtroll-new-targeted-campaign/118492/"
+          "https://securelist.com/operation-forumtroll-new-targeted-campaign/118492/",
+          "https://twitter.com/k3yp0d/status/1787851479421772047",
+          "https://twitter.com/k3yp0d/status/1787852438591910201",
+          "https://www.virustotal.com/gui/file/387252ca8e89f7c3daceb48ab1279dfe597a9043095624a485aa5820b3c446b9/detection",
+          "https://www.virustotal.com/gui/file/608009b402c00bb8ef65cc8d805e1522ddf1632c7479be05244ebd38483e22df/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 31
+          "domain": 45
         },
-        "total": 31
+        "total": 45
       }
     },
     "FRUITYARMOR": {
