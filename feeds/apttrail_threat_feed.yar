@@ -9190,17 +9190,19 @@ rule APT_Q27
         $domain7 = "goldeyeuu\.io" ascii wide nocase
         $domain8 = "l\.pic447\.com" ascii wide nocase
         $domain9 = "l2\.pic447\.com" ascii wide nocase
-        $domain10 = "nsjdhmdjs\.com" ascii wide nocase
-        $domain11 = "potatouu\.com" ascii wide nocase
-        $domain12 = "t\.pic447\.com" ascii wide nocase
-        $domain13 = "uu\.goldeyeuu\.io" ascii wide nocase
-        $domain14 = "v\.pic447\.com" ascii wide nocase
-        $domain15 = "v2\.pic447\.com" ascii wide nocase
-        $domain16 = "w\.pic447\.com" ascii wide nocase
-        $domain17 = "wk\.goldeyeuu\.io" ascii wide nocase
-        $ip18 = "185.135.79.196" ascii wide
-        $ip19 = "185.135.79.200" ascii wide
-        $ip20 = "206.233.128.103" ascii wide
+        $domain10 = "links3s\.s3\.ap-east-1\.amazonaws\.com" ascii wide nocase
+        $domain11 = "nsjdhmdjs\.com" ascii wide nocase
+        $domain12 = "potatouu\.com" ascii wide nocase
+        $domain13 = "s3work08\.s3\.ap-east-1\.amazonaws\.com" ascii wide nocase
+        $domain14 = "t\.pic447\.com" ascii wide nocase
+        $domain15 = "uu\.goldeyeuu\.io" ascii wide nocase
+        $domain16 = "v\.pic447\.com" ascii wide nocase
+        $domain17 = "v2\.pic447\.com" ascii wide nocase
+        $domain18 = "w\.pic447\.com" ascii wide nocase
+        $domain19 = "wk\.goldeyeuu\.io" ascii wide nocase
+        $ip20 = "185.135.79.196" ascii wide
+        $ip21 = "185.135.79.200" ascii wide
+        $ip22 = "206.233.128.103" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)

@@ -3979,8 +3979,8 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT Q12 - HTTP Request to Ma
 # Aliases: apt-q-27, dragon breath, golden eye dog
 # ==================================================
 
-# Q27 - Domain Indicators (18 domains)
-alert dns any any -> any any (msg:"APT Q27 - Malicious Domain Activity"; dns.query; pcre:"/^(123\.nsjdhmdjs\.com|2\.nsjdhmdjs\.com|2\.potatouu\.com|a\.pic447\.com|ac2\.nsjdhmdjs\.com|d\.pic447\.com|datareportnew\.s3\.ap-northeast-2\.amazonaws\.com|goldeyeuu\.io|l\.pic447\.com|l2\.pic447\.com|nsjdhmdjs\.com|potatouu\.com|t\.pic447\.com|uu\.goldeyeuu\.io|v\.pic447\.com|v2\.pic447\.com|w\.pic447\.com|wk\.goldeyeuu\.io)$/i"; classtype:trojan-activity; sid:9002211; rev:1; metadata:apt_group Q27, chunk 1;)
+# Q27 - Domain Indicators (20 domains)
+alert dns any any -> any any (msg:"APT Q27 - Malicious Domain Activity"; dns.query; pcre:"/^(123\.nsjdhmdjs\.com|2\.nsjdhmdjs\.com|2\.potatouu\.com|a\.pic447\.com|ac2\.nsjdhmdjs\.com|d\.pic447\.com|datareportnew\.s3\.ap-northeast-2\.amazonaws\.com|goldeyeuu\.io|l\.pic447\.com|l2\.pic447\.com|links3s\.s3\.ap-east-1\.amazonaws\.com|nsjdhmdjs\.com|potatouu\.com|s3work08\.s3\.ap-east-1\.amazonaws\.com|t\.pic447\.com|uu\.goldeyeuu\.io|v\.pic447\.com|v2\.pic447\.com|w\.pic447\.com|wk\.goldeyeuu\.io)$/i"; classtype:trojan-activity; sid:9002211; rev:1; metadata:apt_group Q27, chunk 1;)
 
 # Q27 - IPv4 Indicators (3 IPs)
 alert ip any any -> [185.135.79.196,185.135.79.200,206.233.128.103] any (msg:"APT Q27 - Traffic to Malicious IPs"; threshold:type limit, track by_src, count 1, seconds 3600; classtype:trojan-activity; sid:9002212; rev:1; metadata:apt_group Q27, chunk 1;)
