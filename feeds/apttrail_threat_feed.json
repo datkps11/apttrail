@@ -127452,6 +127452,7 @@
           "agency.lesporc.live",
           "agenda-talking-point-for-army.up.railway.app",
           "agent.onesom.biz",
+          "ahsaanullaahkhan.workers.dev",
           "ai.mofagov.online",
           "ailyun.live",
           "aitkenspencelogistics.mofa.live",
@@ -127493,9 +127494,11 @@
           "ap1-acl.net",
           "ap12.ms-update-server.net",
           "apgml.pk-govt.net",
+          "api.ahsaanullaahkhan.workers.dev",
           "api.almighty-allah.com",
           "api.argus.trondheim.bama.zoopit.no",
           "api.crypto-wise.co",
+          "api.desco-gov-bd.workers.dev",
           "api.grabfiles.org",
           "api.nbppakistan.com",
           "api.nr3c-govpk.com",
@@ -127980,6 +127983,7 @@
           "depo-govpk.com",
           "depo.govpk.me",
           "deputy.meplor.xyz",
+          "desco-gov-bd.workers.dev",
           "desk.fia-gov.com",
           "desktopserver.top",
           "detru.info",
@@ -128220,6 +128224,7 @@
           "f.edu-cx.org",
           "fa-gov-lk.dwnlld.info",
           "fab-gov-pk-account.pages.dev",
+          "fancy-voice-b182.goldibrowhoami.workers.dev",
           "fauji.pkgov.org",
           "faujifoundation.bitlyy.me",
           "fb-dn.net",
@@ -128318,6 +128323,7 @@
           "frzpwdev.grabfiles.org",
           "fsfdsf.edu-cx.org",
           "fssp.tech",
+          "ftp.desco-gov-bd.workers.dev",
           "ftp.mofa-govbd.com",
           "ftp.pk-mail.org",
           "ftp.true-islam.org",
@@ -128361,6 +128367,7 @@
           "go709p.dytt888.net",
           "goc-visit-program-details-pdf.netlify.app",
           "goinfinity.tech",
+          "goldibrowhoami.workers.dev",
           "google.com.d-dns.co",
           "google.gov-pok.net",
           "google.play-store.co",
@@ -129583,6 +129590,7 @@
           "net-src.org",
           "net.pk.hilsa.online",
           "neteease.cdn-dl.cn",
+          "netof66867.workers.dev",
           "new-mof-budgetsgp-ars.zeabur.app",
           "new-year-message-from-the-chief-of-the-army-staff.gov1-lk.com",
           "new.apl-org.online",
@@ -130362,6 +130370,7 @@
           "test.fetchdrive.info",
           "test.fia-gov.com",
           "test.gbpay.gov.pk",
+          "test.netof66867.workers.dev",
           "test.onesom.biz",
           "tex-ideas.info",
           "tfrend.org",
@@ -130741,7 +130750,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-01-16T10:59:11+02:00",
+        "last_modified": "2026-01-19T10:10:56+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -131743,17 +131752,21 @@
           "https://www.virustotal.com/gui/file/421f7bdc183b51435cf834c6a2841491e2a9d2246826bb56424d7c42c1632e25/detection",
           "https://x.com/volrant136/status/2011865662021660819",
           "https://x.com/volrant136/status/2011859288625725724",
-          "https://x.com/volrant136/status/2011866917179703642"
+          "https://x.com/volrant136/status/2011866917179703642",
+          "https://x.com/RedDrip7/status/2013145924730863672",
+          "https://www.virustotal.com/gui/file/1946315d645d9a8c5114759b350ec4f85dba5f9ee4a63d74437d7a068bff7752/detection",
+          "https://x.com/RedDrip7/status/2013146014660571412",
+          "https://www.virustotal.com/gui/file/13c1a063409ad73e068604e4a5a605915d96d3c8e87e466bb49c6f41033d5909/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3261,
+          "domain": 3270,
           "file_path": 15,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3352
+        "total": 3361
       }
     },
     "SILENCE": {
