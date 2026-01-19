@@ -137487,6 +137487,7 @@
           "gkcare.info",
           "gksdesk.help",
           "glacer.org",
+          "gomtinagar.lpsc.co.in",
           "googleservices.live",
           "gourangashil.smartmfdpro.com",
           "gov-certificate.com",
@@ -138922,6 +138923,7 @@
           "nrsecbihar.co.in",
           "nscinfo.ddns.net",
           "nsdl.in",
+          "ntpmanager.com",
           "ntsupport.help",
           "nvdcare.help",
           "occoman.com",
@@ -138939,6 +138941,7 @@
           "onedrives.cc",
           "oneepson.xyz",
           "onety.skin",
+          "ongc.ntpmanager.com",
           "online.in",
           "onlinecer.top",
           "onlinenic.in.net",
@@ -139962,6 +139965,11 @@
           "204.12.227.117:29242",
           "204.12.227.117:35412",
           "204.12.227.117:7944",
+          "204.12.245.189:19662",
+          "204.12.245.189:24858",
+          "204.12.245.189:29865",
+          "204.12.245.189:31262",
+          "204.12.245.189:36721",
           "204.44.124.134:15597",
           "204.44.124.134:18518",
           "204.44.124.134:26791",
@@ -140444,11 +140452,12 @@
           "drat",
           "tag-140",
           "G0134",
-          "deskrat"
+          "deskrat",
+          "curlbackrat"
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-01-16T10:52:40+02:00",
+        "last_modified": "2026-01-19T13:56:50+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -141510,17 +141519,21 @@
           "https://x.com/ThreatBookLabs/status/2010905606505263499",
           "https://www.virustotal.com/gui/file/3d06a17127cea0e05d750f0e42fb46fdbd166c1086a63aeea9abe5b2328de55b/detection",
           "https://www.virustotal.com/gui/file/98e0fc65546d4099c7c3db747d2244ae7ddaf9cb0e28ea951f112c0c7c77c9a2/detection",
-          "https://x.com/PrakkiSathwik/status/2012039541516091768"
+          "https://x.com/PrakkiSathwik/status/2012039541516091768",
+          "https://x.com/malwrhunterteam/status/1998871280301588649",
+          "https://x.com/PrakkiSathwik/status/2013216779242217614",
+          "https://www.virustotal.com/gui/file/479eb5558b756e45975920568f54893b9ac3435bd63f2663a16533db0eebb6eb/detection",
+          "https://www.virustotal.com/gui/file/d6acbb255dae2cc36c158aeb475c6cabf57610794037ad8ed7e372c392a57f8c/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3291,
+          "domain": 3294,
           "file_path": 40,
-          "ipv4": 793,
+          "ipv4": 798,
           "url": 125
         },
-        "total": 4249
+        "total": 4257
       }
     },
     "TRIANGULATION": {
