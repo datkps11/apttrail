@@ -125409,6 +125409,45 @@
         "total": 35
       }
     },
+    "RAINBOWHYENA": {
+      "indicators": {
+        "file_path": [
+          "spareline.ru/wp-includes/pomo/entry.html",
+          "spareline.ru/wp-includes/post-template.html"
+        ],
+        "url": [
+          "http://185.225.17.104",
+          "http://188.127.254.44",
+          "http://217.60.1.46",
+          "http://91.239.148.21"
+        ]
+      },
+      "metadata": {
+        "aliases": [
+          "phantomremote"
+        ],
+        "apt_group": "RAINBOWHYENA",
+        "filename": "apt_rainbowhyena.txt",
+        "last_modified": "2026-01-20T12:53:13+02:00",
+        "references": [
+          "https://bi.zone/expertise/blog/rainbow-hyena-snova-atakuet-novyy-bekdor-i-smena-taktik/",
+          "https://www.virustotal.com/gui/file/4c78d6bba282aaff0eab749cfa8a28e432f7cbf9c61dec8de8f4800fd27e0314/detection",
+          "https://www.virustotal.com/gui/file/d9bb370d87c09f23fff2fb4a32afd9d89c002e2ed9bfffdd85ce7883bc27aecc/detection",
+          "https://www.virustotal.com/gui/file/ed9b24a77a74cd34c96b30f8de794fe85eb1d9f188f516bd7d6020cc81a86728/detection",
+          "https://www.virustotal.com/gui/file/01f12bb3f4359fae1138a194237914f4fcdbf9e472804e428a765ad820f399be/detection",
+          "https://www.virustotal.com/gui/file/0f1dcdc414afca59f97800a2d108089bf9f9a0cb3f7fbf0522dc10e8f7449046/detection",
+          "https://x.com/malwrhunterteam/status/2013319279332999200",
+          "https://www.virustotal.com/gui/file/a464cfd80810c6f5357b4e738317e900baef9a45fbbc59f5c51475f69b053e5e/detection"
+        ]
+      },
+      "statistics": {
+        "by_type": {
+          "file_path": 2,
+          "url": 4
+        },
+        "total": 6
+      }
+    },
     "RAMPANTKITTEN": {
       "indicators": {
         "domain": [
@@ -130172,6 +130211,7 @@
           "ruve.live",
           "s12.cdn-apn.net",
           "s2.cdn-edge.net",
+          "s3-ap-northeast-1-amazonaws-com.pages.dev",
           "s3-eu-central-1amazonaws-com-2n4.pages.dev",
           "s3-network-pakistan.online",
           "saarc-sec-org.snagdrive.com",
@@ -130644,6 +130684,7 @@
           "/RWlVOGJCSUxEaVljT0dKaQ==.aspx",
           "/cetcc/crud.php",
           "/cvbnhmj7.php",
+          "/krypt0kickoswk1wokic.html",
           "/mail/AFA/RWlVOGJCSUxEaVljT0dKaQ==.aspx",
           "/pl200_TMP2831474WDF.php",
           "/r3diRecT/redirector/proxy.php",
@@ -130750,7 +130791,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-01-19T10:10:56+02:00",
+        "last_modified": "2026-01-20T12:58:11+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -131756,17 +131797,19 @@
           "https://x.com/RedDrip7/status/2013145924730863672",
           "https://www.virustotal.com/gui/file/1946315d645d9a8c5114759b350ec4f85dba5f9ee4a63d74437d7a068bff7752/detection",
           "https://x.com/RedDrip7/status/2013146014660571412",
-          "https://www.virustotal.com/gui/file/13c1a063409ad73e068604e4a5a605915d96d3c8e87e466bb49c6f41033d5909/detection"
+          "https://www.virustotal.com/gui/file/13c1a063409ad73e068604e4a5a605915d96d3c8e87e466bb49c6f41033d5909/detection",
+          "https://x.com/malwrhunterteam/status/2013212998198796594",
+          "https://www.virustotal.com/gui/file/590879c567c6d95b18b34e46e9830ba7b807279d76d83abc066f013d4b6f693e/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3270,
-          "file_path": 15,
+          "domain": 3271,
+          "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3361
+        "total": 3363
       }
     },
     "SILENCE": {
@@ -148109,5 +148152,5 @@
     }
   },
   "source": "Maltrail APT Indicators",
-  "total_apt_groups": 331
+  "total_apt_groups": 332
 }

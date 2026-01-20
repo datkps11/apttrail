@@ -9326,6 +9326,23 @@ rule APT_QUASAR
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_RAINBOWHYENA
+{
+    meta:
+        description = "Detects IOCs associated with APT RAINBOWHYENA"
+        author = "APTtrail Automated Collection"
+        apt_group = "RAINBOWHYENA"
+        aliases = "phantomremote"
+        reference = "https://bi.zone/expertise/blog/rainbow-hyena-snova-atakuet-novyy-bekdor-i-smena-taktik/"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+
+    condition:
+        any of them
+}
+
 rule APT_RAMPANTKITTEN
 {
     meta:
