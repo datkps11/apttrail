@@ -5383,30 +5383,6 @@ rule APT_HANGOVER
         2 of ($domain*, $ip*, $url*)
 }
 
-rule APT_HEADMARE
-{
-    meta:
-        description = "Detects IOCs associated with APT HEADMARE"
-        author = "APTtrail Automated Collection"
-        apt_group = "HEADMARE"
-        reference = "https://securelist.com/head-mare-hacktivists/113555/"
-        severity = "high"
-        tlp = "white"
-
-    strings:
-        $domain0 = "interoperaebility\.world" ascii wide nocase
-        $domain1 = "jaudyoyh\.ru" ascii wide nocase
-        $ip2 = "185.80.91.107" ascii wide
-        $ip3 = "45.11.27.232" ascii wide
-        $ip4 = "45.87.245.30" ascii wide
-        $ip5 = "45.87.246.169" ascii wide
-        $ip6 = "5.252.176.77" ascii wide
-        $ip7 = "5.252.176.77" ascii wide
-
-    condition:
-        2 of ($domain*, $ip*, $url*)
-}
-
 rule APT_HELLHOUNDS
 {
     meta:
@@ -9332,15 +9308,23 @@ rule APT_RAINBOWHYENA
         description = "Detects IOCs associated with APT RAINBOWHYENA"
         author = "APTtrail Automated Collection"
         apt_group = "RAINBOWHYENA"
-        aliases = "phantomremote"
+        aliases = "cargotalon, eaglet implant, headmare"
         reference = "https://bi.zone/expertise/blog/rainbow-hyena-snova-atakuet-novyy-bekdor-i-smena-taktik/"
         severity = "high"
         tlp = "white"
 
     strings:
+        $domain0 = "interoperaebility\.world" ascii wide nocase
+        $domain1 = "jaudyoyh\.ru" ascii wide nocase
+        $ip2 = "185.80.91.107" ascii wide
+        $ip3 = "45.11.27.232" ascii wide
+        $ip4 = "45.87.245.30" ascii wide
+        $ip5 = "45.87.246.169" ascii wide
+        $ip6 = "5.252.176.77" ascii wide
+        $ip7 = "5.252.176.77" ascii wide
 
     condition:
-        any of them
+        2 of ($domain*, $ip*, $url*)
 }
 
 rule APT_RAMPANTKITTEN
