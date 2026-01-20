@@ -3986,7 +3986,7 @@ alert dns any any -> any any (msg:"APT QUASAR - Malicious Domain Activity"; dns.
 
 # ==================================================
 # APT Group: RAINBOWHYENA
-# Aliases: phantomremote, phantomcore, cargotalon, eaglet implant, ung0901, headmare
+# Aliases: phantomremote, phantomcore, phantomocx, phantomc2, cargotalon, eaglet implant, ung0901, headmare
 # ==================================================
 
 # RAINBOWHYENA - Domain Indicators (2 domains)

@@ -125404,6 +125404,8 @@
         "aliases": [
           "phantomremote",
           "phantomcore",
+          "phantomocx",
+          "phantomc2",
           "cargotalon",
           "eaglet implant",
           "ung0901",
@@ -125411,7 +125413,7 @@
         ],
         "apt_group": "RAINBOWHYENA",
         "filename": "apt_rainbowhyena.txt",
-        "last_modified": "2026-01-20T14:53:17+02:00",
+        "last_modified": "2026-01-20T14:56:00+02:00",
         "references": [
           "https://bi.zone/expertise/blog/rainbow-hyena-snova-atakuet-novyy-bekdor-i-smena-taktik/",
           "https://www.virustotal.com/gui/file/4c78d6bba282aaff0eab749cfa8a28e432f7cbf9c61dec8de8f4800fd27e0314/detection",
