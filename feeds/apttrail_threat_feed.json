@@ -9252,6 +9252,7 @@
           "us04web.com",
           "us04wezoom.us",
           "us04www-zoom.us",
+          "us05-web.us",
           "us05-zoom.com",
           "us05-zoom.forum",
           "us05-zoom.uk",
@@ -9458,6 +9459,7 @@
           "zoom.us007web.us",
           "zoom.us01web.com",
           "zoom.us02we.us",
+          "zoom.us05-web.us",
           "zoom.us05we.us",
           "zoom.us05web.us",
           "zoom.us07office.us",
@@ -9513,7 +9515,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-01-22T09:52:49+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -9639,16 +9641,18 @@
           "https://x.com/malwrhunterteam/status/1992991375604781075",
           "https://www.virustotal.com/gui/file/9135fb9e74bdb39828bfecf7919430062ce482a523999bd7ff1a368038f32371/detection",
           "https://www.virustotal.com/gui/file/ed705e5bab5da0f62ddfca9eb3e91ade284355ced3ed0efb366d7c3b892065c6/detection",
-          "https://github.com/motuariki/IOCs/blob/main/DPRK%20Tracking/04-12-2025-DPRK-Fake-Meeting-Infrastructure"
+          "https://github.com/motuariki/IOCs/blob/main/DPRK%20Tracking/04-12-2025-DPRK-Fake-Meeting-Infrastructure",
+          "https://x.com/L0Psec/status/2014100649391137165",
+          "https://www.virustotal.com/gui/file/755cc133ae0519accbcfdd5f8f0d9fe1aa08cbcb306c3e5f29ebcb6ac12d9323/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1072,
+          "domain": 1074,
           "ipv4": 14,
           "url": 3
         },
-        "total": 1089
+        "total": 1091
       }
     },
     "BLUEPRINT": {
@@ -143282,7 +143286,9 @@
           "ec2-server.bayaj19162.workers.dev",
           "ec2-server.gegodec527.workers.dev",
           "ec2-server.milago3967.workers.dev",
+          "etherial.groover.workers.dev",
           "floral-paper-8eb1.pihara4672.workers.dev",
+          "groover.workers.dev",
           "keystore-explorer.com",
           "mstore.framfarmers.co.uk",
           "pofelal314.workers.dev",
@@ -143333,21 +143339,23 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-01-12T17:52:09+02:00",
+        "last_modified": "2026-01-22T10:00:49+02:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
           "https://x.com/SquiblydooBlog/status/1993311260512075967",
           "https://app.any.run/tasks/a9391be5-4e71-4a95-9072-477f8afd906f/",
           "https://x.com/g0njxa/status/2010485906466394343",
-          "https://www.virustotal.com/gui/file/cbbe98e1b36eb68a7afe534c21055f9cc793c2a6a7ca63256d273020a096f7a7/detection"
+          "https://www.virustotal.com/gui/file/cbbe98e1b36eb68a7afe534c21055f9cc793c2a6a7ca63256d273020a096f7a7/detection",
+          "https://x.com/goldenjackel12/status/2013877434421072187",
+          "https://www.virustotal.com/gui/file/3ebc0df2b92a39d1fb4491b7aaf6996425214ebe85e6243f443f1db087172f27/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 63
+          "domain": 65
         },
-        "total": 63
+        "total": 65
       }
     },
     "UNC2529": {

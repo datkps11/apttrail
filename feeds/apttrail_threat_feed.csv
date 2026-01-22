@@ -6816,6 +6816,7 @@ BLUENOROFF,domain,us04web.buszoom.us
 BLUENOROFF,domain,us04web.com
 BLUENOROFF,domain,us04wezoom.us
 BLUENOROFF,domain,us04www-zoom.us
+BLUENOROFF,domain,us05-web.us
 BLUENOROFF,domain,us05-zoom.com
 BLUENOROFF,domain,us05-zoom.forum
 BLUENOROFF,domain,us05-zoom.uk
@@ -7022,6 +7023,7 @@ BLUENOROFF,domain,zoom.us006web.us
 BLUENOROFF,domain,zoom.us007web.us
 BLUENOROFF,domain,zoom.us01web.com
 BLUENOROFF,domain,zoom.us02we.us
+BLUENOROFF,domain,zoom.us05-web.us
 BLUENOROFF,domain,zoom.us05we.us
 BLUENOROFF,domain,zoom.us05web.us
 BLUENOROFF,domain,zoom.us07office.us
@@ -121965,7 +121967,9 @@ UNC2465,domain,ec2-server-noisy-band-0fe8.focapaj280.workers.dev
 UNC2465,domain,ec2-server.bayaj19162.workers.dev
 UNC2465,domain,ec2-server.gegodec527.workers.dev
 UNC2465,domain,ec2-server.milago3967.workers.dev
+UNC2465,domain,etherial.groover.workers.dev
 UNC2465,domain,floral-paper-8eb1.pihara4672.workers.dev
+UNC2465,domain,groover.workers.dev
 UNC2465,domain,keystore-explorer.com
 UNC2465,domain,mstore.framfarmers.co.uk
 UNC2465,domain,pofelal314.workers.dev
