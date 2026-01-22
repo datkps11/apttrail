@@ -136502,6 +136502,7 @@
           "cgda-alert.com",
           "cgda.gov.in.8thpaycomission.cloud",
           "cgda.site",
+          "chandigarh.guru",
           "checare.help",
           "check-suspicious-activity-on-account.support",
           "checkdailytips.servehttp.com",
@@ -138094,6 +138095,7 @@
           "hiwcare.help",
           "honeybeechatt.com",
           "hostflix.live",
+          "hostmysite.website",
           "hotel99world.com",
           "hqrihq.cc",
           "hrhcare.live",
@@ -139678,6 +139680,7 @@
           "149.248.52.61:91",
           "149.248.52.61:92",
           "149.248.52.61:93",
+          "149.3.170.165:6357",
           "149.3.170.72:8621",
           "151.106.14.125:14618",
           "151.106.14.125:16418",
@@ -140535,7 +140538,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-01-19T17:43:14+02:00",
+        "last_modified": "2026-01-22T11:48:13+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -141603,17 +141606,22 @@
           "https://www.virustotal.com/gui/file/479eb5558b756e45975920568f54893b9ac3435bd63f2663a16533db0eebb6eb/detection",
           "https://www.virustotal.com/gui/file/d6acbb255dae2cc36c158aeb475c6cabf57610794037ad8ed7e372c392a57f8c/detection",
           "https://www.virustotal.com/gui/file/2fcdab3bfac7be6c6e3698c7f0d5cf15e32f4cfb0ac2e3e889a8a58ceba7ab76/detection",
-          "https://www.virustotal.com/gui/file/4569a94e001a046d0751226d5bfc16333b7b5478272b43f055d00d5b88e98d09/detection"
+          "https://www.virustotal.com/gui/file/4569a94e001a046d0751226d5bfc16333b7b5478272b43f055d00d5b88e98d09/detection",
+          "https://x.com/ElementalX2/status/2014249049260691727",
+          "https://www.virustotal.com/gui/file/9706d9fdb663b21d03ccbf2cabde375418e76a1066d4cf5491eccac5cc304d6d/detection",
+          "https://x.com/Gulsher82522472/status/2014260594493596100",
+          "https://www.virustotal.com/gui/file/851b97f5419f3735f872eb59a12ca7ef2f50ae1d8386ac38f2706bb49f25777c/detection",
+          "https://www.virustotal.com/gui/file/f5888c5e87d95ff494573ffb1a7f637dbf69c0a94c001f889cda58da054a32e5/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3325,
+          "domain": 3327,
           "file_path": 40,
-          "ipv4": 799,
+          "ipv4": 800,
           "url": 125
         },
-        "total": 4289
+        "total": 4292
       }
     },
     "TRIANGULATION": {
