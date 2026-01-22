@@ -137254,6 +137254,7 @@
           "defencedept.work",
           "defenceindia.link",
           "defenceindia.ltd",
+          "defenceindia.site",
           "defencepersonnel.support",
           "defender.windowupdatecache.in",
           "defenseinsight.in",
@@ -140576,7 +140577,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-01-22T11:48:13+02:00",
+        "last_modified": "2026-01-22T16:13:47+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -141649,17 +141650,19 @@
           "https://www.virustotal.com/gui/file/9706d9fdb663b21d03ccbf2cabde375418e76a1066d4cf5491eccac5cc304d6d/detection",
           "https://x.com/Gulsher82522472/status/2014260594493596100",
           "https://www.virustotal.com/gui/file/851b97f5419f3735f872eb59a12ca7ef2f50ae1d8386ac38f2706bb49f25777c/detection",
-          "https://www.virustotal.com/gui/file/f5888c5e87d95ff494573ffb1a7f637dbf69c0a94c001f889cda58da054a32e5/detection"
+          "https://www.virustotal.com/gui/file/f5888c5e87d95ff494573ffb1a7f637dbf69c0a94c001f889cda58da054a32e5/detection",
+          "https://x.com/PrakkiSathwik/status/2014336038358184179",
+          "https://www.virustotal.com/gui/file/7ebc695c079914cc61160aaed43efbafa9dc659b2ddcab58d5c76b9d474ccc67/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3327,
+          "domain": 3328,
           "file_path": 40,
           "ipv4": 800,
           "url": 125
         },
-        "total": 4292
+        "total": 4293
       }
     },
     "TRIANGULATION": {
