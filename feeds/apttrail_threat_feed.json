@@ -112051,6 +112051,7 @@
           "voov-meeting.site",
           "voyagorclub.space",
           "vpn.contradecapital.com",
+          "vscode-load.onrender.com",
           "vsservices.in",
           "vz206llb19o.com",
           "w.wzshop.in",
@@ -112878,6 +112879,9 @@
           "144.172.114.238:8085",
           "144.172.114.238:8086",
           "144.172.114.238:8087",
+          "144.172.116.80:8085",
+          "144.172.116.80:8086",
+          "144.172.116.80:8087",
           "144.172.74.120:3389",
           "144.172.86.27:1224",
           "144.172.86.27:1245",
@@ -112954,6 +112958,7 @@
           "172.86.114.170:4000",
           "172.86.114.170:5000",
           "172.86.114.31:3000",
+          "172.86.116.178:3000",
           "172.86.116.178:5918",
           "172.86.116.178:5976",
           "172.86.116.90:1224",
@@ -113430,7 +113435,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-01-22T17:19:24+02:00",
+        "last_modified": "2026-01-23T23:19:38+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -114564,17 +114569,23 @@
           "https://www.virustotal.com/gui/file/ede27865d869f073d2bcafd7c633eee87e3fbfb6dcf115a9a8f39be9840fa6cd/detection",
           "https://x.com/blackorbird/status/2011064658212634920",
           "https://redasgard.com/blog/hunting-lazarus-contagious-interview-c2-infrastructure",
-          "https://www.recordedfuture.com/research/purplebravos-targeting-it-software-supply-chain"
+          "https://www.recordedfuture.com/research/purplebravos-targeting-it-software-supply-chain",
+          "https://x.com/KfishNFT/status/2014379828787494923",
+          "https://x.com/g0njxa/status/2014800328105894004",
+          "https://radar.securityalliance.org/vs-code-tasks-abuse-by-contagious-interview-dprk/",
+          "https://www.virustotal.com/gui/file/60914b8df5b5d64070f71ef13817499b3a85de98433ae5c01bd235abec9464f6/detection",
+          "https://www.virustotal.com/gui/file/6be45e165de60b61e9b7cb9e1f9b72c652c388a04c02d2068de6188cc88fc3fe/detection",
+          "https://www.virustotal.com/gui/file/c226eb59cf696a85ed7134b57f12d82cb392d42b908dd6a463cd4d8c980ee5e8/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3387,
+          "domain": 3388,
           "file_path": 475,
-          "ipv4": 477,
+          "ipv4": 481,
           "url": 102
         },
-        "total": 4441
+        "total": 4446
       }
     },
     "LAZYSCRIPTER": {
