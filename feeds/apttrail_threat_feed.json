@@ -130725,6 +130725,7 @@
           "zhuhai-a1rsh0w-reg1strat1i0n-2o24.netlify.app",
           "zimbra-com.up.railway.app",
           "zimbra10-nml3wp-max8143-3ipio7e5.leapcell.dev",
+          "zimbra10-nml3wp-max8143-fn1rsf7l.leapcell.dev",
           "ziptec.info",
           "zlaeso.xyz",
           "zmail.ptcl.pkgov.org",
@@ -130849,7 +130850,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-01-20T12:58:11+02:00",
+        "last_modified": "2026-01-23T20:30:47+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -131857,17 +131858,18 @@
           "https://x.com/RedDrip7/status/2013146014660571412",
           "https://www.virustotal.com/gui/file/13c1a063409ad73e068604e4a5a605915d96d3c8e87e466bb49c6f41033d5909/detection",
           "https://x.com/malwrhunterteam/status/2013212998198796594",
-          "https://www.virustotal.com/gui/file/590879c567c6d95b18b34e46e9830ba7b807279d76d83abc066f013d4b6f693e/detection"
+          "https://www.virustotal.com/gui/file/590879c567c6d95b18b34e46e9830ba7b807279d76d83abc066f013d4b6f693e/detection",
+          "https://x.com/__0XYC__/status/2014705989681840232"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3271,
+          "domain": 3272,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3363
+        "total": 3364
       }
     },
     "SILENCE": {
