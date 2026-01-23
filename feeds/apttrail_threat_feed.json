@@ -6766,6 +6766,7 @@
           "cpcalendars.tomcruefrshsvc.com",
           "cpcontacts.tomcruefrshsvc.com",
           "createasocialcard.top",
+          "crudestopics.com",
           "currweather.com",
           "dappscryp.com",
           "dashonlineclub.com",
@@ -7343,7 +7344,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-01-13T12:52:35+02:00",
+        "last_modified": "2026-01-23T20:54:07+02:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -7893,17 +7894,20 @@
           "https://www.virustotal.com/gui/file/deb241a46da181c8c1f68a43745fcbf8a6927e4344c2fc96ef4cf31c828576c8/detection",
           "https://www.virustotal.com/gui/file/dfedb0033337aaa8570ef682a931196c36864931fb48605ac82cee94a2d51a4a/detection",
           "https://x.com/RedDrip7/status/2011023732341686629",
-          "https://www.virustotal.com/gui/file/8753006b62b74c6805e6cb22e149a487784ca31be6f15e94b1ada8a439f91290/detection"
+          "https://www.virustotal.com/gui/file/8753006b62b74c6805e6cb22e149a487784ca31be6f15e94b1ada8a439f91290/detection",
+          "https://x.com/RedDrip7/status/2014542257488306575",
+          "https://www.virustotal.com/gui/file/6d92924ff3a1de18fe715c2e7432ee3db912696135f78b7627440ace6f94ecfa/detection",
+          "https://www.virustotal.com/gui/file/d597c488b73cde0938b464f93ed9eebf24e1ac4a885b1f41a8875aeb9272b664/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 447,
+          "domain": 448,
           "file_path": 78,
           "ipv4": 72,
           "url": 18
         },
-        "total": 615
+        "total": 616
       }
     },
     "BLACKGEAR": {
@@ -139297,6 +139301,7 @@
           "share.medialinks.cc",
           "shareboxs.net",
           "shareflix.co",
+          "sharemaxme126.net",
           "sharemaxme24.net",
           "sharemaxme66.net",
           "sharemydrives.com",
@@ -140383,6 +140388,12 @@
           "89.117.63.146:9921",
           "89.249.65.206:4816",
           "89.249.65.206:49483",
+          "91.205.173.181:11100",
+          "91.205.173.181:17868",
+          "91.205.173.181:28168",
+          "91.205.173.181:30821",
+          "91.205.173.181:6896",
+          "91.205.173.181:9826",
           "91.211.248.245:443",
           "91.229.77.1:999",
           "91.92.241.198:443",
@@ -140396,6 +140407,7 @@
           "93.127.128.118:19869",
           "93.127.128.118:23241",
           "93.127.128.118:29421",
+          "93.127.130.89:6896",
           "93.127.133.58:1097",
           "93.127.133.58:17241",
           "93.127.133.58:19821",
@@ -140596,7 +140608,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-01-22T16:13:47+02:00",
+        "last_modified": "2026-01-23T21:01:46+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -141671,17 +141683,22 @@
           "https://www.virustotal.com/gui/file/851b97f5419f3735f872eb59a12ca7ef2f50ae1d8386ac38f2706bb49f25777c/detection",
           "https://www.virustotal.com/gui/file/f5888c5e87d95ff494573ffb1a7f637dbf69c0a94c001f889cda58da054a32e5/detection",
           "https://x.com/PrakkiSathwik/status/2014336038358184179",
-          "https://www.virustotal.com/gui/file/7ebc695c079914cc61160aaed43efbafa9dc659b2ddcab58d5c76b9d474ccc67/detection"
+          "https://www.virustotal.com/gui/file/7ebc695c079914cc61160aaed43efbafa9dc659b2ddcab58d5c76b9d474ccc67/detection",
+          "https://x.com/PrakkiSathwik/status/2014604136269152501",
+          "https://www.virustotal.com/gui/file/62319e21008852533e0a1e68e17e3d8e2fcb952998d64bc7fbe68cd975584148/detection",
+          "https://www.virustotal.com/gui/file/65a2bbcbec3dc6248cd4847ff760ef30f6f0a43dac283978bc142224edca930f/detection",
+          "https://www.virustotal.com/gui/file/1bbc2985d58873779982ca795fd89a1031f2e680d5597b19125bacc5583ddde4/detection",
+          "https://www.virustotal.com/gui/file/a0b8b1f27ec578fa5aab58bdfb19a2fe02eec063fd55e0013e7c7bd96124ac44/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3328,
+          "domain": 3329,
           "file_path": 40,
-          "ipv4": 800,
+          "ipv4": 807,
           "url": 125
         },
-        "total": 4293
+        "total": 4301
       }
     },
     "TRIANGULATION": {
