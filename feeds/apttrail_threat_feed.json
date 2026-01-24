@@ -9164,8 +9164,10 @@
           "ua02webzoom.us",
           "ua05webzoom.us",
           "uc02webzoom.us",
+          "uc03webzoom.us",
           "uc04webzoom.us",
           "uc05webzoom.us",
+          "uc06webzoom.us",
           "uc07webzoom.us",
           "ue01webzoom.us",
           "ue02webzoom.us",
@@ -9189,9 +9191,17 @@
           "um05webzoom.us",
           "um06webzoom.us",
           "un02webzoom.us",
+          "un03webzoom.us",
           "un04webzoom.us",
+          "un05webzoom.us",
+          "un06webzoom.us",
           "unchainedcapital.co",
           "unitpowergeneration.top",
+          "uo01webzoom.us",
+          "uo02webzoom.us",
+          "uo03webzoom.us",
+          "uo04webzoom.us",
+          "uo06webzoom.us",
           "up.digifincx.com",
           "update-assist.org",
           "updatecheck.v6.rocks",
@@ -9207,7 +9217,10 @@
           "uploadmyfile.space",
           "uploadmyfile.tech",
           "uploadsfiles.xyz",
+          "ur02webzoom.us",
+          "ur04webzoom.us",
           "ur05webzoom.us",
+          "ur06webzoom.us",
           "urgent-update.cloud",
           "us-playground.vc",
           "us001web.us",
@@ -9358,11 +9371,18 @@
           "usweb08.us",
           "usweb09.us",
           "usweb5.us",
+          "uu01webzoom.us",
+          "uu03webzoom.us",
+          "uw03webzoom.us",
+          "uw04webzoom.us",
+          "uw05webzoom.us",
+          "uw06webzoom.us",
           "ux02webzoom.us",
           "ux04webzoom.us",
           "ux05webzoom.us",
           "uz01webzoom.us",
           "uz02webzoom.us",
+          "uz03webzoom.us",
           "uz04webzoom.us",
           "uz05webzoom.us",
           "uz06webzoom.us",
@@ -9519,7 +9539,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-01-22T09:52:49+02:00",
+        "last_modified": "2026-01-24T23:18:51+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -9647,16 +9667,19 @@
           "https://www.virustotal.com/gui/file/ed705e5bab5da0f62ddfca9eb3e91ade284355ced3ed0efb366d7c3b892065c6/detection",
           "https://github.com/motuariki/IOCs/blob/main/DPRK%20Tracking/04-12-2025-DPRK-Fake-Meeting-Infrastructure",
           "https://x.com/L0Psec/status/2014100649391137165",
-          "https://www.virustotal.com/gui/file/755cc133ae0519accbcfdd5f8f0d9fe1aa08cbcb306c3e5f29ebcb6ac12d9323/detection"
+          "https://www.virustotal.com/gui/file/755cc133ae0519accbcfdd5f8f0d9fe1aa08cbcb306c3e5f29ebcb6ac12d9323/detection",
+          "https://x.com/TMJ0x/status/2014582284125421571",
+          "https://www.virustotal.com/gui/ip-address/188.227.196.252/relations",
+          "https://www.virustotal.com/gui/ip-address/188.227.197.32/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1074,
+          "domain": 1094,
           "ipv4": 14,
           "url": 3
         },
-        "total": 1091
+        "total": 1111
       }
     },
     "BLUEPRINT": {
@@ -19277,7 +19300,6 @@
           "g-shorturl.com",
           "g00gle-com.cf",
           "gamz.flashnotederby.xyz",
-          "geekgalaxy.com",
           "gemzlogzupd.info",
           "genwar.drivethrough.top",
           "geographiclocation.info",
@@ -20098,11 +20120,13 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-01-24T22:32:01+02:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
           "https://ti.360.net/blog/articles/analysis-of-donot-andriod-sample/",
+          "https://www.virustotal.com/gui/file/2295dc79778c05ddb4e7518499075e886f8715429160af103cc928cb1880affb/detection",
+          "https://www.virustotal.com/gui/file/9ef7031c21675175d39c99e0afa32d9e1a99b53572ae014126bd8374ead4f708/detection",
           "https://asert.arbornetworks.com/donot-team-leverages-new-modular-malware-framework-south-asia/",
           "https://ti.360.net/blog/articles/donot-group-is-targeting-pakistani-businessman-working-in-china-en/",
           "https://twitter.com/blackorbird/status/1111159128775249920",
@@ -20740,12 +20764,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 719,
+          "domain": 718,
           "file_path": 249,
           "ipv4": 47,
           "url": 4
         },
-        "total": 1019
+        "total": 1018
       }
     },
     "DOWNEX": {
