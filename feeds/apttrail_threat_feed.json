@@ -121602,6 +121602,7 @@
           "bonimoni.xyz",
           "bookerstream.com",
           "bovnle.info",
+          "boxmaildrive.info",
           "breachframework.com",
           "breachframework.website",
           "breatlee.org",
@@ -121839,6 +121840,7 @@
           "mail-paf-documents-download-pk.herokuapp.com",
           "mail.asftbngh.top",
           "mail.messagenote.org",
+          "mailexcite.store",
           "majidalfuttaiim.com",
           "maldevfudding.com",
           "mamba.live",
@@ -122361,7 +122363,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-01-26T10:31:45+02:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -122782,12 +122784,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 624,
+          "domain": 626,
           "file_path": 79,
           "ipv4": 57,
           "url": 42
         },
-        "total": 802
+        "total": 804
       }
     },
     "PEEPINGTITLE": {
