@@ -107246,7 +107246,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-01-22T15:25:08+02:00",
+        "last_modified": "2026-01-26T11:07:50+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -108695,7 +108695,9 @@
           "https://x.com/sakaijjang/status/2009200983956705620",
           "https://wezard4u.tistory.com/429687",
           "https://x.com/ThreatBookLabs/status/2014307245170028890",
-          "https://www.virustotal.com/gui/ip-address/141.164.61.168/relations"
+          "https://www.virustotal.com/gui/ip-address/141.164.61.168/relations",
+          "https://x.com/byrne_emmy12099/status/2015702444198756357",
+          "https://www.virustotal.com/gui/file/e43beb8b3584d1d6b78c4ece0d88037d6183914f4b0ca615839a6dc7b8a41fea/detection"
         ]
       },
       "statistics": {
