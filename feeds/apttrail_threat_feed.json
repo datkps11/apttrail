@@ -9330,6 +9330,7 @@
           "us06web.zoomconnector.com",
           "us06www-zoom.com",
           "us06www-zoom.us",
+          "us07-web.us",
           "us07biz-zoom.us",
           "us07office.us",
           "us07web-zoom.biz",
@@ -9515,6 +9516,7 @@
           "zoom.us05-web.us",
           "zoom.us05we.us",
           "zoom.us05web.us",
+          "zoom.us07-web.us",
           "zoom.us07office.us",
           "zoom.us4web.us",
           "zoom.uswe04.us",
@@ -9568,7 +9570,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-01-24T23:22:33+02:00",
+        "last_modified": "2026-01-26T20:57:25+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -9696,7 +9698,10 @@
           "https://www.virustotal.com/gui/file/ed705e5bab5da0f62ddfca9eb3e91ade284355ced3ed0efb366d7c3b892065c6/detection",
           "https://github.com/motuariki/IOCs/blob/main/DPRK%20Tracking/04-12-2025-DPRK-Fake-Meeting-Infrastructure",
           "https://x.com/L0Psec/status/2014100649391137165",
+          "https://x.com/moonlock_lab/status/2015857322963173657",
           "https://www.virustotal.com/gui/file/755cc133ae0519accbcfdd5f8f0d9fe1aa08cbcb306c3e5f29ebcb6ac12d9323/detection",
+          "https://www.virustotal.com/gui/file/9a778d2b7919717e95072e4dec01c815a5fd81f574b538107652d73d8dc874b6/detection",
+          "https://www.virustotal.com/gui/file/2fbd34eed9dbf57a44cf1540941fb43a793be27e13e937299167b2b67cb84d6b/detection",
           "https://x.com/TMJ0x/status/2014582284125421571",
           "https://www.virustotal.com/gui/ip-address/188.227.196.252/relations",
           "https://www.virustotal.com/gui/ip-address/188.227.197.32/relations"
@@ -9704,11 +9709,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1123,
+          "domain": 1125,
           "ipv4": 14,
           "url": 3
         },
-        "total": 1140
+        "total": 1142
       }
     },
     "BLUEPRINT": {
