@@ -136425,6 +136425,10 @@
           "accountsinfo.site",
           "accountsmgovcloud.in.campindia.xyz",
           "acmarketsapp.com",
+          "acml-ai.com",
+          "acml-ltd.com",
+          "acml-vip.com",
+          "acml-web.com",
           "ad.caselist.in",
           "ad2.admart.tv",
           "adiptv.duckdns.org",
@@ -140706,7 +140710,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-01-23T21:01:46+02:00",
+        "last_modified": "2026-01-26T20:32:22+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -141791,12 +141795,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3329,
+          "domain": 3333,
           "file_path": 40,
           "ipv4": 807,
           "url": 125
         },
-        "total": 4301
+        "total": 4305
       }
     },
     "TRIANGULATION": {
