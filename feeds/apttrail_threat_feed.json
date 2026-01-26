@@ -113516,7 +113516,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-01-24T01:51:36+02:00",
+        "last_modified": "2026-01-26T12:21:59+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -114657,7 +114657,8 @@
           "https://www.abstract.security/blog/contagious-interview-tracking-the-vs-code-tasks-infection-vector",
           "https://www.virustotal.com/gui/file/60914b8df5b5d64070f71ef13817499b3a85de98433ae5c01bd235abec9464f6/detection",
           "https://www.virustotal.com/gui/file/6be45e165de60b61e9b7cb9e1f9b72c652c388a04c02d2068de6188cc88fc3fe/detection",
-          "https://www.virustotal.com/gui/file/c226eb59cf696a85ed7134b57f12d82cb392d42b908dd6a463cd4d8c980ee5e8/detection"
+          "https://www.virustotal.com/gui/file/c226eb59cf696a85ed7134b57f12d82cb392d42b908dd6a463cd4d8c980ee5e8/detection",
+          "https://www.welivesecurity.com/en/eset-research/gotta-fly-lazarus-targets-uav-sector/"
         ]
       },
       "statistics": {
