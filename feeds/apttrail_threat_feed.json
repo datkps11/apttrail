@@ -7224,6 +7224,7 @@
           "103.57.251.154:4443",
           "107.173.63.218:58370",
           "110.42.64.137:9527",
+          "134.255.210.127:443",
           "135.125.242.211:52112",
           "141.94.68.169:443",
           "147.124.223.140:41320",
@@ -7344,7 +7345,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-01-23T20:54:07+02:00",
+        "last_modified": "2026-01-28T20:33:55+02:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -7897,17 +7898,19 @@
           "https://www.virustotal.com/gui/file/8753006b62b74c6805e6cb22e149a487784ca31be6f15e94b1ada8a439f91290/detection",
           "https://x.com/RedDrip7/status/2014542257488306575",
           "https://www.virustotal.com/gui/file/6d92924ff3a1de18fe715c2e7432ee3db912696135f78b7627440ace6f94ecfa/detection",
-          "https://www.virustotal.com/gui/file/d597c488b73cde0938b464f93ed9eebf24e1ac4a885b1f41a8875aeb9272b664/detection"
+          "https://www.virustotal.com/gui/file/d597c488b73cde0938b464f93ed9eebf24e1ac4a885b1f41a8875aeb9272b664/detection",
+          "https://x.com/RedDrip7/status/2016415763633242298",
+          "https://www.virustotal.com/gui/file/836c8fb1ff998d3b94b4800aca7b17675893fe87a39b658000a776c5b3fe852c/detection"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 448,
           "file_path": 78,
-          "ipv4": 72,
+          "ipv4": 73,
           "url": 18
         },
-        "total": 616
+        "total": 617
       }
     },
     "BLACKGEAR": {
