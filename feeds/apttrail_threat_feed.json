@@ -9166,6 +9166,7 @@
           "twosigmaventures.us",
           "ua02webzoom.us",
           "ua03webzoom.us",
+          "ua04webzoom.us",
           "ua05webzoom.us",
           "ua06webzoom.us",
           "uc01webzoom.us",
@@ -9184,6 +9185,12 @@
           "ue07webzoom.us",
           "ue08webzoom.us",
           "ue09webzoom.us",
+          "ui01webzoom.us",
+          "ui02webzoom.us",
+          "ui03webzoom.us",
+          "ui04webzoom.us",
+          "ui05webzoom.us",
+          "ui06webzoom.us",
           "uk01webzoom.us",
           "uk02webzoom.us",
           "uk03webzoom.us",
@@ -9252,6 +9259,7 @@
           "us01web-zoom.store",
           "us01web-zoom.xyz",
           "us01web.com",
+          "us01webzoom.us",
           "us02biz-zoom.us",
           "us02cam-zoom.us",
           "us02we.us",
@@ -9261,6 +9269,7 @@
           "us02web-zoom.org",
           "us02web-zoom.xyz",
           "us02web.zoomconnector.com",
+          "us02webzoom.us",
           "us02www-zoom.us",
           "us03biz-zoom.us",
           "us03web-zoom.biz",
@@ -9279,6 +9288,7 @@
           "us04web-zoom.xyz",
           "us04web.buszoom.us",
           "us04web.com",
+          "us04webzoom.us",
           "us04wezoom.us",
           "us04www-zoom.us",
           "us05-web.us",
@@ -9316,6 +9326,7 @@
           "us05web.buszoom.us",
           "us05web.us",
           "us05webzoom.link",
+          "us05webzoom.us",
           "us05www-zoom.us",
           "us05zoom.com",
           "us05zoom.us.com",
@@ -9331,6 +9342,7 @@
           "us06web-zoom.space",
           "us06web-zoom.xyz",
           "us06web.zoomconnector.com",
+          "us06webzoom.us",
           "us06www-zoom.com",
           "us06www-zoom.us",
           "us07-web.us",
@@ -9341,10 +9353,12 @@
           "us07web-zoom.com",
           "us07web-zoom.live",
           "us07web.zoomconnector.com",
+          "us07webzoom.us",
           "us08web-zoom.cc",
           "us08web-zoom.online",
           "us08www-zoom.us",
           "us09web-zoom.live",
+          "us09webzoom.us",
           "us09www-zoom.us",
           "us10webzoom.us",
           "us11webzoom.us",
@@ -9365,6 +9379,7 @@
           "us27webzoom.us",
           "us28webzoom.us",
           "us29webzoom.us",
+          "us30webzoom.us",
           "us41webzoom.us",
           "us45webzoom.us",
           "us4web.us",
@@ -9393,7 +9408,14 @@
           "usweb08.us",
           "usweb09.us",
           "usweb5.us",
+          "ut01webzoom.us",
+          "ut02webzoom.us",
+          "ut03webzoom.us",
+          "ut04webzoom.us",
+          "ut05webzoom.us",
+          "ut06webzoom.us",
           "uu01webzoom.us",
+          "uu02webzoom.us",
           "uu03webzoom.us",
           "uv01webzoom.us",
           "uv02webzoom.us",
@@ -9573,7 +9595,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-01-26T20:57:25+02:00",
+        "last_modified": "2026-01-29T22:19:12+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -9712,11 +9734,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1125,
+          "domain": 1147,
           "ipv4": 14,
           "url": 3
         },
-        "total": 1142
+        "total": 1164
       }
     },
     "BLUEPRINT": {
@@ -132437,7 +132459,7 @@
         "aliases": [],
         "apt_group": "SKYCLOAK",
         "filename": "apt_skycloak.txt",
-        "last_modified": "2026-01-29T20:56:51+02:00",
+        "last_modified": "2026-01-29T22:24:56+02:00",
         "references": [
           "https://x.com/smica83/status/1982342773626880217",
           "https://x.com/PrakkiSathwik/status/1984324320731283614",
@@ -132447,7 +132469,8 @@
           "https://www.virustotal.com/gui/file/f44fa352c430d5f34462143daa726660be9d1bd0666ab2f3672df47adde55986/detection",
           "https://x.com/PrakkiSathwik/status/2016888288414724367",
           "https://www.virustotal.com/gui/file/1359c044951e16438251483290799b83da97af9f73dfd081a862b9edd94d512d/detection",
-          "https://x.com/PrakkiSathwik/status/2016888291275264519"
+          "https://x.com/PrakkiSathwik/status/2016888291275264519",
+          "https://www.virustotal.com/gui/file/1fbdb99357ace6d6db830c63850a6e8a4ea3607776c4668feb135f3ff0d95151/detection"
         ]
       },
       "statistics": {
