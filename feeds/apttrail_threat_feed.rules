@@ -4368,8 +4368,8 @@ alert dns any any -> any any (msg:"APT SIMBAA - Malicious Domain Activity"; dns.
 # APT Group: SKYCLOAK
 # ==================================================
 
-# SKYCLOAK - Domain Indicators (1 domains)
-alert dns any any -> any any (msg:"APT SKYCLOAK - Malicious Domain Activity"; dns.query; pcre:"/^(yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd\.onion)$/i"; classtype:trojan-activity; sid:9002362; rev:1; metadata:apt_group SKYCLOAK, chunk 1;)
+# SKYCLOAK - Domain Indicators (3 domains)
+alert dns any any -> any any (msg:"APT SKYCLOAK - Malicious Domain Activity"; dns.query; pcre:"/^(e3mnde5uyuxjoztup6t3m7nykbicexbzra76ucligwgsaez65w63y2ad\.onion|kvk46su7d2qi6g4n43syp4zbsf2rihnc6ztj77qtc2ojvewjqvqilnqd\.onion|yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd\.onion)$/i"; classtype:trojan-activity; sid:9002362; rev:1; metadata:apt_group SKYCLOAK, chunk 1;)
 
 # ==================================================
 # APT Group: SNOWMAN
