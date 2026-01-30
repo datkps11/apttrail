@@ -121978,6 +121978,7 @@
           "parkways.info",
           "pd35.b-cdn.net",
           "pd560.b-cdn.net",
+          "peeca.site",
           "petricgreen.info",
           "philionschat.com",
           "pieupdate.online",
@@ -122150,6 +122151,7 @@
           "webinstaller.online",
           "webmail-pitb-gov-pk.netlify.app",
           "webmails-authentication.tk",
+          "webmajic.org",
           "webworldreq.com",
           "weibo.nihaoucloud.org",
           "weixein.info",
@@ -122398,7 +122400,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2026-01-26T13:00:11+02:00",
+        "last_modified": "2026-01-30T08:51:17+02:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -122814,17 +122816,21 @@
           "https://www.virustotal.com/gui/file/79192cba1c7037e1fe15dbf50bb2b3a96e53a85fbcbd2ce229af0efacdcb73c7/detection",
           "https://x.com/malwrhunterteam/status/1999049247728291932",
           "https://www.virustotal.com/gui/file/5dc5de87fb868fb06e107a7695d7f002dfd31c51b9ef7e237c35973ce4716608/detection",
-          "https://x.com/__0XYC__/status/2005891200453136414"
+          "https://x.com/__0XYC__/status/2005891200453136414",
+          "https://x.com/RedDrip7/status/2017053456037806359",
+          "https://www.virustotal.com/gui/file/660ad610b7ab9d090274cea9cc5f149c665d7343dad8c133ae559b2321a14244/detection",
+          "https://www.virustotal.com/gui/file/1d534cc1f1bf100c5e55161302921335a0390ddb1614d17934d65a9d4741ce5c/detection",
+          "https://www.virustotal.com/gui/file/1cad2c004c9cabaaaf52bfa7ca76bb9d708e79d5ae1109be0bef7b36b9e002c1/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 627,
+          "domain": 629,
           "file_path": 79,
           "ipv4": 57,
           "url": 42
         },
-        "total": 805
+        "total": 807
       }
     },
     "PEEPINGTITLE": {
