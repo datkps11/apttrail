@@ -10486,12 +10486,13 @@ rule APT_SKYCLOAK
         tlp = "white"
 
     strings:
-        $domain0 = "e3mnde5uyuxjoztup6t3m7nykbicexbzra76ucligwgsaez65w63y2ad\.onion" ascii wide nocase
-        $domain1 = "kvk46su7d2qi6g4n43syp4zbsf2rihnc6ztj77qtc2ojvewjqvqilnqd\.onion" ascii wide nocase
-        $domain2 = "yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd\.onion" ascii wide nocase
+        $domain0 = "3xl6xhboulyuez6fuydyhj7pdvkshzn4ogsmgwbb3ukrkvgi6bcwvfyd\.onion" ascii wide nocase
+        $domain1 = "e3mnde5uyuxjoztup6t3m7nykbicexbzra76ucligwgsaez65w63y2ad\.onion" ascii wide nocase
+        $domain2 = "kvk46su7d2qi6g4n43syp4zbsf2rihnc6ztj77qtc2ojvewjqvqilnqd\.onion" ascii wide nocase
+        $domain3 = "yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd\.onion" ascii wide nocase
 
     condition:
-        any of ($domain*, $ip*, $url*)
+        2 of ($domain*, $ip*, $url*)
 }
 
 rule APT_SNOWMAN
