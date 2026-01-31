@@ -128776,6 +128776,7 @@
           "hilsa.online",
           "hinoms.com",
           "hisidewindersidewinder.pimec-paknavy.updates-installer.store",
+          "hit-deop-hasan7169004254-f24834bv.leapcell.dev",
           "hit-pk.org",
           "hit.gov.pk.81-cn.info",
           "hitpak.org",
@@ -129999,6 +130000,7 @@
           "org-co.net",
           "org-liv.net",
           "org.gov-co.org",
+          "org.hitpak.org",
           "orrwv.pmreco.xyz",
           "ortra.tech",
           "ostcone.site",
@@ -130862,6 +130864,7 @@
           "zero-berlin-covenant.apl-org.online",
           "zhuhai-a1rsh0w-reg1strat1i0n-2o24.netlify.app",
           "zimbra-com.up.railway.app",
+          "zimbra10-internationalrelation40-beep5751-brqupv53.leapcell.dev",
           "zimbra10-nml3wp-max8143-3ipio7e5.leapcell.dev",
           "zimbra10-nml3wp-max8143-fn1rsf7l.leapcell.dev",
           "ziptec.info",
@@ -130984,11 +130987,12 @@
           "babyelephant",
           "hardcore nationalist",
           "nh2",
-          "GroupA21"
+          "GroupA21",
+          "ghostchat"
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-01-23T20:30:47+02:00",
+        "last_modified": "2026-01-31T14:49:13+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -131942,6 +131946,7 @@
           "https://www.virustotal.com/gui/file/f2b22a17835034a17d4133cf46bd1339c793b5591822f11179bcbe88b04183c8/detection",
           "https://x.com/__0XYC__/status/1972166420403572852",
           "https://x.com/volrant136/status/1972184931284799492",
+          "https://www.welivesecurity.com/en/eset-research/love-actually-fake-dating-app-used-lure-targeted-spyware-campaign-pakistan/",
           "https://www.virustotal.com/gui/file/5e1cfa57771084629c2b08757f38d67f0ad28faa412090f1c6ef3fa0fd893bb3/detection",
           "https://www.virustotal.com/gui/file/e4aa98c1beee901871fd8a78b37b21ef886e507e65fc6499e3df3769081cd1cb/detection",
           "https://hunt.io/blog/operation-southnet-sidewinder-south-asia-maritime-phishing",
@@ -131997,17 +132002,19 @@
           "https://www.virustotal.com/gui/file/13c1a063409ad73e068604e4a5a605915d96d3c8e87e466bb49c6f41033d5909/detection",
           "https://x.com/malwrhunterteam/status/2013212998198796594",
           "https://www.virustotal.com/gui/file/590879c567c6d95b18b34e46e9830ba7b807279d76d83abc066f013d4b6f693e/detection",
-          "https://x.com/__0XYC__/status/2014705989681840232"
+          "https://x.com/__0XYC__/status/2014705989681840232",
+          "https://x.com/volrant136/status/2017258736906297545",
+          "https://x.com/volrant136/status/2017261324980687351"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3272,
+          "domain": 3275,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3364
+        "total": 3367
       }
     },
     "SILENCE": {
