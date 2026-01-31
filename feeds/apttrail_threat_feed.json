@@ -136748,6 +136748,7 @@
           "cloudserve.online",
           "cloudshare.digital",
           "cloudstore.cam",
+          "coadelhi.in",
           "comdtoscc.attachment.biz",
           "confidentialreports.info",
           "confirm-identity.net",
@@ -137764,6 +137765,7 @@
           "gov-csc.sbs",
           "gov-in.cloud",
           "gov-in.mywire.org",
+          "gov-service-in-default-rtdb.firebaseio.com",
           "gov.in-crs.info",
           "gov.in.8thpaycomission.cloud",
           "gov.in.aboutcase.nl",
@@ -138279,6 +138281,7 @@
           "govindia.in",
           "govn-in.site",
           "govnic.site",
+          "govs-services-in-default-rtdb.firebaseio.com",
           "govs.info",
           "govscholarships.in",
           "govsec.duckdns.org",
@@ -138302,6 +138305,9 @@
           "harassmentcases.info",
           "harassmentreports.info",
           "hbnzk.cfd",
+          "hciaccounts.in",
+          "hcidelhi.in",
+          "hcisupport.in",
           "hdesk.help",
           "hdrcare.help",
           "hdserv.help",
@@ -139708,6 +139714,7 @@
           "web.index.dobview.in",
           "web.index.sbmb.pro",
           "webbirt.shop",
+          "webdevurl-cc389-default-rtdb.firebaseio.com",
           "webiaf.link",
           "webl.info",
           "webmail.cocojojo-pet.com",
@@ -140762,7 +140769,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-01-26T20:32:22+02:00",
+        "last_modified": "2026-01-31T16:39:42+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -141842,17 +141849,18 @@
           "https://www.virustotal.com/gui/file/62319e21008852533e0a1e68e17e3d8e2fcb952998d64bc7fbe68cd975584148/detection",
           "https://www.virustotal.com/gui/file/65a2bbcbec3dc6248cd4847ff760ef30f6f0a43dac283978bc142224edca930f/detection",
           "https://www.virustotal.com/gui/file/1bbc2985d58873779982ca795fd89a1031f2e680d5597b19125bacc5583ddde4/detection",
-          "https://www.virustotal.com/gui/file/a0b8b1f27ec578fa5aab58bdfb19a2fe02eec063fd55e0013e7c7bd96124ac44/detection"
+          "https://www.virustotal.com/gui/file/a0b8b1f27ec578fa5aab58bdfb19a2fe02eec063fd55e0013e7c7bd96124ac44/detection",
+          "https://www.zscaler.com/blogs/security-research/apt-attacks-target-indian-government-using-sheetcreep-firepower-and"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3333,
+          "domain": 3340,
           "file_path": 40,
           "ipv4": 807,
           "url": 125
         },
-        "total": 4305
+        "total": 4312
       }
     },
     "TRIANGULATION": {
