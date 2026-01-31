@@ -9030,6 +9030,32 @@ rule APT_PREDATOR
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_PUNISHINGOWL
+{
+    meta:
+        description = "Detects IOCs associated with APT PUNISHINGOWL"
+        author = "APTtrail Automated Collection"
+        apt_group = "PUNISHINGOWL"
+        reference = "https://habr.com/ru/companies/pt/articles/990374/"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "acquerifec\.com" ascii wide nocase
+        $domain1 = "ayobabelan\.com" ascii wide nocase
+        $domain2 = "b0aweb0\.refec\.site" ascii wide nocase
+        $domain3 = "bloggoversikten\.com" ascii wide nocase
+        $domain4 = "outlook-d12\.zyns\.com" ascii wide nocase
+        $domain5 = "refec\.site" ascii wide nocase
+        $domain6 = "refreb0\.com" ascii wide nocase
+        $domain7 = "refreb1\.info" ascii wide nocase
+        $domain8 = "ws\.iferc\.com" ascii wide nocase
+        $ip9 = "95.174.65.218" ascii wide
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
+}
+
 rule APT_PURPLEHAZE
 {
     meta:
