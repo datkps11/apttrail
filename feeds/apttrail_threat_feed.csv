@@ -6002,6 +6002,8 @@ BLUENOROFF,domain,anobaka.info
 BLUENOROFF,domain,anobaka.jp
 BLUENOROFF,domain,antcapital.us
 BLUENOROFF,domain,api.betterfun.space
+BLUENOROFF,domain,api.clearit.sbs
+BLUENOROFF,domain,api.flashstore.sbs
 BLUENOROFF,domain,api.zerodev.pro
 BLUENOROFF,domain,api.zoom-sdk.com
 BLUENOROFF,domain,apizoom.myfanshu.com
@@ -6670,6 +6672,7 @@ BLUENOROFF,domain,support-google.us
 BLUENOROFF,domain,support-google.ws
 BLUENOROFF,domain,support-zoom.us
 BLUENOROFF,domain,support.ms-live.com
+BLUENOROFF,domain,support.ms-live.us
 BLUENOROFF,domain,support.ms-meet.live
 BLUENOROFF,domain,support.teams-live.org
 BLUENOROFF,domain,support.teams-live.us
@@ -99868,6 +99871,7 @@ LAZARUS,domain,syneritesystems.co.ke
 LAZARUS,domain,synternetlab.com
 LAZARUS,domain,sys.antiviruscheck.store
 LAZARUS,domain,sys.updatecheck.site
+LAZARUS,domain,system.updatecheck.store
 LAZARUS,domain,systemupdate.site
 LAZARUS,domain,systemupdate.store
 LAZARUS,domain,tableditermanaging.pro

@@ -8443,6 +8443,8 @@
           "anobaka.jp",
           "antcapital.us",
           "api.betterfun.space",
+          "api.clearit.sbs",
+          "api.flashstore.sbs",
           "api.zerodev.pro",
           "api.zoom-sdk.com",
           "apizoom.myfanshu.com",
@@ -9111,6 +9113,7 @@
           "support-google.ws",
           "support-zoom.us",
           "support.ms-live.com",
+          "support.ms-live.us",
           "support.ms-meet.live",
           "support.teams-live.org",
           "support.teams-live.us",
@@ -9595,7 +9598,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-01-29T22:19:12+02:00",
+        "last_modified": "2026-02-02T17:27:22+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -9734,11 +9737,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1147,
+          "domain": 1150,
           "ipv4": 14,
           "url": 3
         },
-        "total": 1164
+        "total": 1167
       }
     },
     "BLUEPRINT": {
@@ -111912,6 +111915,7 @@
           "synternetlab.com",
           "sys.antiviruscheck.store",
           "sys.updatecheck.site",
+          "system.updatecheck.store",
           "systemupdate.site",
           "systemupdate.store",
           "tableditermanaging.pro",
@@ -113598,7 +113602,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-02T16:25:31+02:00",
+        "last_modified": "2026-02-02T17:24:43+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -114746,12 +114750,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3415,
+          "domain": 3416,
           "file_path": 475,
           "ipv4": 484,
           "url": 102
         },
-        "total": 4476
+        "total": 4477
       }
     },
     "LAZYSCRIPTER": {
