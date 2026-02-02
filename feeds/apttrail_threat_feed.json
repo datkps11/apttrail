@@ -112051,6 +112051,7 @@
           "truthwillsetyoufree.online",
           "tsf8.com",
           "tskautomations.com",
+          "tsukan.online",
           "turacodi.com",
           "turkishmob.com",
           "twlekqnwl.naveicoipg.online",
@@ -113062,6 +113063,8 @@
           "146.70.41.188:1245",
           "147.124.197.138:1244",
           "147.124.197.149:1244",
+          "147.124.202.194:1244",
+          "147.124.202.194:3000",
           "147.124.202.225:1244",
           "147.124.212.125:1244",
           "147.124.212.146:1244",
@@ -113377,6 +113380,7 @@
           "86.104.72.247:443",
           "86.104.74.169:27017",
           "86.104.74.51:1224",
+          "87.236.177.9:3000",
           "88.119.169.226:5000",
           "88.204.166.59:8080",
           "88.218.0.78:1224",
@@ -113594,7 +113598,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-01-26T12:21:59+02:00",
+        "last_modified": "2026-02-02T16:25:31+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -114736,17 +114740,18 @@
           "https://www.virustotal.com/gui/file/60914b8df5b5d64070f71ef13817499b3a85de98433ae5c01bd235abec9464f6/detection",
           "https://www.virustotal.com/gui/file/6be45e165de60b61e9b7cb9e1f9b72c652c388a04c02d2068de6188cc88fc3fe/detection",
           "https://www.virustotal.com/gui/file/c226eb59cf696a85ed7134b57f12d82cb392d42b908dd6a463cd4d8c980ee5e8/detection",
-          "https://www.welivesecurity.com/en/eset-research/gotta-fly-lazarus-targets-uav-sector/"
+          "https://www.welivesecurity.com/en/eset-research/gotta-fly-lazarus-targets-uav-sector/",
+          "https://redasgard.com/blog/hunting-lazarus-part2-blockchain-dead-drop"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3414,
+          "domain": 3415,
           "file_path": 475,
-          "ipv4": 481,
+          "ipv4": 484,
           "url": 102
         },
-        "total": 4472
+        "total": 4476
       }
     },
     "LAZYSCRIPTER": {
