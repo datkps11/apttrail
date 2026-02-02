@@ -19463,6 +19463,7 @@
           "login-live-com.cf",
           "login-yah00-com.tk",
           "login-yahoo-com.ga",
+          "logsdope.info",
           "logupdates.xyz",
           "lovebirdsshop.club",
           "lovingallupdates.life",
@@ -20180,7 +20181,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2026-01-26T13:39:58+02:00",
+        "last_modified": "2026-02-02T13:50:32+02:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -20824,12 +20825,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 719,
+          "domain": 720,
           "file_path": 249,
           "ipv4": 47,
           "url": 4
         },
-        "total": 1019
+        "total": 1020
       }
     },
     "DOWNEX": {
