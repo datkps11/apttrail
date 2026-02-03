@@ -130862,6 +130862,7 @@
           "tni-mil.org",
           "tnial-mil.net",
           "tod.treasury.gov.lk.mofa-govbd.com",
+          "toepsai.tech",
           "tolera.live",
           "tonse.info",
           "torsey.xyz",
@@ -130959,6 +130960,7 @@
           "vpn.fia-gov.com",
           "vpn.pakgov.net",
           "vpn.tin-url.com",
+          "vpsaren.site",
           "vrms.bangladeshbaank-gov-bd.workers.dev",
           "vtray.tech",
           "wandering-pond-e7f4.foxiproxi.workers.dev",
@@ -131228,7 +131230,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-01-31T14:49:13+02:00",
+        "last_modified": "2026-02-03T22:58:20+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -132245,12 +132247,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3275,
+          "domain": 3277,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3367
+        "total": 3369
       }
     },
     "SILENCE": {
