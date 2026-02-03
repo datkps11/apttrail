@@ -9194,6 +9194,7 @@
           "ui04webzoom.us",
           "ui05webzoom.us",
           "ui06webzoom.us",
+          "ui07webzoom.us",
           "uk01webzoom.us",
           "uk02webzoom.us",
           "uk03webzoom.us",
@@ -9236,6 +9237,12 @@
           "uploadmyfile.space",
           "uploadmyfile.tech",
           "uploadsfiles.xyz",
+          "uq01webzoom.us",
+          "uq02webzoom.us",
+          "uq03webzoom.us",
+          "uq05webzoom.us",
+          "uq06webzoom.us",
+          "uq08webzoom.us",
           "ur01webzoom.us",
           "ur02webzoom.us",
           "ur03webzoom.us",
@@ -9383,6 +9390,7 @@
           "us28webzoom.us",
           "us29webzoom.us",
           "us30webzoom.us",
+          "us31webzoom.us",
           "us41webzoom.us",
           "us45webzoom.us",
           "us4web.us",
@@ -9395,7 +9403,13 @@
           "us60webzoom.us",
           "us72webzoom.us",
           "us81webzoom.us",
+          "usa01webzoom.us",
+          "usa02webzoom.us",
+          "usa05webzoom.us",
           "usecrowdpay.xyz",
+          "uso1webzoom.us",
+          "uso3webzoom.us",
+          "uso7webzoom.us",
           "uswe01.us",
           "uswe03.us",
           "uswe04.us",
@@ -9426,6 +9440,7 @@
           "uv04webzoom.us",
           "uv05webzoom.us",
           "uv06webzoom.us",
+          "uv07webzoom.us",
           "uw01webzoom.us",
           "uw02webzoom.us",
           "uw03webzoom.us",
@@ -9438,6 +9453,9 @@
           "ux04webzoom.us",
           "ux05webzoom.us",
           "ux06webzoom.us",
+          "uy01webzoom.us",
+          "uy02webzoom.us",
+          "uy04webzoom.us",
           "uz01webzoom.us",
           "uz02webzoom.us",
           "uz03webzoom.us",
@@ -9598,7 +9616,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-02-02T17:27:22+02:00",
+        "last_modified": "2026-02-03T21:27:00+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -9737,11 +9755,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1150,
+          "domain": 1168,
           "ipv4": 14,
           "url": 3
         },
-        "total": 1167
+        "total": 1185
       }
     },
     "BLUEPRINT": {
