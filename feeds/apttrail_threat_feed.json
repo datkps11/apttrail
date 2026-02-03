@@ -113140,6 +113140,7 @@
           "171.22.127.221:5000",
           "171.22.127.221:8000",
           "172.81.132.41:443",
+          "172.86.105.40:5918",
           "172.86.113.115:1244",
           "172.86.113.115:1245",
           "172.86.113.18:1224",
@@ -113243,6 +113244,7 @@
           "216.250.251.211:1244",
           "216.250.251.87:1244",
           "216.250.251.87:1245",
+          "216.250.251.87:1247",
           "216.250.251.87:1249",
           "216.250.251.87:3389",
           "216.74.123.191:22",
@@ -113365,6 +113367,8 @@
           "66.235.168.17:1245",
           "66.235.168.232:1244",
           "66.235.168.238:1244",
+          "66.235.168.238:22411",
+          "66.235.168.238:22413",
           "66.235.175.109:1244",
           "66.235.175.117:1244",
           "66.235.63.55:1244",
@@ -113407,6 +113411,7 @@
           "86.104.72.247:443",
           "86.104.74.169:27017",
           "86.104.74.51:1224",
+          "86.106.85.234:4558",
           "87.236.177.9:3000",
           "88.119.169.226:5000",
           "88.204.166.59:8080",
@@ -113625,7 +113630,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-02T17:24:43+02:00",
+        "last_modified": "2026-02-03T18:02:46+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -114768,17 +114773,18 @@
           "https://www.virustotal.com/gui/file/6be45e165de60b61e9b7cb9e1f9b72c652c388a04c02d2068de6188cc88fc3fe/detection",
           "https://www.virustotal.com/gui/file/c226eb59cf696a85ed7134b57f12d82cb392d42b908dd6a463cd4d8c980ee5e8/detection",
           "https://www.welivesecurity.com/en/eset-research/gotta-fly-lazarus-targets-uav-sector/",
-          "https://redasgard.com/blog/hunting-lazarus-part2-blockchain-dead-drop"
+          "https://redasgard.com/blog/hunting-lazarus-part2-blockchain-dead-drop",
+          "https://redasgard.com/blog/hunting-lazarus-part4-real-blood-on-the-wire"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 3416,
           "file_path": 475,
-          "ipv4": 484,
+          "ipv4": 489,
           "url": 102
         },
-        "total": 4477
+        "total": 4482
       }
     },
     "LAZYSCRIPTER": {
