@@ -115041,11 +115041,12 @@
       },
       "metadata": {
         "aliases": [
-          "chrysalis"
+          "chrysalis",
+          "warbird"
         ],
         "apt_group": "LOTUSBLOSSOM",
         "filename": "apt_lotusblossom.txt",
-        "last_modified": "2026-02-03T10:11:53+02:00",
+        "last_modified": "2026-02-03T10:49:52+02:00",
         "references": [
           "https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/reports/Unit_42/operation-lotus-blossom/unit42-operation-lotus-blossom.pdf",
           "https://www.accenture.com/t20180131T100734Z__w__/us-en/_acnmedia/PDF-46/Accenture-Security-Elise-Threat-Analysis.pdf",
@@ -132590,14 +132591,24 @@
           "3xl6xhboulyuez6fuydyhj7pdvkshzn4ogsmgwbb3ukrkvgi6bcwvfyd.onion",
           "e3mnde5uyuxjoztup6t3m7nykbicexbzra76ucligwgsaez65w63y2ad.onion",
           "kvk46su7d2qi6g4n43syp4zbsf2rihnc6ztj77qtc2ojvewjqvqilnqd.onion",
+          "q35x354qfx43klbx5wd2iw7272wrrhcvgwqqbwut44yiui2hw7cz7fyd.onion",
           "yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd.onion"
+        ],
+        "ipv4": [
+          "176.169.236.210:4431",
+          "188.116.26.254:23452",
+          "193.138.81.106:8443",
+          "74.208.183.104:8008",
+          "81.141.112.253:8080",
+          "91.208.206.67:9130",
+          "95.179.192.8:8080"
         ]
       },
       "metadata": {
         "aliases": [],
         "apt_group": "SKYCLOAK",
         "filename": "apt_skycloak.txt",
-        "last_modified": "2026-01-31T00:03:53+02:00",
+        "last_modified": "2026-02-03T11:22:46+02:00",
         "references": [
           "https://x.com/smica83/status/1982342773626880217",
           "https://x.com/PrakkiSathwik/status/1984324320731283614",
@@ -132610,14 +132621,16 @@
           "https://x.com/PrakkiSathwik/status/2016888291275264519",
           "https://www.virustotal.com/gui/file/1fbdb99357ace6d6db830c63850a6e8a4ea3607776c4668feb135f3ff0d95151/detection",
           "https://x.com/PrakkiSathwik/status/2017248214513320070",
-          "https://www.virustotal.com/gui/file/a79b5162f9a49df3db4f001325938b9dc7bdc471b71108ed178350c89252e3a5/detection"
+          "https://www.virustotal.com/gui/file/a79b5162f9a49df3db4f001325938b9dc7bdc471b71108ed178350c89252e3a5/detection",
+          "https://x.com/PrakkiSathwik/status/2016775145189429494"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 4
+          "domain": 5,
+          "ipv4": 7
         },
-        "total": 4
+        "total": 12
       }
     },
     "SNOWMAN": {
@@ -134361,7 +134374,7 @@
         ],
         "apt_group": "SOFACY",
         "filename": "apt_sofacy.txt",
-        "last_modified": "2026-02-02T11:45:31+02:00",
+        "last_modified": "2026-02-03T11:02:44+02:00",
         "references": [
           "https://www.alienvault.com/open-threat-exchange/blog/from-russia-with-love-sofacy-sednit-apt28-is-in-town",
           "http://permalink.gmane.org/gmane.comp.security.ids.snort.emerging-sigs/22170",
@@ -134643,6 +134656,9 @@
           "https://www.virustotal.com/gui/file/d6af1c9f5ce407e53ec73c8e7187ed804fb4f80cf8dbd6722fc69e15e135db2e/detection",
           "https://www.virustotal.com/gui/file/bdb33bbb4ea11884b15f67e5c974136e6294aa87459cdc276ac2eea85b1deaa3/detection",
           "https://www.kroll.com/en/publications/cyber/fancy-bear-gonepostal-espionage-tool-backdoor-access-microsoft-outlook",
+          "https://x.com/HaifeiLi/status/2018353377965723761",
+          "https://x.com/_CERT_UA/status/2018240505218314369",
+          "https://pub.expmon.com/analysis/311631/",
           "https://www.virustotal.com/gui/file/1ed863a32372160b3a25549aad25d48d5352d9b4f58d4339408c4eea69807f50/detection",
           "https://www.virustotal.com/gui/file/b2ba51b4491da8604ff9410d6e004971e3cd9a321390d0258e294ac42010b546/detection",
           "https://www.virustotal.com/gui/file/fed537aade989abe4eb76a7a27756e66861fe92322c4b359feca8e01b85b438b/detection",

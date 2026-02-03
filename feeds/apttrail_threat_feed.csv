@@ -114195,7 +114195,15 @@ SIMBAA,domain,firebasebox.com
 SKYCLOAK,domain,3xl6xhboulyuez6fuydyhj7pdvkshzn4ogsmgwbb3ukrkvgi6bcwvfyd.onion
 SKYCLOAK,domain,e3mnde5uyuxjoztup6t3m7nykbicexbzra76ucligwgsaez65w63y2ad.onion
 SKYCLOAK,domain,kvk46su7d2qi6g4n43syp4zbsf2rihnc6ztj77qtc2ojvewjqvqilnqd.onion
+SKYCLOAK,domain,q35x354qfx43klbx5wd2iw7272wrrhcvgwqqbwut44yiui2hw7cz7fyd.onion
 SKYCLOAK,domain,yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd.onion
+SKYCLOAK,ipv4,176.169.236.210:4431
+SKYCLOAK,ipv4,188.116.26.254:23452
+SKYCLOAK,ipv4,193.138.81.106:8443
+SKYCLOAK,ipv4,74.208.183.104:8008
+SKYCLOAK,ipv4,81.141.112.253:8080
+SKYCLOAK,ipv4,91.208.206.67:9130
+SKYCLOAK,ipv4,95.179.192.8:8080
 SNOWMAN,domain,ali.blankchair.com
 SNOWMAN,domain,book.flnet.org
 SNOWMAN,domain,cht.blankchair.com
