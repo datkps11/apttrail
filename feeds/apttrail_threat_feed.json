@@ -115149,11 +115149,12 @@
       "metadata": {
         "aliases": [
           "chrysalis",
-          "warbird"
+          "warbird",
+          "hacked notepad++"
         ],
         "apt_group": "LOTUSBLOSSOM",
         "filename": "apt_lotusblossom.txt",
-        "last_modified": "2026-02-03T17:17:22+02:00",
+        "last_modified": "2026-02-04T12:22:11+02:00",
         "references": [
           "https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/reports/Unit_42/operation-lotus-blossom/unit42-operation-lotus-blossom.pdf",
           "https://www.accenture.com/t20180131T100734Z__w__/us-en/_acnmedia/PDF-46/Accenture-Security-Elise-Threat-Analysis.pdf",

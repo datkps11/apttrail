@@ -6715,7 +6715,7 @@ rule APT_LOTUSBLOSSOM
         description = "Detects IOCs associated with APT LOTUSBLOSSOM"
         author = "APTtrail Automated Collection"
         apt_group = "LOTUSBLOSSOM"
-        aliases = "chrysalis, warbird"
+        aliases = "chrysalis, hacked notepad++, warbird"
         reference = "https://notepad-plus-plus.org/news/hijacked-incident-info-update/"
         severity = "high"
         tlp = "white"

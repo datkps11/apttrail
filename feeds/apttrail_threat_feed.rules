@@ -3103,7 +3103,7 @@ alert dns any any -> any any (msg:"APT LONGNOSEDGOBLIN - Malicious Domain Activi
 
 # ==================================================
 # APT Group: LOTUSBLOSSOM
-# Aliases: chrysalis, warbird
+# Aliases: chrysalis, warbird, hacked notepad++
 # ==================================================
 
 # LOTUSBLOSSOM - Domain Indicators (50 domains)
