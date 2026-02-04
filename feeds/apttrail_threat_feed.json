@@ -146194,6 +146194,7 @@
           "login.wonderbackup.com",
           "loki2.linkpc.net",
           "loldevs.com",
+          "longsauce.com",
           "lost-olympic.tokyo",
           "lov3black.no-ip.biz",
           "lragir.org",
@@ -147042,7 +147043,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2026-01-27T22:16:34+02:00",
+        "last_modified": "2026-02-04T18:05:15+02:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -147490,17 +147491,19 @@
           "https://www.virustotal.com/gui/file/f817f65edbc77f7bbdd6e4f469e82c0e770b7e221bdb348f366a475a8a39242b/detection",
           "https://www.virustotal.com/gui/file/63f6c85fc16b346cc3f18da9380aee6ffbb3e735863e2e8f118f38737e0d1348/detection",
           "https://x.com/suyog41/status/2016126098384593287",
-          "https://www.virustotal.com/gui/file/2477bbf0ab3f0c9db73fcb2f5f9dfe8cf6703a88862a7c98a5de6f349cd8833f/detection"
+          "https://www.virustotal.com/gui/file/2477bbf0ab3f0c9db73fcb2f5f9dfe8cf6703a88862a7c98a5de6f349cd8833f/detection",
+          "https://x.com/smica83/status/2018659460261318958",
+          "https://www.virustotal.com/gui/file/be859b4f4576ec09b69a2ef2d119939f7eb31de121aa01d38e1f0b2290f5a15e/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1205,
+          "domain": 1206,
           "file_path": 77,
           "ipv4": 117,
           "url": 56
         },
-        "total": 1455
+        "total": 1456
       }
     },
     "USH": {
