@@ -80617,6 +80617,7 @@
           "auxiliatos.ru",
           "auxza.ru",
           "awesome-average-atomic-cloud.trycloudflare.com",
+          "awokent5.ease.workers.dev",
           "axxribute-homework-generator-lovers.trycloudflare.com",
           "ayarimar.ru",
           "aychobanpo.ru",
@@ -80685,6 +80686,7 @@
           "bc02ea93cb6ba20ae124cbff0cecd045.balduron.ru",
           "bdhu.royalpo.ru",
           "bdslmtlqh.bronzevere.workers.dev",
+          "be42.khlgj68234.workers.dev",
           "belly-thriller-chief-your.trycloudflare.com",
           "belongs-tells-sum-harvest.trycloudflare.com",
           "benjamin-unnecessary-mot-configured.trycloudflare.com",
@@ -82838,6 +82840,7 @@
           "each95.kyanango.shop",
           "each99.iuppitertos.ru",
           "earsplitting.ru",
+          "ease.workers.dev",
           "echappes.ru",
           "eddie-lewis-exercises-conventions.trycloudflare.com",
           "edmmzqo.ic0n1cvalley.com",
@@ -83897,6 +83900,7 @@
           "info.xenophorm.ru",
           "infohack.aytashpo.ru",
           "innocentmillions.ru",
+          "inquiries.workers.dev",
           "integer24.samiseto.ru",
           "integral.low100.gayado.ru",
           "integral.low19.gayado.ru",
@@ -84013,6 +84017,7 @@
           "kemoziripa.ru",
           "keymnvatipa.ru",
           "khersonambulance.online",
+          "khlgj68234.workers.dev",
           "khycpsgbu.previoussusanna.workers.dev",
           "kia-court.serveirc.com",
           "kiliq.ru",
@@ -84405,6 +84410,7 @@
           "mitrala.ru",
           "mitrala.rudim71.mitrala.ru",
           "mitralos.ru",
+          "mobx2i.inquiries.workers.dev",
           "mohsenpo.ru",
           "mojavebo.ru",
           "molecular-throw-process-dealtime.trycloudflare.com",
@@ -87468,7 +87474,7 @@
         ],
         "apt_group": "GAMAREDON-1",
         "filename": "apt_gamaredon-1.txt",
-        "last_modified": "2026-01-16T16:20:23+02:00",
+        "last_modified": "2026-02-04T17:23:44+02:00",
         "references": [
           "https://www.virustotal.com/gui/ip-address/168.100.10.184/relations",
           "https://www.virustotal.com/gui/ip-address/162.33.178.84/relations",
@@ -88763,17 +88769,19 @@
           "https://tria.ge/251125-17gczaak31/behavioral2",
           "https://tria.ge/251202-py8v3swjap/behavioral2",
           "https://www.virustotal.com/gui/ip-address/212.193.20.110/relations",
-          "https://www.virustotal.com/gui/ip-address/144.172.96.59/relations"
+          "https://www.virustotal.com/gui/ip-address/144.172.96.59/relations",
+          "https://x.com/smica83/status/2019029651260399710",
+          "https://www.virustotal.com/gui/file/c759e9d24a0ab4ddd73317ffa466d93ced1f6a8699e75dc1dd59f72c0a957aa2/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 9986,
+          "domain": 9992,
           "file_path": 353,
           "ipv4": 5,
           "url": 186
         },
-        "total": 10530
+        "total": 10536
       }
     },
     "GAZA": {
