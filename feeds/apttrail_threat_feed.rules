@@ -708,8 +708,8 @@ alert dns any any -> any any (msg:"APT BOOKWORM - Malicious Domain Activity"; dn
 # Aliases: brockendoor, black owl, hoody hyena, lifting zmiy, zeronetkit
 # ==================================================
 
-# BOTEAM - Domain Indicators (8 domains)
-alert dns any any -> any any (msg:"APT BOTEAM - Malicious Domain Activity"; dns.query; pcre:"/^(easybussy\.space|icecoldwind\.online|invuln\.xyz|lizzardsnails\.online|mgutu-vf\.ru|railradman\.site|urbantvpn\.online|wholewell\.online)$/i"; classtype:trojan-activity; sid:9000365; rev:1; metadata:apt_group BOTEAM, chunk 1;)
+# BOTEAM - Domain Indicators (10 domains)
+alert dns any any -> any any (msg:"APT BOTEAM - Malicious Domain Activity"; dns.query; pcre:"/^(easybussy\.space|icecoldwind\.online|invuln\.xyz|lizzardsnails\.online|mgutu-vf\.ru|railradman\.site|tributarieshand\.online|urbantvpn\.online|wholewell\.online|yandecx\.site)$/i"; classtype:trojan-activity; sid:9000365; rev:1; metadata:apt_group BOTEAM, chunk 1;)
 
 # BOTEAM - IPv4 Indicators (2 IPs)
 alert ip any any -> [213.165.60.118,213.165.60.118] any (msg:"APT BOTEAM - Traffic to Malicious IPs"; threshold:type limit, track by_src, count 1, seconds 3600; classtype:trojan-activity; sid:9000366; rev:1; metadata:apt_group BOTEAM, chunk 1;)

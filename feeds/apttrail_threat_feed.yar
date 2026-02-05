@@ -1803,7 +1803,7 @@ rule APT_BOTEAM
         author = "APTtrail Automated Collection"
         apt_group = "BOTEAM"
         aliases = "black owl, brockendoor, hoody hyena"
-        reference = "https://securelist.ru/bo-team-upgrades-brockendoor-and-zeronetkit-backdoors/113536"
+        reference = "https://github.com/t3ft3lb/2026-100DaysofYARA/blob/main/day_36.yara"
         severity = "high"
         tlp = "white"
 
@@ -1814,10 +1814,12 @@ rule APT_BOTEAM
         $domain3 = "lizzardsnails\.online" ascii wide nocase
         $domain4 = "mgutu-vf\.ru" ascii wide nocase
         $domain5 = "railradman\.site" ascii wide nocase
-        $domain6 = "urbantvpn\.online" ascii wide nocase
-        $domain7 = "wholewell\.online" ascii wide nocase
-        $ip8 = "213.165.60.118" ascii wide
-        $ip9 = "213.165.60.118" ascii wide
+        $domain6 = "tributarieshand\.online" ascii wide nocase
+        $domain7 = "urbantvpn\.online" ascii wide nocase
+        $domain8 = "wholewell\.online" ascii wide nocase
+        $domain9 = "yandecx\.site" ascii wide nocase
+        $ip10 = "213.165.60.118" ascii wide
+        $ip11 = "213.165.60.118" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
