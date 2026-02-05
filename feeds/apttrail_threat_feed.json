@@ -6987,6 +6987,7 @@
           "pentree.online",
           "pflix.camdvr.org",
           "pichostfrm.net",
+          "pinkrosesandmore.com",
           "play-protect.com",
           "play.google.com.whatsapp.playapps.ga",
           "playapps.ga",
@@ -6998,6 +6999,7 @@
           "premierinvestmentfund.com",
           "princecleanit.com",
           "procarcaresvc.com",
+          "prolukemarion.com",
           "qdey4uvj.mediumblog.online",
           "quartzu.hol.es",
           "qwavemediaservice.net",
@@ -7165,6 +7167,7 @@
           "/VcvNbtgRrPopqSD/SzWvcxuer/userlog.php",
           "/WORK/info.php?cve=",
           "/WVKA/qbv.php",
+          "/ceszvd.php",
           "/cloudzx/msweb/drdxcsv34.php",
           "/cloudzx/msweb/drxbds23.php",
           "/cloudzx/msweb/drxcvg45.php",
@@ -7214,6 +7217,7 @@
           "/updateReqServ10893x.php",
           "/uplh4ppy.php",
           "/v10.066/egrf.php",
+          "/vbdfsbad.php",
           "/wipe/ret.php?eer=",
           "/wmis/wave.php?xas=",
           "/zserr.php",
@@ -7345,7 +7349,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-01-28T20:33:55+02:00",
+        "last_modified": "2026-02-05T10:43:38+02:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -7900,17 +7904,20 @@
           "https://www.virustotal.com/gui/file/6d92924ff3a1de18fe715c2e7432ee3db912696135f78b7627440ace6f94ecfa/detection",
           "https://www.virustotal.com/gui/file/d597c488b73cde0938b464f93ed9eebf24e1ac4a885b1f41a8875aeb9272b664/detection",
           "https://x.com/RedDrip7/status/2016415763633242298",
-          "https://www.virustotal.com/gui/file/836c8fb1ff998d3b94b4800aca7b17675893fe87a39b658000a776c5b3fe852c/detection"
+          "https://www.virustotal.com/gui/file/836c8fb1ff998d3b94b4800aca7b17675893fe87a39b658000a776c5b3fe852c/detection",
+          "https://x.com/RedDrip7/status/2019243120131805198",
+          "https://www.virustotal.com/gui/file/941011523ce613d6729e83febc1de7d3f907e116a29257f24610133e0a83d2a9/detection",
+          "https://www.virustotal.com/gui/file/28b586cf4f84eeb6ced3e5b40451e0075b6b0250ab7936a1147f6858b217fae1/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 448,
-          "file_path": 78,
+          "domain": 450,
+          "file_path": 80,
           "ipv4": 73,
           "url": 18
         },
-        "total": 617
+        "total": 621
       }
     },
     "BLACKGEAR": {
