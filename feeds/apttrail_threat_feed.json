@@ -9011,6 +9011,7 @@
           "protectoffice.club",
           "protectsh.online",
           "provemail.net",
+          "prvservice.com",
           "pvset.itsaol.com",
           "qooqle.download",
           "qoqle.online",
@@ -9071,6 +9072,7 @@
           "sendmailer.org",
           "sendspace.buzz",
           "sevicebill.itemdb.com",
+          "sevrrhst.com",
           "sg05web.us",
           "share.anobaka.info",
           "share.bloomcloud.org",
@@ -9114,6 +9116,7 @@
           "star-bucks.life",
           "starbucksevent.pics",
           "static.cdnkit.io",
+          "stomcs.com",
           "sts.interalliancemediagroups.cloud",
           "suport.ms-live.com",
           "support-gmeet.com",
@@ -9138,6 +9141,7 @@
           "system-update.xyz",
           "systemupdate.cloud",
           "tastebuds.buzz",
+          "tattomc.com",
           "team-live.us.com",
           "team-meets.cloud",
           "team-meets.online",
@@ -9626,7 +9630,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-02-03T21:27:00+02:00",
+        "last_modified": "2026-02-06T18:03:20+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -9760,16 +9764,21 @@
           "https://www.virustotal.com/gui/file/2fbd34eed9dbf57a44cf1540941fb43a793be27e13e937299167b2b67cb84d6b/detection",
           "https://x.com/TMJ0x/status/2014582284125421571",
           "https://www.virustotal.com/gui/ip-address/188.227.196.252/relations",
-          "https://www.virustotal.com/gui/ip-address/188.227.197.32/relations"
+          "https://www.virustotal.com/gui/ip-address/188.227.197.32/relations",
+          "https://x.com/malwrhunterteam/status/2014611676042039493",
+          "https://x.com/L0Psec/status/2014695975789691342",
+          "https://x.com/L0Psec/status/2019773636647768330",
+          "https://www.virustotal.com/gui/file/952d0a1bf4a8e474ad043258e238d47753a5bb8ca138ed79d11e4cbd555d5fec/detection",
+          "https://www.virustotal.com/gui/file/3e4d35903c51db3da8d4bd77491b5c181b7361aaf152609d03a1e2bb86faee43/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1168,
+          "domain": 1172,
           "ipv4": 14,
           "url": 3
         },
-        "total": 1185
+        "total": 1189
       }
     },
     "BLUEPRINT": {
