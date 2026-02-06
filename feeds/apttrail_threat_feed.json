@@ -3416,6 +3416,7 @@
           "91newai.com",
           "a.linuxupdate.info",
           "accounts.longmusic.com",
+          "ad.scgawj.com",
           "admin.netbill.pk",
           "adobe-cdn.org",
           "aejava.ddns.net",
@@ -6114,7 +6115,7 @@
         ],
         "apt_group": "BARIUM",
         "filename": "apt_barium.txt",
-        "last_modified": "2026-01-08T22:08:32+02:00",
+        "last_modified": "2026-02-06T12:49:57+02:00",
         "references": [
           "https://securelist.com/operation-shadowhammer/89992/",
           "https://twitter.com/ydklijnsma/status/1110220766778286080",
@@ -6288,17 +6289,19 @@
           "https://cloud.google.com/blog/topics/threat-intelligence/apt41-innovative-tactics",
           "https://asec.ahnlab.com/en/91166/",
           "https://hunt.io/blog/tracking-shadowpad-infrastructure-via-non-standard-certificates",
-          "https://www.virustotal.com/gui/file/e9bb6609ffe43c5c9a1617818097568a7e873aa1499d9f5e05c2c6c5ac8cb962/detection"
+          "https://www.virustotal.com/gui/file/e9bb6609ffe43c5c9a1617818097568a7e873aa1499d9f5e05c2c6c5ac8cb962/detection",
+          "https://blog.talosintelligence.com/knife-cutting-the-edge/",
+          "https://github.com/Cisco-Talos/IOCs/blob/main/2026/02/knife-cutting-the-edge.txt"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 448,
+          "domain": 449,
           "file_path": 1,
           "ipv4": 2045,
           "url": 185
         },
-        "total": 2679
+        "total": 2680
       }
     },
     "BATSHADOW": {
