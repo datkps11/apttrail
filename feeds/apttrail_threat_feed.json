@@ -133607,6 +133607,7 @@
           "loginpaypaas-securityuserid.ga",
           "loginservice-maintanceserversecurity.gq",
           "lonejade.com",
+          "longsauce.com",
           "lopback.com",
           "loqin-microsoftonline.com",
           "loqin-yandex.ru",
@@ -134585,7 +134586,7 @@
         ],
         "apt_group": "SOFACY",
         "filename": "apt_sofacy.txt",
-        "last_modified": "2026-02-03T14:39:18+02:00",
+        "last_modified": "2026-02-06T21:13:14+02:00",
         "references": [
           "https://www.alienvault.com/open-threat-exchange/blog/from-russia-with-love-sofacy-sednit-apt28-is-in-town",
           "http://permalink.gmane.org/gmane.comp.security.ids.snort.emerging-sigs/22170",
@@ -134878,17 +134879,19 @@
           "https://www.virustotal.com/gui/file/c91183175ce77360006f964841eb4048cf37cb82103f2573e262927be4c7607f/detection",
           "https://www.virustotal.com/gui/file/969d2776df0674a1cca0f74c2fccbc43802b4f2b62ecccecc26ed538e9565eae/detection",
           "https://www.virustotal.com/gui/file/c9b3ef44640e0fe297d76e770454ee2597e474f5d0cb406e376da8d504db0117/detection",
-          "https://www.virustotal.com/gui/file/fd3f13db41cd5b442fa26ba8bc0e9703ed243b3516374e3ef89be71cbf07436b/detection"
+          "https://www.virustotal.com/gui/file/fd3f13db41cd5b442fa26ba8bc0e9703ed243b3516374e3ef89be71cbf07436b/detection",
+          "https://x.com/smica83/status/2018659460261318958",
+          "https://www.virustotal.com/gui/file/be859b4f4576ec09b69a2ef2d119939f7eb31de121aa01d38e1f0b2290f5a15e/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1402,
+          "domain": 1403,
           "file_path": 78,
           "ipv4": 55,
           "url": 68
         },
-        "total": 1603
+        "total": 1604
       }
     },
     "SPACEPIRATES": {
@@ -146344,7 +146347,6 @@
           "login.wonderbackup.com",
           "loki2.linkpc.net",
           "loldevs.com",
-          "longsauce.com",
           "lost-olympic.tokyo",
           "lov3black.no-ip.biz",
           "lragir.org",
@@ -147193,7 +147195,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2026-02-04T18:05:15+02:00",
+        "last_modified": "2026-02-06T21:12:51+02:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -147641,19 +147643,17 @@
           "https://www.virustotal.com/gui/file/f817f65edbc77f7bbdd6e4f469e82c0e770b7e221bdb348f366a475a8a39242b/detection",
           "https://www.virustotal.com/gui/file/63f6c85fc16b346cc3f18da9380aee6ffbb3e735863e2e8f118f38737e0d1348/detection",
           "https://x.com/suyog41/status/2016126098384593287",
-          "https://www.virustotal.com/gui/file/2477bbf0ab3f0c9db73fcb2f5f9dfe8cf6703a88862a7c98a5de6f349cd8833f/detection",
-          "https://x.com/smica83/status/2018659460261318958",
-          "https://www.virustotal.com/gui/file/be859b4f4576ec09b69a2ef2d119939f7eb31de121aa01d38e1f0b2290f5a15e/detection"
+          "https://www.virustotal.com/gui/file/2477bbf0ab3f0c9db73fcb2f5f9dfe8cf6703a88862a7c98a5de6f349cd8833f/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1206,
+          "domain": 1205,
           "file_path": 77,
           "ipv4": 117,
           "url": 56
         },
-        "total": 1456
+        "total": 1455
       }
     },
     "USH": {
