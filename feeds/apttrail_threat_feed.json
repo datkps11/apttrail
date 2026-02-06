@@ -136127,6 +136127,67 @@
         "total": 18
       }
     },
+    "THEWIZARDS": {
+      "indicators": {
+        "domain": [
+          "assetsqq.com",
+          "mkdmcdn.com",
+          "ssl-dns.com",
+          "vv.ssl-dns.com"
+        ],
+        "ipv4": [
+          "110.185.104.180:8000",
+          "117.175.185.81:8003",
+          "43.132.205.118:81",
+          "43.155.62.54:81",
+          "47.238.107.83:81",
+          "47.93.54.134:8001",
+          "47.93.54.134:8003",
+          "47.93.54.134:8005",
+          "49.89.41.187:8001",
+          "49.89.41.187:8002",
+          "49.89.41.187:8003",
+          "89.195.5.18:4553"
+        ],
+        "url": [
+          "http://110.92.64.117",
+          "http://110.92.64.17",
+          "http://117.175.185.81",
+          "http://210.56.49.72",
+          "http://43.132.105.118",
+          "http://43.155.62.54",
+          "http://47.93.54.134",
+          "http://49.89.41.187",
+          "http://60.205.148.180",
+          "http://61.139.76.99"
+        ]
+      },
+      "metadata": {
+        "aliases": [
+          "darknights",
+          "dknife",
+          "spellbinder",
+          "wizardnet"
+        ],
+        "apt_group": "THEWIZARDS",
+        "filename": "apt_thewizards.txt",
+        "last_modified": "2026-02-06T15:00:56+02:00",
+        "references": [
+          "https://www.welivesecurity.com/en/eset-research/thewizards-apt-group-slaac-spoofing-adversary-in-the-middle-attacks/",
+          "https://blog.talosintelligence.com/knife-cutting-the-edge/",
+          "https://github.com/eset/malware-ioc/tree/master/thewizards",
+          "https://github.com/Cisco-Talos/IOCs/blob/main/2026/02/knife-cutting-the-edge.txt"
+        ]
+      },
+      "statistics": {
+        "by_type": {
+          "domain": 4,
+          "ipv4": 12,
+          "url": 10
+        },
+        "total": 26
+      }
+    },
     "TIBET": {
       "indicators": {
         "domain": [
@@ -148706,5 +148767,5 @@
     }
   },
   "source": "Maltrail APT Indicators",
-  "total_apt_groups": 332
+  "total_apt_groups": 333
 }

@@ -11464,6 +11464,39 @@ rule APT_TENGYUNSNAKE
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_THEWIZARDS
+{
+    meta:
+        description = "Detects IOCs associated with APT THEWIZARDS"
+        author = "APTtrail Automated Collection"
+        apt_group = "THEWIZARDS"
+        aliases = "darknights, dknife, spellbinder"
+        reference = "https://blog.talosintelligence.com/knife-cutting-the-edge/"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "assetsqq\.com" ascii wide nocase
+        $domain1 = "mkdmcdn\.com" ascii wide nocase
+        $domain2 = "ssl-dns\.com" ascii wide nocase
+        $domain3 = "vv\.ssl-dns\.com" ascii wide nocase
+        $ip4 = "110.185.104.180" ascii wide
+        $ip5 = "117.175.185.81" ascii wide
+        $ip6 = "43.132.205.118" ascii wide
+        $ip7 = "43.155.62.54" ascii wide
+        $ip8 = "47.238.107.83" ascii wide
+        $ip9 = "47.93.54.134" ascii wide
+        $ip10 = "47.93.54.134" ascii wide
+        $ip11 = "47.93.54.134" ascii wide
+        $ip12 = "49.89.41.187" ascii wide
+        $ip13 = "49.89.41.187" ascii wide
+        $ip14 = "49.89.41.187" ascii wide
+        $ip15 = "89.195.5.18" ascii wide
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
+}
+
 rule APT_TIBET
 {
     meta:
