@@ -113725,7 +113725,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-03T18:02:46+02:00",
+        "last_modified": "2026-02-06T10:38:21+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -114869,7 +114869,8 @@
           "https://www.virustotal.com/gui/file/c226eb59cf696a85ed7134b57f12d82cb392d42b908dd6a463cd4d8c980ee5e8/detection",
           "https://www.welivesecurity.com/en/eset-research/gotta-fly-lazarus-targets-uav-sector/",
           "https://redasgard.com/blog/hunting-lazarus-part2-blockchain-dead-drop",
-          "https://redasgard.com/blog/hunting-lazarus-part4-real-blood-on-the-wire"
+          "https://redasgard.com/blog/hunting-lazarus-part4-real-blood-on-the-wire",
+          "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-02-04-IOCs-for-December-2025-Contagious-Interview-activity.txt"
         ]
       },
       "statistics": {
