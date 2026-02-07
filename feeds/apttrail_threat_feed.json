@@ -91015,6 +91015,7 @@
           "secup.soon.it",
           "short-name.com",
           "short-url20.com",
+          "ttdl3.dynu.net",
           "update.info.gf",
           "updatebox4.com",
           "updateserver1.com",
@@ -91040,7 +91041,7 @@
         ],
         "apt_group": "INFY",
         "filename": "apt_infy.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-02-07T21:08:09+02:00",
         "references": [
           "https://malpedia.caad.fkie.fraunhofer.de/details/win.infy",
           "https://unit42.paloaltonetworks.com/prince-of-persia-infy-malware-active-in-decade-of-targeted-attacks/",
@@ -91050,14 +91051,16 @@
           "https://www.virustotal.com/gui/file/a64edb19e71549fb9248b27b58f911a4a1e8cd8b8e4adff93ecfb7e15a3cdad7/detection",
           "https://www.virustotal.com/gui/file/f535b46ad2452d61282f615faf35993e83b6c56c9533bf22c12f97f318242e06/detection",
           "https://twitter.com/ShadowChasing1/status/1339190981703266304",
-          "https://www.virustotal.com/gui/file/f6bb93dda74c0de2032963e2804cacb47128603070fe04c372f86e69fa8ce47c/detection"
+          "https://www.virustotal.com/gui/file/f6bb93dda74c0de2032963e2804cacb47128603070fe04c372f86e69fa8ce47c/detection",
+          "https://www.safebreach.com/blog/prince-of-persia-a-decade-of-an-iranian-nation-state-apt-campaign-activity/",
+          "https://www.safebreach.com/blog/prince-of-persia-part-ii/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 262
+          "domain": 263
         },
-        "total": 262
+        "total": 263
       }
     },
     "INNAPUT": {
@@ -129309,6 +129312,7 @@
           "mail-bafmilbd.myvnc.com",
           "mail-bafmilbd.servequake.com",
           "mail-bcc-gov-bd-7j5la.bunny.run",
+          "mail-bcc-gov-bd-condepakuregoda4533-fxr7ofbc.leapcell.dev",
           "mail-bccgov.gotdns.ch",
           "mail-bccnetdd.ddns.net",
           "mail-bof-gov-bd-cas-visit.netlify.app",
@@ -131327,7 +131331,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-02-06T15:11:20+02:00",
+        "last_modified": "2026-02-07T20:57:04+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -132340,17 +132344,18 @@
           "https://x.com/__0XYC__/status/2014705989681840232",
           "https://x.com/volrant136/status/2017258736906297545",
           "https://x.com/volrant136/status/2017261324980687351",
-          "https://x.com/__0XYC__/status/2019617829784547463"
+          "https://x.com/__0XYC__/status/2019617829784547463",
+          "https://x.com/volrant136/status/2020180803012161568"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3336,
+          "domain": 3337,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3428
+        "total": 3429
       }
     },
     "SILENCE": {
