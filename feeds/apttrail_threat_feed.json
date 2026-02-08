@@ -128175,6 +128175,7 @@
           "berec.live",
           "bgb.gov.bd.mofa-govtpk.net",
           "bgevin.live",
+          "bgmea-com-bd.loadpath.net",
           "bgmea.com.bd.mail-pk.org",
           "biaa-org-bd.cdn-dl.cn",
           "biaa-org.cdn-dl.cn",
@@ -128524,6 +128525,7 @@
           "demo.grabfiles.org",
           "demsflygerxamy.com",
           "density.meplor.xyz",
+          "depo-gov-pk.loadpath.net",
           "depo-govpk.com",
           "depo.govpk.me",
           "deputy.meplor.xyz",
@@ -128880,6 +128882,7 @@
           "fyujv.bol-north.com",
           "g0v-pk.net",
           "g0vt.pk",
+          "g20-org-za.loadpath.net",
           "gateway.ceair.com.81-cn.info",
           "gavaf.org",
           "gavnp.org",
@@ -129214,6 +129217,7 @@
           "kaleido.moe",
           "kalpo.xyz",
           "karachishipyard.krlwin.org",
+          "kashmirawareness.loadpath.net",
           "kat0x.net",
           "kavach.mailnic.info",
           "kdf-mail.com",
@@ -129291,6 +129295,7 @@
           "lms.update.fia-gov.org",
           "lnkly.net",
           "loadpath.info",
+          "loadpath.net",
           "loasem.live",
           "loasen.xyz",
           "locaal.navybd-gov.info",
@@ -129829,6 +129834,7 @@
           "moe.gov.cn.81-cn.info",
           "moef.gov.bd.pk-mail.org",
           "moemaldives.pmd-office.com",
+          "mof-gov-bd.loadpath.net",
           "mof-gov-bd.nic-svc.net",
           "mof-gov-np.dwnlld.info",
           "mof-govn.online",
@@ -129844,6 +129850,7 @@
           "mof-newbuedget25-jz.zeabur.app",
           "mof-newbuedget25-rk.zeabur.app",
           "mof-portal-gov-bd.downnload.org",
+          "mof-portal-gov-bd.loadpath.net",
           "mof.gov.np.mail-pk.org",
           "mof.gov.np.pk-mail.org",
           "mof.pk-govt.net",
@@ -130064,6 +130071,7 @@
           "mos-gov-bd.snagdrive.com",
           "mos.gov.bd.pk-mail.org",
           "moto.dirctt88.co",
+          "mowr-gov-pk.loadpath.net",
           "mowr.gov.pk.mail-pk.org",
           "mozilla.apl-org.online",
           "mpnr.govpk.me",
@@ -130673,6 +130681,7 @@
           "pubad-gov-lk.filenest.live",
           "pubad-gov-lk.grabfiles.net",
           "pubad-gov-lk.live-co.org",
+          "pubad-gov-lk.loadpath.net",
           "pubad-gov-lk.net-src.info",
           "pubad-gov-lk.org-co.net",
           "pubad-gov-lk.org-liv.net",
@@ -131176,8 +131185,11 @@
           "www-erd-gov-lk.downld.org",
           "www-erd-gov-lk.dwnlld.info",
           "www-erd-gov-lk.nic-svc.net",
+          "www-finance-gov-pk.fetchdrive.org",
           "www-finance-gov-pk.grabfiles.net",
+          "www-finance-gov-pk.loadpath.net",
           "www-foreignaffairs-nepal-com.netlify.app",
+          "www-kashmirawareness-org.loadpath.net",
           "www-mof-gov-np.mail-govt.com",
           "www-moha-gov-lk.direct888.net",
           "www-mopa-gov-bd.dytt888.org",
@@ -131354,7 +131366,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-02-07T20:57:04+02:00",
+        "last_modified": "2026-02-08T11:41:04+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -132368,17 +132380,18 @@
           "https://x.com/volrant136/status/2017258736906297545",
           "https://x.com/volrant136/status/2017261324980687351",
           "https://x.com/__0XYC__/status/2019617829784547463",
-          "https://x.com/volrant136/status/2020180803012161568"
+          "https://x.com/volrant136/status/2020180803012161568",
+          "https://x.com/volrant136/status/2020360851639922927"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3337,
+          "domain": 3349,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3429
+        "total": 3441
       }
     },
     "SILENCE": {
