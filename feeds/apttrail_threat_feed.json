@@ -3487,6 +3487,7 @@
           "cooltours.s3.sa-east-1.amazonaws.com",
           "cs.colunm.tk",
           "cs16.dns04.com",
+          "cyberkaspersky.com",
           "czs.superdasqe.me",
           "d5922235.dns.1433.eu.org",
           "dash.tcplog.com",
@@ -3592,6 +3593,8 @@
           "jsj1.linuxupdate.info",
           "kasparsky.net",
           "kaspersky-scan.com",
+          "kasperskyprotect.com",
+          "kasperskysecure.com",
           "kasperskyupdate.com",
           "kazakhtelecom.zzux.com",
           "kcalmoments.s3.me-south-1.amazonaws.com",
@@ -3617,6 +3620,7 @@
           "mail.xxe.pw",
           "mails.foligni.it",
           "mb.glbaitech.com",
+          "mcafeeupdates.com",
           "mexicobulk.info",
           "micheeasodh.top",
           "micro.gay",
@@ -6115,7 +6119,7 @@
         ],
         "apt_group": "BARIUM",
         "filename": "apt_barium.txt",
-        "last_modified": "2026-02-06T12:49:57+02:00",
+        "last_modified": "2026-02-08T13:08:12+02:00",
         "references": [
           "https://securelist.com/operation-shadowhammer/89992/",
           "https://twitter.com/ydklijnsma/status/1110220766778286080",
@@ -6291,17 +6295,18 @@
           "https://hunt.io/blog/tracking-shadowpad-infrastructure-via-non-standard-certificates",
           "https://www.virustotal.com/gui/file/e9bb6609ffe43c5c9a1617818097568a7e873aa1499d9f5e05c2c6c5ac8cb962/detection",
           "https://blog.talosintelligence.com/knife-cutting-the-edge/",
-          "https://github.com/Cisco-Talos/IOCs/blob/main/2026/02/knife-cutting-the-edge.txt"
+          "https://github.com/Cisco-Talos/IOCs/blob/main/2026/02/knife-cutting-the-edge.txt",
+          "https://x.com/nahamike01/status/2020407834119487677"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 449,
+          "domain": 453,
           "file_path": 1,
           "ipv4": 2045,
           "url": 185
         },
-        "total": 2680
+        "total": 2684
       }
     },
     "BATSHADOW": {
