@@ -145830,6 +145830,7 @@
           "300bt.com",
           "33016.club",
           "3323sf.com",
+          "48d83469-d0c6-4ade-8f82-e383fff094b8.webhook.site",
           "4sdfaash.mypi.co",
           "4sdfaashe.mypi.co",
           "60431.club",
@@ -147278,7 +147279,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2026-02-06T21:12:51+02:00",
+        "last_modified": "2026-02-08T19:26:33+02:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -147726,17 +147727,19 @@
           "https://www.virustotal.com/gui/file/f817f65edbc77f7bbdd6e4f469e82c0e770b7e221bdb348f366a475a8a39242b/detection",
           "https://www.virustotal.com/gui/file/63f6c85fc16b346cc3f18da9380aee6ffbb3e735863e2e8f118f38737e0d1348/detection",
           "https://x.com/suyog41/status/2016126098384593287",
-          "https://www.virustotal.com/gui/file/2477bbf0ab3f0c9db73fcb2f5f9dfe8cf6703a88862a7c98a5de6f349cd8833f/detection"
+          "https://www.virustotal.com/gui/file/2477bbf0ab3f0c9db73fcb2f5f9dfe8cf6703a88862a7c98a5de6f349cd8833f/detection",
+          "https://x.com/smica83/status/2020539423285203102",
+          "https://www.virustotal.com/gui/file/506e7512c897514e9d312a1532d2e2949ec8ebd73f6ca52740fb5e3306f08843/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1205,
+          "domain": 1206,
           "file_path": 77,
           "ipv4": 117,
           "url": 56
         },
-        "total": 1455
+        "total": 1456
       }
     },
     "USH": {
