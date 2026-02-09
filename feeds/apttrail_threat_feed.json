@@ -110003,6 +110003,7 @@
         "domain": [
           "0927.vercel.app",
           "0xraiseup.com",
+          "1-73g.pages.dev",
           "118274-zoomid.com",
           "11stnft.click",
           "1215.vercel.app",
@@ -110271,6 +110272,7 @@
           "app.aixstore.info",
           "app.alwayswelcome.online",
           "app.answerpart.com",
+          "app.askillo.online",
           "app.axionara.com",
           "app.blockchain-assess.com",
           "app.blockchain-checkup.com",
@@ -110376,6 +110378,7 @@
           "as-zoom.us",
           "ascendrix.us",
           "ashlyasoftwares.ashlya.com",
+          "askillo.online",
           "asl.dropfile.online",
           "assessalign.com",
           "assessbay.com",
@@ -112615,6 +112618,7 @@
           "showmanroast.com",
           "shplh.com",
           "shrikhatushyamjidigital.com",
+          "sightalent.org",
           "sightalent.pages.dev",
           "signalhands.co.bw",
           "signinbd.com",
@@ -113207,6 +113211,7 @@
           "videodriverzone.cloud",
           "videoforrecruitment.com",
           "videohirepro.com",
+          "videointerviewrecording.com",
           "videomaxgreece.com",
           "videomeethub.online",
           "videoplayermaxgr.com",
@@ -114652,7 +114657,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-09T17:54:47+02:00",
+        "last_modified": "2026-02-09T18:42:57+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -115809,12 +115814,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3495,
+          "domain": 3500,
           "file_path": 476,
           "ipv4": 492,
           "url": 102
         },
-        "total": 4565
+        "total": 4570
       }
     },
     "LAZYSCRIPTER": {
