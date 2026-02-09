@@ -3412,7 +3412,9 @@
           "335b5282.dns.1433.eu.org",
           "360photo.oss-cn-hongkong.aliyuncs.com",
           "64-176-59-232.ipv4.staticdns3.io",
+          "64.176.35.214.sslip.io",
           "64.176.65.49.sslip.io",
+          "6ed123bf7c014f8597b97c1e88c9d7e1.ddns.gcloud.gg",
           "91newai.com",
           "a.linuxupdate.info",
           "accounts.longmusic.com",
@@ -3463,6 +3465,7 @@
           "boopainc.com",
           "box.xxe.pw",
           "browser-events-data-microsoft.com",
+          "bssllxqxqzyo.giize.com",
           "bugcheck.xigncodeservice.com",
           "buildhosting.club",
           "bulkyservice.info",
@@ -3553,6 +3556,7 @@
           "gknbm.ddns.net",
           "glbaitech.com",
           "gmail.verifypay.shop",
+          "gmailnews.net",
           "gnel.feedfoodconcerning.org",
           "goldenclear.top",
           "goldmanrichardlegal.com",
@@ -3652,11 +3656,13 @@
           "mesto-backtend-mp.nomoredomains.sbs",
           "mesto-frontend-mp.nomoredomains.sbs",
           "mexicobulk.info",
+          "mezigom.com",
           "mgm4adminsi.com",
           "mhgxpcgd.top",
           "micheeasodh.top",
           "micro.gay",
           "micro.supermirco.us",
+          "microfastforbenden.com",
           "microport.com.cn",
           "micros0ff.com",
           "micros0tf.com",
@@ -3681,6 +3687,7 @@
           "microsoftsservice.com",
           "microsoftstaticapi.com",
           "micsoftonedrive.com",
+          "midtntoday.com",
           "milli-seconds.com",
           "mirco.supermirco.us",
           "mircoo.supermirco.us",
@@ -3702,6 +3709,7 @@
           "necemarket.com",
           "netbill.pk",
           "network.oossafe.com",
+          "networkpach.com",
           "new-openai.com",
           "newimages.socialpt2021.tk",
           "news.revecontopsy.com",
@@ -3857,6 +3865,8 @@
           "twitterproxy.com",
           "twnoc.ddns.net",
           "ubuntumax.com",
+          "ufsllcdxb-ae.com",
+          "umbet.art",
           "unaecry.zzux.com",
           "updata.dsqueryonline.com",
           "updata.dsqurey.com",
@@ -3867,6 +3877,7 @@
           "update.imjzo.com",
           "update.kkdiscover.com",
           "update.micro.gay",
+          "update.networkpach.com",
           "update.performed12.com",
           "update.updatemic.com",
           "updatemic.com",
@@ -3909,6 +3920,7 @@
           "youtubedownloading.com",
           "yunchat.ddns.net",
           "zalofilescdn.com",
+          "zitanlodge.com",
           "zngb.kozow.com"
         ],
         "file_path": [
@@ -6906,7 +6918,7 @@
         ],
         "apt_group": "BARIUM",
         "filename": "apt_barium.txt",
-        "last_modified": "2026-02-09T11:00:43+02:00",
+        "last_modified": "2026-02-09T12:47:18+02:00",
         "references": [
           "https://securelist.com/operation-shadowhammer/89992/",
           "https://twitter.com/ydklijnsma/status/1110220766778286080",
@@ -7090,12 +7102,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 503,
+          "domain": 515,
           "file_path": 1,
           "ipv4": 2768,
           "url": 199
         },
-        "total": 3471
+        "total": 3483
       }
     },
     "BATSHADOW": {
