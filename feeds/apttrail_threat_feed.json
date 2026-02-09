@@ -3616,8 +3616,11 @@
           "jsj1.linuxupdate.info",
           "kasparsky.net",
           "kaspersky-scan.com",
+          "kasperskyguard.co",
+          "kasperskyguard.com",
           "kasperskyprotect.com",
           "kasperskysecure.com",
+          "kasperskyshield.co",
           "kasperskyupdate.com",
           "kazakhtelecom.zzux.com",
           "kcalmoments.s3.me-south-1.amazonaws.com",
@@ -3646,6 +3649,8 @@
           "maxdesigns.top",
           "mb.glbaitech.com",
           "mcafeeupdates.com",
+          "mesto-backtend-mp.nomoredomains.sbs",
+          "mesto-frontend-mp.nomoredomains.sbs",
           "mexicobulk.info",
           "mgm4adminsi.com",
           "mhgxpcgd.top",
@@ -6901,7 +6906,7 @@
         ],
         "apt_group": "BARIUM",
         "filename": "apt_barium.txt",
-        "last_modified": "2026-02-09T10:52:51+02:00",
+        "last_modified": "2026-02-09T11:00:43+02:00",
         "references": [
           "https://securelist.com/operation-shadowhammer/89992/",
           "https://twitter.com/ydklijnsma/status/1110220766778286080",
@@ -7079,17 +7084,18 @@
           "https://blog.talosintelligence.com/knife-cutting-the-edge/",
           "https://github.com/Cisco-Talos/IOCs/blob/main/2026/02/knife-cutting-the-edge.txt",
           "https://x.com/nahamike01/status/2020407834119487677",
+          "https://app.validin.com/detail?find=https%3A%2F%2Fkaspersky.com%2Fads.txt&type=raw&ref_id=a73a038fe6c#tab=host_pairs (# 2025-02-09)",
           "https://threatfox.abuse.ch/browse/malware/win.shadowpad/ (# 2026-02-09)"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 498,
+          "domain": 503,
           "file_path": 1,
           "ipv4": 2768,
           "url": 199
         },
-        "total": 3466
+        "total": 3471
       }
     },
     "BATSHADOW": {
