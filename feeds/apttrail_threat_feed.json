@@ -112076,6 +112076,7 @@
           "mygametoa.com",
           "mypatchauto.com",
           "mypatchfree.com",
+          "myproject-f8d.pages.dev",
           "myqr-generator.com",
           "myrareaesthetics.com",
           "myself.hopto.org",
@@ -114114,6 +114115,7 @@
           "108.181.185.2:23",
           "108.181.185.2:443",
           "108.181.185.2:5001",
+          "109.205.195.98:3000",
           "109.248.144.136:8443",
           "109.248.144.155:8080",
           "109.248.144.155:8443",
@@ -114751,7 +114753,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-10T12:53:22+02:00",
+        "last_modified": "2026-02-10T14:43:20+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -115908,12 +115910,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3586,
+          "domain": 3587,
           "file_path": 476,
-          "ipv4": 492,
+          "ipv4": 493,
           "url": 102
         },
-        "total": 4656
+        "total": 4658
       }
     },
     "LAZYSCRIPTER": {
