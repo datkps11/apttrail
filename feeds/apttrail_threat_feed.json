@@ -110079,6 +110079,7 @@
           "ads.inashtech.com",
           "aduresi.com",
           "advantims.com",
+          "advisor-ecareerflare.pages.dev",
           "advisorflux.com",
           "advisorflux.pages.dev",
           "advisornetic.com",
@@ -110388,6 +110389,7 @@
           "apply.blocknovas.com",
           "apply.blocknovasllc.com",
           "apply.dappspire.com",
+          "apply.ecareerflare.com",
           "apply.echelonfnd.io",
           "apply.softcloudnet.co",
           "apply.waventic.com",
@@ -111143,6 +111145,7 @@
           "eboardcareer.com",
           "eboardcareer.pages.dev",
           "ecareerflare.com",
+          "ecareerflare.pages.dev",
           "ecareerscan.com",
           "echelonfnd.io",
           "eclairdomain.com",
@@ -111339,6 +111342,7 @@
           "freenet-zhilly.org",
           "freezologi.com",
           "freezologi.com.staycalm.in",
+          "frontend-5e7.pages.dev",
           "frontend-dev-bnp.pages.dev",
           "frontend-eu1.pages.dev",
           "frontend-staging-egw.pages.dev",
@@ -112447,6 +112451,7 @@
           "postmaster.dropfile.online",
           "poweem.com",
           "powerwize.org",
+          "powerwize.pages.dev",
           "prajeshpatel.com",
           "pre-screen.net",
           "pre-screen.online",
@@ -114756,7 +114761,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-10T18:35:01+02:00",
+        "last_modified": "2026-02-10T22:17:36+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -115913,12 +115918,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3590,
+          "domain": 3595,
           "file_path": 476,
           "ipv4": 493,
           "url": 102
         },
-        "total": 4661
+        "total": 4666
       }
     },
     "LAZYSCRIPTER": {
