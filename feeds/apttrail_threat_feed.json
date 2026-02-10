@@ -110294,6 +110294,7 @@
           "app.aixstore.info",
           "app.alwayswelcome.online",
           "app.answerpart.com",
+          "app.aptitudespro.com",
           "app.askillo.online",
           "app.avasup.com",
           "app.axionara.com",
@@ -110392,6 +110393,7 @@
           "apply.waventic.com",
           "applylens.com",
           "apps.gappeo.us",
+          "aptitudespro.com",
           "arbor.companydetail.online",
           "arcaoffice.com",
           "arcashop.org",
@@ -111951,6 +111953,7 @@
           "mailservicecorp.online",
           "mailserviceteam.email",
           "mailx.dropfile.online",
+          "main-aptitudespro.pages.dev",
           "main-az8.pages.dev",
           "main-website-domail-temp-soon0update.pages.dev",
           "makerzonelanka.com.lk",
@@ -114753,7 +114756,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-10T14:43:20+02:00",
+        "last_modified": "2026-02-10T18:35:01+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -115910,12 +115913,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3587,
+          "domain": 3590,
           "file_path": 476,
           "ipv4": 493,
           "url": 102
         },
-        "total": 4658
+        "total": 4661
       }
     },
     "LAZYSCRIPTER": {
