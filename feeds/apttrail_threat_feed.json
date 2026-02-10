@@ -9329,6 +9329,7 @@
           "bloomcloud.org",
           "bluewhale7.xyz",
           "bots.autoupdate.online",
+          "breakdream.com",
           "btcprime.itsaol.com",
           "bugscrowd.com",
           "buidihub.com",
@@ -9379,6 +9380,7 @@
           "cloudprotect.us.org",
           "cloudsecure.space",
           "cloudshare.jumpshare.vip",
+          "cmailer.pro",
           "cmt.ventures",
           "cn-zoom.us",
           "coin-squad.co",
@@ -9491,6 +9493,7 @@
           "download.gdriveupload.site",
           "downloadfile.icu",
           "drainer.bot",
+          "dreamdie.com",
           "drive.sharegoogldrive.online",
           "drivegmail.top",
           "drivegoogle.org",
@@ -9941,6 +9944,7 @@
           "support.us05web-zoom.forum",
           "support.us05web-zoom.pro",
           "support.us06web-zoom.online",
+          "supportzm.com",
           "suweb05.us",
           "svr04.faqserv.com",
           "system-update.cloud",
@@ -10363,6 +10367,7 @@
           "youbicapital.cc",
           "zerodev.pro",
           "zm-meeting.com",
+          "zmsupport.com",
           "zoom-client.com",
           "zoom-meet-live.carriebrigham-c.com",
           "zoom-ru.github.io",
@@ -10432,11 +10437,12 @@
           "CoreKit",
           "netchk",
           "upl/tlgrm",
-          "NimDoor"
+          "NimDoor",
+          "unc1069"
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-02-06T18:03:20+02:00",
+        "last_modified": "2026-02-10T10:16:32+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -10575,16 +10581,18 @@
           "https://x.com/L0Psec/status/2014695975789691342",
           "https://x.com/L0Psec/status/2019773636647768330",
           "https://www.virustotal.com/gui/file/952d0a1bf4a8e474ad043258e238d47753a5bb8ca138ed79d11e4cbd555d5fec/detection",
-          "https://www.virustotal.com/gui/file/3e4d35903c51db3da8d4bd77491b5c181b7361aaf152609d03a1e2bb86faee43/detection"
+          "https://www.virustotal.com/gui/file/3e4d35903c51db3da8d4bd77491b5c181b7361aaf152609d03a1e2bb86faee43/detection",
+          "https://x.com/JohnHultquist/status/2020952923082195374",
+          "https://cloud.google.com/blog/topics/threat-intelligence/unc1069-targets-cryptocurrency-ai-social-engineering?e=48754805"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1172,
+          "domain": 1177,
           "ipv4": 14,
           "url": 3
         },
-        "total": 1189
+        "total": 1194
       }
     },
     "BLUEPRINT": {
