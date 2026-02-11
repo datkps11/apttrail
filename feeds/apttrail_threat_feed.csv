@@ -86848,6 +86848,7 @@ KIMSUKY,domain,ips-cdn.mydns.bz
 KIMSUKY,domain,ips-check.o-r.kr
 KIMSUKY,domain,ips-cloud.nid-recheck.kro.kr
 KIMSUKY,domain,ips-dns.mydns.bz
+KIMSUKY,domain,ips-dns.mydns.vc
 KIMSUKY,domain,ips-doc.mydns.vc
 KIMSUKY,domain,ips-doc.r-e.kr
 KIMSUKY,domain,ips-ecall.mydns.bz
@@ -88833,6 +88834,7 @@ KIMSUKY,domain,n-check.user.cloud.tax-ndoc.o-r.kr
 KIMSUKY,domain,n-checker.n-e.kr
 KIMSUKY,domain,n-cloud.edoc-nts.mydns.bz
 KIMSUKY,domain,n-cloud.htax-noticedoc.mydns.bz
+KIMSUKY,domain,n-cloud.ips-dns.mydns.vc
 KIMSUKY,domain,n-cloud.ips-gov.mydns.bz
 KIMSUKY,domain,n-cloud.ips-taxmail.mydns.bz
 KIMSUKY,domain,n-cloud.nts-auth.mydns.bz
@@ -114926,9 +114928,13 @@ SIDEWINDER,domain,www-cbsl-gov-lk.filenest.live
 SIDEWINDER,domain,www-cbsl-gov-lk.grabfiles.net
 SIDEWINDER,domain,www-cbsl-gov-lk.loadpath.info
 SIDEWINDER,domain,www-cbsl-gov-lk.snagdrive.com
+SIDEWINDER,domain,www-ccdi-gov-cn.hkbmwzone.com
 SIDEWINDER,domain,www-cdn.net
+SIDEWINDER,domain,www-chinaneast-gov-cn.videoem.com
 SIDEWINDER,domain,www-communications-gov-pk.fetchdrive.org
+SIDEWINDER,domain,www-creditjx-gov-cn.aaaqb.com
 SIDEWINDER,domain,www-customs-gov-lk.net-co.info
+SIDEWINDER,domain,www-enfotss-gov-ao.pages.dev
 SIDEWINDER,domain,www-erd-gov-lk.downld.org
 SIDEWINDER,domain,www-erd-gov-lk.dwnlld.info
 SIDEWINDER,domain,www-erd-gov-lk.nic-svc.net
@@ -114937,6 +114943,7 @@ SIDEWINDER,domain,www-finance-gov-pk.filenesthub.org
 SIDEWINDER,domain,www-finance-gov-pk.grabfiles.net
 SIDEWINDER,domain,www-finance-gov-pk.loadpath.net
 SIDEWINDER,domain,www-foreignaffairs-nepal-com.netlify.app
+SIDEWINDER,domain,www-hernandarias-gov-py.pages.dev
 SIDEWINDER,domain,www-kashmirawareness-org.loadpath.net
 SIDEWINDER,domain,www-mof-gov-np.mail-govt.com
 SIDEWINDER,domain,www-moha-gov-lk.direct888.net
@@ -114952,12 +114959,18 @@ SIDEWINDER,domain,www-prc-mhapsd-gov-bd.mail-govt.com
 SIDEWINDER,domain,www-presidentsoffice-gov-lk.dwnlld.com
 SIDEWINDER,domain,www-presidentsoffice-gov-lk.dytt888.org
 SIDEWINDER,domain,www-punjabpolice-gov-pk-sopforsecurityofforeignersandchinese.trans-aws.net
+SIDEWINDER,domain,www-shshjs-gov-cn.videoem.com
 SIDEWINDER,domain,www-srilankanavy-cabinet-decision.netlify.app
+SIDEWINDER,domain,www-tic-gov-tl.outlookowa.com
+SIDEWINDER,domain,www-tic-gov-tl.selectpaw.com
+SIDEWINDER,domain,www-tjlsj-gov-cn.syyjc.net
+SIDEWINDER,domain,www-toki-gov-tr.sa.com
 SIDEWINDER,domain,www-treasury-gov-lk.downld.org
 SIDEWINDER,domain,www-treasury-gov-lk.filenest.live
 SIDEWINDER,domain,www-treasury-gov-lk.nic-svc.net
 SIDEWINDER,domain,www-treasury-gov-lk.org-liv.net
 SIDEWINDER,domain,www-treasury-gov-lk.snagdrive.com
+SIDEWINDER,domain,www-ymbq-gov-cn.drron.net
 SIDEWINDER,domain,wwww.direct888.net
 SIDEWINDER,domain,wwww.govpk.info
 SIDEWINDER,domain,wwww.invitation-letter.govpk.info

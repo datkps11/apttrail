@@ -97389,6 +97389,7 @@
           "ips-check.o-r.kr",
           "ips-cloud.nid-recheck.kro.kr",
           "ips-dns.mydns.bz",
+          "ips-dns.mydns.vc",
           "ips-doc.mydns.vc",
           "ips-doc.r-e.kr",
           "ips-ecall.mydns.bz",
@@ -99374,6 +99375,7 @@
           "n-checker.n-e.kr",
           "n-cloud.edoc-nts.mydns.bz",
           "n-cloud.htax-noticedoc.mydns.bz",
+          "n-cloud.ips-dns.mydns.vc",
           "n-cloud.ips-gov.mydns.bz",
           "n-cloud.ips-taxmail.mydns.bz",
           "n-cloud.nts-auth.mydns.bz",
@@ -108302,7 +108304,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-02-11T18:04:07+02:00",
+        "last_modified": "2026-02-11T18:08:00+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -109761,12 +109763,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 15185,
+          "domain": 15187,
           "file_path": 282,
           "ipv4": 75,
           "url": 55
         },
-        "total": 15597
+        "total": 15599
       }
     },
     "KUN3": {
@@ -132199,9 +132201,13 @@
           "www-cbsl-gov-lk.grabfiles.net",
           "www-cbsl-gov-lk.loadpath.info",
           "www-cbsl-gov-lk.snagdrive.com",
+          "www-ccdi-gov-cn.hkbmwzone.com",
           "www-cdn.net",
+          "www-chinaneast-gov-cn.videoem.com",
           "www-communications-gov-pk.fetchdrive.org",
+          "www-creditjx-gov-cn.aaaqb.com",
           "www-customs-gov-lk.net-co.info",
+          "www-enfotss-gov-ao.pages.dev",
           "www-erd-gov-lk.downld.org",
           "www-erd-gov-lk.dwnlld.info",
           "www-erd-gov-lk.nic-svc.net",
@@ -132210,6 +132216,7 @@
           "www-finance-gov-pk.grabfiles.net",
           "www-finance-gov-pk.loadpath.net",
           "www-foreignaffairs-nepal-com.netlify.app",
+          "www-hernandarias-gov-py.pages.dev",
           "www-kashmirawareness-org.loadpath.net",
           "www-mof-gov-np.mail-govt.com",
           "www-moha-gov-lk.direct888.net",
@@ -132225,12 +132232,18 @@
           "www-presidentsoffice-gov-lk.dwnlld.com",
           "www-presidentsoffice-gov-lk.dytt888.org",
           "www-punjabpolice-gov-pk-sopforsecurityofforeignersandchinese.trans-aws.net",
+          "www-shshjs-gov-cn.videoem.com",
           "www-srilankanavy-cabinet-decision.netlify.app",
+          "www-tic-gov-tl.outlookowa.com",
+          "www-tic-gov-tl.selectpaw.com",
+          "www-tjlsj-gov-cn.syyjc.net",
+          "www-toki-gov-tr.sa.com",
           "www-treasury-gov-lk.downld.org",
           "www-treasury-gov-lk.filenest.live",
           "www-treasury-gov-lk.nic-svc.net",
           "www-treasury-gov-lk.org-liv.net",
           "www-treasury-gov-lk.snagdrive.com",
+          "www-ymbq-gov-cn.drron.net",
           "wwww.direct888.net",
           "wwww.govpk.info",
           "wwww.invitation-letter.govpk.info",
@@ -132387,7 +132400,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-02-11T13:15:54+02:00",
+        "last_modified": "2026-02-11T18:14:24+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -133408,12 +133421,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3354,
+          "domain": 3365,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3446
+        "total": 3457
       }
     },
     "SILENCE": {
