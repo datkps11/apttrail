@@ -9333,6 +9333,7 @@
           "btcprime.itsaol.com",
           "bugscrowd.com",
           "buidihub.com",
+          "build-dream.com",
           "businesstalks.site",
           "buy2x.com",
           "c-money.linkpc.net",
@@ -9876,6 +9877,7 @@
           "selincapital.com",
           "selinicapital.info",
           "selinicapital.network",
+          "sendbrevo.com",
           "sendhosting.pro",
           "sendmailed.com",
           "sendmailer.org",
@@ -10442,7 +10444,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-02-10T10:16:32+02:00",
+        "last_modified": "2026-02-11T13:08:01+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -10583,16 +10585,18 @@
           "https://www.virustotal.com/gui/file/952d0a1bf4a8e474ad043258e238d47753a5bb8ca138ed79d11e4cbd555d5fec/detection",
           "https://www.virustotal.com/gui/file/3e4d35903c51db3da8d4bd77491b5c181b7361aaf152609d03a1e2bb86faee43/detection",
           "https://x.com/JohnHultquist/status/2020952923082195374",
+          "https://x.com/silentpush/status/2021453755808731140",
+          "https://www.virustotal.com/gui/ip-address/134.45.83.95/relations",
           "https://cloud.google.com/blog/topics/threat-intelligence/unc1069-targets-cryptocurrency-ai-social-engineering?e=48754805"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1177,
+          "domain": 1179,
           "ipv4": 14,
           "url": 3
         },
-        "total": 1194
+        "total": 1196
       }
     },
     "BLUEPRINT": {
@@ -129763,6 +129767,7 @@
           "ereribe.tech",
           "eservice-ptclnetpk.servehttp.com",
           "establishment.gov.pk-govt.net",
+          "establishment.mails-pk.com",
           "estate.ovil.tech",
           "estsaln.site",
           "esxipubad-gov-lk.org-co.net",
@@ -129827,6 +129832,7 @@
           "filebox-1-y7125191.deta.app",
           "filedownload.work",
           "filenest.live",
+          "filenesthub.org",
           "files-ci.com",
           "files.pdf-download.live",
           "fileserve.work",
@@ -130667,6 +130673,7 @@
           "mailpakbj.mofs-gov.org",
           "mailpsab-modgovpk.hopto.org",
           "mailrta.mfagov.org",
+          "mails-pk.com",
           "mails.baf.mil.bd.updatemaster.info",
           "mails.bcc.gov.bd.updatemaster.info",
           "mails.mofa.gov.np.updatemaster.info",
@@ -131687,6 +131694,7 @@
           "pubad-gov-lk.downld.org",
           "pubad-gov-lk.download-doc.net",
           "pubad-gov-lk.filenest.live",
+          "pubad-gov-lk.filenesthub.org",
           "pubad-gov-lk.grabfiles.net",
           "pubad-gov-lk.live-co.org",
           "pubad-gov-lk.loadpath.net",
@@ -132194,6 +132202,7 @@
           "www-erd-gov-lk.dwnlld.info",
           "www-erd-gov-lk.nic-svc.net",
           "www-finance-gov-pk.fetchdrive.org",
+          "www-finance-gov-pk.filenesthub.org",
           "www-finance-gov-pk.grabfiles.net",
           "www-finance-gov-pk.loadpath.net",
           "www-foreignaffairs-nepal-com.netlify.app",
@@ -132374,7 +132383,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-02-08T11:41:04+02:00",
+        "last_modified": "2026-02-11T13:15:54+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -133389,17 +133398,18 @@
           "https://x.com/volrant136/status/2017261324980687351",
           "https://x.com/__0XYC__/status/2019617829784547463",
           "https://x.com/volrant136/status/2020180803012161568",
-          "https://x.com/volrant136/status/2020360851639922927"
+          "https://x.com/volrant136/status/2020360851639922927",
+          "https://x.com/__0XYC__/status/2021430578197995793"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3349,
+          "domain": 3354,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3441
+        "total": 3446
       }
     },
     "SILENCE": {
