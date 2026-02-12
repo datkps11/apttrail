@@ -130479,6 +130479,7 @@
           "mail-nscgovaf.hopto.org",
           "mail-nssc.sytes.net",
           "mail-ntc-net-pk-pdf.up.railway.app",
+          "mail-ntc-net-pk-zimbra-dils-maint213-2q1ntcqz.leapcell.dev",
           "mail-ntc-net-pk.up.railway.app",
           "mail-ntc-net-pk.zeabur.app",
           "mail-ntc.gov-pk.online",
@@ -132400,7 +132401,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-02-11T18:14:24+02:00",
+        "last_modified": "2026-02-12T10:37:29+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -133416,17 +133417,18 @@
           "https://x.com/__0XYC__/status/2019617829784547463",
           "https://x.com/volrant136/status/2020180803012161568",
           "https://x.com/volrant136/status/2020360851639922927",
-          "https://x.com/__0XYC__/status/2021430578197995793"
+          "https://x.com/__0XYC__/status/2021430578197995793",
+          "https://x.com/volrant136/status/2021636487281045747"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3365,
+          "domain": 3366,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3457
+        "total": 3458
       }
     },
     "SILENCE": {
