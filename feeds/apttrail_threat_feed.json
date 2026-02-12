@@ -110152,6 +110152,7 @@
           "angeloperonline.online",
           "anglerstatic.com",
           "anifintech.xyz",
+          "animoca.finance",
           "ankly.net",
           "ankly.net.bytelinker.net",
           "ann.support.general-meet.site",
@@ -110266,6 +110267,7 @@
           "api.stockdata.tech",
           "api.stockinfo.io",
           "api.tailora.org",
+          "api.talentacq.pro",
           "api.thaibit.io",
           "api.unimeta.biz",
           "api.updatecall.live",
@@ -110304,6 +110306,7 @@
           "app.advisornetic.com",
           "app.aixstore.info",
           "app.alwayswelcome.online",
+          "app.animoca.finance",
           "app.answerpart.com",
           "app.aptitudespro.com",
           "app.askillo.online",
@@ -111352,6 +111355,7 @@
           "freenet-zhilly.org",
           "freezologi.com",
           "freezologi.com.staycalm.in",
+          "front-bzi.pages.dev",
           "frontend-5e7.pages.dev",
           "frontend-dev-bnp.pages.dev",
           "frontend-eu1.pages.dev",
@@ -113064,6 +113068,7 @@
           "talent-hiringstep.com",
           "talent-hiringtalk.com",
           "talent.willo-interview.us",
+          "talentacq.pro",
           "talentassesspro.com",
           "talentcatchingtool360.com",
           "talentcheck.pro",
@@ -113105,6 +113110,7 @@
           "tech.linkpc.net",
           "tech.micrsofts.com",
           "tech.micrsofts.tech",
+          "techaipactch.com",
           "techdesignshop.com",
           "techfellow.in",
           "techflixo.com",
@@ -114234,6 +114240,7 @@
           "147.124.202.225:1244",
           "147.124.212.125:1244",
           "147.124.212.146:1244",
+          "147.124.212.234:1244",
           "147.124.212.89:1244",
           "147.124.213.11:1244",
           "147.124.213.19:1244",
@@ -114771,7 +114778,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-10T22:17:36+02:00",
+        "last_modified": "2026-02-12T11:12:20+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -115928,12 +115935,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3595,
+          "domain": 3601,
           "file_path": 476,
-          "ipv4": 493,
+          "ipv4": 494,
           "url": 102
         },
-        "total": 4666
+        "total": 4673
       }
     },
     "LAZYSCRIPTER": {
