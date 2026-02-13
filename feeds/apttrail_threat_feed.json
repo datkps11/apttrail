@@ -14063,7 +14063,7 @@
         ],
         "apt_group": "CLOUDATLAS",
         "filename": "apt_cloudatlas.txt",
-        "last_modified": "2026-01-08T18:05:38+02:00",
+        "last_modified": "2026-02-13T17:37:29+02:00",
         "references": [
           "https://securelist.com/cloud-atlas-redoctober-apt-is-back-in-style/68083/",
           "https://securelist.com/recent-cloud-atlas-activity/92016/",
@@ -14186,7 +14186,9 @@
           "https://securelist.com/cloud-atlas-h1-2025-campaign/118517/",
           "https://www.virustotal.com/gui/ip-address/185.143.221.7/relations",
           "https://www.virustotal.com/gui/ip-address/45.151.62.98/relations",
-          "https://www.virustotal.com/gui/ip-address/95.215.108.187/relations"
+          "https://www.virustotal.com/gui/ip-address/95.215.108.187/relations",
+          "https://x.com/t3ft3lb/status/2022249576405864776",
+          "https://www.virustotal.com/gui/file/46e0f6fd0f25b1c52b4e27979c923fb5a83bd8798c2a5580a0933aed5047be65/detection"
         ]
       },
       "statistics": {
@@ -97468,6 +97470,7 @@
           "ipsdepinvoice.mydns.bz",
           "ipsinformdoc.mydns.bz",
           "ipsinvoicegoji.mydns.bz",
+          "ipsmas.dns.army",
           "ipsusergoji.mydns.bz",
           "iptime-upgrade.r-e.kr",
           "iptimes.o-r.kr",
@@ -99836,6 +99839,8 @@
           "nauji.n-e.kr",
           "naunsae.store",
           "nauver.space",
+          "nav-logins.ipsmas.dns.army",
+          "nav-logins.nts-edoced.dns.army",
           "nav-service.nl",
           "nav.custom-center.nl",
           "nav.offlinedocument.site",
@@ -101664,6 +101669,7 @@
           "nid-invoice.ips-tax.mydns.vc",
           "nid-login.ekivotos.gr",
           "nid-login.live-on.net",
+          "nid-login.nts-edoced.dns.army",
           "nid-logins.dynv6.net",
           "nid-mail.pe.hu",
           "nid-management-team.890m.com",
@@ -101964,6 +101970,8 @@
           "nid2-naver-com.medianewsonline.com",
           "nid2-naver.date",
           "nid2-naver.online",
+          "nida.ipsmas.dns.army",
+          "nida.nts-edoced.dns.army",
           "nidalo.memavers.pics",
           "nidanaver.tech",
           "nidao23matnerb.icu",
@@ -102141,6 +102149,7 @@
           "nidscorp.website",
           "nidseccenter.host",
           "nidsecure.o-r.kr",
+          "nidservers.nts-edoced.dns.army",
           "nidservers.themgc.net",
           "nidsess.ncookieclear.homes",
           "nidsign.info",
@@ -103185,6 +103194,7 @@
           "nts-edoc.live-on.net",
           "nts-edoc.mydns.vc",
           "nts-edoc.o-r.kr",
+          "nts-edoced.dns.army",
           "nts-email.site",
           "nts-email.space",
           "nts-email.store",
@@ -108406,7 +108416,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-02-13T16:15:44+02:00",
+        "last_modified": "2026-02-13T17:34:18+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -109863,17 +109873,21 @@
           "https://www.virustotal.com/gui/file/117d7bed68749479cc96f44d69426a6fa98c2d1d25946235659a800628a20db4/detection",
           "https://x.com/skocherhan/status/2022304341961355592",
           "https://www.virustotal.com/gui/ip-address/27.102.138.49/relations",
-          "https://www.virustotal.com/gui/ip-address/27.102.137.32/relations"
+          "https://www.virustotal.com/gui/ip-address/27.102.137.32/relations",
+          "https://x.com/Ghostyak/status/2022116338874167552",
+          "https://www.virustotal.com/gui/ip-address/118.193.68.242/relations",
+          "https://x.com/WabiSabi777_/status/2022255046268952842",
+          "https://www.virustotal.com/gui/file/a40a61e54be9cc1671ea6832fef8139ce811a7d759058bb8b4ca86863f4cc1bd/detecion"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 15285,
+          "domain": 15293,
           "file_path": 282,
           "ipv4": 75,
           "url": 55
         },
-        "total": 15697
+        "total": 15705
       }
     },
     "KUN3": {
