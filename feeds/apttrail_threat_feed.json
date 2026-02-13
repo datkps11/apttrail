@@ -23999,6 +23999,7 @@
           "kantiana.info",
           "kpmedia.city",
           "main-front-api.global.ssl.fastly.net",
+          "mediaoprosso.ru",
           "mil-by.info",
           "moscow.corptravel.org",
           "ms-appdata-fonts.global.ssl.fastly.net",
@@ -24008,6 +24009,8 @@
           "passport.yandeks.info",
           "peerflix.net",
           "perf-service-clients2.global.ssl.fastly.net",
+          "planitprima.info",
+          "planitprima.tech",
           "primakovreadings.info",
           "primakovreadings2025.info",
           "rabotnik.today",
@@ -24029,7 +24032,7 @@
         ],
         "apt_group": "FORUMTROLL",
         "filename": "apt_forumtroll.txt",
-        "last_modified": "2026-01-16T16:48:24+02:00",
+        "last_modified": "2026-02-13T14:54:01+02:00",
         "references": [
           "https://twitter.com/k3yp0d/status/1782082055905690092",
           "https://x.com/blackorbird/status/1935254424789860703",
@@ -24054,9 +24057,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 45
+          "domain": 48
         },
-        "total": 45
+        "total": 48
       }
     },
     "FRUITYARMOR": {
@@ -110398,6 +110401,7 @@
           "app.quickvidintro.com",
           "app.qwary.org",
           "app.rev-prot.org",
+          "app.rolevia.us",
           "app.scoret.net",
           "app.skill-share.org",
           "app.sloneek.us",
@@ -112669,6 +112673,7 @@
           "roleassessor.com",
           "rolefit360.com",
           "rolematches.com",
+          "rolevia.us",
           "rolltojoin.com",
           "ronaldo-nftprojects.shop",
           "room-connect.online",
@@ -114820,7 +114825,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-13T11:03:15+02:00",
+        "last_modified": "2026-02-13T14:45:08+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -115979,12 +115984,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3606,
+          "domain": 3608,
           "file_path": 476,
           "ipv4": 494,
           "url": 102
         },
-        "total": 4678
+        "total": 4680
       }
     },
     "LAZYSCRIPTER": {
