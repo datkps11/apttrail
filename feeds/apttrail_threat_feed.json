@@ -110275,6 +110275,7 @@
           "api.jz-aws.info",
           "api.keenest.org",
           "api.macamhelp.online",
+          "api.medincahub.com",
           "api.meeting-zone.online",
           "api.nvidia-cloud.online",
           "api.nvidia-drive.cloud",
@@ -112043,6 +112044,7 @@
           "medcialbiotop.com",
           "mediajourney.digital",
           "mediaprime.team",
+          "medincahub.com",
           "meet-client.online",
           "meet-safe.online",
           "meet.caladangroup.xyz",
@@ -114818,7 +114820,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-12T15:26:58+02:00",
+        "last_modified": "2026-02-13T11:03:15+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -115977,12 +115979,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3604,
+          "domain": 3606,
           "file_path": 476,
           "ipv4": 494,
           "url": 102
         },
-        "total": 4676
+        "total": 4678
       }
     },
     "LAZYSCRIPTER": {
@@ -123353,6 +123355,7 @@
           "riverelephant.site",
           "riverelephent.site",
           "rkde.fyicompsol.xyz",
+          "rnicrosoftcuredrive.org",
           "romanrugby.com",
           "rootranger.info",
           "roseauster.com",
@@ -123662,6 +123665,7 @@
           "91.245.255.122:443"
         ],
         "url": [
+          "http://103.172.26.96",
           "http://104.143.36.19",
           "http://108.62.12.210",
           "http://121.199.0.104",
@@ -123726,7 +123730,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2026-02-10T11:05:22+02:00",
+        "last_modified": "2026-02-13T11:47:13+02:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -124153,12 +124157,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 630,
+          "domain": 631,
           "file_path": 79,
           "ipv4": 57,
-          "url": 42
+          "url": 43
         },
-        "total": 808
+        "total": 810
       }
     },
     "PEEPINGTITLE": {
