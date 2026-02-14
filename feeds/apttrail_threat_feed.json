@@ -14063,7 +14063,7 @@
         ],
         "apt_group": "CLOUDATLAS",
         "filename": "apt_cloudatlas.txt",
-        "last_modified": "2026-02-14T10:49:11+02:00",
+        "last_modified": "2026-02-14T11:43:50+02:00",
         "references": [
           "https://securelist.com/cloud-atlas-redoctober-apt-is-back-in-style/68083/",
           "https://securelist.com/recent-cloud-atlas-activity/92016/",
@@ -110436,6 +110436,7 @@
           "app.betterevaluation.us",
           "app.blockchain-assess.com",
           "app.blockchain-checkup.com",
+          "app.cammio.org",
           "app.carrerlilla.com",
           "app.coinhouse360.com",
           "app.compassidea.org",
@@ -110820,6 +110821,7 @@
           "camera-drive.cloud",
           "camera-drive.org",
           "cameradriverx.cloud",
+          "cammio.org",
           "campus2career.in",
           "camtechdrivers.com",
           "camtuneup.online",
@@ -114904,7 +114906,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-13T14:45:08+02:00",
+        "last_modified": "2026-02-14T12:21:29+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -116063,12 +116065,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3608,
+          "domain": 3610,
           "file_path": 476,
           "ipv4": 494,
           "url": 102
         },
-        "total": 4680
+        "total": 4682
       }
     },
     "LAZYSCRIPTER": {
@@ -123595,6 +123597,7 @@
           "younghogs.com",
           "your3x.com",
           "yue-lao.info",
+          "yumtolo.info",
           "yuxuan.ghshijie.com",
           "yw56.info",
           "zadnitsa.com",
@@ -123814,7 +123817,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2026-02-13T11:47:13+02:00",
+        "last_modified": "2026-02-14T11:43:01+02:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -124241,12 +124244,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 631,
+          "domain": 632,
           "file_path": 79,
           "ipv4": 57,
           "url": 43
         },
-        "total": 810
+        "total": 811
       }
     },
     "PEEPINGTITLE": {
@@ -129782,6 +129785,7 @@
           "downl0ad.org",
           "downld.net",
           "downld.org",
+          "download-doc.com",
           "download-doc.net",
           "download-file.net",
           "download-files-0pen-err0r-l0gin.netlify.app",
@@ -130629,6 +130633,7 @@
           "mail-paf-gov-pk.ntc-telecomcorporation.workers.dev",
           "mail-pc-gov-pk-login.ethanhunthero125.workers.dev",
           "mail-pc.gov-pk.online",
+          "mail-pk.com",
           "mail-pk.org",
           "mail-pmogovpk.servehttp.com",
           "mail-pof-gov-pk.government-pak.workers.dev",
@@ -130818,6 +130823,7 @@
           "mailpsab-modgovpk.hopto.org",
           "mailrta.mfagov.org",
           "mails-pk.com",
+          "mails-pk.net",
           "mails.baf.mil.bd.updatemaster.info",
           "mails.bcc.gov.bd.updatemaster.info",
           "mails.mofa.gov.np.updatemaster.info",
@@ -131622,6 +131628,7 @@
           "pastlet.live",
           "paypal.es-profils.me",
           "pbm-gov-pk.ignitebiz.de",
+          "pc-gov-pk.download-doc.com",
           "pc-gov-pk.downnload.net",
           "pc.gov-pk.online",
           "pc.gov.pk-mail.org",
@@ -132331,6 +132338,7 @@
           "www-army-mil-bd.dirctt88.co",
           "www-army-mil-bd.dowmload.co",
           "www-cabinetoffice-gov-lk.mail-govt.org",
+          "www-cbsl-gov-lk.download-doc.com",
           "www-cbsl-gov-lk.download-doc.net",
           "www-cbsl-gov-lk.dwnlld.com",
           "www-cbsl-gov-lk.dwnlld.info",
@@ -132538,7 +132546,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-02-12T10:37:29+02:00",
+        "last_modified": "2026-02-14T12:19:24+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -133555,17 +133563,19 @@
           "https://x.com/volrant136/status/2020180803012161568",
           "https://x.com/volrant136/status/2020360851639922927",
           "https://x.com/__0XYC__/status/2021430578197995793",
-          "https://x.com/volrant136/status/2021636487281045747"
+          "https://x.com/volrant136/status/2021636487281045747",
+          "https://x.com/__0XYC__/status/2022530597097271436",
+          "https://x.com/volrant136/status/2022616294122508555"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3366,
+          "domain": 3371,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3458
+        "total": 3463
       }
     },
     "SILENCE": {
