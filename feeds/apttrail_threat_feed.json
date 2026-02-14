@@ -14063,7 +14063,7 @@
         ],
         "apt_group": "CLOUDATLAS",
         "filename": "apt_cloudatlas.txt",
-        "last_modified": "2026-02-13T17:37:29+02:00",
+        "last_modified": "2026-02-14T10:49:11+02:00",
         "references": [
           "https://securelist.com/cloud-atlas-redoctober-apt-is-back-in-style/68083/",
           "https://securelist.com/recent-cloud-atlas-activity/92016/",
@@ -135802,7 +135802,7 @@
         ],
         "apt_group": "SOFACY",
         "filename": "apt_sofacy.txt",
-        "last_modified": "2026-02-09T10:23:34+02:00",
+        "last_modified": "2026-02-14T10:48:49+02:00",
         "references": [
           "https://www.alienvault.com/open-threat-exchange/blog/from-russia-with-love-sofacy-sednit-apt28-is-in-town",
           "http://permalink.gmane.org/gmane.comp.security.ids.snort.emerging-sigs/22170",
@@ -136099,7 +136099,8 @@
           "https://x.com/smica83/status/2018659460261318958",
           "https://www.virustotal.com/gui/file/be859b4f4576ec09b69a2ef2d119939f7eb31de121aa01d38e1f0b2290f5a15e/detection",
           "https://x.com/smica83/status/2020539423285203102",
-          "https://www.virustotal.com/gui/file/506e7512c897514e9d312a1532d2e2949ec8ebd73f6ca52740fb5e3306f08843/detection"
+          "https://www.virustotal.com/gui/file/506e7512c897514e9d312a1532d2e2949ec8ebd73f6ca52740fb5e3306f08843/detection",
+          "https://x.com/LAB52io/status/2022281566513180933"
         ]
       },
       "statistics": {
