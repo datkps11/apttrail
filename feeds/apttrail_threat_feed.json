@@ -140698,6 +140698,7 @@
           "lx-yindu.top",
           "lx2cbhe5vee0e1.xyz",
           "lysupport.help",
+          "m.nflstores.org",
           "m4support.help",
           "m4support.live",
           "maha.gov.in.onlinenic.in.net",
@@ -140727,6 +140728,7 @@
           "mail.indiandefence.services",
           "mail.isroddp.com",
           "mail.main-sci.app",
+          "mail.nflstores.org",
           "mail.putir.shop",
           "mail.sksewa.in",
           "mail.v8s.co",
@@ -140863,6 +140865,7 @@
           "newsbizupdates.net",
           "newsindia.ddns.net",
           "newsupdates.myftp.org",
+          "nflstores.org",
           "ngicrs.info",
           "ngicrs.online",
           "nhrcare.help",
@@ -141415,6 +141418,7 @@
           "vspcloud.com",
           "w-yudfjp.shop",
           "wa-e.in",
+          "wap.nflstores.org",
           "waqarawan.xyz",
           "waqers.duckdns.org",
           "warfarestudies.in",
@@ -142477,7 +142481,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-02-11T09:58:47+02:00",
+        "last_modified": "2026-02-15T17:09:52+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -143565,12 +143569,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3341,
+          "domain": 3345,
           "file_path": 40,
           "ipv4": 807,
           "url": 125
         },
-        "total": 4313
+        "total": 4317
       }
     },
     "TRIANGULATION": {
