@@ -112247,6 +112247,7 @@
           "mx.dropfile.online",
           "mx.hiring-you.com",
           "mx2.dropfile.online",
+          "my-c0m.pages.dev",
           "my-n8n-76.duckdns.org",
           "my3website.pages.dev",
           "mydealoman.com",
@@ -114951,7 +114952,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-14T21:25:00+02:00",
+        "last_modified": "2026-02-15T15:23:53+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -116112,12 +116113,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3645,
+          "domain": 3646,
           "file_path": 476,
           "ipv4": 504,
           "url": 102
         },
-        "total": 4727
+        "total": 4728
       }
     },
     "LAZYSCRIPTER": {
