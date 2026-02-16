@@ -132148,6 +132148,7 @@
           "slpa-lk.nrdi-gov.com",
           "slpa.mod-gov.org",
           "slpa.news",
+          "slservices-lk.com",
           "sltelecom.servehttp.com",
           "sltmobitel.hopto.org",
           "sltnet.lk.mail-pk.org",
@@ -132657,7 +132658,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-02-16T07:47:59+02:00",
+        "last_modified": "2026-02-16T17:41:30+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -133677,17 +133678,18 @@
           "https://x.com/volrant136/status/2021636487281045747",
           "https://x.com/__0XYC__/status/2022530597097271436",
           "https://x.com/volrant136/status/2022616294122508555",
-          "https://x.com/volrant136/status/2022993609352741257"
+          "https://x.com/volrant136/status/2022993609352741257",
+          "https://x.com/volrant136/status/2023422149449699599"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3372,
+          "domain": 3373,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3464
+        "total": 3465
       }
     },
     "SILENCE": {
