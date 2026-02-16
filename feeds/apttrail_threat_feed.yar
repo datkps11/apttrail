@@ -10551,16 +10551,17 @@ rule APT_SKYCLOAK
     strings:
         $domain0 = "3xl6xhboulyuez6fuydyhj7pdvkshzn4ogsmgwbb3ukrkvgi6bcwvfyd\.onion" ascii wide nocase
         $domain1 = "e3mnde5uyuxjoztup6t3m7nykbicexbzra76ucligwgsaez65w63y2ad\.onion" ascii wide nocase
-        $domain2 = "kvk46su7d2qi6g4n43syp4zbsf2rihnc6ztj77qtc2ojvewjqvqilnqd\.onion" ascii wide nocase
-        $domain3 = "q35x354qfx43klbx5wd2iw7272wrrhcvgwqqbwut44yiui2hw7cz7fyd\.onion" ascii wide nocase
-        $domain4 = "yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd\.onion" ascii wide nocase
-        $ip5 = "176.169.236.210" ascii wide
-        $ip6 = "188.116.26.254" ascii wide
-        $ip7 = "193.138.81.106" ascii wide
-        $ip8 = "74.208.183.104" ascii wide
-        $ip9 = "81.141.112.253" ascii wide
-        $ip10 = "91.208.206.67" ascii wide
-        $ip11 = "95.179.192.8" ascii wide
+        $domain2 = "iz4cthf7lios7igq7lvvlgg6xyn5eqowfue5wgsdlgdipueam7av32ad\.onion" ascii wide nocase
+        $domain3 = "kvk46su7d2qi6g4n43syp4zbsf2rihnc6ztj77qtc2ojvewjqvqilnqd\.onion" ascii wide nocase
+        $domain4 = "q35x354qfx43klbx5wd2iw7272wrrhcvgwqqbwut44yiui2hw7cz7fyd\.onion" ascii wide nocase
+        $domain5 = "yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd\.onion" ascii wide nocase
+        $ip6 = "176.169.236.210" ascii wide
+        $ip7 = "188.116.26.254" ascii wide
+        $ip8 = "193.138.81.106" ascii wide
+        $ip9 = "74.208.183.104" ascii wide
+        $ip10 = "81.141.112.253" ascii wide
+        $ip11 = "91.208.206.67" ascii wide
+        $ip12 = "95.179.192.8" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)

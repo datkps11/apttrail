@@ -93669,6 +93669,7 @@
           "artproject79-part79.site",
           "asaninst.site",
           "asanpolicy.lol",
+          "asdfs432.dns.navy",
           "asdlfkj.asdofji.ev",
           "asdofji.ev",
           "asdop.live",
@@ -96119,6 +96120,7 @@
           "fccrestoretp.site",
           "fcgresp.space",
           "fcklewc.top",
+          "fd6we5.dns.army",
           "fdeocsafe.site",
           "fdghrtymxzaree4g.cfd",
           "fdgjksfiewr.tech",
@@ -96443,6 +96445,7 @@
           "gemini.ns01.info",
           "gemnv.online",
           "gemnv.space",
+          "gen-ker.dynv6.net",
           "geneinfo.n-e.kr",
           "general-second.org-help.com",
           "general-sign.o-r.kr",
@@ -108361,6 +108364,7 @@
           "27.102.137.181:443",
           "27.102.137.214:443",
           "27.102.137.93:443",
+          "27.102.138.152:3389",
           "27.102.138.163:443",
           "27.102.138.181:443",
           "38.110.1.69:993",
@@ -108435,6 +108439,7 @@
           "http://27.102.137.242",
           "http://27.102.137.93",
           "http://27.102.138.10",
+          "http://27.102.138.152",
           "http://27.102.138.163",
           "http://27.102.138.181",
           "http://27.102.138.216",
@@ -108475,7 +108480,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-02-16T13:48:05+02:00",
+        "last_modified": "2026-02-16T23:15:52+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -109937,17 +109942,20 @@
           "https://www.virustotal.com/gui/ip-address/118.193.68.242/relations",
           "https://x.com/WabiSabi777_/status/2022255046268952842",
           "https://www.virustotal.com/gui/file/a40a61e54be9cc1671ea6832fef8139ce811a7d759058bb8b4ca86863f4cc1bd/detecion",
-          "https://www.virustotal.com/gui/ip-address/27.102.138.8/relations"
+          "https://www.virustotal.com/gui/ip-address/27.102.138.8/relations",
+          "https://x.com/Ghostyak/status/2023245449306726801",
+          "https://www.shodan.io/host/27.102.138.152",
+          "https://x.com/Ghostyak/status/2022822846058369525"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 15351,
+          "domain": 15354,
           "file_path": 282,
-          "ipv4": 75,
-          "url": 55
+          "ipv4": 76,
+          "url": 56
         },
-        "total": 15763
+        "total": 15768
       }
     },
     "KUN3": {
@@ -134144,6 +134152,7 @@
         "domain": [
           "3xl6xhboulyuez6fuydyhj7pdvkshzn4ogsmgwbb3ukrkvgi6bcwvfyd.onion",
           "e3mnde5uyuxjoztup6t3m7nykbicexbzra76ucligwgsaez65w63y2ad.onion",
+          "iz4cthf7lios7igq7lvvlgg6xyn5eqowfue5wgsdlgdipueam7av32ad.onion",
           "kvk46su7d2qi6g4n43syp4zbsf2rihnc6ztj77qtc2ojvewjqvqilnqd.onion",
           "q35x354qfx43klbx5wd2iw7272wrrhcvgwqqbwut44yiui2hw7cz7fyd.onion",
           "yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd.onion"
@@ -134162,7 +134171,7 @@
         "aliases": [],
         "apt_group": "SKYCLOAK",
         "filename": "apt_skycloak.txt",
-        "last_modified": "2026-02-03T11:22:46+02:00",
+        "last_modified": "2026-02-16T22:41:53+02:00",
         "references": [
           "https://x.com/smica83/status/1982342773626880217",
           "https://x.com/PrakkiSathwik/status/1984324320731283614",
@@ -134176,15 +134185,17 @@
           "https://www.virustotal.com/gui/file/1fbdb99357ace6d6db830c63850a6e8a4ea3607776c4668feb135f3ff0d95151/detection",
           "https://x.com/PrakkiSathwik/status/2017248214513320070",
           "https://www.virustotal.com/gui/file/a79b5162f9a49df3db4f001325938b9dc7bdc471b71108ed178350c89252e3a5/detection",
-          "https://x.com/PrakkiSathwik/status/2016775145189429494"
+          "https://x.com/PrakkiSathwik/status/2016775145189429494",
+          "https://x.com/PrakkiSathwik/status/2023437611780763851",
+          "https://www.virustotal.com/gui/file/a43e2231b200b294b35dfb50fad446a0a7e42783c4f541981bc85a8930fb670a/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 5,
+          "domain": 6,
           "ipv4": 7
         },
-        "total": 12
+        "total": 13
       }
     },
     "SNOWMAN": {
