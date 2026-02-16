@@ -110455,6 +110455,7 @@
           "app.eskillion.com",
           "app.evalcrew.com",
           "app.evalium-expertises.us",
+          "app.evaliuminsights.com",
           "app.evalixhub.com",
           "app.evalsuit.com",
           "app.evaluino.com",
@@ -111404,6 +111405,7 @@
           "evalium-expertise1.pages.dev",
           "evalium-expertise360.com",
           "evalium-expertises.us",
+          "evaliuminsights.com",
           "evalixhub.com",
           "evalonboard.com",
           "evalsuit.com",
@@ -114953,7 +114955,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-15T15:23:53+02:00",
+        "last_modified": "2026-02-16T12:25:46+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -116114,12 +116116,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3646,
+          "domain": 3648,
           "file_path": 476,
           "ipv4": 504,
           "url": 102
         },
-        "total": 4728
+        "total": 4730
       }
     },
     "LAZYSCRIPTER": {
