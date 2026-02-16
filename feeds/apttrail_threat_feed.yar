@@ -4516,20 +4516,21 @@ rule APT_FORUMTROLL
         $domain31 = "passport\.yandeks\.info" ascii wide nocase
         $domain32 = "peerflix\.net" ascii wide nocase
         $domain33 = "perf-service-clients2\.global\.ssl\.fastly\.net" ascii wide nocase
-        $domain34 = "planitprima\.info" ascii wide nocase
-        $domain35 = "planitprima\.tech" ascii wide nocase
-        $domain36 = "primakovreadings\.info" ascii wide nocase
-        $domain37 = "primakovreadings2025\.info" ascii wide nocase
-        $domain38 = "rabotnik\.today" ascii wide nocase
-        $domain39 = "rdp-api-front\.global\.ssl\.fastly\.net" ascii wide nocase
-        $domain40 = "rdp-query-api\.global\.ssl\.fastly\.net" ascii wide nocase
-        $domain41 = "rdp-statistics-api\.global\.ssl\.fastly\.net" ascii wide nocase
-        $domain42 = "srv480138\.hstgr\.cloud" ascii wide nocase
-        $domain43 = "srv484118\.hstgr\.cloud" ascii wide nocase
-        $domain44 = "status-portal-api\.global\.ssl\.fastly\.net" ascii wide nocase
-        $domain45 = "svobody\.org" ascii wide nocase
-        $domain46 = "ulitsa\.svobody\.org" ascii wide nocase
-        $domain47 = "yandeks\.info" ascii wide nocase
+        $domain34 = "planitprima\.digital" ascii wide nocase
+        $domain35 = "planitprima\.info" ascii wide nocase
+        $domain36 = "planitprima\.tech" ascii wide nocase
+        $domain37 = "primakovreadings\.info" ascii wide nocase
+        $domain38 = "primakovreadings2025\.info" ascii wide nocase
+        $domain39 = "rabotnik\.today" ascii wide nocase
+        $domain40 = "rdp-api-front\.global\.ssl\.fastly\.net" ascii wide nocase
+        $domain41 = "rdp-query-api\.global\.ssl\.fastly\.net" ascii wide nocase
+        $domain42 = "rdp-statistics-api\.global\.ssl\.fastly\.net" ascii wide nocase
+        $domain43 = "srv480138\.hstgr\.cloud" ascii wide nocase
+        $domain44 = "srv484118\.hstgr\.cloud" ascii wide nocase
+        $domain45 = "status-portal-api\.global\.ssl\.fastly\.net" ascii wide nocase
+        $domain46 = "svobody\.org" ascii wide nocase
+        $domain47 = "ulitsa\.svobody\.org" ascii wide nocase
+        $domain48 = "yandeks\.info" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)

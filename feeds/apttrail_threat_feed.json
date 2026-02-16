@@ -24012,6 +24012,7 @@
           "passport.yandeks.info",
           "peerflix.net",
           "perf-service-clients2.global.ssl.fastly.net",
+          "planitprima.digital",
           "planitprima.info",
           "planitprima.tech",
           "primakovreadings.info",
@@ -24035,7 +24036,7 @@
         ],
         "apt_group": "FORUMTROLL",
         "filename": "apt_forumtroll.txt",
-        "last_modified": "2026-02-13T14:54:01+02:00",
+        "last_modified": "2026-02-16T07:49:56+02:00",
         "references": [
           "https://twitter.com/k3yp0d/status/1782082055905690092",
           "https://x.com/blackorbird/status/1935254424789860703",
@@ -24060,9 +24061,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 48
+          "domain": 49
         },
-        "total": 48
+        "total": 49
       }
     },
     "FRUITYARMOR": {
@@ -131348,6 +131349,7 @@
           "navy-mil-bd-download.up.railway.app",
           "navy-mil-bd.jmicc.xyz",
           "navy-mil.co",
+          "navy-pk-dils-maint213-ifwcnxl4.leapcell.dev",
           "navy-support.org",
           "navy.jmicc.xyz",
           "navy.lk.gov-co.org",
@@ -132594,7 +132596,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-02-14T12:19:24+02:00",
+        "last_modified": "2026-02-16T07:47:59+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -133613,17 +133615,18 @@
           "https://x.com/__0XYC__/status/2021430578197995793",
           "https://x.com/volrant136/status/2021636487281045747",
           "https://x.com/__0XYC__/status/2022530597097271436",
-          "https://x.com/volrant136/status/2022616294122508555"
+          "https://x.com/volrant136/status/2022616294122508555",
+          "https://x.com/volrant136/status/2022993609352741257"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3371,
+          "domain": 3372,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3463
+        "total": 3464
       }
     },
     "SILENCE": {
