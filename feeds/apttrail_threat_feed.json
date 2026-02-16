@@ -129190,12 +129190,14 @@
           "1d06bfb2.local.update.fia-gov.org",
           "1d06bfb2.scan.update.fia-gov.org",
           "203-124351878443.hopto.org",
+          "234rewr44dfs34sdf43454353fd4ffg345rr4.netlify.app",
           "24170-40494.bacloud.info",
           "2aeb306b-4c5f-4cc6-a7a2-6fcd96612b9d.us-east-1.cloud.genez.io",
           "2let.org",
           "38273409.mail-defence-lk-loging-horde.pages.dev",
           "3nxyc.pmreco.xyz",
           "423743f1-53d2-41bf-9dba-e1e0b7c8f460.pmreco.xyz",
+          "435fdgfd-fgh675gh56jh-65jhg65ghjytu65.netlify.app",
           "4yj7f.pmreco.xyz",
           "5673696e-bcf9-4a34-848d-2e6875b0561e.us-east-1.cloud.genez.io",
           "5vs9r.pmreco.xyz",
@@ -129212,6 +129214,7 @@
           "8ad94e36.cdn-caa-sco.pages.dev",
           "96c54.pmreco.xyz",
           "982m31.pmreco.xyz",
+          "9af72fg4jg75hg8jg94kg94k9fk390gk4170674tr69bf1f766cdec1d11.pages.dev",
           "a.bc.1d06bfb2.check.update.fia-gov.org",
           "a.bc.1d06bfb2.local.update.fia-gov.org",
           "a.bc.1d06bfb2.scan.update.fia-gov.org",
@@ -130745,6 +130748,7 @@
           "mail-pc.gov-pk.online",
           "mail-pk.com",
           "mail-pk.org",
+          "mail-pmo-gov-lk3u3i495ui3jkdf9d549fgkj45fg94jdfg904j439g.pages.dev",
           "mail-pmogovpk.servehttp.com",
           "mail-pof-gov-pk.government-pak.workers.dev",
           "mail-pofgovpk.3utilities.com",
@@ -132658,7 +132662,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-02-16T17:41:30+02:00",
+        "last_modified": "2026-02-16T18:08:52+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -133684,12 +133688,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3373,
+          "domain": 3377,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3465
+        "total": 3469
       }
     },
     "SILENCE": {
@@ -145316,21 +145320,37 @@
           "etherial.groover.workers.dev",
           "floral-paper-8eb1.pihara4672.workers.dev",
           "groover.workers.dev",
+          "harnetsecuriity.com",
+          "harnetsecurity.com",
+          "horpetsecurity.com",
           "keystore-explorer.com",
           "mstore.framfarmers.co.uk",
           "pofelal314.workers.dev",
           "rv-tools.eu",
           "rvtoo1s.com",
+          "rvtoolaca.online",
+          "rvtoolas.com",
           "rvtooles.com",
           "rvtoolis.com",
           "rvtoolit.com",
           "rvtoolsac.com",
           "rvtoolsacad.com",
+          "rvtoolsacs.com",
+          "rvtoolsax.com",
+          "rvtoolsed.com",
+          "rvtoolshq.com",
+          "rvtoolsio.com",
+          "rvtoolsl.com",
+          "rvtoolsnow.com",
+          "rvtoolsnt.com",
+          "rvtoolso.com",
           "rvtoolspro.com",
           "rvtoolspro.info",
           "rvtoolspro.online",
+          "rvtoolss.com",
           "rvtoolsus.com",
           "rvtoolsusa.com",
+          "rvtouls.com",
           "server-cd2.bipewi2747.workers.dev",
           "server-cdn.jawigaw383.workers.dev",
           "server-cdn.lafise2419.workers.dev",
@@ -145353,6 +145373,8 @@
           "soft-base-01.ginigiy117.workers.dev",
           "soft-dns.sejilod748.workers.dev",
           "ssl.bapiyat727.workers.dev",
+          "vmback.com",
+          "vmbacku.com",
           "vmbackups.com",
           "vmsbackup.com",
           "web-app.dasik14289.workers.dev",
@@ -145366,7 +145388,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-01-22T10:00:49+02:00",
+        "last_modified": "2026-02-16T18:37:31+02:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -145380,9 +145402,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 65
+          "domain": 83
         },
-        "total": 65
+        "total": 83
       }
     },
     "UNC2529": {
