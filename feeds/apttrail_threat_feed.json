@@ -131822,6 +131822,7 @@
           "pk.officemuwork.online",
           "pk.pk-mail.org",
           "pkcert-arbeitssicherheit.de",
+          "pkcert-gov-pk.workers.dev",
           "pkcert.com",
           "pkcert.gov.pk-mail.co",
           "pkcert.live",
@@ -132684,7 +132685,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-02-17T14:58:38+02:00",
+        "last_modified": "2026-02-17T15:49:21+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -133707,17 +133708,18 @@
           "https://x.com/volrant136/status/2022993609352741257",
           "https://x.com/volrant136/status/2023422149449699599",
           "https://x.com/suyog41/status/2023736857771827313",
-          "https://www.virustotal.com/gui/file/f0ee184cdc7ba2a87a669462942f11ebb8d98e10d887e5a668668b5fd822bdda/detection"
+          "https://www.virustotal.com/gui/file/f0ee184cdc7ba2a87a669462942f11ebb8d98e10d887e5a668668b5fd822bdda/detection",
+          "https://www.virustotal.com/gui/ip-address/172.67.166.115/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3379,
+          "domain": 3380,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3471
+        "total": 3472
       }
     },
     "SILENCE": {
