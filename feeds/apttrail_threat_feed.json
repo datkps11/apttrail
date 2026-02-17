@@ -126675,6 +126675,7 @@
           "ws.iferc.com"
         ],
         "ipv4": [
+          "82.221.100.40:443",
           "95.174.65.218:443"
         ]
       },
@@ -126682,7 +126683,7 @@
         "aliases": [],
         "apt_group": "PUNISHINGOWL",
         "filename": "apt_punishingowl.txt",
-        "last_modified": "2026-01-31T23:17:27+02:00",
+        "last_modified": "2026-02-17T12:49:06+02:00",
         "references": [
           "https://habr.com/ru/companies/pt/articles/990374/",
           "https://www.virustotal.com/gui/file/f25506f5a7f3580edae159bbdbca3f8d17dfeeaadcc548c8202a764399550778/detection",
@@ -126695,9 +126696,9 @@
       "statistics": {
         "by_type": {
           "domain": 9,
-          "ipv4": 1
+          "ipv4": 2
         },
-        "total": 10
+        "total": 11
       }
     },
     "PURPLEHAZE": {

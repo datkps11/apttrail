@@ -9087,7 +9087,8 @@ rule APT_PUNISHINGOWL
         $domain6 = "refreb0\.com" ascii wide nocase
         $domain7 = "refreb1\.info" ascii wide nocase
         $domain8 = "ws\.iferc\.com" ascii wide nocase
-        $ip9 = "95.174.65.218" ascii wide
+        $ip9 = "82.221.100.40" ascii wide
+        $ip10 = "95.174.65.218" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)

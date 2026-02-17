@@ -3936,8 +3936,8 @@ alert dns any any -> any any (msg:"APT PREDATOR - Malicious Domain Activity"; dn
 # PUNISHINGOWL - Domain Indicators (9 domains)
 alert dns any any -> any any (msg:"APT PUNISHINGOWL - Malicious Domain Activity"; dns.query; pcre:"/^(acquerifec\.com|ayobabelan\.com|b0aweb0\.refec\.site|bloggoversikten\.com|outlook-d12\.zyns\.com|refec\.site|refreb0\.com|refreb1\.info|ws\.iferc\.com)$/i"; classtype:trojan-activity; sid:9002208; rev:1; metadata:apt_group PUNISHINGOWL, chunk 1;)
 
-# PUNISHINGOWL - IPv4 Indicators (1 IPs)
-alert ip any any -> [95.174.65.218] any (msg:"APT PUNISHINGOWL - Traffic to Malicious IPs"; threshold:type limit, track by_src, count 1, seconds 3600; classtype:trojan-activity; sid:9002209; rev:1; metadata:apt_group PUNISHINGOWL, chunk 1;)
+# PUNISHINGOWL - IPv4 Indicators (2 IPs)
+alert ip any any -> [82.221.100.40,95.174.65.218] any (msg:"APT PUNISHINGOWL - Traffic to Malicious IPs"; threshold:type limit, track by_src, count 1, seconds 3600; classtype:trojan-activity; sid:9002209; rev:1; metadata:apt_group PUNISHINGOWL, chunk 1;)
 
 # ==================================================
 # APT Group: PURPLEHAZE
