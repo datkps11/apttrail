@@ -111442,6 +111442,7 @@
           "en.wfinance.org",
           "encorpost.com",
           "endesway.life",
+          "energydonate.com",
           "engedzanitechnologies.co.za",
           "enimvzud.mouradvps8hostwin.online",
           "enrollcrux.com",
@@ -112105,6 +112106,7 @@
           "m.contradecapital.com",
           "m.docsend.online",
           "m.dropfile.online",
+          "m.energydonate.com",
           "m21gk.wiremockapi.cloud",
           "maaetech.in",
           "macamhelp.online",
@@ -115033,7 +115035,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-17T10:30:49+02:00",
+        "last_modified": "2026-02-17T17:19:08+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -116189,17 +116191,20 @@
           "https://www.reversinglabs.com/blog/fake-recruiter-campaign-crypto-devs",
           "https://www.virustotal.com/gui/file/2aaf4c62372fb1c84178d258576561d35d2a437341905db0c7c7a3d75219333f/detection",
           "https://x.com/unpacker/status/2022669422411043001",
-          "https://sp4rk.medium.com/beyond-the-backdoor-how-contagious-interview-is-surgically-tampering-with-metamask-wallets-0314ae901d85"
+          "https://sp4rk.medium.com/beyond-the-backdoor-how-contagious-interview-is-surgically-tampering-with-metamask-wallets-0314ae901d85",
+          "https://www.virustotal.com/gui/file/8ff100ca86cb62117f1290e71d5f9c0519661d6c955d9fcfb71f0bbdf75b51b3/detection",
+          "https://www.virustotal.com/gui/file/972b598d709b66b35900dc21c5225e5f0d474f241fefa890b381089afd7d44ee/detection",
+          "https://www.virustotal.com/gui/file/d4c7dba741ee2eb888de9e3117fb2b1a759586b84e67b176d891c6811754ef3f/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3659,
+          "domain": 3661,
           "file_path": 476,
           "ipv4": 504,
           "url": 102
         },
-        "total": 4741
+        "total": 4743
       }
     },
     "LAZYSCRIPTER": {
