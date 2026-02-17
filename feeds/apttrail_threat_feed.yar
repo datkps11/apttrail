@@ -12337,24 +12337,24 @@ rule APT_UNC2465
         $domain29 = "rustore\.rvtouls\.com" ascii wide nocase
         $domain30 = "rv-tools\.eu" ascii wide nocase
         $domain31 = "rvtoo1s\.com" ascii wide nocase
-        $domain32 = "rvtoolaca\.online" ascii wide nocase
-        $domain33 = "rvtoolas\.com" ascii wide nocase
-        $domain34 = "rvtooles\.com" ascii wide nocase
-        $domain35 = "rvtoolis\.com" ascii wide nocase
-        $domain36 = "rvtoolit\.com" ascii wide nocase
-        $domain37 = "rvtoolsac\.com" ascii wide nocase
-        $domain38 = "rvtoolsacad\.com" ascii wide nocase
-        $domain39 = "rvtoolsacs\.com" ascii wide nocase
-        $domain40 = "rvtoolsax\.com" ascii wide nocase
-        $domain41 = "rvtoolsed\.com" ascii wide nocase
-        $domain42 = "rvtoolsgo\.com" ascii wide nocase
-        $domain43 = "rvtoolshq\.com" ascii wide nocase
-        $domain44 = "rvtoolsio\.com" ascii wide nocase
-        $domain45 = "rvtoolsl\.com" ascii wide nocase
-        $domain46 = "rvtoolslab\.com" ascii wide nocase
-        $domain47 = "rvtoolsnow\.com" ascii wide nocase
-        $domain48 = "rvtoolsnt\.com" ascii wide nocase
-        $domain49 = "rvtoolso\.com" ascii wide nocase
+        $domain32 = "rvtoolaca\.com" ascii wide nocase
+        $domain33 = "rvtoolaca\.online" ascii wide nocase
+        $domain34 = "rvtoolacs\.com" ascii wide nocase
+        $domain35 = "rvtoolas\.com" ascii wide nocase
+        $domain36 = "rvtooles\.com" ascii wide nocase
+        $domain37 = "rvtoolis\.com" ascii wide nocase
+        $domain38 = "rvtoolit\.com" ascii wide nocase
+        $domain39 = "rvtoolsac\.com" ascii wide nocase
+        $domain40 = "rvtoolsacad\.com" ascii wide nocase
+        $domain41 = "rvtoolsacs\.com" ascii wide nocase
+        $domain42 = "rvtoolsax\.com" ascii wide nocase
+        $domain43 = "rvtoolsed\.com" ascii wide nocase
+        $domain44 = "rvtoolses\.com" ascii wide nocase
+        $domain45 = "rvtoolsgo\.com" ascii wide nocase
+        $domain46 = "rvtoolshq\.com" ascii wide nocase
+        $domain47 = "rvtoolsio\.com" ascii wide nocase
+        $domain48 = "rvtoolsl\.com" ascii wide nocase
+        $domain49 = "rvtoolslab\.com" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)

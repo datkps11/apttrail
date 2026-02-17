@@ -129563,6 +129563,7 @@
           "cdn-m1l.net",
           "cdn-noc.net",
           "cdn-pak.net",
+          "cdn-pkcert-gov-pk.pages.dev",
           "cdn-ps.net",
           "cdn-re.net",
           "cdn-secure.net",
@@ -131551,6 +131552,7 @@
           "nrdi-govt.com",
           "nrlpak.pkgov.org",
           "nrots.net",
+          "nrtc-com-pk.pages.dev",
           "nrtc-supporl2.com",
           "nrtc-support.com",
           "ns.seiffenn.nohost.me",
@@ -132682,7 +132684,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-02-16T18:08:52+02:00",
+        "last_modified": "2026-02-17T14:58:38+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -133703,17 +133705,19 @@
           "https://x.com/__0XYC__/status/2022530597097271436",
           "https://x.com/volrant136/status/2022616294122508555",
           "https://x.com/volrant136/status/2022993609352741257",
-          "https://x.com/volrant136/status/2023422149449699599"
+          "https://x.com/volrant136/status/2023422149449699599",
+          "https://x.com/suyog41/status/2023736857771827313",
+          "https://www.virustotal.com/gui/file/f0ee184cdc7ba2a87a669462942f11ebb8d98e10d887e5a668668b5fd822bdda/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3377,
+          "domain": 3379,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3469
+        "total": 3471
       }
     },
     "SILENCE": {
@@ -145352,7 +145356,9 @@
           "rustore.rvtouls.com",
           "rv-tools.eu",
           "rvtoo1s.com",
+          "rvtoolaca.com",
           "rvtoolaca.online",
+          "rvtoolacs.com",
           "rvtoolas.com",
           "rvtooles.com",
           "rvtoolis.com",
@@ -145362,11 +145368,13 @@
           "rvtoolsacs.com",
           "rvtoolsax.com",
           "rvtoolsed.com",
+          "rvtoolses.com",
           "rvtoolsgo.com",
           "rvtoolshq.com",
           "rvtoolsio.com",
           "rvtoolsl.com",
           "rvtoolslab.com",
+          "rvtoolsnet.com",
           "rvtoolsnow.com",
           "rvtoolsnt.com",
           "rvtoolso.com",
@@ -145374,9 +145382,11 @@
           "rvtoolspro.info",
           "rvtoolspro.online",
           "rvtoolss.com",
+          "rvtoolsun.com",
           "rvtoolsus.com",
           "rvtoolsusa.com",
           "rvtouls.com",
+          "rvvtools.com",
           "server-cd2.bipewi2747.workers.dev",
           "server-cdn.jawigaw383.workers.dev",
           "server-cdn.lafise2419.workers.dev",
@@ -145400,6 +145410,9 @@
           "soft-dns.sejilod748.workers.dev",
           "ssl.bapiyat727.workers.dev",
           "update.rvtouls.com",
+          "update.rvvtools.com",
+          "vchekac.com",
+          "vchekacad.com",
           "vmback.com",
           "vmbacku.com",
           "vmbackups.com",
@@ -145415,7 +145428,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-02-16T19:13:44+02:00",
+        "last_modified": "2026-02-17T14:53:43+02:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -145429,9 +145442,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 87
+          "domain": 96
         },
-        "total": 87
+        "total": 96
       }
     },
     "UNC2529": {
