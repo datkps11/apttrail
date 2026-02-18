@@ -134850,6 +134850,7 @@
           "iz4cthf7lios7igq7lvvlgg6xyn5eqowfue5wgsdlgdipueam7av32ad.onion",
           "kvk46su7d2qi6g4n43syp4zbsf2rihnc6ztj77qtc2ojvewjqvqilnqd.onion",
           "q35x354qfx43klbx5wd2iw7272wrrhcvgwqqbwut44yiui2hw7cz7fyd.onion",
+          "uliw3eyjz5gx7hup73jbnyeqrdlrzvzxxsbww2tewp3sbh2qtpbasad.onion",
           "yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd.onion"
         ],
         "ipv4": [
@@ -134863,10 +134864,12 @@
         ]
       },
       "metadata": {
-        "aliases": [],
+        "aliases": [
+          "vortex werewolf"
+        ],
         "apt_group": "SKYCLOAK",
         "filename": "apt_skycloak.txt",
-        "last_modified": "2026-02-16T22:41:53+02:00",
+        "last_modified": "2026-02-18T12:04:08+02:00",
         "references": [
           "https://x.com/smica83/status/1982342773626880217",
           "https://x.com/PrakkiSathwik/status/1984324320731283614",
@@ -134882,15 +134885,17 @@
           "https://www.virustotal.com/gui/file/a79b5162f9a49df3db4f001325938b9dc7bdc471b71108ed178350c89252e3a5/detection",
           "https://x.com/PrakkiSathwik/status/2016775145189429494",
           "https://x.com/PrakkiSathwik/status/2023437611780763851",
-          "https://www.virustotal.com/gui/file/a43e2231b200b294b35dfb50fad446a0a7e42783c4f541981bc85a8930fb670a/detection"
+          "https://www.virustotal.com/gui/file/a43e2231b200b294b35dfb50fad446a0a7e42783c4f541981bc85a8930fb670a/detection",
+          "https://x.com/smica83/status/2023827560111763702",
+          "https://x.com/t3ft3lb/status/2023910905134686227"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 6,
+          "domain": 7,
           "ipv4": 7
         },
-        "total": 13
+        "total": 14
       }
     },
     "SNOWMAN": {

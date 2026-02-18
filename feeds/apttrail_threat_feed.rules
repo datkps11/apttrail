@@ -4424,10 +4424,11 @@ alert dns any any -> any any (msg:"APT SIMBAA - Malicious Domain Activity"; dns.
 
 # ==================================================
 # APT Group: SKYCLOAK
+# Aliases: vortex werewolf
 # ==================================================
 
-# SKYCLOAK - Domain Indicators (6 domains)
-alert dns any any -> any any (msg:"APT SKYCLOAK - Malicious Domain Activity"; dns.query; pcre:"/^(3xl6xhboulyuez6fuydyhj7pdvkshzn4ogsmgwbb3ukrkvgi6bcwvfyd\.onion|e3mnde5uyuxjoztup6t3m7nykbicexbzra76ucligwgsaez65w63y2ad\.onion|iz4cthf7lios7igq7lvvlgg6xyn5eqowfue5wgsdlgdipueam7av32ad\.onion|kvk46su7d2qi6g4n43syp4zbsf2rihnc6ztj77qtc2ojvewjqvqilnqd\.onion|q35x354qfx43klbx5wd2iw7272wrrhcvgwqqbwut44yiui2hw7cz7fyd\.onion|yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd\.onion)$/i"; classtype:trojan-activity; sid:9002406; rev:1; metadata:apt_group SKYCLOAK, chunk 1;)
+# SKYCLOAK - Domain Indicators (7 domains)
+alert dns any any -> any any (msg:"APT SKYCLOAK - Malicious Domain Activity"; dns.query; pcre:"/^(3xl6xhboulyuez6fuydyhj7pdvkshzn4ogsmgwbb3ukrkvgi6bcwvfyd\.onion|e3mnde5uyuxjoztup6t3m7nykbicexbzra76ucligwgsaez65w63y2ad\.onion|iz4cthf7lios7igq7lvvlgg6xyn5eqowfue5wgsdlgdipueam7av32ad\.onion|kvk46su7d2qi6g4n43syp4zbsf2rihnc6ztj77qtc2ojvewjqvqilnqd\.onion|q35x354qfx43klbx5wd2iw7272wrrhcvgwqqbwut44yiui2hw7cz7fyd\.onion|uliw3eyjz5gx7hup73jbnyeqrdlrzvzxxsbww2tewp3sbh2qtpbasad\.onion|yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd\.onion)$/i"; classtype:trojan-activity; sid:9002406; rev:1; metadata:apt_group SKYCLOAK, chunk 1;)
 
 # SKYCLOAK - IPv4 Indicators (7 IPs)
 alert ip any any -> [176.169.236.210,188.116.26.254,193.138.81.106,74.208.183.104,81.141.112.253,91.208.206.67,95.179.192.8] any (msg:"APT SKYCLOAK - Traffic to Malicious IPs"; threshold:type limit, track by_src, count 1, seconds 3600; classtype:trojan-activity; sid:9002407; rev:1; metadata:apt_group SKYCLOAK, chunk 1;)

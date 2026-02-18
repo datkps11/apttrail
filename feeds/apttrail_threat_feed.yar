@@ -10617,6 +10617,7 @@ rule APT_SKYCLOAK
         description = "Detects IOCs associated with APT SKYCLOAK"
         author = "APTtrail Automated Collection"
         apt_group = "SKYCLOAK"
+        aliases = "vortex werewolf"
         reference = "https://cyble.com/blog/weaponized-military-documents-deliver-backdoor/"
         severity = "high"
         tlp = "white"
@@ -10627,14 +10628,15 @@ rule APT_SKYCLOAK
         $domain2 = "iz4cthf7lios7igq7lvvlgg6xyn5eqowfue5wgsdlgdipueam7av32ad\.onion" ascii wide nocase
         $domain3 = "kvk46su7d2qi6g4n43syp4zbsf2rihnc6ztj77qtc2ojvewjqvqilnqd\.onion" ascii wide nocase
         $domain4 = "q35x354qfx43klbx5wd2iw7272wrrhcvgwqqbwut44yiui2hw7cz7fyd\.onion" ascii wide nocase
-        $domain5 = "yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd\.onion" ascii wide nocase
-        $ip6 = "176.169.236.210" ascii wide
-        $ip7 = "188.116.26.254" ascii wide
-        $ip8 = "193.138.81.106" ascii wide
-        $ip9 = "74.208.183.104" ascii wide
-        $ip10 = "81.141.112.253" ascii wide
-        $ip11 = "91.208.206.67" ascii wide
-        $ip12 = "95.179.192.8" ascii wide
+        $domain5 = "uliw3eyjz5gx7hup73jbnyeqrdlrzvzxxsbww2tewp3sbh2qtpbasad\.onion" ascii wide nocase
+        $domain6 = "yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd\.onion" ascii wide nocase
+        $ip7 = "176.169.236.210" ascii wide
+        $ip8 = "188.116.26.254" ascii wide
+        $ip9 = "193.138.81.106" ascii wide
+        $ip10 = "74.208.183.104" ascii wide
+        $ip11 = "81.141.112.253" ascii wide
+        $ip12 = "91.208.206.67" ascii wide
+        $ip13 = "95.179.192.8" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
