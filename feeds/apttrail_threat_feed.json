@@ -134928,6 +134928,7 @@
           "3xl6xhboulyuez6fuydyhj7pdvkshzn4ogsmgwbb3ukrkvgi6bcwvfyd.onion",
           "e3mnde5uyuxjoztup6t3m7nykbicexbzra76ucligwgsaez65w63y2ad.onion",
           "iz4cthf7lios7igq7lvvlgg6xyn5eqowfue5wgsdlgdipueam7av32ad.onion",
+          "juliw3eyjz5gx7hup73jbnyeqrdlrzvzxxsbww2tewp3sbh2qtpbasad.onion",
           "kvk46su7d2qi6g4n43syp4zbsf2rihnc6ztj77qtc2ojvewjqvqilnqd.onion",
           "q35x354qfx43klbx5wd2iw7272wrrhcvgwqqbwut44yiui2hw7cz7fyd.onion",
           "uliw3eyjz5gx7hup73jbnyeqrdlrzvzxxsbww2tewp3sbh2qtpbasad.onion",
@@ -134949,7 +134950,7 @@
         ],
         "apt_group": "SKYCLOAK",
         "filename": "apt_skycloak.txt",
-        "last_modified": "2026-02-18T12:04:08+02:00",
+        "last_modified": "2026-02-18T14:24:30+02:00",
         "references": [
           "https://x.com/smica83/status/1982342773626880217",
           "https://x.com/PrakkiSathwik/status/1984324320731283614",
@@ -134967,15 +134968,17 @@
           "https://x.com/PrakkiSathwik/status/2023437611780763851",
           "https://www.virustotal.com/gui/file/a43e2231b200b294b35dfb50fad446a0a7e42783c4f541981bc85a8930fb670a/detection",
           "https://x.com/smica83/status/2023827560111763702",
-          "https://x.com/t3ft3lb/status/2023910905134686227"
+          "https://x.com/t3ft3lb/status/2023910905134686227",
+          "https://x.com/PrakkiSathwik/status/2023797472456569074",
+          "https://www.virustotal.com/gui/file/5b2ca77a39fb4617e1a50797f519e861c2b924c7258c80a4f771418bd0d31291/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 7,
+          "domain": 8,
           "ipv4": 7
         },
-        "total": 14
+        "total": 15
       }
     },
     "SNOWMAN": {
