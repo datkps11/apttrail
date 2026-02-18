@@ -8006,28 +8006,34 @@ rule APT_NONAME05716
         tlp = "white"
 
     strings:
-        $domain0 = "q7zemy6zc7ptaeks\.servehttp\.com" ascii wide nocase
-        $domain1 = "tom56gaz6poh13f28\.myftp\.org" ascii wide nocase
-        $domain2 = "v9agm8uwtjmz\.sytes\.net" ascii wide nocase
-        $domain3 = "zig35m48zur14nel40\.myftp\.org" ascii wide nocase
-        $ip4 = "109.107.181.130" ascii wide
-        $ip5 = "109.107.181.130" ascii wide
-        $ip6 = "109.107.184.11" ascii wide
-        $ip7 = "161.35.199.2" ascii wide
-        $ip8 = "161.35.199.2" ascii wide
-        $ip9 = "185.173.37.220" ascii wide
-        $ip10 = "185.173.37.220" ascii wide
-        $ip11 = "31.13.195.87" ascii wide
-        $ip12 = "77.91.66.85" ascii wide
-        $ip13 = "77.91.66.85" ascii wide
-        $ip14 = "87.121.52.9" ascii wide
-        $ip15 = "87.121.52.9" ascii wide
-        $ip16 = "91.142.79.201" ascii wide
-        $ip17 = "91.142.79.201" ascii wide
-        $ip18 = "94.140.114.239" ascii wide
-        $ip19 = "94.140.114.239" ascii wide
-        $ip20 = "94.140.115.129" ascii wide
-        $ip21 = "94.140.115.129" ascii wide
+        $domain0 = "beaconbeagle\.com" ascii wide nocase
+        $domain1 = "ftp\.beaconbeagle\.com" ascii wide nocase
+        $domain2 = "ftp\.minimedusa\.lol" ascii wide nocase
+        $domain3 = "minimedusa\.lol" ascii wide nocase
+        $domain4 = "q7zemy6zc7ptaeks\.servehttp\.com" ascii wide nocase
+        $domain5 = "tom56gaz6poh13f28\.myftp\.org" ascii wide nocase
+        $domain6 = "v9agm8uwtjmz\.sytes\.net" ascii wide nocase
+        $domain7 = "witha\.name" ascii wide nocase
+        $domain8 = "withanamemwesdvodfhthjq25a5a3uas24cpgoa7qm6gchcerzpis6qd\.onion" ascii wide nocase
+        $domain9 = "zig35m48zur14nel40\.myftp\.org" ascii wide nocase
+        $ip10 = "109.107.181.130" ascii wide
+        $ip11 = "109.107.181.130" ascii wide
+        $ip12 = "109.107.184.11" ascii wide
+        $ip13 = "161.35.199.2" ascii wide
+        $ip14 = "161.35.199.2" ascii wide
+        $ip15 = "185.173.37.220" ascii wide
+        $ip16 = "185.173.37.220" ascii wide
+        $ip17 = "31.13.195.87" ascii wide
+        $ip18 = "77.91.66.85" ascii wide
+        $ip19 = "77.91.66.85" ascii wide
+        $ip20 = "87.121.52.9" ascii wide
+        $ip21 = "87.121.52.9" ascii wide
+        $ip22 = "91.142.79.201" ascii wide
+        $ip23 = "91.142.79.201" ascii wide
+        $ip24 = "94.140.114.239" ascii wide
+        $ip25 = "94.140.114.239" ascii wide
+        $ip26 = "94.140.115.129" ascii wide
+        $ip27 = "94.140.115.129" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)

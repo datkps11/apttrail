@@ -121632,9 +121632,15 @@
     "NONAME05716": {
       "indicators": {
         "domain": [
+          "beaconbeagle.com",
+          "ftp.beaconbeagle.com",
+          "ftp.minimedusa.lol",
+          "minimedusa.lol",
           "q7zemy6zc7ptaeks.servehttp.com",
           "tom56gaz6poh13f28.myftp.org",
           "v9agm8uwtjmz.sytes.net",
+          "witha.name",
+          "withanamemwesdvodfhthjq25a5a3uas24cpgoa7qm6gchcerzpis6qd.onion",
           "zig35m48zur14nel40.myftp.org"
         ],
         "file_path": [
@@ -121667,6 +121673,7 @@
         ],
         "url": [
           "http://161.35.199.2",
+          "http://168.119.241.4",
           "http://212.73.134.208",
           "http://31.13.195.87",
           "http://87.121.52.9",
@@ -121682,7 +121689,7 @@
         ],
         "apt_group": "NONAME05716",
         "filename": "apt_noname05716.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-02-18T17:00:14+02:00",
         "references": [
           "https://decoded.avast.io/martinchlumecky/bobik/",
           "https://www.virustotal.com/gui/ip-address/2.57.122.243/relations",
@@ -121696,17 +121703,18 @@
           "https://decoded.avast.io/martinchlumecky/ddosia-project-how-noname05716-is-trying-to-improve-the-efficiency-of-ddos-attacks/",
           "https://x.com/skocherhan/status/1898214290655428964",
           "https://www.virustotal.com/gui/file/9707920bd84a9aafcb5efc112ed19ec2d23b5e36dcc3caba33f5e6aadf0c558f/detection",
-          "https://www.virustotal.com/gui/file/5588d1c5901d61bb09cd2fc86d523e2ccbc35a0565fd63c73b62757ac2ee51f5/detection"
+          "https://www.virustotal.com/gui/file/5588d1c5901d61bb09cd2fc86d523e2ccbc35a0565fd63c73b62757ac2ee51f5/detection",
+          "https://x.com/t43cr0wl3r/status/2024123960481153039"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 4,
+          "domain": 10,
           "file_path": 6,
           "ipv4": 18,
-          "url": 6
+          "url": 7
         },
-        "total": 34
+        "total": 41
       }
     },
     "NOVISPY": {
@@ -143032,6 +143040,11 @@
           "2.56.10.86:8621",
           "2.58.113.190:8080",
           "2.59.219.206:5000",
+          "204.12.218.202:14955",
+          "204.12.218.202:18961",
+          "204.12.218.202:25226",
+          "204.12.218.202:37822",
+          "204.12.218.202:9916",
           "204.12.227.117:17891",
           "204.12.227.117:25618",
           "204.12.227.117:29242",
@@ -143537,7 +143550,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-02-15T17:09:52+02:00",
+        "last_modified": "2026-02-18T17:17:17+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -144620,17 +144633,20 @@
           "https://www.virustotal.com/gui/file/a0b8b1f27ec578fa5aab58bdfb19a2fe02eec063fd55e0013e7c7bd96124ac44/detection",
           "https://www.zscaler.com/blogs/security-research/apt-attacks-target-indian-government-using-sheetcreep-firepower-and",
           "https://x.com/PrakkiSathwik/status/2021465566910075152",
-          "https://www.virustotal.com/gui/file/5294335645605429e30ebe5cecc144387ec5e424aa0661e8e615edc358afde14/detection"
+          "https://www.virustotal.com/gui/file/5294335645605429e30ebe5cecc144387ec5e424aa0661e8e615edc358afde14/detection",
+          "https://x.com/PrakkiSathwik/status/2024110560527134737",
+          "https://www.virustotal.com/gui/file/3b0df07b01b05707e79050d2c09196128b5ed2fd9796c33ea29c73ad0a9cc92c/detection",
+          "https://www.virustotal.com/gui/file/0eacb011fbd5f2a33e7233f3bc9561dd0a6b87fd650ecd34041cef097253d9e6/detection"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 3345,
           "file_path": 40,
-          "ipv4": 807,
+          "ipv4": 812,
           "url": 125
         },
-        "total": 4317
+        "total": 4322
       }
     },
     "TRIANGULATION": {
