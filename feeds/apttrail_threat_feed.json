@@ -7753,6 +7753,7 @@
           "myprivatehostsvc.com",
           "narinesonlinelibrary.com",
           "nashmediawave.com",
+          "nelavohomet.com",
           "neozelappconsole.com",
           "nesiallservice.net",
           "nethostsupport.ddns.net",
@@ -8159,7 +8160,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-02-19T11:06:57+02:00",
+        "last_modified": "2026-02-19T13:27:06+02:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -8500,6 +8501,7 @@
           "https://x.com/k3yp0d/status/1823652687029698699",
           "https://www.virustotal.com/gui/file/42ab740ff15988b4f919b31a6203fb40f9470d281791f0d7c96eb80586d6b2eb/detection",
           "https://strikeready.com/blog/open-sesame/",
+          "https://www.virustotal.com/gui/ip-address/172.86.68.175/relations",
           "https://www.virustotal.com/gui/file/15337ad45a65f8f9eae57f76d6cff314968417665750f336c6154a2c05991582/detection",
           "https://www.virustotal.com/gui/file/ba352569428df4618cd57f91bd3479b73a798399a6b861ed996d715bc51e916c/detection",
           "https://www.virustotal.com/gui/file/ee088e6d8ac0f3dbfbd17f556a58d06cc882016fd8a4a8ba2ddcd0cab5322d23/detection",
@@ -8725,12 +8727,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 451,
+          "domain": 452,
           "file_path": 80,
           "ipv4": 73,
           "url": 18
         },
-        "total": 622
+        "total": 623
       }
     },
     "BLACKGEAR": {
