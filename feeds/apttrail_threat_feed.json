@@ -112280,6 +112280,7 @@
           "knightsbridge-dex.vercel.app",
           "kodecamp.org",
           "koliinfotech.company",
+          "koover.org",
           "kooverly.org",
           "kourosh.uefa-meeting.com",
           "kraken.group-meeting.online",
@@ -115317,7 +115318,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-17T17:19:08+02:00",
+        "last_modified": "2026-02-19T15:59:34+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -116481,12 +116482,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3661,
+          "domain": 3662,
           "file_path": 476,
           "ipv4": 504,
           "url": 102
         },
-        "total": 4743
+        "total": 4744
       }
     },
     "LAZYSCRIPTER": {
@@ -131699,6 +131700,7 @@
           "mail-mopitgovnp.hopto.org",
           "mail-mowr.gov-pk.online",
           "mail-na-gov-pk.na-gov-pk.workers.dev",
+          "mail-navy-lk-43897fyi78945tr78945uio89045iuort89045prt054k.pages.dev",
           "mail-navy-mil-bd-modern-email-inbox-messages.webmailarmy.com",
           "mail-nba-gov-pk.pakistan-gov-pk.workers.dev",
           "mail-ncporgnp.hopto.org",
@@ -133652,7 +133654,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-02-17T15:49:21+02:00",
+        "last_modified": "2026-02-19T16:42:27+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -134676,17 +134678,18 @@
           "https://x.com/volrant136/status/2023422149449699599",
           "https://x.com/suyog41/status/2023736857771827313",
           "https://www.virustotal.com/gui/file/f0ee184cdc7ba2a87a669462942f11ebb8d98e10d887e5a668668b5fd822bdda/detection",
-          "https://www.virustotal.com/gui/ip-address/172.67.166.115/relations"
+          "https://www.virustotal.com/gui/ip-address/172.67.166.115/relations",
+          "https://x.com/volrant136/status/2024478284982210852"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3380,
+          "domain": 3381,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3472
+        "total": 3473
       }
     },
     "SILENCE": {
