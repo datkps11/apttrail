@@ -7776,6 +7776,7 @@
           "nymedsvcsystems.com",
           "oakcreekbakers.com",
           "office360-pub.16mb.com",
+          "officesignature.info",
           "officeweb.live",
           "olivershikerhelp.com",
           "olmajhnservice.com",
@@ -8158,7 +8159,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-02-05T10:43:38+02:00",
+        "last_modified": "2026-02-19T11:06:57+02:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -8716,17 +8717,20 @@
           "https://www.virustotal.com/gui/file/836c8fb1ff998d3b94b4800aca7b17675893fe87a39b658000a776c5b3fe852c/detection",
           "https://x.com/RedDrip7/status/2019243120131805198",
           "https://www.virustotal.com/gui/file/941011523ce613d6729e83febc1de7d3f907e116a29257f24610133e0a83d2a9/detection",
-          "https://www.virustotal.com/gui/file/28b586cf4f84eeb6ced3e5b40451e0075b6b0250ab7936a1147f6858b217fae1/detection"
+          "https://www.virustotal.com/gui/file/28b586cf4f84eeb6ced3e5b40451e0075b6b0250ab7936a1147f6858b217fae1/detection",
+          "https://x.com/skocherhan/status/2024194564605579358",
+          "https://www.virustotal.com/gui/file/4885affbac1695037c5fbfc000ff54021406c5da58a14fca96dd34f6de499220/detection",
+          "https://www.virustotal.com/gui/file/5a98b05cff064c3884c689e4f4fb991533cf631de39299a924d69d8376661b0c/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 450,
+          "domain": 451,
           "file_path": 80,
           "ipv4": 73,
           "url": 18
         },
-        "total": 621
+        "total": 622
       }
     },
     "BLACKGEAR": {
@@ -15280,6 +15284,7 @@
           "oa.trustneser.com",
           "outlookssl.com",
           "polarroute.com",
+          "premrera.com",
           "prennera.com",
           "savmpet.com",
           "sfo02s01-in-f2.cloudsend.net",
@@ -15294,6 +15299,7 @@
           "tk-in-f156.2bunny.com",
           "topsec2014.com",
           "vipreclod.com",
+          "vpn.premrera.com",
           "vpn.we11point.com",
           "vpn2.smi1egate.com",
           "we11point.com",
@@ -15331,7 +15337,7 @@
         ],
         "apt_group": "CODOSO",
         "filename": "apt_codoso.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-02-19T11:20:22+02:00",
         "references": [
           "https://www.fireeye.com/blog/threat-research/2017/06/phished-at-the-request-of-counsel.html (Network Based Indicators (NBI))",
           "https://unit42.paloaltonetworks.com/new-attacks-linked-to-c0d0s0-group/",
@@ -15346,17 +15352,19 @@
           "https://otx.alienvault.com/pulse/6245655996f5a1a01e2b5d94",
           "https://www.virustotal.com/gui/file/c0a2a3708516a321ad2fd68400bef6a3b302af54d6533b5cce6c67b4e13b87d3/detection",
           "https://www.cisa.gov/uscert/ncas/alerts/aa22-174a",
-          "https://otx.alienvault.com/pulse/62b5767285717d7d3a45b2b8"
+          "https://otx.alienvault.com/pulse/62b5767285717d7d3a45b2b8",
+          "https://x.com/skocherhan/status/2024248493037015409",
+          "https://www.virustotal.com/gui/file/3f62db0ff8ee1ce8cb2015c5bd2af8dbcc8089bb349192ee8b8d5a923476af71/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 55,
+          "domain": 57,
           "file_path": 1,
           "ipv4": 2,
           "url": 8
         },
-        "total": 66
+        "total": 68
       }
     },
     "COLDRIVER": {
@@ -136924,7 +136932,7 @@
         ],
         "apt_group": "SOFACY",
         "filename": "apt_sofacy.txt",
-        "last_modified": "2026-02-14T10:48:49+02:00",
+        "last_modified": "2026-02-19T11:40:36+02:00",
         "references": [
           "https://www.alienvault.com/open-threat-exchange/blog/from-russia-with-love-sofacy-sednit-apt28-is-in-town",
           "http://permalink.gmane.org/gmane.comp.security.ids.snort.emerging-sigs/22170",
@@ -137222,7 +137230,8 @@
           "https://www.virustotal.com/gui/file/be859b4f4576ec09b69a2ef2d119939f7eb31de121aa01d38e1f0b2290f5a15e/detection",
           "https://x.com/smica83/status/2020539423285203102",
           "https://www.virustotal.com/gui/file/506e7512c897514e9d312a1532d2e2949ec8ebd73f6ca52740fb5e3306f08843/detection",
-          "https://x.com/LAB52io/status/2022281566513180933"
+          "https://x.com/LAB52io/status/2022281566513180933",
+          "https://www.virustotal.com/gui/file/9097d9cf5e6659e869bf2edf766741b687e3d8570036d853c0ca59ae72f9e9fc/detection"
         ]
       },
       "statistics": {
