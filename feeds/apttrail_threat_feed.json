@@ -142751,6 +142751,7 @@
           "wmiprovider.com",
           "workplacegov.online",
           "worksirf.xyz",
+          "worldclasssynergies.com",
           "wsdcare.help",
           "wservice.help",
           "wsinfo.help",
@@ -143588,6 +143589,11 @@
           "93.127.128.118:23241",
           "93.127.128.118:29421",
           "93.127.130.89:6896",
+          "93.127.132.112:26861",
+          "93.127.132.112:29223",
+          "93.127.132.112:35826",
+          "93.127.132.112:7522",
+          "93.127.132.112:9621",
           "93.127.133.58:1097",
           "93.127.133.58:17241",
           "93.127.133.58:19821",
@@ -143788,7 +143794,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-02-18T17:17:17+02:00",
+        "last_modified": "2026-02-20T10:12:50+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -144874,17 +144880,19 @@
           "https://www.virustotal.com/gui/file/5294335645605429e30ebe5cecc144387ec5e424aa0661e8e615edc358afde14/detection",
           "https://x.com/PrakkiSathwik/status/2024110560527134737",
           "https://www.virustotal.com/gui/file/3b0df07b01b05707e79050d2c09196128b5ed2fd9796c33ea29c73ad0a9cc92c/detection",
-          "https://www.virustotal.com/gui/file/0eacb011fbd5f2a33e7233f3bc9561dd0a6b87fd650ecd34041cef097253d9e6/detection"
+          "https://www.virustotal.com/gui/file/0eacb011fbd5f2a33e7233f3bc9561dd0a6b87fd650ecd34041cef097253d9e6/detection",
+          "https://x.com/PrakkiSathwik/status/2024733574738624758",
+          "https://www.virustotal.com/gui/file/3cde6cadb45fb695dbe297d433e1b28cc2b4ed0fcbde2c480d7a2c723e4e236a/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3345,
+          "domain": 3346,
           "file_path": 40,
-          "ipv4": 812,
+          "ipv4": 817,
           "url": 125
         },
-        "total": 4322
+        "total": 4328
       }
     },
     "TRIANGULATION": {
