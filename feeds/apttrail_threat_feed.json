@@ -149451,6 +149451,7 @@
           "tzlss.mobi",
           "ua.delta-storages.com",
           "uanews.press",
+          "ukrbezpeka.online",
           "ukrnet.01mirror.com.ua",
           "ukrnet.press",
           "ultravireslegaladvice.org",
@@ -149826,6 +149827,7 @@
           "http://91.109.23.175",
           "http://91.201.214.204",
           "http://91.247.36.29",
+          "http://93.185.156.13",
           "http://95.179.168.23"
         ]
       },
@@ -149833,7 +149835,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2026-02-09T10:23:07+02:00",
+        "last_modified": "2026-02-20T12:05:10+02:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -150281,17 +150283,19 @@
           "https://www.virustotal.com/gui/file/f817f65edbc77f7bbdd6e4f469e82c0e770b7e221bdb348f366a475a8a39242b/detection",
           "https://www.virustotal.com/gui/file/63f6c85fc16b346cc3f18da9380aee6ffbb3e735863e2e8f118f38737e0d1348/detection",
           "https://x.com/suyog41/status/2016126098384593287",
-          "https://www.virustotal.com/gui/file/2477bbf0ab3f0c9db73fcb2f5f9dfe8cf6703a88862a7c98a5de6f349cd8833f/detection"
+          "https://www.virustotal.com/gui/file/2477bbf0ab3f0c9db73fcb2f5f9dfe8cf6703a88862a7c98a5de6f349cd8833f/detection",
+          "https://x.com/smica83/status/2024781300440211506",
+          "https://www.virustotal.com/gui/file/531b11daeab05d4f91817502e251209a1a08f112b3bfc38c1af05f35f1ba8d6e/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1205,
+          "domain": 1206,
           "file_path": 77,
           "ipv4": 117,
-          "url": 56
+          "url": 57
         },
-        "total": 1455
+        "total": 1457
       }
     },
     "USH": {
