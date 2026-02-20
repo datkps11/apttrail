@@ -96030,6 +96030,7 @@
           "epido.site",
           "eposcard.co",
           "eposting.site",
+          "eposzent.icu",
           "eprodra.click",
           "epsdocgoji.mydns.bz",
           "equaedi.click",
@@ -108760,7 +108761,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-02-18T15:45:54+02:00",
+        "last_modified": "2026-02-20T10:49:27+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -110227,17 +110228,18 @@
           "https://www.shodan.io/host/27.102.138.152",
           "https://x.com/Ghostyak/status/2022822846058369525",
           "https://x.com/Ghostyak/status/2023969122300948647",
-          "https://www.virustotal.com/gui/ip-address/38.60.220.30/relations"
+          "https://www.virustotal.com/gui/ip-address/38.60.220.30/relations",
+          "https://www.virustotal.com/gui/ip-address/47.91.170.222/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 15626,
+          "domain": 15627,
           "file_path": 282,
           "ipv4": 76,
           "url": 56
         },
-        "total": 16040
+        "total": 16041
       }
     },
     "KUN3": {
