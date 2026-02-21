@@ -107880,6 +107880,7 @@
           "wiocduie.site",
           "wisdomwood.site",
           "wisminsim.site",
+          "withoutwithin.onthewifi.com",
           "withtiff.click",
           "wiujbiujbipjbklfs.cfd",
           "wiusoins.site",
@@ -108805,6 +108806,7 @@
           "43.201.69.58:8080",
           "45.114.129.138:33890",
           "45.114.129.138:5500",
+          "45.150.192.250:8080",
           "45.195.69.28:14275",
           "45.95.18.100:1433",
           "45.95.18.14:3306",
@@ -108914,7 +108916,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-02-20T17:44:21+02:00",
+        "last_modified": "2026-02-21T22:25:41+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -110383,17 +110385,19 @@
           "https://x.com/Ghostyak/status/2023969122300948647",
           "https://www.virustotal.com/gui/ip-address/38.60.220.30/relations",
           "https://www.virustotal.com/gui/ip-address/47.91.170.222/relations",
-          "https://x.com/skocherhan/status/2024754886177333482"
+          "https://x.com/skocherhan/status/2024754886177333482",
+          "https://x.com/byrne_emmy12099/status/2024982156582453425",
+          "https://www.virustotal.com/gui/file/7fd74931c6b88ac25dbc72c19d17a866dc13c0b33e3f6a0a18147ca7a5ffc389/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 15780,
+          "domain": 15781,
           "file_path": 282,
-          "ipv4": 76,
+          "ipv4": 77,
           "url": 56
         },
-        "total": 16194
+        "total": 16196
       }
     },
     "KUN3": {
@@ -140803,6 +140807,7 @@
           "dkprintportal.xyz.crsorgidc.co.in",
           "dmsupport.live",
           "dns.educationportals.biz",
+          "dns.sysdllfile.site",
           "dns.wmiprovider.com",
           "dns1.indianblog.xyz",
           "dobview.in",
@@ -142892,6 +142897,7 @@
           "sync.windowsdns.com",
           "syntheticschoolsystem.com",
           "syscare.help",
+          "sysdllfile.site",
           "systemsupdated.duckdns.org",
           "t775.top",
           "tasnimnewstehran.club",
@@ -143390,6 +143396,7 @@
           "172.245.87.12:4586",
           "172.245.87.12:6276",
           "172.245.87.12:8443",
+          "172.86.122.203:5863",
           "173.212.192.229:16564",
           "173.212.192.229:3364",
           "173.212.192.229:8264",
@@ -144112,7 +144119,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-02-20T10:12:50+02:00",
+        "last_modified": "2026-02-21T22:21:36+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -145200,17 +145207,20 @@
           "https://www.virustotal.com/gui/file/3b0df07b01b05707e79050d2c09196128b5ed2fd9796c33ea29c73ad0a9cc92c/detection",
           "https://www.virustotal.com/gui/file/0eacb011fbd5f2a33e7233f3bc9561dd0a6b87fd650ecd34041cef097253d9e6/detection",
           "https://x.com/PrakkiSathwik/status/2024733574738624758",
-          "https://www.virustotal.com/gui/file/3cde6cadb45fb695dbe297d433e1b28cc2b4ed0fcbde2c480d7a2c723e4e236a/detection"
+          "https://www.virustotal.com/gui/file/3cde6cadb45fb695dbe297d433e1b28cc2b4ed0fcbde2c480d7a2c723e4e236a/detection",
+          "https://x.com/PrakkiSathwik/status/2025262544144007630",
+          "https://www.virustotal.com/gui/file/2db0e3553d980225d7cd47765b6a6d236d0df41223f006305cd928556a4d60e7/detection",
+          "https://www.virustotal.com/gui/file/8cd527c72e075bf7c95f39edcc4fbdf713e0c9bacb2105854ba8d1e91ceb7ad7/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3346,
+          "domain": 3348,
           "file_path": 40,
-          "ipv4": 817,
+          "ipv4": 818,
           "url": 125
         },
-        "total": 4328
+        "total": 4331
       }
     },
     "TRIANGULATION": {
