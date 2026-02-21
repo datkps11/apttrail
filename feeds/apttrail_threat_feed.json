@@ -111017,6 +111017,7 @@
           "app.vidintroexam.com",
           "app.vinterview.org",
           "app.visionaryte.org",
+          "app.weboardtals.com",
           "app.willo-interview.us",
           "app.willoassess.com",
           "app.willoassessment.com",
@@ -112434,6 +112435,7 @@
           "j-rl.com",
           "jade-clafoutis-26e6ab.netlify.app",
           "jaicvc.com",
+          "jamesbillion.com",
           "jaston.serv00.net",
           "jbic.us",
           "jbmnqpwp.naveicoipg.online",
@@ -113129,6 +113131,7 @@
           "online.rev-prot.org",
           "online.spiralboard.com",
           "online.stdheritb.com",
+          "online.weboink.com",
           "onlinecloud.cloud",
           "onlinedoc.dev",
           "onlinedocview.biz",
@@ -114032,6 +114035,7 @@
           "up.digifincx.com",
           "up.myemail.works",
           "update.jquerycloud.io",
+          "update.koover.org",
           "update.toythieves.com",
           "updatecall.live",
           "updatecheck.publicvm.com",
@@ -114269,6 +114273,7 @@
           "webmeet.icu",
           "webmeet.video",
           "webmeet.vip",
+          "weboink.com",
           "webus02.us",
           "webus07.us",
           "webus08.us",
@@ -115629,7 +115634,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-20T15:44:25+02:00",
+        "last_modified": "2026-02-21T10:30:33+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -116794,12 +116799,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3814,
+          "domain": 3819,
           "file_path": 476,
           "ipv4": 507,
           "url": 102
         },
-        "total": 4899
+        "total": 4904
       }
     },
     "LAZYSCRIPTER": {
