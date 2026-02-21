@@ -114273,6 +114273,7 @@
           "webmeet.icu",
           "webmeet.video",
           "webmeet.vip",
+          "weboardtals.com",
           "weboink.com",
           "webus02.us",
           "webus07.us",
@@ -115634,7 +115635,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-21T10:30:33+02:00",
+        "last_modified": "2026-02-21T11:10:05+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -116799,12 +116800,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3819,
+          "domain": 3820,
           "file_path": 476,
           "ipv4": 507,
           "url": 102
         },
-        "total": 4904
+        "total": 4905
       }
     },
     "LAZYSCRIPTER": {
