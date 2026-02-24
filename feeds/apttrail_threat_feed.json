@@ -137284,7 +137284,6 @@
           "rnil.cl",
           "robot-876.frge.io",
           "rockradiostream.com",
-          "router.huggingface.co",
           "royalbsuk.com",
           "rpcnetconnect.com",
           "rsshotmail.com",
@@ -137886,7 +137885,7 @@
         ],
         "apt_group": "SOFACY",
         "filename": "apt_sofacy.txt",
-        "last_modified": "2026-02-19T11:40:36+02:00",
+        "last_modified": "2026-02-24T13:26:07+02:00",
         "references": [
           "https://www.alienvault.com/open-threat-exchange/blog/from-russia-with-love-sofacy-sednit-apt28-is-in-town",
           "http://permalink.gmane.org/gmane.comp.security.ids.snort.emerging-sigs/22170",
@@ -138190,12 +138189,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1404,
+          "domain": 1403,
           "file_path": 78,
           "ipv4": 55,
           "url": 68
         },
-        "total": 1605
+        "total": 1604
       }
     },
     "SPACEPIRATES": {
