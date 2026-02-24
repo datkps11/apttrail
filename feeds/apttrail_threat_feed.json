@@ -111165,6 +111165,7 @@
           "alwayswelcome.online",
           "amazonaws1.info",
           "amazoncojp.one",
+          "amazonfiso.com",
           "amene.homepc.it",
           "ampreh.com.ng",
           "amytanathorn.com",
@@ -112703,6 +112704,7 @@
           "huanying.remoteproweb.cfd",
           "hugconsulting.s3-website-us-east-1.amazonaws.com",
           "huguotechltd.com",
+          "human-check.com",
           "humingbot.io",
           "huweisge.dliklone.online",
           "hwsrv-1033810.hostwindsdns.com",
@@ -112729,6 +112731,8 @@
           "ignite.onlinemeet.pro",
           "ignitexsolutions.com",
           "ihsgpnsj.meetingverse.app",
+          "illycafe.my",
+          "illycoffee.my",
           "imap.dropfile.online",
           "imap1.dropfile.online",
           "imediaafrica.com",
@@ -113110,6 +113114,7 @@
           "mappo-on.life",
           "mariamchurch.com",
           "market.contradecapital.com",
+          "markethubuk.com",
           "marketplace-neut52jgl.vercel.sh",
           "marketplacepcai.com",
           "markettrendingcenter.com",
@@ -113904,6 +113909,7 @@
           "showmanroast.com",
           "shplh.com",
           "shrikhatushyamjidigital.com",
+          "sictradingc.com",
           "sightalent.org",
           "sightalent.pages.dev",
           "signalhands.co.bw",
@@ -114391,6 +114397,7 @@
           "truesouthstl.com",
           "trustmeeting.live",
           "trustmeeting.online",
+          "trustpdfs.com",
           "trustwavecybersecurity.cxstocktrade.com",
           "trustwavecybersecurity.info",
           "truthwillsetyoufree.online",
@@ -114869,6 +114876,7 @@
           "zvc1ijau.naveicoipc.tech",
           "zynoracreative.com",
           "zyperfect.com",
+          "zypras.com",
           "zzyzxz.net"
         ],
         "file_path": [
@@ -116041,7 +116049,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-23T17:40:31+02:00",
+        "last_modified": "2026-02-24T17:16:29+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -117202,17 +117210,18 @@
           "https://www.virustotal.com/gui/file/972b598d709b66b35900dc21c5225e5f0d474f241fefa890b381089afd7d44ee/detection",
           "https://www.virustotal.com/gui/file/d4c7dba741ee2eb888de9e3117fb2b1a759586b84e67b176d891c6811754ef3f/detection",
           "https://about.gitlab.com/blog/gitlab-threat-intelligence-reveals-north-korean-tradecraft/",
-          "https://x.com/banthisguy9349/status/2025523138641965532"
+          "https://x.com/banthisguy9349/status/2025523138641965532",
+          "https://www.security.com/blog-post/lazarus-medusa-ransomware"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3827,
+          "domain": 3835,
           "file_path": 476,
           "ipv4": 507,
           "url": 102
         },
-        "total": 4912
+        "total": 4920
       }
     },
     "LAZYSCRIPTER": {
