@@ -94629,6 +94629,7 @@
           "chk.accessmemberuid.mydns.bz",
           "chk.hometxusers.kro.kr",
           "chk.niappinvoice.mydns.bz",
+          "chk.nsetverification.mydns.bz",
           "chk.supportipsinvoice.mydns.bz",
           "chk.uncork.biz",
           "chk.userdirectaddr.mydns.bz",
@@ -95168,6 +95169,7 @@
           "cutebybeh.click",
           "cuts.dothome.co.kr",
           "cvc.services",
+          "cvcmains.dns.army",
           "cvcv.online",
           "cvcv.tech",
           "cvnmswzmnnav.vercel.app",
@@ -97880,6 +97882,7 @@
           "ips-ecall.mydns.bz",
           "ips-ecorp.mydns.bz",
           "ips-edoc.mydns.bz",
+          "ips-edocdeliver.mydns.bz",
           "ips-edocdeliver.mydns.vc",
           "ips-edocs.x10.network",
           "ips-go.mydns.bz",
@@ -101258,6 +101261,7 @@
           "navirstackscorp.store",
           "navkatok.eu",
           "navlinkcorp.online",
+          "navlogin.sev.cvcmains.dns.army",
           "navmacorp.tech",
           "navmailcenter.site",
           "navmailcorp.site",
@@ -102367,6 +102371,7 @@
           "nid-navergyk.serveftp.com",
           "nid-naverhem.3utilities.com",
           "nid-naverhko.serveftp.com",
+          "nid-naverhpk.onthewifi.com",
           "nid-naverhpv.servehalflife.com",
           "nid-naverifk.ddnsking.com",
           "nid-naveriro.onthewifi.com",
@@ -102376,6 +102381,7 @@
           "nid-naverjlm.ddnsking.com",
           "nid-naverjpd.servequake.com",
           "nid-naverjxt.3utilities.com",
+          "nid-naverjzc.servehalflife.com",
           "nid-naverkae.servecounterstrike.com",
           "nid-naverkga.servemp3.com",
           "nid-naverkhc.serveftp.com",
@@ -102386,6 +102392,7 @@
           "nid-navermdh.ddnsking.com",
           "nid-navermfn.servepics.com",
           "nid-navermid.serveftp.com",
+          "nid-navermly.servegame.com",
           "nid-navermrs.servecounterstrike.com",
           "nid-navernlj.servegame.com",
           "nid-navernrn.3utilities.com",
@@ -102394,6 +102401,7 @@
           "nid-navernvj.servequake.com",
           "nid-navernxe.servegame.com",
           "nid-naveroar.servemp3.com",
+          "nid-naverohn.3utilities.com",
           "nid-naveroic.servequake.com",
           "nid-naverosa.servecounterstrike.com",
           "nid-naveroty.serveftp.com",
@@ -102445,6 +102453,7 @@
           "nid-naverwza.servecounterstrike.com",
           "nid-naverxeu.serveftp.com",
           "nid-naverxft.onthewifi.com",
+          "nid-naverxqh.servecounterstrike.com",
           "nid-naverxrl.3utilities.com",
           "nid-naverxrm.servegame.com",
           "nid-naverydpp.servecounterstrike.com",
@@ -103002,6 +103011,7 @@
           "nk7aoeiqoqia.cfd",
           "nk8eiqoaidjia.cfd",
           "nk9aoaicyuaoize.cfd",
+          "nkdocument-hometax.mydns.bz",
           "nkedunemunso.tech",
           "nkfaraway.site",
           "nkfindme.site",
@@ -103762,6 +103772,7 @@
           "nservsectran.store",
           "nservteamsellaie.store",
           "nsetting.o-r.kr",
+          "nsetverification.mydns.bz",
           "nsfder.store",
           "nsheriffcom.store",
           "nshineack.click",
@@ -104492,6 +104503,7 @@
           "nuser-login.ips-dns.mydns.vc",
           "nuser-login.ips-ecall.mydns.bz",
           "nuser-login.ips-ecorp.mydns.bz",
+          "nuser-login.ips-edocdeliver.mydns.bz",
           "nuser-login.ips-mailer.mydns.vc",
           "nuser-login.ips-nidservice.mydns.vc",
           "nuser-login.ips-tax.mydns.vc",
@@ -106203,6 +106215,7 @@
           "settingdirect.org",
           "seumtax.website",
           "seural.online",
+          "sev.cvcmains.dns.army",
           "severframe.click",
           "severifyticate.store",
           "seververif.server-on.net",
@@ -109293,7 +109306,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-02-23T18:49:08+02:00",
+        "last_modified": "2026-02-24T11:04:32+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -110774,12 +110787,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 16045,
+          "domain": 16058,
           "file_path": 282,
           "ipv4": 77,
           "url": 56
         },
-        "total": 16460
+        "total": 16473
       }
     },
     "KUN3": {
@@ -147301,6 +147314,7 @@
           "rvtoolas.com",
           "rvtoolc.info",
           "rvtooles.com",
+          "rvtooli.info",
           "rvtoolis.com",
           "rvtoolit.com",
           "rvtoolsac.com",
@@ -147368,7 +147382,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-02-24T09:54:39+02:00",
+        "last_modified": "2026-02-24T10:59:10+02:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -147382,9 +147396,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 97
+          "domain": 98
         },
-        "total": 97
+        "total": 98
       }
     },
     "UNC2529": {
