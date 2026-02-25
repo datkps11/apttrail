@@ -121690,6 +121690,8 @@
           "deleted.tripadviso.online",
           "dest-working.com",
           "destroy2013.com",
+          "devlyrics.com",
+          "devlyrics.github.io",
           "dl6yfsl.com",
           "dljmp2p.com",
           "document-invoiceviewer.online",
@@ -122074,7 +122076,7 @@
         ],
         "apt_group": "MUSTANGPANDA",
         "filename": "apt_mustangpanda.txt",
-        "last_modified": "2026-01-16T14:25:16+02:00",
+        "last_modified": "2026-02-25T13:36:13+02:00",
         "references": [
           "https://www.anomali.com/blog/china-based-apt-mustang-panda-targets-minority-groups-public-and-private-sector-organizations",
           "https://otx.alienvault.com/pulse/5d9c72d7e2efa3b5aa799b41",
@@ -122257,17 +122259,21 @@
           "https://x.com/AzakaSekai_/status/2009481951368135097",
           "https://www.acronis.com/en/tru/posts/lotuslite-targeted-espionage-leveraging-geopolitical-themes/",
           "https://www.virustotal.com/gui/file/231bac4015da9157553f5a8090bea35b8657406a18f14455fdaa71eb14427466/detection",
-          "https://www.virustotal.com/gui/file/2c34b47ee7d271326cfff9701377277b05ec4654753b31c89be622e80d225250/detection"
+          "https://www.virustotal.com/gui/file/2c34b47ee7d271326cfff9701377277b05ec4654753b31c89be622e80d225250/detection",
+          "https://x.com/goldenjackel12/status/2026529278758990165",
+          "https://x.com/malwrhunterteam/status/2026614706866180128",
+          "https://www.virustotal.com/gui/file/30c71d644bc72e0d55d46bed753ab3f72dc77b7f1be0e34693c957939a779507/detection",
+          "https://www.virustotal.com/gui/file/e79d19d68d307c12413f8549aafa4a56776002dd04601e36e0125b2e6d56ff94/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 223,
+          "domain": 225,
           "file_path": 1,
           "ipv4": 123,
           "url": 48
         },
-        "total": 395
+        "total": 397
       }
     },
     "NAIKON": {
@@ -136028,18 +136034,30 @@
           "/iufhtyhgyfugj.php"
         ],
         "ipv4": [
+          "141.98.82.198:443",
           "141.98.82.198:9942",
+          "172.86.75.237:443",
           "185.122.171.22:8082",
           "193.124.203.226:9942",
+          "65.38.120.38:443",
+          "65.38.121.107:8000",
+          "72.5.43.100:443",
+          "72.5.43.178:443",
+          "81.19.136.241:443",
           "81.19.136.241:9942",
+          "82.115.223.210:9942",
+          "85.209.128.171:10443",
           "85.209.128.171:3306",
           "85.209.128.171:8000",
           "85.209.128.171:8080",
           "85.209.128.171:9000",
-          "88.214.26.37:9942"
+          "88.214.26.37:443",
+          "88.214.26.37:9942",
+          "96.9.125.168:443"
         ],
         "url": [
           "http://168.100.8.21",
+          "http://185.106.92.127",
           "http://64.7.198.46",
           "http://64.7.198.66",
           "http://65.38.120.38",
@@ -136051,11 +136069,12 @@
       },
       "metadata": {
         "aliases": [
-          "shadowsilk"
+          "shadowsilk",
+          "hydra saiga"
         ],
         "apt_group": "SILENTLYNX",
         "filename": "apt_silentlynx.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-02-25T13:27:08+02:00",
         "references": [
           "https://x.com/StrikeReadyLabs/status/1877839055716581634",
           "https://x.com/virusbtn/status/1882771331726647421",
@@ -136072,17 +136091,18 @@
           "https://app.validin.com/detail?find=Accessible%20Neats&type=raw&ref_id=ea4a621b30a#tab=host_pairs (# 2025-01-24)",
           "https://www.group-ib.com/blog/shadowsilk/",
           "https://x.com/ElementalX2/status/1985340834217173061",
-          "https://www.seqrite.com/blog/operation-peek-a-baku-silent-lynx-apt-dushanbe-espionage/"
+          "https://www.seqrite.com/blog/operation-peek-a-baku-silent-lynx-apt-dushanbe-espionage/",
+          "https://www.vmray.com/hydra-saiga-covert-espionage-and-infiltration-of-critical-utilities/"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 247,
           "file_path": 1,
-          "ipv4": 9,
-          "url": 8
+          "ipv4": 20,
+          "url": 9
         },
-        "total": 265
+        "total": 277
       }
     },
     "SIMBAA": {

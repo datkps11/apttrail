@@ -7714,15 +7714,15 @@ rule APT_MUSTANGPANDA
         $domain38 = "deleted\.tripadviso\.online" ascii wide nocase
         $domain39 = "dest-working\.com" ascii wide nocase
         $domain40 = "destroy2013\.com" ascii wide nocase
-        $domain41 = "dl6yfsl\.com" ascii wide nocase
-        $domain42 = "dljmp2p\.com" ascii wide nocase
-        $domain43 = "document-invoiceviewer\.online" ascii wide nocase
-        $domain44 = "document-viewer\.xyz" ascii wide nocase
-        $domain45 = "documentinvoice-viewer\.top" ascii wide nocase
-        $domain46 = "documentpdfviewer\.xyz" ascii wide nocase
-        $domain47 = "dodefoh\.com" ascii wide nocase
-        $domain48 = "download\.flach\.cn" ascii wide nocase
-        $domain49 = "download\.hilifimyanmar\.com" ascii wide nocase
+        $domain41 = "devlyrics\.com" ascii wide nocase
+        $domain42 = "devlyrics\.github\.io" ascii wide nocase
+        $domain43 = "dl6yfsl\.com" ascii wide nocase
+        $domain44 = "dljmp2p\.com" ascii wide nocase
+        $domain45 = "document-invoiceviewer\.online" ascii wide nocase
+        $domain46 = "document-viewer\.xyz" ascii wide nocase
+        $domain47 = "documentinvoice-viewer\.top" ascii wide nocase
+        $domain48 = "documentpdfviewer\.xyz" ascii wide nocase
+        $domain49 = "dodefoh\.com" ascii wide nocase
         $ip50 = "103.107.104.37" ascii wide
         $ip51 = "103.107.104.61" ascii wide
         $ip52 = "103.107.104.61" ascii wide
@@ -10552,7 +10552,7 @@ rule APT_SILENTLYNX
         description = "Detects IOCs associated with APT SILENTLYNX"
         author = "APTtrail Automated Collection"
         apt_group = "SILENTLYNX"
-        aliases = "shadowsilk"
+        aliases = "hydra saiga, shadowsilk"
         reference = "https://app.validin.com/detail?find=64.7.198.66&type=ip4&ref_id=55f2c681bec#tab=resolutions"
         severity = "high"
         tlp = "white"
@@ -10609,14 +10609,25 @@ rule APT_SILENTLYNX
         $domain48 = "datosdecuit\.com" ascii wide nocase
         $domain49 = "dl-keepass\.info" ascii wide nocase
         $ip50 = "141.98.82.198" ascii wide
-        $ip51 = "185.122.171.22" ascii wide
-        $ip52 = "193.124.203.226" ascii wide
-        $ip53 = "81.19.136.241" ascii wide
-        $ip54 = "85.209.128.171" ascii wide
-        $ip55 = "85.209.128.171" ascii wide
-        $ip56 = "85.209.128.171" ascii wide
-        $ip57 = "85.209.128.171" ascii wide
-        $ip58 = "88.214.26.37" ascii wide
+        $ip51 = "141.98.82.198" ascii wide
+        $ip52 = "172.86.75.237" ascii wide
+        $ip53 = "185.122.171.22" ascii wide
+        $ip54 = "193.124.203.226" ascii wide
+        $ip55 = "65.38.120.38" ascii wide
+        $ip56 = "65.38.121.107" ascii wide
+        $ip57 = "72.5.43.100" ascii wide
+        $ip58 = "72.5.43.178" ascii wide
+        $ip59 = "81.19.136.241" ascii wide
+        $ip60 = "81.19.136.241" ascii wide
+        $ip61 = "82.115.223.210" ascii wide
+        $ip62 = "85.209.128.171" ascii wide
+        $ip63 = "85.209.128.171" ascii wide
+        $ip64 = "85.209.128.171" ascii wide
+        $ip65 = "85.209.128.171" ascii wide
+        $ip66 = "85.209.128.171" ascii wide
+        $ip67 = "88.214.26.37" ascii wide
+        $ip68 = "88.214.26.37" ascii wide
+        $ip69 = "96.9.125.168" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
