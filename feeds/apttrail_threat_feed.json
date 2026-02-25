@@ -147309,6 +147309,7 @@
           "groover.workers.dev",
           "harnetsecuriity.com",
           "harnetsecurity.com",
+          "hornetseculty.com",
           "horpetsecurity.com",
           "keystore-explorer.com",
           "mstore.framfarmers.co.uk",
@@ -147390,7 +147391,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-02-24T10:59:10+02:00",
+        "last_modified": "2026-02-25T10:50:00+02:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -147404,9 +147405,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 98
+          "domain": 99
         },
-        "total": 98
+        "total": 99
       }
     },
     "UNC2529": {
