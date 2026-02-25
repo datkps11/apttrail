@@ -111961,6 +111961,7 @@
           "coreladao.com",
           "coreviewer.vercel.app",
           "corp.cherniuk.ca",
+          "cosmoplanets.net",
           "coto.live",
           "coupang-marketing.rest",
           "coupang-network.pics",
@@ -112657,6 +112658,7 @@
           "help.video-meet.team",
           "help.video-meeting.team",
           "helpdeskassistance.org",
+          "hentaikawaiiuwu.com",
           "heritagetbk.com",
           "hfginternalsite.pages.dev",
           "hfgsite.pages.dev",
@@ -112875,6 +112877,7 @@
           "join-room.meeting-online.site",
           "joinustoday.online",
           "jom.diregame.live",
+          "josehub88.vercel.app",
           "josephcleaningservicesllc.com",
           "jp-zoom.com",
           "jquery-release.com",
@@ -113658,6 +113661,7 @@
           "post.dropfile.online",
           "postedviral.com",
           "postmaster.dropfile.online",
+          "postprocesser.com",
           "poweem.com",
           "powerwize.org",
           "powerwize.pages.dev",
@@ -113762,6 +113766,7 @@
           "rastreojerezexpress.com",
           "ratanpolyelastomers.com",
           "re7.network",
+          "readonlymemory.xyz",
           "real.unbelievableresult.store",
           "rebelthumb.net",
           "rec.vid-crypto-assess.com",
@@ -113809,6 +113814,7 @@
           "retailpackagingpartner.xyz",
           "retrots.net",
           "rev-prot.org",
+          "rewarded.fi",
           "rgedist.com",
           "ric-camid.re.kr",
           "riccardo.uefa-meeting.com",
@@ -114901,6 +114907,7 @@
           "zzyzxz.net"
         ],
         "file_path": [
+          "/.well-known/pki-validation/go/akgo.php",
           "/018ueCdS/018ueCdS32.acm",
           "/018ueCdS32.acm",
           "/0lvNAK1t/0lvNAK1t32.acm",
@@ -114934,6 +114941,7 @@
           "/tbl_add.php",
           "/theme/profile2.php",
           "/update_coingotrade.php",
+          "/well-known/pki-validation/go/akgo.php",
           "/wp-admin/network/server_test.php",
           "/wp/profile2.php",
           "/zeus/wongs/wongs.php",
@@ -116079,7 +116087,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-25T16:29:27+02:00",
+        "last_modified": "2026-02-25T17:08:13+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -117247,17 +117255,25 @@
           "https://www.virustotal.com/gui/file/6c5d9aa7c498b89fceb2197f2544a3a403763c021b20d7f0ee39d3c6409e5c6e/detection",
           "https://www.virustotal.com/gui/file/ba90a3f1b6b4fd1a5c8606c7ab097a871bd26061418e65e94214a4f46575867a/detection",
           "https://app.validin.com/detail?type=raw&find=Just+a+moment...#tab=reputation (# 2026-02-25)",
-          "https://www.microsoft.com/en-us/security/blog/2026/02/24/c2-developer-targeting-campaign/"
+          "https://www.microsoft.com/en-us/security/blog/2026/02/24/c2-developer-targeting-campaign/",
+          "https://x.com/malwrhunterteam/status/1917538786478538829",
+          "https://x.com/bluish_red_/status/1960735923743678648",
+          "https://x.com/elasticseclabs/status/1960730276834775158",
+          "https://x.com/elasticseclabs/status/1960730309487395314",
+          "https://www.abstract.security/blog/contagious-interview-evolution-of-vscode-and-cursor-tasks-infection-chains",
+          "https://app.validin.com/detail?find=c87d57c84529f76a1212c0050d434162c729617c#tab=host_pairs (# 2025-08-26)",
+          "https://app.validin.com/detail?find=%20Solar%20Explorer&type=raw&ref_id=2c9cf18cb5d#tab=host_pairs (# 2025-08-26)",
+          "https://www.virustotal.com/gui/file/6b3c6a4c07f77016ef05a5994bcc4e228cbfc474733cd091b0edc6493fe8465a/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3856,
-          "file_path": 476,
+          "domain": 3862,
+          "file_path": 478,
           "ipv4": 516,
           "url": 102
         },
-        "total": 4950
+        "total": 4958
       }
     },
     "LAZYSCRIPTER": {
@@ -147768,6 +147784,7 @@
           "admina.freeddns.org",
           "afsaces.accesscam.org",
           "ancisesic.accesscam.org",
+          "apiotc.duckdns.org",
           "applebox.camdvr.org",
           "appler.kozow.com",
           "asdad21ww.freeddns.org",
@@ -147843,6 +147860,7 @@
           "lsls.casacam.net",
           "ltiuys.ddnsgeek.com",
           "ltiuys.kozow.com",
+          "lxym.hlsx.xyz",
           "mailsdy.gleeze.com",
           "maliclick1.ddnsfree.com",
           "mauritasszddb.ddnsfree.com",
@@ -147903,6 +147921,7 @@
           "sdhite43.ddnsfree.com",
           "sdsuytoins63.kozow.com",
           "selfad.gleeze.com",
+          "sensordataesp.duckdns.org",
           "serious.kozow.com",
           "setupcodpr2.freeddns.org",
           "sgsn.accesscam.org",
@@ -147958,6 +147977,7 @@
           "winfoss1.kozow.com",
           "ysiohbk.camdvr.org",
           "zammffayhd.ddnsfree.com",
+          "zeitoon.duckdns.org",
           "zmcmvmbm.ddnsfree.com",
           "zwmn350n3o1fsdf3gs.kozow.com",
           "zwmn350n3o1ugety2xbe.camdvr.org",
@@ -147977,17 +147997,17 @@
         ],
         "apt_group": "UNC2814",
         "filename": "apt_unc2814.txt",
-        "last_modified": "2026-02-25T16:41:23+02:00",
+        "last_modified": "2026-02-25T16:54:28+02:00",
         "references": [
           "https://cloud.google.com/blog/topics/threat-intelligence/disrupting-gridtide-global-espionage-campaign"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 202,
+          "domain": 206,
           "url": 1
         },
-        "total": 203
+        "total": 207
       }
     },
     "UNC2970": {
