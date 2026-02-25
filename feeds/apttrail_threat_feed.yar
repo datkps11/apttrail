@@ -12641,6 +12641,73 @@ rule APT_UNC2596
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_UNC2814
+{
+    meta:
+        description = "Detects IOCs associated with APT UNC2814"
+        author = "APTtrail Automated Collection"
+        apt_group = "UNC2814"
+        aliases = "gridtide"
+        reference = "https://cloud.google.com/blog/topics/threat-intelligence/disrupting-gridtide-global-espionage-campaign"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "1cv2f3d5s6a9w\.ddnsfree\.com" ascii wide nocase
+        $domain1 = "admina\.freeddns\.org" ascii wide nocase
+        $domain2 = "afsaces\.accesscam\.org" ascii wide nocase
+        $domain3 = "ancisesic\.accesscam\.org" ascii wide nocase
+        $domain4 = "applebox\.camdvr\.org" ascii wide nocase
+        $domain5 = "appler\.kozow\.com" ascii wide nocase
+        $domain6 = "asdad21ww\.freeddns\.org" ascii wide nocase
+        $domain7 = "aw2o25forsbc\.camdvr\.org" ascii wide nocase
+        $domain8 = "awcc001jdaigfwdagdcew\.giize\.com" ascii wide nocase
+        $domain9 = "bab2o25com\.accesscam\.org" ascii wide nocase
+        $domain10 = "babaji\.accesscam\.org" ascii wide nocase
+        $domain11 = "babi5599ss\.ddnsgeek\.com" ascii wide nocase
+        $domain12 = "balabalabo\.mywire\.org" ascii wide nocase
+        $domain13 = "bggs\.giize\.com" ascii wide nocase
+        $domain14 = "bibabo\.freeddns\.org" ascii wide nocase
+        $domain15 = "binmol\.webredirect\.org" ascii wide nocase
+        $domain16 = "bioth\.giize\.com" ascii wide nocase
+        $domain17 = "boemobww\.ddnsfree\.com" ascii wide nocase
+        $domain18 = "brcallletme\.theworkpc\.com" ascii wide nocase
+        $domain19 = "btbtutil\.theworkpc\.com" ascii wide nocase
+        $domain20 = "btltan\.ooguy\.com" ascii wide nocase
+        $domain21 = "camcampkes\.ddnsfree\.com" ascii wide nocase
+        $domain22 = "camsqewivo\.kozow\.com" ascii wide nocase
+        $domain23 = "ccammutom\.ddnsgeek\.com" ascii wide nocase
+        $domain24 = "ccel\.kozow\.com" ascii wide nocase
+        $domain25 = "cdnvmtools\.theworkpc\.com" ascii wide nocase
+        $domain26 = "cloacpae\.ddnsfree\.com" ascii wide nocase
+        $domain27 = "cmwwoods1\.theworkpc\.com" ascii wide nocase
+        $domain28 = "cnrpaslceas\.freeddns\.org" ascii wide nocase
+        $domain29 = "codemicros12\.gleeze\.com" ascii wide nocase
+        $domain30 = "cp02odjaic\.kozow\.com" ascii wide nocase
+        $domain31 = "cressmiss\.ooguy\.com" ascii wide nocase
+        $domain32 = "cvabiasbae\.ddnsfree\.com" ascii wide nocase
+        $domain33 = "cvnoc01da1cjmnftsd\.accesscam\.org" ascii wide nocase
+        $domain34 = "cvpc01aenusocirem\.accesscam\.org" ascii wide nocase
+        $domain35 = "cvpc01cgsdfn53hgd\.giize\.com" ascii wide nocase
+        $domain36 = "dclcwpdtsdcc\.ddnsfree\.com" ascii wide nocase
+        $domain37 = "dlpossie\.ddnsfree\.com" ascii wide nocase
+        $domain38 = "dnsfreedb\.ddnsfree\.com" ascii wide nocase
+        $domain39 = "doboudix1024\.mywire\.org" ascii wide nocase
+        $domain40 = "docla1rocodetellkadihewfnt3\.kozow\.com" ascii wide nocase
+        $domain41 = "entel\.kozow\.com" ascii wide nocase
+        $domain42 = "evilginx2\.loseyourip\.com" ascii wide nocase
+        $domain43 = "examp1e\.webredirect\.org" ascii wide nocase
+        $domain44 = "faeelt\.giize\.com" ascii wide nocase
+        $domain45 = "fakjcsaeyhs\.ddnsfree\.com" ascii wide nocase
+        $domain46 = "fasceadvcva3\.gleeze\.com" ascii wide nocase
+        $domain47 = "ffosies2024\.camdvr\.org" ascii wide nocase
+        $domain48 = "fgdedd1dww\.gleeze\.com" ascii wide nocase
+        $domain49 = "filipinet\.ddnsgeek\.com" ascii wide nocase
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
+}
+
 rule APT_UNC3500
 {
     meta:
