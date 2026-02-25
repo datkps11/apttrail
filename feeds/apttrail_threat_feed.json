@@ -111349,6 +111349,7 @@
           "app.betterevaluation.us",
           "app.blockchain-assess.com",
           "app.blockchain-checkup.com",
+          "app.breezyhr.us",
           "app.cammio.org",
           "app.carrerlilla.com",
           "app.coinhouse360.com",
@@ -111708,6 +111709,7 @@
           "bqersape.dropfile.online",
           "brands.kavishala.com",
           "brantwork.vercel.app",
+          "breezyhr.us",
           "brianrep.com",
           "broussardinnovations.com",
           "bs-production.up.railway.app",
@@ -115508,6 +115510,7 @@
           "147.124.213.29:1244",
           "147.124.214.129:1244",
           "147.124.214.131:1244",
+          "147.124.214.235:1244",
           "147.124.214.237:1244",
           "147.124.215.131:1244",
           "147.93.40.224:3000",
@@ -116049,7 +116052,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-24T17:16:29+02:00",
+        "last_modified": "2026-02-25T10:52:44+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -117216,12 +117219,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3835,
+          "domain": 3837,
           "file_path": 476,
-          "ipv4": 507,
+          "ipv4": 508,
           "url": 102
         },
-        "total": 4920
+        "total": 4923
       }
     },
     "LAZYSCRIPTER": {
