@@ -120851,8 +120851,10 @@
           "accountslogin.ga",
           "admin.syncroapi.com",
           "administratie.in",
+          "agrosuccessventure.com",
           "airpaz.egnyte.com",
           "airpazflys.egnyte.com",
+          "aitradingchatgpt.com",
           "alibabacloud.dynamic-dns.net",
           "alibabacloud.wikaba.com",
           "alibabacloud.zzux.com",
@@ -120944,6 +120946,8 @@
           "nc1310022a.biz",
           "nc6jan20pol.co",
           "netivtech.org",
+          "netvigil.org",
+          "nomercys.it.com",
           "nour.egnyte.com",
           "oauth-services.live",
           "office.otzo.com",
@@ -120979,6 +120983,7 @@
           "softwaree-cloud.com",
           "softwarehosts.com",
           "sso.moodleuni.com",
+          "stratioai.org",
           "suppcloudtech.com",
           "supportstaff.in",
           "supptechcloud.com",
@@ -121417,7 +121422,7 @@
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-02-25T21:16:17+02:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
@@ -121637,17 +121642,21 @@
           "https://www.virustotal.com/gui/file/aac8e8b1b20c9b6199dac77d88fb4d696cb1f01f2000238dd9d367d9c6dbf936/detection",
           "https://www.virustotal.com/gui/file/ef0d64f099058e8656da1ff85203e74eedbf3f5aca6442c6025e06b96e567077/detection",
           "https://www.virustotal.com/gui/file/3c1eefad5b96e8f9e8ecaab6c054ca2bc7a7929b03f814f94ba4beab2703aa07/detection",
-          "https://aws.amazon.com/cn/blogs/security/new-amazon-threat-intelligence-findings-nation-state-actors-bridging-cyber-and-kinetic-warfare/"
+          "https://aws.amazon.com/cn/blogs/security/new-amazon-threat-intelligence-findings-nation-state-actors-bridging-cyber-and-kinetic-warfare/",
+          "https://www.genians.co.kr/en/blog/threat_intelligence/muddywater-apt",
+          "https://www.virustotal.com/gui/file/0be499354dc498248d27f6d186eb3bb75a607ae4a2c0a6734c76f1a1b7b1d316/detection",
+          "https://www.virustotal.com/gui/file/f38a56b8dc0e8a581999621eef65ef497f0ac0d35e953bd94335926f00e9464f/detection",
+          "https://www.virustotal.com/gui/file/6f079c1e2655ed391fb8f0b6bfafa126acf905732b5554f38a9d32d0b9ca407d/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 162,
+          "domain": 167,
           "file_path": 187,
           "ipv4": 92,
           "url": 110
         },
-        "total": 551
+        "total": 556
       }
     },
     "MURENSHARK": {
