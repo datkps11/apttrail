@@ -150348,6 +150348,7 @@
           "zinebzina.ddns.net",
           "zoro2015.ddns.net",
           "zororo.mobi",
+          "zscaler-alstom.westeurope.cloudapp.azure.com",
           "zz.allsoulu.com"
         ],
         "file_path": [
@@ -150612,7 +150613,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2026-02-24T21:47:10+02:00",
+        "last_modified": "2026-02-25T14:50:34+02:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -151066,17 +151067,20 @@
           "https://x.com/smica83/status/2026349402948813096",
           "https://www.virustotal.com/gui/ip-address/62.3.58.8/relations",
           "https://www.virustotal.com/gui/file/2bbcbc88d04615079fa17708c62f07ccb138c19bb9ed78ae43f9172cd91931ba/detection",
-          "https://www.virustotal.com/gui/file/ea078216452f5f6d4eea27bbc062286396a5252e2c267ecc3933d05a4e38da15/detection"
+          "https://www.virustotal.com/gui/file/ea078216452f5f6d4eea27bbc062286396a5252e2c267ecc3933d05a4e38da15/detection",
+          "https://x.com/malwrhunterteam/status/2026625918223978705",
+          "https://x.com/smica83/status/2026630531392160251",
+          "https://tria.ge/260225-pazmhaby3b/behavioral1"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1209,
+          "domain": 1210,
           "file_path": 77,
           "ipv4": 117,
           "url": 57
         },
-        "total": 1460
+        "total": 1461
       }
     },
     "USH": {
