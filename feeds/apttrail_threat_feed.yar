@@ -12458,17 +12458,17 @@ rule APT_UNC2465
         $domain36 = "rvtoolas\.com" ascii wide nocase
         $domain37 = "rvtoolc\.info" ascii wide nocase
         $domain38 = "rvtooles\.com" ascii wide nocase
-        $domain39 = "rvtooli\.info" ascii wide nocase
-        $domain40 = "rvtoolis\.com" ascii wide nocase
-        $domain41 = "rvtoolit\.com" ascii wide nocase
-        $domain42 = "rvtoolsac\.com" ascii wide nocase
-        $domain43 = "rvtoolsacad\.com" ascii wide nocase
-        $domain44 = "rvtoolsacs\.com" ascii wide nocase
-        $domain45 = "rvtoolsax\.com" ascii wide nocase
-        $domain46 = "rvtoolsed\.com" ascii wide nocase
-        $domain47 = "rvtoolses\.com" ascii wide nocase
-        $domain48 = "rvtoolsgo\.com" ascii wide nocase
-        $domain49 = "rvtoolshq\.com" ascii wide nocase
+        $domain39 = "rvtooles\.info" ascii wide nocase
+        $domain40 = "rvtooli\.info" ascii wide nocase
+        $domain41 = "rvtoolis\.com" ascii wide nocase
+        $domain42 = "rvtoolit\.com" ascii wide nocase
+        $domain43 = "rvtoolsac\.com" ascii wide nocase
+        $domain44 = "rvtoolsacad\.com" ascii wide nocase
+        $domain45 = "rvtoolsacs\.com" ascii wide nocase
+        $domain46 = "rvtoolsax\.com" ascii wide nocase
+        $domain47 = "rvtoolsed\.com" ascii wide nocase
+        $domain48 = "rvtoolses\.com" ascii wide nocase
+        $domain49 = "rvtoolsgo\.com" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)
