@@ -111508,6 +111508,7 @@
           "authsmtp.dropfile.online",
           "auto-ai.online",
           "auto-fixer.online",
+          "auto-loader.org",
           "auto-patch.tech",
           "auto-protection.cloud",
           "auto-protection.services",
@@ -111517,6 +111518,7 @@
           "autodriverfix.online",
           "autofixer.online",
           "automatic.antifirmware.store",
+          "autonomousconsensuspipelines.cloud",
           "autoprotect.com.se",
           "autoprotect.gb.net",
           "autoserverupdate.line.pm",
@@ -112845,6 +112847,7 @@
           "jbic.us",
           "jbmnqpwp.naveicoipg.online",
           "jdkgradle.com",
+          "jenn.shop",
           "jerryfox-platform.vercel.app",
           "jmttrading.org",
           "job-career-portal.com",
@@ -112891,6 +112894,7 @@
           "kingstar.publicvm.com",
           "kingsvc.cc",
           "kirschneigroup.com",
+          "kit-haus.net",
           "kkvps.buzz",
           "kmsignite.dev",
           "knightsbridge-dex.vercel.app",
@@ -115478,6 +115482,8 @@
           "144.172.86.27:1224",
           "144.172.86.27:1245",
           "144.172.87.27:1224",
+          "144.172.93.88:8080",
+          "144.172.93.88:8088",
           "144.172.94.226:5961",
           "144.172.94.226:5974",
           "144.172.95.226:1224",
@@ -115525,6 +115531,7 @@
           "154.216.177.215:8080",
           "154.58.204.15:8080",
           "154.62.226.22:8080",
+          "157.250.195.237:3000",
           "158.62.198.177:8080",
           "159.100.250.231:80",
           "159.100.250.231:8080",
@@ -116052,7 +116059,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-25T10:52:44+02:00",
+        "last_modified": "2026-02-25T12:41:47+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -117214,17 +117221,21 @@
           "https://www.virustotal.com/gui/file/d4c7dba741ee2eb888de9e3117fb2b1a759586b84e67b176d891c6811754ef3f/detection",
           "https://about.gitlab.com/blog/gitlab-threat-intelligence-reveals-north-korean-tradecraft/",
           "https://x.com/banthisguy9349/status/2025523138641965532",
-          "https://www.security.com/blog-post/lazarus-medusa-ransomware"
+          "https://www.security.com/blog-post/lazarus-medusa-ransomware",
+          "https://x.com/r3dactt/status/2026525340135469486",
+          "https://www.virustotal.com/gui/file/0a716920017fba0b70b7295c6d7a06710df38c0d6158a12d3723343919da7fd2/detection",
+          "https://www.virustotal.com/gui/file/6c5d9aa7c498b89fceb2197f2544a3a403763c021b20d7f0ee39d3c6409e5c6e/detection",
+          "https://www.virustotal.com/gui/file/ba90a3f1b6b4fd1a5c8606c7ab097a871bd26061418e65e94214a4f46575867a/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3837,
+          "domain": 3841,
           "file_path": 476,
-          "ipv4": 508,
+          "ipv4": 511,
           "url": 102
         },
-        "total": 4923
+        "total": 4930
       }
     },
     "LAZYSCRIPTER": {

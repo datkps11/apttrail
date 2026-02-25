@@ -99397,6 +99397,7 @@ LAZARUS,domain,authnsecuresystems.com
 LAZARUS,domain,authsmtp.dropfile.online
 LAZARUS,domain,auto-ai.online
 LAZARUS,domain,auto-fixer.online
+LAZARUS,domain,auto-loader.org
 LAZARUS,domain,auto-patch.tech
 LAZARUS,domain,auto-protection.cloud
 LAZARUS,domain,auto-protection.services
@@ -99406,6 +99407,7 @@ LAZARUS,domain,autodiscover.vin
 LAZARUS,domain,autodriverfix.online
 LAZARUS,domain,autofixer.online
 LAZARUS,domain,automatic.antifirmware.store
+LAZARUS,domain,autonomousconsensuspipelines.cloud
 LAZARUS,domain,autoprotect.com.se
 LAZARUS,domain,autoprotect.gb.net
 LAZARUS,domain,autoserverupdate.line.pm
@@ -100734,6 +100736,7 @@ LAZARUS,domain,jaston.serv00.net
 LAZARUS,domain,jbic.us
 LAZARUS,domain,jbmnqpwp.naveicoipg.online
 LAZARUS,domain,jdkgradle.com
+LAZARUS,domain,jenn.shop
 LAZARUS,domain,jerryfox-platform.vercel.app
 LAZARUS,domain,jmttrading.org
 LAZARUS,domain,job-career-portal.com
@@ -100780,6 +100783,7 @@ LAZARUS,domain,kfcjn.com
 LAZARUS,domain,kingstar.publicvm.com
 LAZARUS,domain,kingsvc.cc
 LAZARUS,domain,kirschneigroup.com
+LAZARUS,domain,kit-haus.net
 LAZARUS,domain,kkvps.buzz
 LAZARUS,domain,kmsignite.dev
 LAZARUS,domain,knightsbridge-dex.vercel.app
@@ -103363,6 +103367,8 @@ LAZARUS,ipv4,144.172.74.120:3389
 LAZARUS,ipv4,144.172.86.27:1224
 LAZARUS,ipv4,144.172.86.27:1245
 LAZARUS,ipv4,144.172.87.27:1224
+LAZARUS,ipv4,144.172.93.88:8080
+LAZARUS,ipv4,144.172.93.88:8088
 LAZARUS,ipv4,144.172.94.226:5961
 LAZARUS,ipv4,144.172.94.226:5974
 LAZARUS,ipv4,144.172.95.226:1224
@@ -103410,6 +103416,7 @@ LAZARUS,ipv4,152.89.61.96:443
 LAZARUS,ipv4,154.216.177.215:8080
 LAZARUS,ipv4,154.58.204.15:8080
 LAZARUS,ipv4,154.62.226.22:8080
+LAZARUS,ipv4,157.250.195.237:3000
 LAZARUS,ipv4,158.62.198.177:8080
 LAZARUS,ipv4,159.100.250.231:80
 LAZARUS,ipv4,159.100.250.231:8080
