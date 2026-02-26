@@ -131247,6 +131247,7 @@
           "admin.grabfiles.org",
           "admin.onesom.biz",
           "adobe.pdf-downlod.com",
+          "adobe.updatepdf.workers.dev",
           "adobeglobal.com",
           "advancedhealth.medicallab.site",
           "advisary.army-govbd.info",
@@ -134340,6 +134341,7 @@
           "updatemanager.ddns.net",
           "updatemaster.info",
           "updatemind52.com",
+          "updatepdf.workers.dev",
           "updates-installer.store",
           "updates.moe.gov.cn.81-cn.info",
           "updotes.co",
@@ -134679,7 +134681,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-02-19T16:42:27+02:00",
+        "last_modified": "2026-02-26T13:37:09+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -135704,17 +135706,19 @@
           "https://x.com/suyog41/status/2023736857771827313",
           "https://www.virustotal.com/gui/file/f0ee184cdc7ba2a87a669462942f11ebb8d98e10d887e5a668668b5fd822bdda/detection",
           "https://www.virustotal.com/gui/ip-address/172.67.166.115/relations",
-          "https://x.com/volrant136/status/2024478284982210852"
+          "https://x.com/volrant136/status/2024478284982210852",
+          "https://x.com/__0XYC__/status/2026971764769665277",
+          "https://www.virustotal.com/gui/file/795ea82a7aa424f6d54d975a44d1c69a622217dbf8ebbd67becb64559bd3a909/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3381,
+          "domain": 3383,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3473
+        "total": 3475
       }
     },
     "SILENCE": {
