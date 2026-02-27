@@ -5900,6 +5900,7 @@ BITTER,domain,appprotonvpn.com
 BITTER,domain,appsupdate.net
 BITTER,domain,archiverst.com
 BITTER,domain,aroundtheworld123.net
+BITTER,domain,ashersoftlib.com
 BITTER,domain,autodefragapp.com
 BITTER,domain,bakuackermannfashions.com
 BITTER,domain,balkanclan.com
@@ -6402,6 +6403,7 @@ BITTER,file_path,/zserr.php
 BITTER,file_path,/zserr.php?li=
 BITTER,file_path,uniengrisb.com/img/rt.msi
 BITTER,ipv4,103.57.251.154:4443
+BITTER,ipv4,107.172.39.100:44908
 BITTER,ipv4,107.173.63.218:58370
 BITTER,ipv4,110.42.64.137:9527
 BITTER,ipv4,134.255.210.127:443
@@ -101138,6 +101140,7 @@ LAZARUS,domain,online.rev-prot.org
 LAZARUS,domain,online.spiralboard.com
 LAZARUS,domain,online.stdheritb.com
 LAZARUS,domain,online.weboink.com
+LAZARUS,domain,online.zitlex.com
 LAZARUS,domain,onlinecloud.cloud
 LAZARUS,domain,onlinedoc.dev
 LAZARUS,domain,onlinedocview.biz
@@ -102291,6 +102294,7 @@ LAZARUS,domain,zedplug.com
 LAZARUS,domain,zenspiretech.com
 LAZARUS,domain,zincnetwork.tk
 LAZARUS,domain,ziprecruiters.org
+LAZARUS,domain,zitlex.com
 LAZARUS,domain,zkservice.cloud
 LAZARUS,domain,zksync-blog-git-adding-to-prividium-the-tm-matter-labs-651a8986.vercel.app
 LAZARUS,domain,zksync-enterprise-df1wkzlnd-matter-labs-651a8986.vercel.app
@@ -125319,6 +125323,7 @@ UNC2465,domain,mstore.framfarmers.co.uk
 UNC2465,domain,pofelal314.workers.dev
 UNC2465,domain,rustore.rvtouls.com
 UNC2465,domain,rv-tools.eu
+UNC2465,domain,rv-tools.info
 UNC2465,domain,rvtoo1s.com
 UNC2465,domain,rvtoolaca.com
 UNC2465,domain,rvtoolaca.online

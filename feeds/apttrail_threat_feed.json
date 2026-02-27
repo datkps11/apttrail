@@ -7531,6 +7531,7 @@
           "appsupdate.net",
           "archiverst.com",
           "aroundtheworld123.net",
+          "ashersoftlib.com",
           "autodefragapp.com",
           "bakuackermannfashions.com",
           "balkanclan.com",
@@ -8037,6 +8038,7 @@
         ],
         "ipv4": [
           "103.57.251.154:4443",
+          "107.172.39.100:44908",
           "107.173.63.218:58370",
           "110.42.64.137:9527",
           "134.255.210.127:443",
@@ -8160,7 +8162,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-02-19T13:27:06+02:00",
+        "last_modified": "2026-02-27T10:04:32+02:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -8722,17 +8724,19 @@
           "https://www.virustotal.com/gui/file/28b586cf4f84eeb6ced3e5b40451e0075b6b0250ab7936a1147f6858b217fae1/detection",
           "https://x.com/skocherhan/status/2024194564605579358",
           "https://www.virustotal.com/gui/file/4885affbac1695037c5fbfc000ff54021406c5da58a14fca96dd34f6de499220/detection",
-          "https://www.virustotal.com/gui/file/5a98b05cff064c3884c689e4f4fb991533cf631de39299a924d69d8376661b0c/detection"
+          "https://www.virustotal.com/gui/file/5a98b05cff064c3884c689e4f4fb991533cf631de39299a924d69d8376661b0c/detection",
+          "https://x.com/RedDrip7/status/2027209484784017629",
+          "https://www.virustotal.com/gui/file/e6b523e77c31b89f8eb3489007bf14b3b9d34bc3870a9d96ecf7b99efa506c76/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 452,
+          "domain": 453,
           "file_path": 80,
-          "ipv4": 73,
+          "ipv4": 74,
           "url": 18
         },
-        "total": 623
+        "total": 625
       }
     },
     "BLACKGEAR": {
@@ -113249,6 +113253,7 @@
           "online.spiralboard.com",
           "online.stdheritb.com",
           "online.weboink.com",
+          "online.zitlex.com",
           "onlinecloud.cloud",
           "onlinedoc.dev",
           "onlinedocview.biz",
@@ -114402,6 +114407,7 @@
           "zenspiretech.com",
           "zincnetwork.tk",
           "ziprecruiters.org",
+          "zitlex.com",
           "zkservice.cloud",
           "zksync-blog-git-adding-to-prividium-the-tm-matter-labs-651a8986.vercel.app",
           "zksync-enterprise-df1wkzlnd-matter-labs-651a8986.vercel.app",
@@ -115644,7 +115650,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-26T17:34:15+02:00",
+        "last_modified": "2026-02-27T10:15:43+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -116824,12 +116830,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3417,
+          "domain": 3419,
           "file_path": 478,
           "ipv4": 516,
           "url": 102
         },
-        "total": 4513
+        "total": 4515
       }
     },
     "LAZYSCRIPTER": {
@@ -146957,6 +146963,7 @@
           "pofelal314.workers.dev",
           "rustore.rvtouls.com",
           "rv-tools.eu",
+          "rv-tools.info",
           "rvtoo1s.com",
           "rvtoolaca.com",
           "rvtoolaca.online",
@@ -147033,7 +147040,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-02-25T21:22:40+02:00",
+        "last_modified": "2026-02-27T09:59:08+02:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -147047,9 +147054,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 100
+          "domain": 101
         },
-        "total": 100
+        "total": 101
       }
     },
     "UNC2529": {
