@@ -102383,6 +102383,7 @@
           "nid-naverczg.3utilities.com",
           "nid-naverdff.3utilities.com",
           "nid-naverdgl.onthewifi.com",
+          "nid-naverdqp.servequake.com",
           "nid-naverdqw.servequake.com",
           "nid-naverdsf.servecounterstrike.com",
           "nid-naverdsm.servecounterstrike.com",
@@ -109338,7 +109339,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-02-27T16:26:11+02:00",
+        "last_modified": "2026-02-27T22:30:56+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -110821,12 +110822,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 16073,
+          "domain": 16074,
           "file_path": 282,
           "ipv4": 77,
           "url": 56
         },
-        "total": 16488
+        "total": 16489
       }
     },
     "KUN3": {
