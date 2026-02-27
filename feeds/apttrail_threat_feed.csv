@@ -1191,7 +1191,9 @@ apt_group,indicator_type,indicator
 37,domain,helpnaver.link
 37,domain,helpnaver.online
 37,domain,helpnaver.site
+37,domain,hightkdhe.store
 37,domain,hl.namecentless.top
+37,domain,homeatedke.store
 37,domain,honess.fun
 37,domain,host.sharingdocument.one
 37,domain,hotrnall.com
@@ -1310,6 +1312,7 @@ apt_group,indicator_type,indicator
 37,domain,openxmlformat.org
 37,domain,outlook-offices.com
 37,domain,padosori.co.kr
+37,domain,philion.store
 37,domain,phlogin.com
 37,domain,phonectrl.com
 37,domain,pieceview.club
@@ -1389,6 +1392,7 @@ apt_group,indicator_type,indicator
 37,domain,successgoo.com
 37,domain,support-info.network
 37,domain,svg.jquery.services
+37,domain,sync.appchecks.rr.nu
 37,domain,table.jquery.services
 37,domain,takemetoyouheart.c1.biz
 37,domain,taketodjnfnei898.c1.biz
@@ -1478,6 +1482,7 @@ apt_group,indicator_type,indicator
 37,file_path,teishin.org/treasury/wp_asist.php
 37,file_path,yangak.com/data/cheditor4/pro/mid.php
 37,file_path,yangak.com/data/cheditor4/pro/temp/7.html
+37,ipv4,144.172.106.66:8080
 37,ipv4,208.85.16.88:5555
 37,url,http://128.199.133.121
 37,url,http://141.105.65.165
@@ -82283,6 +82288,8 @@ KIMSUKY,domain,1-z.never.com.ru
 KIMSUKY,domain,1.aenco.kro.kr
 KIMSUKY,domain,100000recipe.com
 KIMSUKY,domain,100nservercc.cfd
+KIMSUKY,domain,107-189-24-28.cprapid.com
+KIMSUKY,domain,107.189.24.28.sslip.io
 KIMSUKY,domain,10nservercc.cfd
 KIMSUKY,domain,10onlinen.cfd
 KIMSUKY,domain,11nservercc.cfd
@@ -82810,6 +82817,7 @@ KIMSUKY,domain,admin.arbinu.club
 KIMSUKY,domain,admin.arbinu.fun
 KIMSUKY,domain,admin.arbinu.pro
 KIMSUKY,domain,admin.claum.ml
+KIMSUKY,domain,admin.contras.site
 KIMSUKY,domain,admin.daisen.fi
 KIMSUKY,domain,admin.daum-or.ml
 KIMSUKY,domain,admin.etherscard.com
@@ -83090,9 +83098,11 @@ KIMSUKY,domain,api-talks.cedoras.store
 KIMSUKY,domain,api-talks.memavers.pics
 KIMSUKY,domain,api-talks.naverscorp.shop
 KIMSUKY,domain,api.checkapis.com
+KIMSUKY,domain,api.contras.site
 KIMSUKY,domain,api.doithe.top
 KIMSUKY,domain,api.dr0pb0xapi.com
 KIMSUKY,domain,api.infonavera.com
+KIMSUKY,domain,api.websites.ink
 KIMSUKY,domain,apideb.site
 KIMSUKY,domain,apis.google-policy.com
 KIMSUKY,domain,apis.goolqe.com
@@ -83117,6 +83127,7 @@ KIMSUKY,domain,app.at-me.ml
 KIMSUKY,domain,app.awiki.org
 KIMSUKY,domain,app.cjlogistics.kro.kr
 KIMSUKY,domain,app.cjphoto.ga
+KIMSUKY,domain,app.contras.site
 KIMSUKY,domain,app.firmware.o-r.kr
 KIMSUKY,domain,app.gommi.ml
 KIMSUKY,domain,app.iptimes.o-r.kr
@@ -83412,6 +83423,7 @@ KIMSUKY,domain,b7a06388-d667-4b7a-b73a-0420e1c60e61.nidcorp.store
 KIMSUKY,domain,babaleside.cyou
 KIMSUKY,domain,baboivan.scienceontheweb.net
 KIMSUKY,domain,back-face.com
+KIMSUKY,domain,backend.contras.site
 KIMSUKY,domain,backghea.click
 KIMSUKY,domain,backspaice.fun
 KIMSUKY,domain,baconer.site
@@ -84417,6 +84429,7 @@ KIMSUKY,domain,confirms-linkeclein.info
 KIMSUKY,domain,confirmusrdoc.mydns.bz
 KIMSUKY,domain,confirrns-linkeclin.site
 KIMSUKY,domain,confluence.navers.tech
+KIMSUKY,domain,conform.site
 KIMSUKY,domain,confusedpublishingi.click
 KIMSUKY,domain,confusedtubei.click
 KIMSUKY,domain,confusionactivei.click
@@ -84452,6 +84465,7 @@ KIMSUKY,domain,content.google-policy.com
 KIMSUKY,domain,content.goolqe.com
 KIMSUKY,domain,content.gooqle.com.co
 KIMSUKY,domain,conterfgcp.store
+KIMSUKY,domain,contras.site
 KIMSUKY,domain,control.o-r.kr
 KIMSUKY,domain,controlbloginfo.mydns.bz
 KIMSUKY,domain,cood.nonghyup.website
@@ -84770,6 +84784,8 @@ KIMSUKY,domain,delivrto.me
 KIMSUKY,domain,dellotic.r-e.kr
 KIMSUKY,domain,delojmmfirkcnnsi.cfd
 KIMSUKY,domain,demand.poulsen.work
+KIMSUKY,domain,demo.contras.site
+KIMSUKY,domain,demo.websites.ink
 KIMSUKY,domain,demoserver001.no-ip.org
 KIMSUKY,domain,denanwaveb.cloud
 KIMSUKY,domain,denarye.click
@@ -84795,6 +84811,7 @@ KIMSUKY,domain,detairepl.click
 KIMSUKY,domain,detaoffi.click
 KIMSUKY,domain,detecsel.click
 KIMSUKY,domain,detewell.click
+KIMSUKY,domain,dev.contras.site
 KIMSUKY,domain,dev.infonavera.com
 KIMSUKY,domain,dev.kakaoteam.site
 KIMSUKY,domain,dev.ndoc-kr.space
@@ -88029,6 +88046,7 @@ KIMSUKY,domain,laun093nettvm.cloud
 KIMSUKY,domain,laurapose.store
 KIMSUKY,domain,lawyeagra.click
 KIMSUKY,domain,layanan.littlequery.id
+KIMSUKY,domain,layer5043.space
 KIMSUKY,domain,layyoung.click
 KIMSUKY,domain,lazor.kro.kr
 KIMSUKY,domain,lcgwihug.ntsposter.website
@@ -96099,6 +96117,7 @@ KIMSUKY,domain,staffnicema.click
 KIMSUKY,domain,stage.infonavera.com
 KIMSUKY,domain,stage.navervcorp.com
 KIMSUKY,domain,stage.navnaver.com
+KIMSUKY,domain,staging.contras.site
 KIMSUKY,domain,staging.nps-top.site
 KIMSUKY,domain,stair.atwebpages.com
 KIMSUKY,domain,stair.myartsonline.com
@@ -97587,6 +97606,7 @@ KIMSUKY,domain,webpdoc.n-e.kr
 KIMSUKY,domain,webrnail-kinu.hol.es
 KIMSUKY,domain,webs.kro.kr
 KIMSUKY,domain,websecuritynotice.com
+KIMSUKY,domain,websites.ink
 KIMSUKY,domain,websiteservice-noreply.com
 KIMSUKY,domain,websitmta-sts.ntsgo.site
 KIMSUKY,domain,websitmta-sts.ntsgov.site
@@ -102114,6 +102134,7 @@ LAZARUS,domain,vscode-settings-bootstrap.vercel.app
 LAZARUS,domain,vscode-settings-config.vercel.app
 LAZARUS,domain,vscode-toolkit-bootstrap.vercel.app
 LAZARUS,domain,vscodeconfig.com
+LAZARUS,domain,vscodesettings03kui.vercel.app
 LAZARUS,domain,vscodesettingstask.vercel.app
 LAZARUS,domain,vscodesettingtask.vercel.app
 LAZARUS,domain,vz206llb19o.com

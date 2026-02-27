@@ -1683,7 +1683,9 @@
           "helpnaver.link",
           "helpnaver.online",
           "helpnaver.site",
+          "hightkdhe.store",
           "hl.namecentless.top",
+          "homeatedke.store",
           "honess.fun",
           "host.sharingdocument.one",
           "hotrnall.com",
@@ -1802,6 +1804,7 @@
           "openxmlformat.org",
           "outlook-offices.com",
           "padosori.co.kr",
+          "philion.store",
           "phlogin.com",
           "phonectrl.com",
           "pieceview.club",
@@ -1881,6 +1884,7 @@
           "successgoo.com",
           "support-info.network",
           "svg.jquery.services",
+          "sync.appchecks.rr.nu",
           "table.jquery.services",
           "takemetoyouheart.c1.biz",
           "taketodjnfnei898.c1.biz",
@@ -1974,6 +1978,7 @@
           "yangak.com/data/cheditor4/pro/temp/7.html"
         ],
         "ipv4": [
+          "144.172.106.66:8080",
           "208.85.16.88:5555"
         ],
         "url": [
@@ -2001,12 +2006,15 @@
           "TA-RedAnt",
           "ta406",
           "Temp.Reaper",
-          "RokRAT"
+          "RokRAT",
+          "footwine",
+          "thumbsbd"
         ],
         "apt_group": "37",
         "filename": "apt_37.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-02-27T16:00:49+02:00",
         "references": [
+          "https://www.symantec.com/security_response/writeup.jsp?docid=2016-063014-0934-99&tabid=2",
           "https://otx.alienvault.com/pulse/5d4456d289603cc548ddbc92",
           "https://blog.alyac.co.kr/2453 (Korean)",
           "https://fortiguard.com/resources/threat-brief/2019/08/09/fortiguard-threat-intelligence-brief-august-09-2019",
@@ -2163,17 +2171,20 @@
           "https://www.zscaler.com/blogs/security-research/apt37-targets-windows-rust-backdoor-and-python-loader",
           "https://www.virustotal.com/gui/file/738a31e7a0d96fe1b0ad6778db39425160835a80ac33ce8a84f26b71c00c26b9/detection",
           "https://x.com/suyog41/status/1995767452786196839",
-          "https://www.virustotal.com/gui/file/4f2617a971b9c78c8b215d6cb65525ff56f0633a3bcd381695a19efe08156a04/detection"
+          "https://www.virustotal.com/gui/file/4f2617a971b9c78c8b215d6cb65525ff56f0633a3bcd381695a19efe08156a04/detection",
+          "https://www.zscaler.com/blogs/security-research/apt37-adds-new-capabilities-air-gapped-networks",
+          "https://www.virustotal.com/gui/file/a8b8a92d170029885d4e7763675f10eb172150f8503592677cadedc392edccf4/detection",
+          "https://www.virustotal.com/gui/file/c61c679eec1c1b43bbd01727fdfb6a69b11485931eb8569e6b20ada30bfe84af/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 401,
+          "domain": 405,
           "file_path": 34,
-          "ipv4": 1,
+          "ipv4": 2,
           "url": 7
         },
-        "total": 443
+        "total": 448
       }
     },
     "38": {
@@ -92834,6 +92845,8 @@
           "1.aenco.kro.kr",
           "100000recipe.com",
           "100nservercc.cfd",
+          "107-189-24-28.cprapid.com",
+          "107.189.24.28.sslip.io",
           "10nservercc.cfd",
           "10onlinen.cfd",
           "11nservercc.cfd",
@@ -93361,6 +93374,7 @@
           "admin.arbinu.fun",
           "admin.arbinu.pro",
           "admin.claum.ml",
+          "admin.contras.site",
           "admin.daisen.fi",
           "admin.daum-or.ml",
           "admin.etherscard.com",
@@ -93641,9 +93655,11 @@
           "api-talks.memavers.pics",
           "api-talks.naverscorp.shop",
           "api.checkapis.com",
+          "api.contras.site",
           "api.doithe.top",
           "api.dr0pb0xapi.com",
           "api.infonavera.com",
+          "api.websites.ink",
           "apideb.site",
           "apis.google-policy.com",
           "apis.goolqe.com",
@@ -93668,6 +93684,7 @@
           "app.awiki.org",
           "app.cjlogistics.kro.kr",
           "app.cjphoto.ga",
+          "app.contras.site",
           "app.firmware.o-r.kr",
           "app.gommi.ml",
           "app.iptimes.o-r.kr",
@@ -93963,6 +93980,7 @@
           "babaleside.cyou",
           "baboivan.scienceontheweb.net",
           "back-face.com",
+          "backend.contras.site",
           "backghea.click",
           "backspaice.fun",
           "baconer.site",
@@ -94968,6 +94986,7 @@
           "confirmusrdoc.mydns.bz",
           "confirrns-linkeclin.site",
           "confluence.navers.tech",
+          "conform.site",
           "confusedpublishingi.click",
           "confusedtubei.click",
           "confusionactivei.click",
@@ -95003,6 +95022,7 @@
           "content.goolqe.com",
           "content.gooqle.com.co",
           "conterfgcp.store",
+          "contras.site",
           "control.o-r.kr",
           "controlbloginfo.mydns.bz",
           "cood.nonghyup.website",
@@ -95321,6 +95341,8 @@
           "dellotic.r-e.kr",
           "delojmmfirkcnnsi.cfd",
           "demand.poulsen.work",
+          "demo.contras.site",
+          "demo.websites.ink",
           "demoserver001.no-ip.org",
           "denanwaveb.cloud",
           "denarye.click",
@@ -95346,6 +95368,7 @@
           "detaoffi.click",
           "detecsel.click",
           "detewell.click",
+          "dev.contras.site",
           "dev.infonavera.com",
           "dev.kakaoteam.site",
           "dev.ndoc-kr.space",
@@ -98580,6 +98603,7 @@
           "laurapose.store",
           "lawyeagra.click",
           "layanan.littlequery.id",
+          "layer5043.space",
           "layyoung.click",
           "lazor.kro.kr",
           "lcgwihug.ntsposter.website",
@@ -106650,6 +106674,7 @@
           "stage.infonavera.com",
           "stage.navervcorp.com",
           "stage.navnaver.com",
+          "staging.contras.site",
           "staging.nps-top.site",
           "stair.atwebpages.com",
           "stair.myartsonline.com",
@@ -108138,6 +108163,7 @@
           "webrnail-kinu.hol.es",
           "webs.kro.kr",
           "websecuritynotice.com",
+          "websites.ink",
           "websiteservice-noreply.com",
           "websitmta-sts.ntsgo.site",
           "websitmta-sts.ntsgov.site",
@@ -109312,7 +109338,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-02-24T11:04:32+02:00",
+        "last_modified": "2026-02-27T16:26:11+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -110335,9 +110361,11 @@
           "https://app.validin.com/detail?type=ip&find=45.125.67.250#tab=resolutions",
           "https://app.validin.com/detail?find=156.244.19.175&type=ip4&ref_id=35117e21469#tab=resolutions",
           "https://x.com/eastside_nci/status/1847785065935192113",
+          "https://x.com/byrne_emmy12099/status/2027362636669812866",
           "https://search.censys.io/hosts/107.189.15.105",
           "https://search.censys.io/hosts/107.189.16.65",
           "https://www.virustotal.com/gui/ip-address/107.189.15.105/relations",
+          "https://www.virustotal.com/gui/file/1fd4cdad8d32dc17513b4e4a79f42c9d616e5268d63ed497a43aea0669e50c00/detection",
           "https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=INCLUDE&q=services.banner_hashes%3D%22sha256%3A813ca5c780472f08bc50280e8e646e0b8b454bc33bd82e7188e921b673e5970d%22&cursor=eyJhbGciOiJFZERTQSJ9.eyJub25jZSI6ImEvaXlqSFhHc205NHhTelJoOStpK1c1V0RVS0lKYUhIQ3RYZXMxRXE5Y0kiLCJwYWdlIjo2LCJyZXZlcnNlZCI6ZmFsc2UsInNlYXJjaF9hZnRlciI6WzE0LjMzMDk0NCwxNzI5MjAzMjA4MzgyLCIxNTguMjQ3LjIzOC4xNTUiLCI4OW5zZXJ2ZXJjYy5jZmQiXSwic29ydCI6W3siX3Njb3JlIjp7Im9yZGVyIjoiZGVzYyJ9fSx7Imxhc3RfdXBkYXRlZF9hdCI6eyJtaXNzaW5nIjoiX2xhc3QiLCJtb2RlIjoibWluIiwib3JkZXIiOiJkZXNjIn19LHsiaXAiOnsibWlzc2luZyI6Il9sYXN0IiwibW9kZSI6Im1pbiIsIm9yZGVyIjoiYXNjIn19LHsibmFtZS5fX3JhdyI6eyJtaXNzaW5nIjoiX2xhc3QiLCJtb2RlIjoibWluIiwib3JkZXIiOiJhc2MifX1dLCJ2ZXJzaW9uIjoxfQ.NUQJAealZkovLjlkSJAbTi3vLwoK7UZjGaYrIynbBemft5VWMu9mh6qWxq_h80G6MuEVPSFJSLMnkWJ5Go9wCQ",
           "https://hunt.io/blog/dprk-phishing-targets-naver-apple-domain-spoofing",
           "https://app.validin.com/detail?find=158.247.238.155&type=ip4&ref_id=620b77cfe73#tab=resolutions",
@@ -110793,12 +110821,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 16058,
+          "domain": 16073,
           "file_path": 282,
           "ipv4": 77,
           "url": 56
         },
-        "total": 16473
+        "total": 16488
       }
     },
     "KUN3": {
@@ -114227,6 +114255,7 @@
           "vscode-settings-config.vercel.app",
           "vscode-toolkit-bootstrap.vercel.app",
           "vscodeconfig.com",
+          "vscodesettings03kui.vercel.app",
           "vscodesettingstask.vercel.app",
           "vscodesettingtask.vercel.app",
           "vz206llb19o.com",
@@ -115650,7 +115679,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-27T10:15:43+02:00",
+        "last_modified": "2026-02-27T16:35:26+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -116825,17 +116854,18 @@
           "https://www.abstract.security/blog/contagious-interview-evolution-of-vscode-and-cursor-tasks-infection-chains",
           "https://app.validin.com/detail?find=c87d57c84529f76a1212c0050d434162c729617c#tab=host_pairs (# 2025-08-26)",
           "https://app.validin.com/detail?find=%20Solar%20Explorer&type=raw&ref_id=2c9cf18cb5d#tab=host_pairs (# 2025-08-26)",
-          "https://www.virustotal.com/gui/file/6b3c6a4c07f77016ef05a5994bcc4e228cbfc474733cd091b0edc6493fe8465a/detection"
+          "https://www.virustotal.com/gui/file/6b3c6a4c07f77016ef05a5994bcc4e228cbfc474733cd091b0edc6493fe8465a/detection",
+          "https://www.enki.co.kr/en/media-center/blog/contagious-interview-campaign-abusing-vscode-distributed-on-github"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3419,
+          "domain": 3420,
           "file_path": 478,
           "ipv4": 516,
           "url": 102
         },
-        "total": 4515
+        "total": 4516
       }
     },
     "LAZYSCRIPTER": {
