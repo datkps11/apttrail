@@ -146954,6 +146954,7 @@
           "computerservicesource.com",
           "crimson-unit-2561.kopis56799.workers.dev",
           "dash-server.servertech03.workers.dev",
+          "database-lists.com",
           "dbeaver-database.app",
           "dbeaver-database.cc",
           "dbeaver-database.cloud",
@@ -146986,6 +146987,7 @@
           "heidisql-enterprise.pro",
           "heidisql-enterprise.tech",
           "heidisql-enterprise.us",
+          "heidisql.database-lists.com",
           "heidisql.space",
           "hornetseculty.com",
           "horpetsecurity.com",
@@ -147012,6 +147014,7 @@
           "rvtools-skillcamp.com",
           "rvtools.link",
           "rvtools.softwarep2p.com",
+          "rvtools.vmwarevelocity.com",
           "rvtoolsac.com",
           "rvtoolsacad.com",
           "rvtoolsacs.com",
@@ -147076,6 +147079,7 @@
           "vmware-rvtools.pro",
           "vmware-rvtools.tech",
           "vmware-rvtools.us",
+          "vmwarevelocity.com",
           "web-app.dasik14289.workers.dev",
           "web-app.larij21770.workers.dev",
           "work-server-1.picalob750.workers.dev"
@@ -147087,7 +147091,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-02-27T11:07:58+02:00",
+        "last_modified": "2026-02-27T14:45:22+02:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -147103,9 +147107,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 148
+          "domain": 152
         },
-        "total": 148
+        "total": 152
       }
     },
     "UNC2529": {
