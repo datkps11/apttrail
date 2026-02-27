@@ -112915,6 +112915,7 @@
           "mclearoptical.com",
           "mclland.com",
           "mdown.showprice.xyz",
+          "me-c0h.pages.dev",
           "measureaptitudes.com",
           "medcialbiotop.com",
           "mediajourney.digital",
@@ -115680,7 +115681,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-02-27T16:35:26+02:00",
+        "last_modified": "2026-02-28T00:10:23+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -116861,12 +116862,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3420,
+          "domain": 3421,
           "file_path": 478,
           "ipv4": 516,
           "url": 102
         },
-        "total": 4516
+        "total": 4517
       }
     },
     "LAZYSCRIPTER": {
@@ -150162,6 +150163,7 @@
           "txtips.com",
           "tz.allsoulu.com",
           "tzlss.mobi",
+          "ua-gov.info",
           "ua.delta-storages.com",
           "uanews.press",
           "ukrbezpeka.online",
@@ -150550,7 +150552,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2026-02-25T14:50:34+02:00",
+        "last_modified": "2026-02-27T23:46:47+02:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -151001,6 +151003,8 @@
           "https://www.virustotal.com/gui/file/2477bbf0ab3f0c9db73fcb2f5f9dfe8cf6703a88862a7c98a5de6f349cd8833f/detection",
           "https://x.com/smica83/status/2024781300440211506",
           "https://www.virustotal.com/gui/file/531b11daeab05d4f91817502e251209a1a08f112b3bfc38c1af05f35f1ba8d6e/detection",
+          "https://www.virustotal.com/gui/ip-address/95.85.252.196/relations",
+          "https://app.any.run/tasks/ea77b391-69ef-4c61-9a32-2a9d3ca2af08",
           "https://x.com/smica83/status/2026349402948813096",
           "https://www.virustotal.com/gui/ip-address/62.3.58.8/relations",
           "https://www.virustotal.com/gui/file/2bbcbc88d04615079fa17708c62f07ccb138c19bb9ed78ae43f9172cd91931ba/detection",
@@ -151012,12 +151016,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1210,
+          "domain": 1211,
           "file_path": 77,
           "ipv4": 117,
           "url": 57
         },
-        "total": 1461
+        "total": 1462
       }
     },
     "USH": {
