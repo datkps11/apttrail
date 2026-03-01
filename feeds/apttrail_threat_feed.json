@@ -131552,6 +131552,7 @@
           "download-doc.net",
           "download-file.net",
           "download-files-0pen-err0r-l0gin.netlify.app",
+          "download-secure-app-from-icloud.malik-jaani786.workers.dev",
           "download-services.online",
           "download-store.tech",
           "downloadabledocx.com",
@@ -132028,6 +132029,7 @@
           "hisidewindersidewinder.pimec-paknavy.updates-installer.store",
           "hit-deop-hasan7169004254-f24834bv.leapcell.dev",
           "hit-pk.org",
+          "hit-view-message-preview.malik-jaani786.workers.dev",
           "hit.gov.pk.81-cn.info",
           "hitpak.org",
           "hldren.info",
@@ -132618,6 +132620,7 @@
           "mailyafd.mofa-gov.org",
           "mailyahoocom.cvix.live",
           "mainet.info",
+          "malik-jaani786.workers.dev",
           "mall-ministryoffinance-np.netlify.app",
           "management.xuzeest.buzz",
           "marine-pak.org",
@@ -132757,6 +132760,7 @@
           "modltr.info-lanka.org",
           "modp-gov-pk.d0wnlaod.org",
           "modp-pk.org",
+          "modp-view-full-message.malik-jaani786.workers.dev",
           "modp.gov.pk-govt.net",
           "modp.gov.pk-mail.org",
           "modpak-info.services",
@@ -134338,7 +134342,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-02-28T14:28:23+02:00",
+        "last_modified": "2026-03-01T12:29:04+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -135366,17 +135370,18 @@
           "https://x.com/volrant136/status/2024478284982210852",
           "https://x.com/__0XYC__/status/2026971764769665277",
           "https://www.virustotal.com/gui/file/795ea82a7aa424f6d54d975a44d1c69a622217dbf8ebbd67becb64559bd3a909/detection",
-          "https://x.com/skocherhan/status/2027484078132379889"
+          "https://x.com/skocherhan/status/2027484078132379889",
+          "https://x.com/volrant136/status/2028050650110554502"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3405,
+          "domain": 3409,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3497
+        "total": 3501
       }
     },
     "SILENCE": {
