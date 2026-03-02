@@ -3778,6 +3778,56 @@ rule APT_DUNEQUIXOTE
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_DUSTSPECTER
+{
+    meta:
+        description = "Detects IOCs associated with APT DUSTSPECTER"
+        author = "APTtrail Automated Collection"
+        apt_group = "DUSTSPECTER"
+        aliases = "ghostform, splitdrop, twintalk"
+        reference = "https://www.zscaler.com/blogs/security-research/dust-specter-apt-targets-government-officials-iraq"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "207-e-walter\.xyz" ascii wide nocase
+        $domain1 = "afterworld\.store" ascii wide nocase
+        $domain2 = "anythingshere\.shop" ascii wide nocase
+        $domain3 = "cside\.site" ascii wide nocase
+        $domain4 = "cywofio2\.pro" ascii wide nocase
+        $domain5 = "digitaleconomy\.lol" ascii wide nocase
+        $domain6 = "digitallcomunity\.xyz" ascii wide nocase
+        $domain7 = "fashionmodels\.site" ascii wide nocase
+        $domain8 = "findbesthotels\.info" ascii wide nocase
+        $domain9 = "footballclub\.sbs" ascii wide nocase
+        $domain10 = "footballfans\.asia" ascii wide nocase
+        $domain11 = "formacja\.info" ascii wide nocase
+        $domain12 = "garbagecollector\.site" ascii wide nocase
+        $domain13 = "girlsbags\.shop" ascii wide nocase
+        $domain14 = "justweb\.click" ascii wide nocase
+        $domain15 = "lecturegenieltd\.pro" ascii wide nocase
+        $domain16 = "luckywavez\.shop" ascii wide nocase
+        $domain17 = "mancpr\.icu" ascii wide nocase
+        $domain18 = "meetingapp\.site" ascii wide nocase
+        $domain19 = "menclub\.lt" ascii wide nocase
+        $domain20 = "musiclivetrack\.website" ascii wide nocase
+        $domain21 = "ntcx\.pro" ascii wide nocase
+        $domain22 = "onlinepettools\.shop" ascii wide nocase
+        $domain23 = "phoneaccessory\.site" ascii wide nocase
+        $domain24 = "programmingcourse\.site" ascii wide nocase
+        $domain25 = "retseptik\.info" ascii wide nocase
+        $domain26 = "sportscarshop\.lol" ascii wide nocase
+        $domain27 = "steelweight\.mobi" ascii wide nocase
+        $domain28 = "stone110\.store" ascii wide nocase
+        $domain29 = "testold\.tender\.pro" ascii wide nocase
+        $domain30 = "web14\.info" ascii wide nocase
+        $domain31 = "web27\.info" ascii wide nocase
+        $domain32 = "wehakaa2\.pro" ascii wide nocase
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
+}
+
 rule APT_DUSTSQUAD
 {
     meta:

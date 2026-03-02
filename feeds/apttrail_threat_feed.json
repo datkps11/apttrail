@@ -23005,6 +23005,65 @@
         "total": 9
       }
     },
+    "DUSTSPECTER": {
+      "indicators": {
+        "domain": [
+          "207-e-walter.xyz",
+          "afterworld.store",
+          "anythingshere.shop",
+          "cside.site",
+          "cywofio2.pro",
+          "digitaleconomy.lol",
+          "digitallcomunity.xyz",
+          "fashionmodels.site",
+          "findbesthotels.info",
+          "footballclub.sbs",
+          "footballfans.asia",
+          "formacja.info",
+          "garbagecollector.site",
+          "girlsbags.shop",
+          "justweb.click",
+          "lecturegenieltd.pro",
+          "luckywavez.shop",
+          "mancpr.icu",
+          "meetingapp.site",
+          "menclub.lt",
+          "musiclivetrack.website",
+          "ntcx.pro",
+          "onlinepettools.shop",
+          "phoneaccessory.site",
+          "programmingcourse.site",
+          "retseptik.info",
+          "sportscarshop.lol",
+          "steelweight.mobi",
+          "stone110.store",
+          "testold.tender.pro",
+          "web14.info",
+          "web27.info",
+          "wehakaa2.pro"
+        ]
+      },
+      "metadata": {
+        "aliases": [
+          "splitdrop",
+          "twintask",
+          "twintalk",
+          "ghostform"
+        ],
+        "apt_group": "DUSTSPECTER",
+        "filename": "apt_dustspecter.txt",
+        "last_modified": "2026-03-02T21:50:26+02:00",
+        "references": [
+          "https://www.zscaler.com/blogs/security-research/dust-specter-apt-targets-government-officials-iraq"
+        ]
+      },
+      "statistics": {
+        "by_type": {
+          "domain": 33
+        },
+        "total": 33
+      }
+    },
     "DUSTSQUAD": {
       "indicators": {
         "domain": [
@@ -131061,6 +131120,7 @@
           "balcon.live",
           "balochistanpolice.gov.pk-mail.org",
           "bangla.b-cdn.net",
+          "bangladesh-islamic-baank.workers.dev",
           "bangladeshbaank-gov-bd.workers.dev",
           "bangladeshmarineacademylibrary.ppinewsagency.live",
           "bangladeshnavy.dgps-govpk.co",
@@ -132097,6 +132157,7 @@
           "info-account.cdn-dl.cn",
           "info-bdgov.com",
           "info-lanka.org",
+          "info.bangladesh-islamic-baank.workers.dev",
           "infomfa-gov-lk.dwnlld.info",
           "inkly.net",
           "inkora.org",
@@ -133312,6 +133373,7 @@
           "ostcone.site",
           "outlook.gavaf.org",
           "outlookk.co",
+          "ov-pk.workers.dev",
           "ov.bd.account.modern.sessions.webmailarmy.com",
           "ovil.tech",
           "owa-spamcheck.apl-org.online",
@@ -134355,7 +134417,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-03-01T12:29:04+02:00",
+        "last_modified": "2026-03-02T22:23:29+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -135384,17 +135446,18 @@
           "https://x.com/__0XYC__/status/2026971764769665277",
           "https://www.virustotal.com/gui/file/795ea82a7aa424f6d54d975a44d1c69a622217dbf8ebbd67becb64559bd3a909/detection",
           "https://x.com/skocherhan/status/2027484078132379889",
-          "https://x.com/volrant136/status/2028050650110554502"
+          "https://x.com/volrant136/status/2028050650110554502",
+          "https://arcticwolf.com/resources/blog/sloppylemming-deploys-burrowshell-and-rust-based-rat-to-target-pakistan-and-bangladesh/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3409,
+          "domain": 3412,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3501
+        "total": 3504
       }
     },
     "SILENCE": {
@@ -152287,5 +152350,5 @@
     }
   },
   "source": "Maltrail APT Indicators",
-  "total_apt_groups": 334
+  "total_apt_groups": 335
 }
