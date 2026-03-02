@@ -113472,6 +113472,7 @@
           "quantapath-ext275.vercel.app",
           "quantumnodespro.com",
           "queryyard.com",
+          "questionic.com",
           "questionnairehq.com",
           "quick-view.org",
           "quickassessio.com",
@@ -115722,7 +115723,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-03-02T08:00:32+02:00",
+        "last_modified": "2026-03-02T14:41:17+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -116904,12 +116905,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3451,
+          "domain": 3452,
           "file_path": 478,
           "ipv4": 520,
           "url": 102
         },
-        "total": 4551
+        "total": 4552
       }
     },
     "LAZYSCRIPTER": {
