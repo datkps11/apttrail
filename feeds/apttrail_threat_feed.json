@@ -112484,6 +112484,7 @@
           "gowelknx.naveicoipf.online",
           "gp-core.com",
           "gp-main.com",
+          "grace-ayodele.workers.dev",
           "grainituae.com",
           "greendottb.com",
           "greendtb.com",
@@ -112909,6 +112910,7 @@
           "mailservicecorp.online",
           "mailserviceteam.email",
           "mailx.dropfile.online",
+          "main-8i4.pages.dev",
           "main-aptitudespro.pages.dev",
           "main-az8.pages.dev",
           "manchestercity.work.gd",
@@ -113649,6 +113651,7 @@
           "shopweblive.com",
           "shopwebstudio.com",
           "showmanroast.com",
+          "shrill-breeze-e0f.grace-ayodele.workers.dev",
           "sictradingc.com",
           "sightalent.org",
           "sightalent.pages.dev",
@@ -114380,6 +114383,7 @@
           "wifispeedcheck.net",
           "wiilotalent.com",
           "wikahmart.com",
+          "wild-mud-21fa.grace-ayodele.workers.dev",
           "wilio-talent.net",
           "willo-interview.us",
           "willo-video.com",
@@ -115723,7 +115727,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-03-02T14:41:17+02:00",
+        "last_modified": "2026-03-02T15:35:50+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -116905,12 +116909,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3452,
+          "domain": 3456,
           "file_path": 478,
           "ipv4": 520,
           "url": 102
         },
-        "total": 4552
+        "total": 4556
       }
     },
     "LAZYSCRIPTER": {
@@ -120561,6 +120565,7 @@
           "loginaccounts.cf",
           "logincheck.in",
           "logind2-secure.tk",
+          "mazafakaerindahouse.info",
           "mazzion1234-44451.portmap.host",
           "mbcaction.hopto.org",
           "metamask-zendesk.in",
@@ -121059,7 +121064,7 @@
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2026-02-25T21:16:17+02:00",
+        "last_modified": "2026-03-02T16:33:16+02:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
@@ -121283,17 +121288,20 @@
           "https://www.genians.co.kr/en/blog/threat_intelligence/muddywater-apt",
           "https://www.virustotal.com/gui/file/0be499354dc498248d27f6d186eb3bb75a607ae4a2c0a6734c76f1a1b7b1d316/detection",
           "https://www.virustotal.com/gui/file/f38a56b8dc0e8a581999621eef65ef497f0ac0d35e953bd94335926f00e9464f/detection",
-          "https://www.virustotal.com/gui/file/6f079c1e2655ed391fb8f0b6bfafa126acf905732b5554f38a9d32d0b9ca407d/detection"
+          "https://www.virustotal.com/gui/file/6f079c1e2655ed391fb8f0b6bfafa126acf905732b5554f38a9d32d0b9ca407d/detection",
+          "https://x.com/k3yp0d/status/2028417699206857158",
+          "https://x.com/k3yp0d/status/2028466573694890280",
+          "https://www.virustotal.com/gui/file/a8c380b57cb7c381ca6ba845bd7af7333f52ee4dc4e935e98b48bb81facad72b/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 167,
+          "domain": 168,
           "file_path": 187,
           "ipv4": 92,
           "url": 110
         },
-        "total": 556
+        "total": 557
       }
     },
     "MURENSHARK": {
