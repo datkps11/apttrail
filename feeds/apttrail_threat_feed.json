@@ -101805,6 +101805,7 @@
           "ndoc.realinfo.p-e.kr",
           "ndocajavsvr.store",
           "ndocasset.mydns.bz",
+          "ndocpass.dns.army",
           "ndocs.lat",
           "ndocs.xyz",
           "ndomainservsec.store",
@@ -109346,7 +109347,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-02-28T18:14:47+02:00",
+        "last_modified": "2026-03-02T20:32:10+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -110824,17 +110825,19 @@
           "https://x.com/skocherhan/status/2025264875816001899",
           "https://www.virustotal.com/gui/ip-address/172.245.64.240/relations",
           "https://x.com/skocherhan/status/2025274934553980963",
-          "https://app.validin.com/detail?find=c2bd47d03b48320b1c23f8f92e1f89f6&type=hash&ref_id=4d053dd12f1#tab=host_pairs"
+          "https://app.validin.com/detail?find=c2bd47d03b48320b1c23f8f92e1f89f6&type=hash&ref_id=4d053dd12f1#tab=host_pairs",
+          "https://x.com/Ghostyak/status/2028365739762323777",
+          "https://www.virustotal.com/gui/ip-address/101.36.114.231/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 16081,
+          "domain": 16082,
           "file_path": 282,
           "ipv4": 77,
           "url": 56
         },
-        "total": 16496
+        "total": 16497
       }
     },
     "KUN3": {
