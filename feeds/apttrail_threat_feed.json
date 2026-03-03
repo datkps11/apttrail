@@ -95930,6 +95930,7 @@
           "edoc.docmgmt.o-r.kr",
           "edoc.epsdocgoji.mydns.bz",
           "edoc.file.nts-kkk.dynv6.net",
+          "edoc.file.view.xn--1-wb6eh4hj4durmfjcnubk5pb9dezmj4b0xb.xn--2i0b10rqve.xn--3e0b707e",
           "edoc.groupinfodoc.n-e.kr",
           "edoc.invoicesystem.n-e.kr",
           "edoc.ipsinvoicegoji.mydns.bz",
@@ -95960,6 +95961,7 @@
           "edoc.view.com-mtc.server-on.net",
           "edoc.view.file.com-ox.mydns.jp",
           "edoc.view.file.cot.man.com-swod.mydns.tw",
+          "edoc.view.xn--1-wb6eh4hj4dt5o56a42nfzdh3l5rhgtx.xn--hu5b25b77nvwc.xn--3e0b707e",
           "edoc.webdoclnk.server-on.net",
           "edocinvoices.o-r.kr",
           "edocs-all.site",
@@ -96547,6 +96549,7 @@
           "file.cto.com-mg.mydns.tw",
           "file.goolqe.com",
           "file.nts-kkk.dynv6.net",
+          "file.view.xn--1-wb6eh4hj4durmfjcnubk5pb9dezmj4b0xb.xn--2i0b10rqve.xn--3e0b707e",
           "filecloud-saver.n-e.kr",
           "filecloud.n-e.kr",
           "filenal.cloudns.cl",
@@ -99609,6 +99612,7 @@
           "mid-proxy.site",
           "mid.edoc.file.nts-kkk.dynv6.net",
           "mid.edoc.view.file.com-ox.mydns.jp",
+          "mid.edoc.view.xn--1-wb6eh4hj4dt5o56a42nfzdh3l5rhgtx.xn--hu5b25b77nvwc.xn--3e0b707e",
           "mid.mmm.mmm.mmm.mew-edoc.dynv6.net",
           "mid.mmm.mmm.mmm.mmm.edoc-otp.dynv6.net",
           "mid.navers.blog.de-file.online",
@@ -102740,6 +102744,7 @@
           "nid.oksite.eu",
           "nid.onclouds.host",
           "nid.police.com-tree.mydns.tw",
+          "nid.police.service.view-mdoc.p-e.kr",
           "nid.policegoalsvc.p-e.kr",
           "nid.policydocs.p-e.kr",
           "nid.sslnaver.online",
@@ -103132,6 +103137,7 @@
           "nktakeme.site",
           "nl-nps.live-on.net",
           "nld.edoc.file.nts-kkk.dynv6.net",
+          "nld.edoc.file.view.xn--1-wb6eh4hj4durmfjcnubk5pb9dezmj4b0xb.xn--2i0b10rqve.xn--3e0b707e",
           "nld.edoc.view.com-ces.keyword-on.net",
           "nld.loqinfoservicce.n-e.kr",
           "nld.loqinseviceeinfo.kro.kr",
@@ -103416,6 +103422,7 @@
           "nood.nts-edoc-view.dns.navy",
           "nood.nts-list.dns.navy",
           "nood.shinhan-cards.dns.army",
+          "nood.xn--1-bz5exjyrvsf7xv7oxnb39cd6q4ypdq6b.xn--h32bi4v.xn--3e0b707e",
           "nood.xn--on3bo3ef2fhpaw5a3et70ca466c7qp.p-e.kr",
           "nooraeso.r-e.kr",
           "noosavo.xyz",
@@ -105366,6 +105373,7 @@
           "polarisoffice.store",
           "police.binduserdoc.p-e.kr",
           "police.com-tree.mydns.tw",
+          "police.service.view-mdoc.p-e.kr",
           "policegoalsvc.p-e.kr",
           "polices.site",
           "policeserveronline.cfd",
@@ -106281,6 +106289,7 @@
           "service.securiteams.info",
           "service.sharedboxview.online",
           "service.useraccountpolicy.kro.kr",
+          "service.view-mdoc.p-e.kr",
           "servicebybit.navernnail.com",
           "servicegaccount.store",
           "servicegonline.store",
@@ -107779,6 +107788,7 @@
           "vidsuaiue.site",
           "view-hanmail.net",
           "view-hwp.kro.kr",
+          "view-mdoc.p-e.kr",
           "view-naver.com",
           "view.allisons.org",
           "view.com-ace.live-on.net",
@@ -107846,6 +107856,8 @@
           "view.p-e.kr",
           "view.secdoc.site",
           "view.sniperman.click",
+          "view.xn--1-wb6eh4hj4dt5o56a42nfzdh3l5rhgtx.xn--hu5b25b77nvwc.xn--3e0b707e",
+          "view.xn--1-wb6eh4hj4durmfjcnubk5pb9dezmj4b0xb.xn--2i0b10rqve.xn--3e0b707e",
           "viewblog.kro.kr",
           "viewdocument2785.dns.army",
           "viewer-server.p-e.kr",
@@ -109406,7 +109418,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-02T20:32:10+02:00",
+        "last_modified": "2026-03-03T10:51:29+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -110886,17 +110898,18 @@
           "https://x.com/skocherhan/status/2025274934553980963",
           "https://app.validin.com/detail?find=c2bd47d03b48320b1c23f8f92e1f89f6&type=hash&ref_id=4d053dd12f1#tab=host_pairs",
           "https://x.com/Ghostyak/status/2028365739762323777",
-          "https://www.virustotal.com/gui/ip-address/101.36.114.231/relations"
+          "https://www.virustotal.com/gui/ip-address/101.36.114.231/relations",
+          "https://x.com/skocherhan/status/2028588428787433658"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 16082,
+          "domain": 16094,
           "file_path": 282,
           "ipv4": 77,
           "url": 56
         },
-        "total": 16497
+        "total": 16509
       }
     },
     "KUN3": {
