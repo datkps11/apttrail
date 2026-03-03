@@ -93985,6 +93985,7 @@
           "authenpotal.click",
           "authenticate.ntaxhomedoc.live-on.net",
           "authenticate.useraccountcheck.kro.kr",
+          "authenticatetarget.mydns.bz",
           "authenticateudoc.1cooldns.com",
           "authoritycorp.kro.kr",
           "authqooqle.n-e.kr",
@@ -95919,6 +95920,7 @@
           "edoc-view.dynv6.net",
           "edoc.abrdns.com",
           "edoc.accessdoctype.mydns.bz",
+          "edoc.authenticatetarget.mydns.bz",
           "edoc.checkusrblogs.mydns.vc",
           "edoc.contactdocid.server-on.net",
           "edoc.deponline.p-e.kr",
@@ -97815,6 +97817,7 @@
           "info.safety-call.p-e.kr",
           "info.supportipsinvoice.mydns.bz",
           "info.taxdocdevice.mydns.vc",
+          "info.udocreferal.kozow.com",
           "info.uncork.biz",
           "info.user.onlive-auth.r-e.kr",
           "info.userdirectaddr.mydns.bz",
@@ -97931,6 +97934,7 @@
           "invoice.securitymid.com",
           "invoice.supportipsinvoice.mydns.bz",
           "invoice.targetblogrecord.dns.army",
+          "invoice.udocreferal.kozow.com",
           "invoice.userdirectaddr.mydns.bz",
           "invoice.usermemberblog.mydns.vc",
           "invoice.usraccesstype.mydns.bz",
@@ -107328,6 +107332,7 @@
           "udaum.net",
           "udesaeye.click",
           "udhfgebfhoklerjdll.cfd",
+          "udocreferal.kozow.com",
           "udoirfno.shop",
           "uefa2018.000webhostapp.com",
           "ueicxws.site",
@@ -107609,6 +107614,7 @@
           "uspublicproum.kro.kr",
           "usr.accessdoctype.mydns.bz",
           "usr.apptxdoc.kro.kr",
+          "usr.authenticatetarget.mydns.bz",
           "usr.blogcorplink.mydns.vc",
           "usr.docauthzone.mydns.bz",
           "usr.doclistdetail.n-e.kr",
@@ -109418,7 +109424,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-03T10:51:29+02:00",
+        "last_modified": "2026-03-03T12:56:47+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -110904,12 +110910,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 16094,
+          "domain": 16100,
           "file_path": 282,
           "ipv4": 77,
           "url": 56
         },
-        "total": 16509
+        "total": 16515
       }
     },
     "KUN3": {
