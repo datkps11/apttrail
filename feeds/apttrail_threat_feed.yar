@@ -13513,6 +13513,73 @@ rule APT_UNC6293
         any of ($domain*, $ip*, $url*)
 }
 
+rule APT_UNC6691
+{
+    meta:
+        description = "Detects IOCs associated with APT UNC6691"
+        author = "APTtrail Automated Collection"
+        apt_group = "UNC6691"
+        aliases = "coruna, plasmagrid"
+        reference = "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "0gab6nun8ubl2pk\.xyz" ascii wide nocase
+        $domain1 = "18cnask0a147yxj\.xyz" ascii wide nocase
+        $domain2 = "26a\.online" ascii wide nocase
+        $domain3 = "2g6wtt4i1ze81qt\.xyz" ascii wide nocase
+        $domain4 = "2s3b3rknfqtwwpo\.xyz" ascii wide nocase
+        $domain5 = "3v5w1km5gv\.xyz" ascii wide nocase
+        $domain6 = "4kgame\.us" ascii wide nocase
+        $domain7 = "4u\.game" ascii wide nocase
+        $domain8 = "65sse\.668ddf\.cc" ascii wide nocase
+        $domain9 = "668ddf\.cc" ascii wide nocase
+        $domain10 = "6zvjeulzaw5c0mv\.xyz" ascii wide nocase
+        $domain11 = "70ln176jj4v6v4n\.xyz" ascii wide nocase
+        $domain12 = "777bingos\.xyz" ascii wide nocase
+        $domain13 = "77bingos\.com" ascii wide nocase
+        $domain14 = "7ff\.online" ascii wide nocase
+        $domain15 = "7fun\.icu" ascii wide nocase
+        $domain16 = "7p\.game" ascii wide nocase
+        $domain17 = "7uspin\.us" ascii wide nocase
+        $domain18 = "8fn4957c5g986jp\.xyz" ascii wide nocase
+        $domain19 = "98a\.online" ascii wide nocase
+        $domain20 = "ai-scorepredict\.com" ascii wide nocase
+        $domain21 = "ajskbnrs\.xn--jor0b302fdhgwnccw8g\.com" ascii wide nocase
+        $domain22 = "anygg\.liquorfight\.com" ascii wide nocase
+        $domain23 = "appstoreconn\.com" ascii wide nocase
+        $domain24 = "b27\.icu" ascii wide nocase
+        $domain25 = "b38w09ecdejfqsf\.xyz" ascii wide nocase
+        $domain26 = "bestcryptocurrency\.top" ascii wide nocase
+        $domain27 = "binancealliancesintro\.com" ascii wide nocase
+        $domain28 = "binaner\.com" ascii wide nocase
+        $domain29 = "bingo777\.now" ascii wide nocase
+        $domain30 = "btrank\.top" ascii wide nocase
+        $domain31 = "cryptocurrencyworld\.top" ascii wide nocase
+        $domain32 = "cy8\.top" ascii wide nocase
+        $domain33 = "d3jeactocj94gci\.xyz" ascii wide nocase
+        $domain34 = "dbgopaxl\.com" ascii wide nocase
+        $domain35 = "dd9l7e6ghme8pbk\.xyz" ascii wide nocase
+        $domain36 = "ddus17\.com" ascii wide nocase
+        $domain37 = "dhd3gb9ff6r6h02\.xyz" ascii wide nocase
+        $domain38 = "dz69xtnj4unx2o9\.xyz" ascii wide nocase
+        $domain39 = "ef1389t2vm4ozth\.xyz" ascii wide nocase
+        $domain40 = "eg2bjo5x5r8yjb5\.xyz" ascii wide nocase
+        $domain41 = "fxrhcnfwxes90q\.xyz" ascii wide nocase
+        $domain42 = "fz1axot3o1epun8\.xyz" ascii wide nocase
+        $domain43 = "gdvynopz3pa0tik\.xyz" ascii wide nocase
+        $domain44 = "goanalytics\.xyz" ascii wide nocase
+        $domain45 = "goodcryptocurrency\.top" ascii wide nocase
+        $domain46 = "gqjs3ra34lyuvzb\.xyz" ascii wide nocase
+        $domain47 = "h4k\.icu" ascii wide nocase
+        $domain48 = "hfteigt3kt0sf3z\.xyz" ascii wide nocase
+        $domain49 = "hui4tbh9uv9x4yi\.xyz" ascii wide nocase
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
+}
+
 rule APT_UNC961
 {
     meta:
