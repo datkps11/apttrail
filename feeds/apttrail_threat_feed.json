@@ -20217,6 +20217,7 @@
           "blogs.box4box.online",
           "blogs.firelive.pics",
           "blogs.libraryutilitis.live",
+          "blogs.pakdw.live",
           "blogs.tourseasons.xyz",
           "blogs.updatepc.shop",
           "blue.retroservices.buzz",
@@ -20282,6 +20283,7 @@
           "crezdlack.buzz",
           "crushter.info",
           "cyber-net-pk.cf",
+          "daffodil.blog",
           "dasulinja.freemyip.com",
           "data-backup.online",
           "databig.akamaihub.stream",
@@ -20378,6 +20380,7 @@
           "giffyserve.info",
           "gilbertfix.info",
           "gizgashineson.buzz",
+          "gladiolus.live",
           "globalseasurfer.xyz",
           "globexlogic.info",
           "gmail-com.xyz",
@@ -20517,6 +20520,7 @@
           "mindef.live",
           "miniappservcc.com",
           "mistergift.live",
+          "mnjkuilhgftrew.baiduwebhost.com",
           "mobilelink.buzz",
           "mofa-gov-bh.ml",
           "mofa-gov-eg.co",
@@ -20560,6 +20564,7 @@
           "nucleusvision.sytes.net",
           "oceansurvey.club",
           "office-updatecentral.com",
+          "officesite.onrender.com",
           "officeupdater.org",
           "omagle-chat-secure.com",
           "omegas.site",
@@ -20591,6 +20596,7 @@
           "paf-gov-pk.ga",
           "paf-gov-pk.tk",
           "page-support-view.club",
+          "pakdw.live",
           "paknavy-pk.gq",
           "pam-beesly.site",
           "paperflies.buzz",
@@ -20710,6 +20716,8 @@
           "sharereliable.buzz",
           "sharetobijoy.buzz",
           "sharetosharing.info",
+          "shop.daffodil.blog",
+          "shop.gladiolus.live",
           "shop.toysgift.store",
           "shortdeserve.buzz",
           "shortler.xyz",
@@ -21190,7 +21198,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2026-02-13T15:05:39+02:00",
+        "last_modified": "2026-03-03T17:40:10+02:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -21829,17 +21837,29 @@
           "https://x.com/malwrhunterteam/status/1999232155797365157",
           "https://www.virustotal.com/gui/file/c61a761cf63e14107e5dfa82aa931bce2342f71288a1435ac2470d1c4bf3c7de/detection",
           "https://www.virustotal.com/gui/ip-address/45.61.139.243/relations",
-          "https://www.virustotal.com/gui/ip-address/193.149.190.162/relations"
+          "https://www.virustotal.com/gui/ip-address/193.149.190.162/relations",
+          "https://x.com/RedDrip7/status/2028720851491950998",
+          "https://www.virustotal.com/gui/file/df51fc728e0ff8c2ed01ee8b3dae29639938dfd84e655389622342fb9ffc042a/detection",
+          "https://www.virustotal.com/gui/file/807e94b1d69df0b511f3ba0460bb546580bbc5ad0791ebd06945cd21db372017/detection",
+          "https://www.virustotal.com/gui/file/f3a78d41518850fcf368490496c70207456ef5999b449ce4f303c5b9e69c43c3/detection",
+          "https://www.virustotal.com/gui/file/14f3e99e09adb06a5cd54a62741cd2f1dca397615bd323fac8264534c071f457/detection",
+          "https://www.virustotal.com/gui/file/d1232106b929ebb37c482add852af26f3865970b5adb8d90c6386eeb33645990/detection",
+          "https://x.com/RedDrip7/status/2028721108850225506",
+          "https://www.virustotal.com/gui/file/246323bc7e5993f89f900e099718a1f7299a0a8d6448e2bb073f259c772717dc/detection",
+          "https://www.virustotal.com/gui/file/c997638d68430e808fe1cd9f4fedb5a0e611b2bf6356a7437df974888fa58049/detection",
+          "https://x.com/RedDrip7/status/2028721108850225506",
+          "https://www.virustotal.com/gui/file/ea649c47cf44498eab67bf6e208586114a8e9a86665d803a827f05a45222042e/detection",
+          "https://x.com/500mk500/status/2028854877552587246"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 722,
+          "domain": 730,
           "file_path": 249,
           "ipv4": 47,
           "url": 4
         },
-        "total": 1022
+        "total": 1030
       }
     },
     "DOWNEX": {
