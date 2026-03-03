@@ -120587,12 +120587,14 @@
           "apikeyallervice.business",
           "apikeyallervice.com",
           "appsharecloud.com",
+          "arenareport.report",
           "assignmenthelptoday.com",
           "asure-onlinee.com",
           "aurasync2.com",
           "bevestig.in",
           "binden.in",
           "bing-google-soft.com",
+          "blazingketo.com",
           "cairoairport.egnyte.com",
           "ciscoupdate2019.gotdns.ch",
           "cloud-233f9.firebaseapp.com",
@@ -120695,6 +120697,7 @@
           "security-verification.in",
           "securitycloud.in",
           "server.lax.co.il",
+          "server1.sweepvip.com",
           "service0auht-center.ddns.net",
           "shareliverpoolfc.co.uk",
           "shopcloths.ddns.net",
@@ -120712,6 +120715,7 @@
           "supptechcloud.com",
           "sygateway.com",
           "t7170-d.de",
+          "trendym.uk",
           "updateaccount.in",
           "valiantservicesltd.com",
           "validsignature.in",
@@ -120955,7 +120959,10 @@
           "149.202.242.85:22",
           "149.202.242.86:22",
           "154.90.32.88:8043",
+          "157.20.182.49:1269",
+          "157.20.182.49:8000",
           "157.20.182.75:1269",
+          "159.198.36.115:4444",
           "164.132.237.64:22",
           "164.132.237.65:22",
           "164.132.237.66:22",
@@ -120970,6 +120977,7 @@
           "193.161.193.99:44451",
           "193.200.16.3:443",
           "194.61.121.86:443",
+          "209.74.87.100:8000",
           "3.129.246.94:443",
           "37.120.233.84:2000",
           "37.120.237.204:443",
@@ -121145,7 +121153,7 @@
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2026-03-02T16:33:16+02:00",
+        "last_modified": "2026-03-03T16:11:11+02:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
@@ -121372,17 +121380,18 @@
           "https://www.virustotal.com/gui/file/6f079c1e2655ed391fb8f0b6bfafa126acf905732b5554f38a9d32d0b9ca407d/detection",
           "https://x.com/k3yp0d/status/2028417699206857158",
           "https://x.com/k3yp0d/status/2028466573694890280",
-          "https://www.virustotal.com/gui/file/a8c380b57cb7c381ca6ba845bd7af7333f52ee4dc4e935e98b48bb81facad72b/detection"
+          "https://www.virustotal.com/gui/file/a8c380b57cb7c381ca6ba845bd7af7333f52ee4dc4e935e98b48bb81facad72b/detection",
+          "https://x.com/nahamike01/status/2028815239001845920"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 168,
+          "domain": 172,
           "file_path": 187,
-          "ipv4": 92,
+          "ipv4": 96,
           "url": 110
         },
-        "total": 557
+        "total": 565
       }
     },
     "MURENSHARK": {
