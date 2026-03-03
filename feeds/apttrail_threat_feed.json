@@ -3448,6 +3448,7 @@
           "alpha-els.com",
           "alxc.tbtianyan.com",
           "amazonlivenews.com",
+          "ampolice.org",
           "andropwn.xyz",
           "aone.ddns.net",
           "ap.philancourts.com",
@@ -3470,6 +3471,7 @@
           "back.rooter.tk",
           "backdoor.apt.photo",
           "bganmcza.top",
+          "bigflx.net",
           "bingsearches.com",
           "bobs8.oss-cn-hongkong.aliyuncs.com",
           "bold-hamilton.207-246-119-197.plesk.page",
@@ -3505,6 +3507,7 @@
           "colunm.tk",
           "commandidate.directory",
           "cooltours.s3.sa-east-1.amazonaws.com",
+          "copilot-cloud.net",
           "cs.colunm.tk",
           "cs16.dns04.com",
           "cyberkaspersky.com",
@@ -3529,6 +3532,7 @@
           "down.xxe.pw",
           "down1.linuxupdate.info",
           "down2.linuxupdate.info",
+          "drivefrontend.pa-clients.workers.dev",
           "dscriy.chtq.net",
           "dsqueryonline.com",
           "dsqurey.com",
@@ -3548,6 +3552,7 @@
           "exchange.longmusic.com",
           "exchange.openmd5.com",
           "exchange.portomnail.com",
+          "exchange4study.com",
           "fadfar.com",
           "farisrezky.com",
           "feedfoodconcerning.info",
@@ -3700,6 +3705,7 @@
           "micsoftonedrive.com",
           "midtntoday.com",
           "milli-seconds.com",
+          "mindssurpass.com",
           "mirco.supermirco.us",
           "mircoo.supermirco.us",
           "mircosoftdoc.com",
@@ -3755,6 +3761,7 @@
           "oca.pics",
           "officecdn-microsoft-com.akamaixed.net",
           "oldfriendsnetwork.com",
+          "onedriveconsole.com",
           "oossafe.com",
           "operatingbox.com",
           "opwmail.kozow.com",
@@ -3774,6 +3781,7 @@
           "power.installation77.com",
           "prod.microsoftdirect.com",
           "proradead.s3.sa-east-1.amazonaws.com",
+          "protacik.com",
           "proxy.xxe.pw",
           "ptciocl.com",
           "pubs.infinityfreeapp.com",
@@ -3795,6 +3803,7 @@
           "recordar-simmco.s3.sa-east-1.amazonaws.com",
           "reply.ygto.com",
           "resource.infinityfreeapp.com",
+          "revitpourtous.com",
           "riwmztda.top",
           "rocean.oca.pics",
           "rtku.lat",
@@ -3833,6 +3842,7 @@
           "solarwindsaf.com",
           "sourcedata.kuwannba.com",
           "souzacambos.s3.sa-east-1.amazonaws.com",
+          "splunkds.com",
           "st.kinopoisksu.com",
           "static.adobe-cdn.org",
           "static.developers-cloudfare.us",
@@ -3909,6 +3919,7 @@
           "ways-sms-pmc-shareholders.trycloudflare.com",
           "weblink.microsoftsservice.com",
           "websencl.com",
+          "wikipedla.blog",
           "win10micros0ft.com",
           "win7update.net",
           "winsproxy.com",
@@ -3931,6 +3942,7 @@
           "youtubedownloading.com",
           "yunchat.ddns.net",
           "zalofilescdn.com",
+          "zhydromet.com",
           "zitanlodge.com",
           "zngb.kozow.com"
         ],
@@ -6925,11 +6937,17 @@
           "eagerbee",
           "toughprogress",
           "ta415",
-          "voldemort"
+          "voldemort",
+          "silver dragon",
+          "bamboloader",
+          "monikerloader",
+          "silverscreen",
+          "sshcmd",
+          "geardoor"
         ],
         "apt_group": "BARIUM",
         "filename": "apt_barium.txt",
-        "last_modified": "2026-02-09T12:47:18+02:00",
+        "last_modified": "2026-03-03T22:48:25+02:00",
         "references": [
           "https://securelist.com/operation-shadowhammer/89992/",
           "https://twitter.com/ydklijnsma/status/1110220766778286080",
@@ -7108,17 +7126,19 @@
           "https://github.com/Cisco-Talos/IOCs/blob/main/2026/02/knife-cutting-the-edge.txt",
           "https://x.com/nahamike01/status/2020407834119487677",
           "https://app.validin.com/detail?find=https%3A%2F%2Fkaspersky.com%2Fads.txt&type=raw&ref_id=a73a038fe6c#tab=host_pairs (# 2025-02-09)",
-          "https://threatfox.abuse.ch/browse/malware/win.shadowpad/ (# 2026-02-09)"
+          "https://threatfox.abuse.ch/browse/malware/win.shadowpad/ (# 2026-02-09)",
+          "https://x.com/_CPResearch_/status/2028888546438766707",
+          "https://research.checkpoint.com/2026/silver-dragon-targets-organizations-in-southeast-asia-and-europe/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 515,
+          "domain": 527,
           "file_path": 1,
           "ipv4": 2768,
           "url": 199
         },
-        "total": 3483
+        "total": 3495
       }
     },
     "BATSHADOW": {
