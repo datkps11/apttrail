@@ -149371,6 +149371,7 @@
           "bj2.wzrpx.com",
           "bk.msdefender.xyz",
           "bkorp.xyz",
+          "bloomsoftware.fun",
           "bluemountain.1apps.com",
           "bluer.avstore.com.tw",
           "bokhoreshonline.com",
@@ -149472,6 +149473,7 @@
           "diangovcomuiscia.com",
           "digi-cert.org",
           "digicertweb.com",
+          "digital-ua.digital",
           "diia.me",
           "djou233.zapto.org",
           "dlbh.telemetry.geostatcdn.com",
@@ -149628,6 +149630,7 @@
           "gov-ua.info",
           "gov.ua.delta-storages.com",
           "gova.manhajnews.com",
+          "govermentnerc.github.io",
           "govistatement.online",
           "govua.bar",
           "govua.one",
@@ -149865,6 +149868,7 @@
           "mail.mailshield.ga",
           "mail.mev-askod-support.online",
           "mail.mfa.az-link.email",
+          "mail.ukremail.com",
           "mailer-support.com",
           "mailerdeamon.cf",
           "mailerdeamon.ga",
@@ -149904,6 +149908,7 @@
           "miniast.com",
           "miphomanager.com",
           "mistressally.com",
+          "mk-gov-ua.github.io",
           "mmksba.dyndns.org",
           "mo7trf0.no-ip.biz",
           "mofa-gov-pk.com",
@@ -149966,6 +149971,7 @@
           "newsfor.newss.nl",
           "newsinfo.newss.nl",
           "newss.nl",
+          "nfkavn.bond",
           "ngng.mypi.co",
           "ngngs.mypi.co",
           "ngngsws.mypi.co",
@@ -150166,6 +150172,7 @@
           "secure-ssl-sec.com",
           "secure.hbccing.com",
           "secureclientupdate.com",
+          "security.digital-ua.digital",
           "selcukecza.online",
           "sensor.fun",
           "servegates.com",
@@ -150313,6 +150320,7 @@
           "ua.delta-storages.com",
           "uanews.press",
           "ukrbezpeka.online",
+          "ukremail.com",
           "ukrnet.01mirror.com.ua",
           "ukrnet.press",
           "ultravireslegaladvice.org",
@@ -150698,7 +150706,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2026-02-27T23:46:47+02:00",
+        "last_modified": "2026-03-03T10:30:17+02:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -151149,6 +151157,7 @@
           "https://www.virustotal.com/gui/file/2477bbf0ab3f0c9db73fcb2f5f9dfe8cf6703a88862a7c98a5de6f349cd8833f/detection",
           "https://x.com/smica83/status/2024781300440211506",
           "https://www.virustotal.com/gui/file/531b11daeab05d4f91817502e251209a1a08f112b3bfc38c1af05f35f1ba8d6e/detection",
+          "https://cert.gov.ua/article/6287707 (# UAC-0252)",
           "https://www.virustotal.com/gui/ip-address/95.85.252.196/relations",
           "https://app.any.run/tasks/ea77b391-69ef-4c61-9a32-2a9d3ca2af08",
           "https://x.com/smica83/status/2026349402948813096",
@@ -151162,12 +151171,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1211,
+          "domain": 1219,
           "file_path": 77,
           "ipv4": 117,
           "url": 57
         },
-        "total": 1462
+        "total": 1470
       }
     },
     "USH": {
