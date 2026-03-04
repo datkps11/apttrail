@@ -3177,7 +3177,9 @@ rule APT_DARKPINK
         tlp = "white"
 
     strings:
-        $ip0 = "176.10.80.38" ascii wide
+        $domain0 = "chain\.mycoinexplorer\.com" ascii wide nocase
+        $domain1 = "mycoinexplorer\.com" ascii wide nocase
+        $ip2 = "176.10.80.38" ascii wide
 
     condition:
         any of ($domain*, $ip*, $url*)
@@ -13553,35 +13555,35 @@ rule APT_UNC6691
         $domain18 = "8fn4957c5g986jp\.xyz" ascii wide nocase
         $domain19 = "98a\.online" ascii wide nocase
         $domain20 = "ai-scorepredict\.com" ascii wide nocase
-        $domain21 = "ajskbnrs\.xn--jor0b302fdhgwnccw8g\.com" ascii wide nocase
-        $domain22 = "anygg\.liquorfight\.com" ascii wide nocase
-        $domain23 = "appstoreconn\.com" ascii wide nocase
-        $domain24 = "b27\.icu" ascii wide nocase
-        $domain25 = "b38w09ecdejfqsf\.xyz" ascii wide nocase
-        $domain26 = "bestcryptocurrency\.top" ascii wide nocase
-        $domain27 = "binancealliancesintro\.com" ascii wide nocase
-        $domain28 = "binaner\.com" ascii wide nocase
-        $domain29 = "bingo777\.now" ascii wide nocase
-        $domain30 = "btrank\.top" ascii wide nocase
-        $domain31 = "cryptocurrencyworld\.top" ascii wide nocase
-        $domain32 = "cy8\.top" ascii wide nocase
-        $domain33 = "d3jeactocj94gci\.xyz" ascii wide nocase
-        $domain34 = "dbgopaxl\.com" ascii wide nocase
-        $domain35 = "dd9l7e6ghme8pbk\.xyz" ascii wide nocase
-        $domain36 = "ddus17\.com" ascii wide nocase
-        $domain37 = "dhd3gb9ff6r6h02\.xyz" ascii wide nocase
-        $domain38 = "dz69xtnj4unx2o9\.xyz" ascii wide nocase
-        $domain39 = "ef1389t2vm4ozth\.xyz" ascii wide nocase
-        $domain40 = "eg2bjo5x5r8yjb5\.xyz" ascii wide nocase
-        $domain41 = "fxrhcnfwxes90q\.xyz" ascii wide nocase
-        $domain42 = "fz1axot3o1epun8\.xyz" ascii wide nocase
-        $domain43 = "gdvynopz3pa0tik\.xyz" ascii wide nocase
-        $domain44 = "goanalytics\.xyz" ascii wide nocase
-        $domain45 = "goodcryptocurrency\.top" ascii wide nocase
-        $domain46 = "gqjs3ra34lyuvzb\.xyz" ascii wide nocase
-        $domain47 = "h4k\.icu" ascii wide nocase
-        $domain48 = "hfteigt3kt0sf3z\.xyz" ascii wide nocase
-        $domain49 = "hui4tbh9uv9x4yi\.xyz" ascii wide nocase
+        $domain21 = "aidm8it5hf1jmtj\.xyz" ascii wide nocase
+        $domain22 = "ajskbnrs\.xn--jor0b302fdhgwnccw8g\.com" ascii wide nocase
+        $domain23 = "anygg\.liquorfight\.com" ascii wide nocase
+        $domain24 = "appstoreconn\.com" ascii wide nocase
+        $domain25 = "b27\.icu" ascii wide nocase
+        $domain26 = "b38w09ecdejfqsf\.xyz" ascii wide nocase
+        $domain27 = "bestcryptocurrency\.top" ascii wide nocase
+        $domain28 = "binancealliancesintro\.com" ascii wide nocase
+        $domain29 = "binaner\.com" ascii wide nocase
+        $domain30 = "bingo777\.now" ascii wide nocase
+        $domain31 = "btrank\.top" ascii wide nocase
+        $domain32 = "cryptocurrencyworld\.top" ascii wide nocase
+        $domain33 = "cy8\.top" ascii wide nocase
+        $domain34 = "d3jeactocj94gci\.xyz" ascii wide nocase
+        $domain35 = "dbgopaxl\.com" ascii wide nocase
+        $domain36 = "dd9l7e6ghme8pbk\.xyz" ascii wide nocase
+        $domain37 = "ddus17\.com" ascii wide nocase
+        $domain38 = "dhd3gb9ff6r6h02\.xyz" ascii wide nocase
+        $domain39 = "dz69xtnj4unx2o9\.xyz" ascii wide nocase
+        $domain40 = "ef1389t2vm4ozth\.xyz" ascii wide nocase
+        $domain41 = "eg2bjo5x5r8yjb5\.xyz" ascii wide nocase
+        $domain42 = "fxrhcnfwxes90q\.xyz" ascii wide nocase
+        $domain43 = "fz1axot3o1epun8\.xyz" ascii wide nocase
+        $domain44 = "gdvynopz3pa0tik\.xyz" ascii wide nocase
+        $domain45 = "goanalytics\.xyz" ascii wide nocase
+        $domain46 = "goodcryptocurrency\.top" ascii wide nocase
+        $domain47 = "gqjs3ra34lyuvzb\.xyz" ascii wide nocase
+        $domain48 = "h4k\.icu" ascii wide nocase
+        $domain49 = "hfteigt3kt0sf3z\.xyz" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)

@@ -7590,7 +7590,6 @@
           "ccltdcn.org",
           "cdaxpropsvc.net",
           "chabaka.com",
-          "chain.mycoinexplorer.com",
           "chinatel90.com",
           "churchill91.com",
           "cjcjegb9k5vg46vkns5g.sportsaccessstore.com",
@@ -7780,7 +7779,6 @@
           "mxmediasolutions.com",
           "mxsiclienteventlog.com",
           "mxuconlinegame.com",
-          "mycoinexplorer.com",
           "mynewellowstore.com",
           "myprivatehostsvc.com",
           "narinesonlinelibrary.com",
@@ -8193,7 +8191,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-02-27T10:04:32+02:00",
+        "last_modified": "2026-03-04T21:05:44+02:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -8720,8 +8718,6 @@
           "https://x.com/blackorbird/status/1986747686050287997",
           "https://mp.weixin.qq.com/s/CI1g4iaYxHhO925V15LvIQ",
           "https://www.virustotal.com/gui/file/93a905048ca8cdf7162ade1720d50883495bf1bbc000c828a6844a88a73a05db/detection",
-          "https://x.com/smica83/status/1988162278563238145",
-          "https://www.virustotal.com/gui/file/2bcd2424b5c74bcfcda5aadfbcede3ad623e092ef7c725832d8950e79d3e2b51/detection",
           "https://x.com/RedDrip7/status/1993874904710828150",
           "https://www.virustotal.com/gui/file/258918e48a7aaf393af89858f95af666d260c4035b63195f29c8ecfb3291ccb5/detection",
           "https://x.com/malwrhunterteam/status/1994001214795862270",
@@ -8762,12 +8758,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 453,
+          "domain": 451,
           "file_path": 80,
           "ipv4": 74,
           "url": 18
         },
-        "total": 625
+        "total": 623
       }
     },
     "BLACKGEAR": {
@@ -19107,6 +19103,10 @@
     },
     "DARKPINK": {
       "indicators": {
+        "domain": [
+          "chain.mycoinexplorer.com",
+          "mycoinexplorer.com"
+        ],
         "ipv4": [
           "176.10.80.38:8843"
         ]
@@ -19115,17 +19115,20 @@
         "aliases": [],
         "apt_group": "DARKPINK",
         "filename": "apt_darkpink.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-03-04T21:06:02+02:00",
         "references": [
           "https://www.group-ib.com/blog/dark-pink-apt/",
-          "https://www.group-ib.com/blog/dark-pink-episode-2/"
+          "https://www.group-ib.com/blog/dark-pink-episode-2/",
+          "https://x.com/smica83/status/1988162278563238145",
+          "https://www.virustotal.com/gui/file/2bcd2424b5c74bcfcda5aadfbcede3ad623e092ef7c725832d8950e79d3e2b51/detection"
         ]
       },
       "statistics": {
         "by_type": {
+          "domain": 2,
           "ipv4": 1
         },
-        "total": 1
+        "total": 3
       }
     },
     "DARKRIVER": {
@@ -149328,6 +149331,7 @@
           "8fn4957c5g986jp.xyz",
           "98a.online",
           "ai-scorepredict.com",
+          "aidm8it5hf1jmtj.xyz",
           "ajskbnrs.xn--jor0b302fdhgwnccw8g.com",
           "anygg.liquorfight.com",
           "appstoreconn.com",
@@ -149375,6 +149379,7 @@
           "m.pc6.com",
           "mjdqw.cn",
           "mkkku.com",
+          "mxbc-v2.tjbjdod.cn",
           "n49.top",
           "n5wdcfa1b4ebn1h.xyz",
           "o08h5rhu2lu1x0q.xyz",
@@ -149400,6 +149405,7 @@
           "spin7.icu",
           "t7c.icu",
           "teegrom.top",
+          "tjbjdod.cn",
           "tubeluck.com",
           "ua4vqv45a179sk2.xyz",
           "uawwydy3qas6ykv.xyz",
@@ -149433,17 +149439,18 @@
         ],
         "apt_group": "UNC6691",
         "filename": "apt_unc6691.txt",
-        "last_modified": "2026-03-03T22:25:36+02:00",
+        "last_modified": "2026-03-04T20:57:46+02:00",
         "references": [
-          "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit"
+          "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit",
+          "https://iverify.io/blog/coruna-inside-the-nation-state-grade-ios-exploit-kit-we-ve-been-tracking"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 114,
+          "domain": 117,
           "file_path": 1
         },
-        "total": 115
+        "total": 118
       }
     },
     "UNC961": {
