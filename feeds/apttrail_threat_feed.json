@@ -23071,16 +23071,31 @@
           "musiclivetrack.website",
           "ntcx.pro",
           "onlinepettools.shop",
+          "parct.tech",
           "phoneaccessory.site",
           "programmingcourse.site",
           "retseptik.info",
           "sportscarshop.lol",
           "steelweight.mobi",
           "stone110.store",
+          "test.tender.pro",
+          "test.xn--d1abb4arh.xn--p1ai",
           "testold.tender.pro",
           "web14.info",
           "web27.info",
           "wehakaa2.pro"
+        ],
+        "ipv4": [
+          "185.76.79.125:443",
+          "38.180.239.161:443",
+          "83.172.159.180:443",
+          "92.243.65.243:443"
+        ],
+        "url": [
+          "http://185.76.79.125",
+          "http://38.180.239.161",
+          "http://83.172.159.180",
+          "http://92.243.65.243"
         ]
       },
       "metadata": {
@@ -23092,16 +23107,19 @@
         ],
         "apt_group": "DUSTSPECTER",
         "filename": "apt_dustspecter.txt",
-        "last_modified": "2026-03-02T21:50:26+02:00",
+        "last_modified": "2026-03-04T18:06:08+02:00",
         "references": [
-          "https://www.zscaler.com/blogs/security-research/dust-specter-apt-targets-government-officials-iraq"
+          "https://www.zscaler.com/blogs/security-research/dust-specter-apt-targets-government-officials-iraq",
+          "https://hunt.io/blog/iranian-apt-infrastructure-state-aligned-clusters"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 33
+          "domain": 36,
+          "ipv4": 4,
+          "url": 4
         },
-        "total": 33
+        "total": 44
       }
     },
     "DUSTSQUAD": {
@@ -102478,6 +102496,7 @@
           "nid-invoice.ips-auth.mydns.vc",
           "nid-invoice.ips-nid.mydns.vc",
           "nid-invoice.ips-tax.mydns.vc",
+          "nid-log.com",
           "nid-log.kro.kr",
           "nid-login.ekivotos.gr",
           "nid-login.live-on.net",
@@ -109502,7 +109521,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-04T17:05:52+02:00",
+        "last_modified": "2026-03-04T18:39:01+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -110989,12 +111008,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 16138,
+          "domain": 16139,
           "file_path": 282,
           "ipv4": 77,
           "url": 56
         },
-        "total": 16553
+        "total": 16554
       }
     },
     "KUN3": {

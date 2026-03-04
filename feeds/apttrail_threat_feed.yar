@@ -3785,7 +3785,7 @@ rule APT_DUSTSPECTER
         author = "APTtrail Automated Collection"
         apt_group = "DUSTSPECTER"
         aliases = "ghostform, splitdrop, twintalk"
-        reference = "https://www.zscaler.com/blogs/security-research/dust-specter-apt-targets-government-officials-iraq"
+        reference = "https://hunt.io/blog/iranian-apt-infrastructure-state-aligned-clusters"
         severity = "high"
         tlp = "white"
 
@@ -3813,16 +3813,23 @@ rule APT_DUSTSPECTER
         $domain20 = "musiclivetrack\.website" ascii wide nocase
         $domain21 = "ntcx\.pro" ascii wide nocase
         $domain22 = "onlinepettools\.shop" ascii wide nocase
-        $domain23 = "phoneaccessory\.site" ascii wide nocase
-        $domain24 = "programmingcourse\.site" ascii wide nocase
-        $domain25 = "retseptik\.info" ascii wide nocase
-        $domain26 = "sportscarshop\.lol" ascii wide nocase
-        $domain27 = "steelweight\.mobi" ascii wide nocase
-        $domain28 = "stone110\.store" ascii wide nocase
-        $domain29 = "testold\.tender\.pro" ascii wide nocase
-        $domain30 = "web14\.info" ascii wide nocase
-        $domain31 = "web27\.info" ascii wide nocase
-        $domain32 = "wehakaa2\.pro" ascii wide nocase
+        $domain23 = "parct\.tech" ascii wide nocase
+        $domain24 = "phoneaccessory\.site" ascii wide nocase
+        $domain25 = "programmingcourse\.site" ascii wide nocase
+        $domain26 = "retseptik\.info" ascii wide nocase
+        $domain27 = "sportscarshop\.lol" ascii wide nocase
+        $domain28 = "steelweight\.mobi" ascii wide nocase
+        $domain29 = "stone110\.store" ascii wide nocase
+        $domain30 = "test\.tender\.pro" ascii wide nocase
+        $domain31 = "test\.xn--d1abb4arh\.xn--p1ai" ascii wide nocase
+        $domain32 = "testold\.tender\.pro" ascii wide nocase
+        $domain33 = "web14\.info" ascii wide nocase
+        $domain34 = "web27\.info" ascii wide nocase
+        $domain35 = "wehakaa2\.pro" ascii wide nocase
+        $ip36 = "185.76.79.125" ascii wide
+        $ip37 = "38.180.239.161" ascii wide
+        $ip38 = "83.172.159.180" ascii wide
+        $ip39 = "92.243.65.243" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
