@@ -98361,6 +98361,7 @@
           "kiev.bigsize.com",
           "kijuyh.online",
           "killwha.click",
+          "kim-reed.springperfume.org.uk",
           "kimchee.p-e.kr",
           "kimepekz.store",
           "kimm.r-naver.com",
@@ -109464,7 +109465,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-03T12:56:47+02:00",
+        "last_modified": "2026-03-04T11:44:03+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -110950,12 +110951,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 16100,
+          "domain": 16101,
           "file_path": 282,
           "ipv4": 77,
           "url": 56
         },
-        "total": 16515
+        "total": 16516
       }
     },
     "KUN3": {
@@ -134474,6 +134475,7 @@
           "apt-04",
           "apt-c-24",
           "apt-q-39",
+          "apt-q-42",
           "rattlesnake",
           "ta399",
           "sloppylemming",
@@ -134485,7 +134487,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-03-02T22:23:29+02:00",
+        "last_modified": "2026-03-04T12:18:47+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
