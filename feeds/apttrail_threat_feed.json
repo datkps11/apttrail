@@ -121148,6 +121148,7 @@
           "http://137.74.131.18",
           "http://137.74.131.20",
           "http://137.74.131.24",
+          "http://141.11.187.165",
           "http://141.95.177.130",
           "http://141.95.22.153",
           "http://146.70.106.89",
@@ -121265,7 +121266,7 @@
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2026-03-03T16:11:11+02:00",
+        "last_modified": "2026-03-05T11:00:41+02:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
@@ -121493,7 +121494,8 @@
           "https://x.com/k3yp0d/status/2028417699206857158",
           "https://x.com/k3yp0d/status/2028466573694890280",
           "https://www.virustotal.com/gui/file/a8c380b57cb7c381ca6ba845bd7af7333f52ee4dc4e935e98b48bb81facad72b/detection",
-          "https://x.com/nahamike01/status/2028815239001845920"
+          "https://x.com/nahamike01/status/2028815239001845920",
+          "https://x.com/S4nsLimit3/status/2029332650666680567"
         ]
       },
       "statistics": {
@@ -121501,9 +121503,9 @@
           "domain": 172,
           "file_path": 187,
           "ipv4": 96,
-          "url": 110
+          "url": 111
         },
-        "total": 565
+        "total": 566
       }
     },
     "MURENSHARK": {
