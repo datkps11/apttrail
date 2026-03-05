@@ -120693,6 +120693,7 @@
           "alibabacloud.wikaba.com",
           "alibabacloud.zzux.com",
           "alkan.egnyte.com",
+          "altrixo.com",
           "amazo0n.serveftp.com",
           "ampacindustries.com",
           "ankara24saatacikcicekci.com",
@@ -120717,12 +120718,14 @@
           "d25btwd9wax8gu.cloudfront.net",
           "domainsoftcloud.com",
           "downloadfile.egnyte.com",
+          "elvenforest.s3.us-east-005.backblazeb2.com",
           "enreji.gov.tr",
           "fbcsoft.egnyte.com",
           "fileuploadcloud.egnyte.com",
           "gcare.egnyte.com",
           "getgooogle.hopto.org",
           "ghostrider.serveirc.com",
+          "gitempire.s3.us-east-005.backblazeb2.com",
           "gladiyator.tk",
           "googl-165a0.web.app",
           "googl-6c11f.web.app",
@@ -120740,6 +120743,7 @@
           "hs3.iphide.net",
           "hs4.iphide.net",
           "iec56w4ibovnb4wc.onion",
+          "ink-approval.com",
           "instance-n3e3x9-relay.screenconnect.com",
           "instance-s1t9su-relay.screenconnect.com",
           "instance-s6p2r4-relay.screenconnect.com",
@@ -120773,6 +120777,7 @@
           "mirosoftcloud.ddns.net",
           "moffice.mrface.com",
           "moodleuni.com",
+          "moonzonet.com",
           "muhacirder.com",
           "muonline.dns04.com",
           "muteciyar.info",
@@ -120829,6 +120834,7 @@
           "t7170-d.de",
           "trendym.uk",
           "updateaccount.in",
+          "uppdatefile.com",
           "valiantservicesltd.com",
           "validsignature.in",
           "vatacloud.com",
@@ -121061,6 +121067,7 @@
           "137.220.251.44:443",
           "137.74.131.16:443",
           "141.95.22.153:443",
+          "144.172.111.159:8080",
           "146.19.143.14:443",
           "146.70.106.89:443",
           "146.70.124.102:443",
@@ -121266,7 +121273,7 @@
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2026-03-05T11:00:41+02:00",
+        "last_modified": "2026-03-05T13:59:43+02:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
@@ -121495,17 +121502,18 @@
           "https://x.com/k3yp0d/status/2028466573694890280",
           "https://www.virustotal.com/gui/file/a8c380b57cb7c381ca6ba845bd7af7333f52ee4dc4e935e98b48bb81facad72b/detection",
           "https://x.com/nahamike01/status/2028815239001845920",
-          "https://x.com/S4nsLimit3/status/2029332650666680567"
+          "https://x.com/S4nsLimit3/status/2029332650666680567",
+          "https://www.security.com/threat-intelligence/iran-cyber-threat-activity-us"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 172,
+          "domain": 178,
           "file_path": 187,
-          "ipv4": 96,
+          "ipv4": 97,
           "url": 111
         },
-        "total": 566
+        "total": 573
       }
     },
     "MURENSHARK": {
