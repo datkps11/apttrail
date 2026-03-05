@@ -141197,10 +141197,13 @@
           "dmsupport.live",
           "dns.educationportals.biz",
           "dns.sysdllfile.site",
+          "dns.sysdllt.xyz",
           "dns.wmiprovider.com",
           "dns1.indianblog.xyz",
           "dobview.in",
           "dobviwe.in",
+          "docsportal.in",
+          "documentcentre.in",
           "documentsubmit.site",
           "dod.gov.in.accountsinfo.site",
           "dod.gov.in.publicationsinfo.cyou",
@@ -143287,6 +143290,7 @@
           "syntheticschoolsystem.com",
           "syscare.help",
           "sysdllfile.site",
+          "sysdllt.xyz",
           "systemsupdated.duckdns.org",
           "t775.top",
           "tasnimnewstehran.club",
@@ -143603,6 +143607,7 @@
           "144.126.143.138:9813",
           "144.126.154.84:8080",
           "144.126.154.84:9813",
+          "144.172.89.29:5941",
           "144.24.114.19:443",
           "144.91.125.70:8489",
           "144.91.65.100:3245",
@@ -144113,6 +144118,7 @@
           "45.32.151.155:11427",
           "45.32.151.155:12835",
           "45.32.151.155:6126",
+          "45.61.157.22:5863",
           "45.66.230.167:443",
           "45.77.246.69:16185",
           "47.246.50.178:443",
@@ -144508,7 +144514,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-02-21T22:21:36+02:00",
+        "last_modified": "2026-03-05T16:57:16+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -145599,17 +145605,18 @@
           "https://www.virustotal.com/gui/file/3cde6cadb45fb695dbe297d433e1b28cc2b4ed0fcbde2c480d7a2c723e4e236a/detection",
           "https://x.com/PrakkiSathwik/status/2025262544144007630",
           "https://www.virustotal.com/gui/file/2db0e3553d980225d7cd47765b6a6d236d0df41223f006305cd928556a4d60e7/detection",
-          "https://www.virustotal.com/gui/file/8cd527c72e075bf7c95f39edcc4fbdf713e0c9bacb2105854ba8d1e91ceb7ad7/detection"
+          "https://www.virustotal.com/gui/file/8cd527c72e075bf7c95f39edcc4fbdf713e0c9bacb2105854ba8d1e91ceb7ad7/detection",
+          "https://x.com/PrakkiSathwik/status/2029570673795113416"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3348,
+          "domain": 3352,
           "file_path": 40,
-          "ipv4": 818,
+          "ipv4": 820,
           "url": 125
         },
-        "total": 4331
+        "total": 4337
       }
     },
     "TRIANGULATION": {
