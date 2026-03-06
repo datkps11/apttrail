@@ -94039,6 +94039,7 @@
           "auth.navermail.net",
           "auth.netblogs.kro.kr",
           "auth.oblogcenter.r-e.kr",
+          "auth.ottcloud.n-e.kr",
           "auth.worksmobile.kro.kr",
           "auth.worksmobile.r-e.kr",
           "authblogcenter.dynv6.net",
@@ -96387,6 +96388,7 @@
           "equaedi.click",
           "er-manage-center.hol.es",
           "er.mexico.p-e.kr",
+          "erasecloud.n-e.kr",
           "erbavaa.click",
           "erdfcvwsx.fun",
           "erer.online",
@@ -98966,11 +98968,14 @@
           "lnvoice.r-e.kr",
           "load-tax.kro.kr",
           "load.auraria.org",
+          "load.erasecloud.n-e.kr",
           "load.fpr.net",
+          "load.navrcloud.n-e.kr",
           "load.onecloud.o-r.kr",
           "load.othertime.o-r.kr",
           "load.rwbcode.com",
           "load.samework.o-r.kr",
+          "load.serverpit.com",
           "load.supershop.o-r.kr",
           "load.threecloud.o-r.kr",
           "load.twocloud.o-r.kr",
@@ -99931,6 +99936,7 @@
           "msteth.com",
           "mstether.top",
           "msvc.linkpc.net",
+          "msvscode.o-r.kr",
           "mta-sts.dlndocs.site",
           "mta-sts.docsuris.store",
           "mta-sts.htxpost.site",
@@ -101343,6 +101349,7 @@
           "naverramblered.online",
           "naverrambleredi.online",
           "naverrambleredir.online",
+          "naverrcorp.n-e.kr",
           "naverrcorp.site",
           "naverredb.xyz",
           "naverrer.com",
@@ -101607,6 +101614,7 @@
           "navportalvcenter.link",
           "navrascorp.info",
           "navrcenter.site",
+          "navrcloud.n-e.kr",
           "navrcops.com",
           "navrcorp.site",
           "navrcorp.tech",
@@ -102785,6 +102793,7 @@
           "nid.navernnail.com",
           "nid.naverpw.com",
           "nid.naverpwd.com",
+          "nid.naverrcorp.n-e.kr",
           "nid.navers-login.dynv6.net",
           "nid.navers.com-checking.link",
           "nid.navers.com-log.in.net",
@@ -105206,6 +105215,7 @@
           "otp-system.p-e.kr",
           "otp.r-e.kr",
           "otpsystem.p-e.kr",
+          "ottcloud.n-e.kr",
           "ouioasan.site",
           "ouracge.click",
           "ourcalendarupdate.cfd",
@@ -107554,6 +107564,7 @@
           "update.jeonpriter.n-e.kr",
           "update.jeonpriter2.r-e.kr",
           "update.mine.bz",
+          "update.msvscode.o-r.kr",
           "update.naver-logs.r-e.kr",
           "update.naverlogs.r-e.kr",
           "update.nhnview.kro.kr",
@@ -109528,7 +109539,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-05T10:08:21+02:00",
+        "last_modified": "2026-03-06T21:09:57+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -111011,17 +111022,21 @@
           "https://www.virustotal.com/gui/ip-address/101.36.114.231/relations",
           "https://x.com/skocherhan/status/2028588428787433658",
           "https://x.com/skocherhan/status/2028589092506595810",
-          "https://x.com/skocherhan/status/2029308664788484421"
+          "https://x.com/skocherhan/status/2029308664788484421",
+          "https://x.com/JangPr0/status/2029937088670683305",
+          "https://www.virustotal.com/gui/ip-address/27.102.113.106/relations",
+          "https://www.virustotal.com/gui/file/c089457d5f4b22313b927bb36a320f8d7a1ddb6d5b82293dc2374dcfd4b1b8b2/detection",
+          "https://www.virustotal.com/gui/file/ca42cba2782a0b6952dd0425fa08cbd4de65f77fcc00e965ee97c39bea42eb18/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 16143,
+          "domain": 16154,
           "file_path": 282,
           "ipv4": 77,
           "url": 56
         },
-        "total": 16558
+        "total": 16569
       }
     },
     "KUN3": {
