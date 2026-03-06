@@ -147365,6 +147365,7 @@
           "rvtoolsio.com",
           "rvtoolsl.com",
           "rvtoolslab.com",
+          "rvtoolsmax.com",
           "rvtoolsnet.com",
           "rvtoolsnow.com",
           "rvtoolsnt.com",
@@ -147431,7 +147432,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-03-05T10:18:47+02:00",
+        "last_modified": "2026-03-06T10:46:19+02:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -147447,9 +147448,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 154
+          "domain": 155
         },
-        "total": 154
+        "total": 155
       }
     },
     "UNC2529": {
