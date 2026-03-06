@@ -12068,7 +12068,7 @@ rule APT_TRANSPARENTTRIBE
         $ip76 = "104.168.48.210" ascii wide
         $ip77 = "104.223.106.8" ascii wide
         $ip78 = "104.227.97.53" ascii wide
-        $ip79 = "107.150.18.166" ascii wide
+        $ip79 = "106.93.127.133" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)

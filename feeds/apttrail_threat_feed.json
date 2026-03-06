@@ -141231,6 +141231,7 @@
           "dssworld.in",
           "dvcare.info",
           "dvia.eu",
+          "dwdada.xyz",
           "dybn.cn",
           "e-prints.xyz",
           "e0ffice.in",
@@ -143191,6 +143192,7 @@
           "shareflix.co",
           "sharemaxme126.net",
           "sharemaxme24.net",
+          "sharemaxme28.net",
           "sharemaxme66.net",
           "sharemydrives.com",
           "shareone.live",
@@ -143570,6 +143572,11 @@
           "104.168.48.210:7516",
           "104.223.106.8:11248",
           "104.227.97.53:2548",
+          "106.93.127.133:19821",
+          "106.93.127.133:28168",
+          "106.93.127.133:35821",
+          "106.93.127.133:6898",
+          "106.93.127.133:9626",
           "107.150.18.166:6849",
           "107.172.76.170:11408",
           "107.173.204.38:6576",
@@ -144514,7 +144521,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-03-05T16:57:16+02:00",
+        "last_modified": "2026-03-06T16:39:19+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -145606,17 +145613,18 @@
           "https://x.com/PrakkiSathwik/status/2025262544144007630",
           "https://www.virustotal.com/gui/file/2db0e3553d980225d7cd47765b6a6d236d0df41223f006305cd928556a4d60e7/detection",
           "https://www.virustotal.com/gui/file/8cd527c72e075bf7c95f39edcc4fbdf713e0c9bacb2105854ba8d1e91ceb7ad7/detection",
-          "https://x.com/PrakkiSathwik/status/2029570673795113416"
+          "https://x.com/PrakkiSathwik/status/2029570673795113416",
+          "https://x.com/PrakkiSathwik/status/2029926054098522578"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3352,
+          "domain": 3354,
           "file_path": 40,
-          "ipv4": 820,
+          "ipv4": 825,
           "url": 125
         },
-        "total": 4337
+        "total": 4344
       }
     },
     "TRIANGULATION": {
