@@ -140456,6 +140456,7 @@
           "chuchuchachawin.bond",
           "chuchuchachawin.sbs",
           "circularadmin.in",
+          "cisf.ink",
           "civillist.in",
           "ckcare.help",
           "clawsindia.com",
@@ -144287,6 +144288,8 @@
           "84.46.251.145:14862",
           "84.46.251.145:1717",
           "84.46.251.145:901",
+          "85.137.249.243:3000",
+          "85.137.249.243:8080",
           "85.158.108.85:42368",
           "85.158.110.134:2468",
           "87.120.244.111:3000",
@@ -144521,7 +144524,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-03-06T16:39:19+02:00",
+        "last_modified": "2026-03-06T17:45:49+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -145614,17 +145617,19 @@
           "https://www.virustotal.com/gui/file/2db0e3553d980225d7cd47765b6a6d236d0df41223f006305cd928556a4d60e7/detection",
           "https://www.virustotal.com/gui/file/8cd527c72e075bf7c95f39edcc4fbdf713e0c9bacb2105854ba8d1e91ceb7ad7/detection",
           "https://x.com/PrakkiSathwik/status/2029570673795113416",
-          "https://x.com/PrakkiSathwik/status/2029926054098522578"
+          "https://x.com/PrakkiSathwik/status/2029926054098522578",
+          "https://x.com/PrakkiSathwik/status/2029945617687138348",
+          "https://www.virustotal.com/gui/file/dd76fa4057fe80097239ce1083ad02470c95f8cc6f46f45625bea944d195f456/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3354,
+          "domain": 3355,
           "file_path": 40,
-          "ipv4": 825,
+          "ipv4": 827,
           "url": 125
         },
-        "total": 4344
+        "total": 4347
       }
     },
     "TRIANGULATION": {
