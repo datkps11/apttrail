@@ -149638,6 +149638,7 @@
           "381b.vxhbijn.com",
           "39437.gbwwng.com",
           "398a.ynergmtp.com",
+          "39a2vt5itpo5vxxqjohsakzj.net",
           "3a8.ryvjugi.com",
           "3c185.heppmpuz.org",
           "3d004.xlgxyf.net",
@@ -149816,6 +149817,7 @@
           "aiwaifugenerator.eromami.com",
           "ajerdsg.top",
           "ajskbnrs.xn--jor0b302fdhgwnccw8g.com",
+          "algorithmdesignnl.com",
           "alphadrop-dao.one",
           "anygg.liquorfight.com",
           "appstoreconn.com",
@@ -149835,6 +149837,7 @@
           "b47dc.vxhbijn.com",
           "b643.de83c8f74.net",
           "ba3.fxexebji.org",
+          "bababooey.dynamic-dns.net",
           "bb4.butpfacd.com",
           "bbhwlwd.com",
           "bc3b.ryvjugi.com",
@@ -149984,6 +149987,7 @@
           "fhdfhasd.com",
           "fifjlcf.com",
           "firansupport.cyou",
+          "fms1w2sxxsb.xyz",
           "fmsfckuxyzsb.online",
           "fojh88k4ez0njbg.xyz",
           "fomobnb.vip",
@@ -150035,6 +150039,7 @@
           "huiyuanswift.com",
           "hxa4tglju3hpmze.xyz",
           "i.binaner.com",
+          "icx0fz9kpx3452w131pt.online",
           "idggpch.com",
           "igjavke.xyz",
           "ijmwdvi.xyz",
@@ -150117,6 +150122,7 @@
           "mkkku.com",
           "mpmhskx.cc",
           "mqztymvz.cc",
+          "ms1w2gnsdvsb.xyz",
           "mscxcvl.com",
           "msmeloan.sbs",
           "mwdbrlf.com",
@@ -150196,6 +150202,7 @@
           "s83zv9.com",
           "sadjd.mijieqi.cn",
           "safepal.cyou",
+          "sec-ipoteam.com",
           "seven7.to",
           "seven7.vip",
           "sf2bisx5nhdkygn3l.xyz",
@@ -150215,6 +150222,7 @@
           "sollucky-hash.one",
           "spicierai.com",
           "spin7.icu",
+          "srv626484932.host.ultaserver.net",
           "stilfva.com",
           "sxtolloh.xyz",
           "t7c.icu",
@@ -150242,6 +150250,9 @@
           "uimhtzr.com",
           "urjhhzu.com",
           "utlwvxy.com",
+          "uwin0001.xyz",
+          "uwin0002.xyz",
+          "uwin0003.xyz",
           "v0xeyzmez0wcl8m.xyz",
           "v2gmupm7o4zihc3.xyz",
           "vahqxwy.com",
@@ -150318,7 +150329,7 @@
         ],
         "apt_group": "UNC6691",
         "filename": "apt_unc6691.txt",
-        "last_modified": "2026-03-07T11:12:56+02:00",
+        "last_modified": "2026-03-07T15:22:18+02:00",
         "references": [
           "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit",
           "https://iverify.io/blog/coruna-inside-the-nation-state-grade-ios-exploit-kit-we-ve-been-tracking",
@@ -150327,10 +150338,10 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 750,
+          "domain": 761,
           "file_path": 1
         },
-        "total": 751
+        "total": 762
       }
     },
     "UNC961": {
