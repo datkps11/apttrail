@@ -149818,6 +149818,8 @@
           "ajerdsg.top",
           "ajskbnrs.xn--jor0b302fdhgwnccw8g.com",
           "algorithmdesignnl.com",
+          "alphacapitaltt.com",
+          "alphacapitaltt.com.remax100trading.com",
           "alphadrop-dao.one",
           "anygg.liquorfight.com",
           "appstoreconn.com",
@@ -150186,6 +150188,7 @@
           "reaecoo.com",
           "redfox.laly.ai",
           "release.laly.ai",
+          "remax100trading.com",
           "remote222helper.com",
           "remotehealthcheck.com",
           "remotexxxyyy.com",
@@ -150258,6 +150261,7 @@
           "vahqxwy.com",
           "vcfwvb.com",
           "vdrywdi.xyz",
+          "vi-ral.site",
           "vlgoses.com",
           "vmbdmko.com",
           "vmhmhzj.com",
@@ -150329,7 +150333,7 @@
         ],
         "apt_group": "UNC6691",
         "filename": "apt_unc6691.txt",
-        "last_modified": "2026-03-07T15:22:18+02:00",
+        "last_modified": "2026-03-07T17:06:36+02:00",
         "references": [
           "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit",
           "https://iverify.io/blog/coruna-inside-the-nation-state-grade-ios-exploit-kit-we-ve-been-tracking",
@@ -150338,10 +150342,10 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 761,
+          "domain": 765,
           "file_path": 1
         },
-        "total": 762
+        "total": 766
       }
     },
     "UNC961": {
