@@ -140496,6 +140496,7 @@
           "asdfghjkl2.online",
           "aser-skin-treatment-95250.bond",
           "ashifdigitalseva.xyz",
+          "ashraagrotech.com",
           "asonline.help",
           "assessment.mojochamps.com",
           "athu.world",
@@ -144204,6 +144205,7 @@
           "198.46.177.73:16824",
           "198.46.177.73:4920",
           "198.46.177.73:6421",
+          "2.56.10.101:6357",
           "2.56.10.121:52145",
           "2.56.10.57:8621",
           "2.56.10.86:8621",
@@ -144727,7 +144729,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-03-06T17:45:49+02:00",
+        "last_modified": "2026-03-07T21:08:07+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -145822,17 +145824,19 @@
           "https://x.com/PrakkiSathwik/status/2029570673795113416",
           "https://x.com/PrakkiSathwik/status/2029926054098522578",
           "https://x.com/PrakkiSathwik/status/2029945617687138348",
-          "https://www.virustotal.com/gui/file/dd76fa4057fe80097239ce1083ad02470c95f8cc6f46f45625bea944d195f456/detection"
+          "https://www.virustotal.com/gui/file/dd76fa4057fe80097239ce1083ad02470c95f8cc6f46f45625bea944d195f456/detection",
+          "https://x.com/PrakkiSathwik/status/2030343602229199279",
+          "https://www.virustotal.com/gui/file/d7872ff7d02010eb94182d81c1a6756994c53266fc1efffcd98f5913b1e4df13/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3355,
+          "domain": 3356,
           "file_path": 40,
-          "ipv4": 827,
+          "ipv4": 828,
           "url": 125
         },
-        "total": 4347
+        "total": 4349
       }
     },
     "TRIANGULATION": {
