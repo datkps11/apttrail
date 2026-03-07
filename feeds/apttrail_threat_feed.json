@@ -149633,6 +149633,7 @@
           "20c.jkhvfia.com",
           "221b8.6hv86gxz.com",
           "22r.online",
+          "22u.vip",
           "2342.ootcv5.com",
           "26a.online",
           "28.axmatx.com",
@@ -149694,6 +149695,7 @@
           "4kgame.us",
           "4kslot.us",
           "4u.game",
+          "4xslots.com",
           "4yifrepplzrrgf1.cfd",
           "503.jtzzxsog.cc",
           "50ba6d7.6hv86gxz.com",
@@ -149741,6 +149743,7 @@
           "697hiw91h3ksgk11wsl8k.org",
           "698b73a9.vnriifeq.com",
           "699.yktajeyp.com",
+          "69f.shop",
           "69p.icu",
           "6a50.de83c8f74.net",
           "6b30c.ryvjugi.com",
@@ -149762,6 +149765,7 @@
           "7636a.kjtwhgda.tips",
           "7744.ootcv5.com",
           "777bingos.xyz",
+          "777grand.com",
           "777p.us",
           "77bingos.com",
           "77hash.xyz",
@@ -149781,6 +149785,7 @@
           "7uspin.us",
           "803d6.kjtwhgda.tips",
           "80c.vxhbijn.com",
+          "813w.com",
           "818a289c.de83c8f74.net",
           "81b8.jtzzxsog.cc",
           "81e57.xdkfog.net",
@@ -150543,6 +150548,7 @@
           "juman.sa",
           "jumot.xyz",
           "juwa.pw",
+          "juwa9.com",
           "jynko.xyz",
           "jyxsyl.xyz",
           "jzljddw.com",
@@ -151372,7 +151378,7 @@
         ],
         "apt_group": "UNC6691",
         "filename": "apt_unc6691.txt",
-        "last_modified": "2026-03-07T18:40:48+02:00",
+        "last_modified": "2026-03-07T23:36:15+02:00",
         "references": [
           "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit",
           "https://iverify.io/blog/coruna-inside-the-nation-state-grade-ios-exploit-kit-we-ve-been-tracking",
@@ -151381,10 +151387,10 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1800,
+          "domain": 1806,
           "file_path": 1
         },
-        "total": 1801
+        "total": 1807
       }
     },
     "UNC961": {
