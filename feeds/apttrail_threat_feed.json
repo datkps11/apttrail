@@ -111778,6 +111778,7 @@
           "app.getevalor.com",
           "app.gumlet.us",
           "app.harqen.us",
+          "app.highmatch.pro",
           "app.hiring-interview.com",
           "app.hiringinterview.org",
           "app.hiringtalent.pro",
@@ -112942,6 +112943,7 @@
           "helpdeskassistance.org",
           "hentaikawaiiuwu.com",
           "heritagetbk.com",
+          "highmatch.pro",
           "hillokay.com",
           "hirebest.cv",
           "hirefeedbacker.com",
@@ -116121,7 +116123,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-03-07T11:12:14+02:00",
+        "last_modified": "2026-03-08T11:57:03+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -117305,12 +117307,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3456,
+          "domain": 3458,
           "file_path": 478,
           "ipv4": 525,
           "url": 102
         },
-        "total": 4561
+        "total": 4563
       }
     },
     "LAZYSCRIPTER": {
@@ -143777,11 +143779,6 @@
           "104.168.48.210:7516",
           "104.223.106.8:11248",
           "104.227.97.53:2548",
-          "106.93.127.133:19821",
-          "106.93.127.133:28168",
-          "106.93.127.133:35821",
-          "106.93.127.133:6898",
-          "106.93.127.133:9626",
           "107.150.18.166:6849",
           "107.172.76.170:11408",
           "107.173.204.38:6576",
@@ -144529,6 +144526,11 @@
           "93.127.132.112:35826",
           "93.127.132.112:7522",
           "93.127.132.112:9621",
+          "93.127.133.106:19821",
+          "93.127.133.106:28168",
+          "93.127.133.106:35821",
+          "93.127.133.106:6898",
+          "93.127.133.106:9626",
           "93.127.133.58:1097",
           "93.127.133.58:17241",
           "93.127.133.58:19821",
@@ -144729,7 +144731,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-03-07T21:08:07+02:00",
+        "last_modified": "2026-03-08T11:42:37+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
