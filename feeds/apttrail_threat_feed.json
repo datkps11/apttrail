@@ -20424,6 +20424,7 @@
           "harddive.info",
           "help.domainoutlet.site",
           "hibiscus.live",
+          "hillisolutions.info",
           "hinbox-drive.info",
           "homeparty.buzz",
           "hometaxcenter.web.app",
@@ -21221,7 +21222,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2026-03-03T17:40:10+02:00",
+        "last_modified": "2026-03-09T12:51:30+02:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -21877,12 +21878,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 730,
+          "domain": 731,
           "file_path": 249,
           "ipv4": 47,
           "url": 4
         },
-        "total": 1030
+        "total": 1031
       }
     },
     "DOWNEX": {
