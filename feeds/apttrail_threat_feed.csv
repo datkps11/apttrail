@@ -125949,6 +125949,7 @@ UNC2465,domain,heidisql-enterprise.tech
 UNC2465,domain,heidisql-enterprise.us
 UNC2465,domain,heidisql.database-lists.com
 UNC2465,domain,heidisql.space
+UNC2465,domain,horizon-client-download.com
 UNC2465,domain,hornetseculty.com
 UNC2465,domain,hornetsecurety.com
 UNC2465,domain,hornetsecurty.com
@@ -125958,6 +125959,7 @@ UNC2465,domain,mstore.framfarmers.co.uk
 UNC2465,domain,nmap.softwarep2p.com
 UNC2465,domain,nmap.space
 UNC2465,domain,pofelal314.workers.dev
+UNC2465,domain,remote-console-vmware.com
 UNC2465,domain,rustore.rvtouls.com
 UNC2465,domain,rv-tools.eu
 UNC2465,domain,rv-tools.info
@@ -125973,8 +125975,19 @@ UNC2465,domain,rvtooli.info
 UNC2465,domain,rvtoolis.com
 UNC2465,domain,rvtoolit.com
 UNC2465,domain,rvtoolls.info
+UNC2465,domain,rvtools-app.com
+UNC2465,domain,rvtools-cloud.com
+UNC2465,domain,rvtools-dell.com
 UNC2465,domain,rvtools-dev.com
+UNC2465,domain,rvtools-download-dell.com
+UNC2465,domain,rvtools-enterprise.com
+UNC2465,domain,rvtools-install.com
+UNC2465,domain,rvtools-inventory.com
+UNC2465,domain,rvtools-kit.com
+UNC2465,domain,rvtools-official.com
 UNC2465,domain,rvtools-skillcamp.com
+UNC2465,domain,rvtools-vmware.com
+UNC2465,domain,rvtools-vsphere.com
 UNC2465,domain,rvtools.link
 UNC2465,domain,rvtools.softwarep2p.com
 UNC2465,domain,rvtools.vmwarevelocity.com
@@ -126035,6 +126048,8 @@ UNC2465,domain,vmback.com
 UNC2465,domain,vmbacku.com
 UNC2465,domain,vmbackups.com
 UNC2465,domain,vmsbackup.com
+UNC2465,domain,vmware-programs.com
+UNC2465,domain,vmware-remote-console.com
 UNC2465,domain,vmware-rvtools.app
 UNC2465,domain,vmware-rvtools.cc
 UNC2465,domain,vmware-rvtools.cloud
@@ -126044,7 +126059,11 @@ UNC2465,domain,vmware-rvtools.org
 UNC2465,domain,vmware-rvtools.pro
 UNC2465,domain,vmware-rvtools.tech
 UNC2465,domain,vmware-rvtools.us
+UNC2465,domain,vmware-vsphere.com
 UNC2465,domain,vmwarevelocity.com
+UNC2465,domain,vmwarevsphere.com
+UNC2465,domain,vsphere-client.com
+UNC2465,domain,vsphere-client.org
 UNC2465,domain,web-app.dasik14289.workers.dev
 UNC2465,domain,web-app.larij21770.workers.dev
 UNC2465,domain,work-server-1.picalob750.workers.dev

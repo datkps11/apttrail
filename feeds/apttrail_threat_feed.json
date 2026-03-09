@@ -147687,6 +147687,7 @@
           "heidisql-enterprise.us",
           "heidisql.database-lists.com",
           "heidisql.space",
+          "horizon-client-download.com",
           "hornetseculty.com",
           "hornetsecurety.com",
           "hornetsecurty.com",
@@ -147696,6 +147697,7 @@
           "nmap.softwarep2p.com",
           "nmap.space",
           "pofelal314.workers.dev",
+          "remote-console-vmware.com",
           "rustore.rvtouls.com",
           "rv-tools.eu",
           "rv-tools.info",
@@ -147711,8 +147713,19 @@
           "rvtoolis.com",
           "rvtoolit.com",
           "rvtoolls.info",
+          "rvtools-app.com",
+          "rvtools-cloud.com",
+          "rvtools-dell.com",
           "rvtools-dev.com",
+          "rvtools-download-dell.com",
+          "rvtools-enterprise.com",
+          "rvtools-install.com",
+          "rvtools-inventory.com",
+          "rvtools-kit.com",
+          "rvtools-official.com",
           "rvtools-skillcamp.com",
+          "rvtools-vmware.com",
+          "rvtools-vsphere.com",
           "rvtools.link",
           "rvtools.softwarep2p.com",
           "rvtools.vmwarevelocity.com",
@@ -147773,6 +147786,8 @@
           "vmbacku.com",
           "vmbackups.com",
           "vmsbackup.com",
+          "vmware-programs.com",
+          "vmware-remote-console.com",
           "vmware-rvtools.app",
           "vmware-rvtools.cc",
           "vmware-rvtools.cloud",
@@ -147782,7 +147797,11 @@
           "vmware-rvtools.pro",
           "vmware-rvtools.tech",
           "vmware-rvtools.us",
+          "vmware-vsphere.com",
           "vmwarevelocity.com",
+          "vmwarevsphere.com",
+          "vsphere-client.com",
+          "vsphere-client.org",
           "web-app.dasik14289.workers.dev",
           "web-app.larij21770.workers.dev",
           "work-server-1.picalob750.workers.dev"
@@ -147794,7 +147813,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-03-09T12:31:20+02:00",
+        "last_modified": "2026-03-09T19:28:32+02:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -147805,14 +147824,15 @@
           "https://www.virustotal.com/gui/file/cbbe98e1b36eb68a7afe534c21055f9cc793c2a6a7ca63256d273020a096f7a7/detection",
           "https://www.virustotal.com/gui/file/30427b6732fea64c2cdc0b40c19695902f2bdea5f87dab16b4082bb3cf208557/detection",
           "https://x.com/goldenjackel12/status/2013877434421072187",
-          "https://www.virustotal.com/gui/file/3ebc0df2b92a39d1fb4491b7aaf6996425214ebe85e6243f443f1db087172f27/detection"
+          "https://www.virustotal.com/gui/file/3ebc0df2b92a39d1fb4491b7aaf6996425214ebe85e6243f443f1db087172f27/detection",
+          "https://x.com/g0njxa/status/2031034087801012435"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 157
+          "domain": 176
         },
-        "total": 157
+        "total": 176
       }
     },
     "UNC2529": {
