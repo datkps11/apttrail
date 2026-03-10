@@ -88518,6 +88518,7 @@
           "http://206.189.84.252",
           "http://207.148.108.196",
           "http://209.250.235.75",
+          "http://212.193.20.110",
           "http://216.128.128.163",
           "http://216.155.157.161",
           "http://217.151.229.74",
@@ -88607,7 +88608,7 @@
         ],
         "apt_group": "GAMAREDON-1",
         "filename": "apt_gamaredon-1.txt",
-        "last_modified": "2026-02-18T13:08:37+02:00",
+        "last_modified": "2026-03-10T15:02:35+02:00",
         "references": [
           "https://www.virustotal.com/gui/ip-address/168.100.10.184/relations",
           "https://www.virustotal.com/gui/ip-address/162.33.178.84/relations",
@@ -89905,7 +89906,9 @@
           "https://www.virustotal.com/gui/ip-address/144.172.96.59/relations",
           "https://x.com/smica83/status/2019029651260399710",
           "https://www.virustotal.com/gui/file/c759e9d24a0ab4ddd73317ffa466d93ced1f6a8699e75dc1dd59f72c0a957aa2/detection",
-          "https://x.com/Cyber0verload/status/2020257754020032661"
+          "https://x.com/Cyber0verload/status/2020257754020032661",
+          "https://x.com/smica83/status/2031353310469386501",
+          "https://www.virustotal.com/gui/file/edc242b4a81011d254cbad1b448cab9883d9253e9d9a354804cd6d6067f7cb7f/detection"
         ]
       },
       "statistics": {
@@ -89913,9 +89916,9 @@
           "domain": 10014,
           "file_path": 353,
           "ipv4": 5,
-          "url": 184
+          "url": 185
         },
-        "total": 10556
+        "total": 10557
       }
     },
     "GAZA": {
@@ -141923,11 +141926,28 @@
           "fantasy-pitch.com",
           "fantasycricket77.com",
           "fantasycricketbyms.com",
+          "fantasycricketjoen.com",
+          "fantasycricketmin.com",
           "fantasycricketyn.com",
           "fantasyindiacricket.com",
           "fantasyindiasporten.com",
+          "fantasysport007.com",
+          "fantasysport45.com",
+          "fantasysportbon.com",
+          "fantasysportdend.com",
+          "fantasysporten.com",
+          "fantasysporten24.com",
+          "fantasysportgn.com",
+          "fantasysporthj.com",
           "fantasysportik.com",
+          "fantasysportmen.com",
+          "fantasysportonli.com",
           "fantasysportpt.com",
+          "fantasysports48.com",
+          "fantasysports72.com",
+          "fantasysportsin.com",
+          "fantasysportyn.com",
+          "fantasysportynt.com",
           "fci.employee.onlinenic.in.net",
           "fercare.help",
           "fgsupport.help",
@@ -145027,7 +145047,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-03-10T13:20:22+02:00",
+        "last_modified": "2026-03-10T14:57:51+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -146131,12 +146151,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3389,
+          "domain": 3406,
           "file_path": 40,
           "ipv4": 829,
           "url": 125
         },
-        "total": 4383
+        "total": 4400
       }
     },
     "TRIANGULATION": {
