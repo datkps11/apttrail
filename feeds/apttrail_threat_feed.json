@@ -147771,9 +147771,11 @@
           "heidisql.database-lists.com",
           "heidisql.space",
           "horizon-client-download.com",
+          "hornetsecuety.com",
           "hornetseculty.com",
           "hornetsecurety.com",
           "hornetsecurty.com",
+          "hornetsecuty.com",
           "horpetsecurity.com",
           "keystore-explorer.com",
           "mstore.framfarmers.co.uk",
@@ -147896,7 +147898,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-03-09T19:28:32+02:00",
+        "last_modified": "2026-03-10T10:00:54+02:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -147913,9 +147915,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 176
+          "domain": 178
         },
-        "total": 176
+        "total": 178
       }
     },
     "UNC2529": {
