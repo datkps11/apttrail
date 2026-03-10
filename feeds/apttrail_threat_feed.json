@@ -140654,7 +140654,6 @@
           "aaloochaat.com",
           "aboutcase.nl",
           "ac.76767.icu",
-          "academera.com",
           "accinfo.live",
           "account-recovery.com",
           "account.migration.jkpolice.gov.in.mgovcloud.de",
@@ -147429,7 +147428,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-03-10T21:15:20+02:00",
+        "last_modified": "2026-03-10T22:24:18+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -148533,12 +148532,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 5788,
+          "domain": 5787,
           "file_path": 40,
           "ipv4": 829,
           "url": 125
         },
-        "total": 6782
+        "total": 6781
       }
     },
     "TRIANGULATION": {
