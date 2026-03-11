@@ -10867,11 +10867,11 @@ rule APT_SOFACY
         $domain42 = "99996665550\.fun" ascii wide nocase
         $domain43 = "99kg\.site" ascii wide nocase
         $domain44 = "9b5uja\.am\.files\.1drv\.com" ascii wide nocase
-        $domain45 = "aa\.69\.mu" ascii wide nocase
-        $domain46 = "aadexpo2014\.co\.za" ascii wide nocase
-        $domain47 = "abbott-export\.com" ascii wide nocase
-        $domain48 = "academl\.com" ascii wide nocase
-        $domain49 = "acccountverify\.com" ascii wide nocase
+        $domain45 = "a\.zhblz\.com" ascii wide nocase
+        $domain46 = "aa\.69\.mu" ascii wide nocase
+        $domain47 = "aadexpo2014\.co\.za" ascii wide nocase
+        $domain48 = "abbott-export\.com" ascii wide nocase
+        $domain49 = "academl\.com" ascii wide nocase
         $ip50 = "101.255.119.42" ascii wide
         $ip51 = "109.169.15.73" ascii wide
         $ip52 = "113.160.234.229" ascii wide
@@ -10901,7 +10901,7 @@ rule APT_SOFACY
         $ip76 = "203.161.50.145" ascii wide
         $ip77 = "203.161.50.145" ascii wide
         $ip78 = "203.161.50.145" ascii wide
-        $ip79 = "213.32.252.221" ascii wide
+        $ip79 = "203.161.50.145" ascii wide
         $url80 = "/software-protection/app\.php" ascii wide nocase
         $url81 = "/ControllerReset/view/register/comid/sid\.php" ascii wide nocase
 

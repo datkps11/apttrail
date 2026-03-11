@@ -136766,6 +136766,7 @@
           "99996665550.fun",
           "99kg.site",
           "9b5uja.am.files.1drv.com",
+          "a.zhblz.com",
           "aa.69.mu",
           "aadexpo2014.co.za",
           "abbott-export.com",
@@ -137594,12 +137595,14 @@
           "ns1.mfanews.org",
           "ns1.modeselling.com",
           "ns1.oncetrips.com",
+          "ns1.petdiary.net",
           "ns1.vtxhospital.com",
           "ns2.cdnmsnupdate.com",
           "ns2.fountainrate.com",
           "ns2.modeselling.com",
           "ns2.ntpupdateserver.com",
           "ns2.oncetrips.com",
+          "ns2.petdiary.net",
           "ns2.vtxhospital.com",
           "ns3.cdnmsnupdate.com",
           "nshq.in",
@@ -137664,6 +137667,7 @@
           "pentestinglab.com",
           "perfect-remote-service.com",
           "persa124.in",
+          "petdiary.net",
           "petropershiyinukra.com",
           "philcfo.org",
           "photopoststories.com",
@@ -138233,8 +138237,11 @@
           "194.126.178.8:55555",
           "202.55.80.225:35770",
           "203.161.50.145:22",
+          "203.161.50.145:5000",
           "203.161.50.145:6211",
+          "203.161.50.145:8080",
           "203.161.50.145:8443",
+          "203.161.50.145:8889",
           "213.32.252.221:445",
           "23.200.147.10:80",
           "23.24.68.109:443",
@@ -138330,6 +138337,7 @@
           "http://93.113.131.117",
           "http://93.113.131.155",
           "http://93.115.38.132",
+          "http://93.170.72.54",
           "http://94.156.189.120"
         ]
       },
@@ -138359,7 +138367,7 @@
         ],
         "apt_group": "SOFACY",
         "filename": "apt_sofacy.txt",
-        "last_modified": "2026-02-24T13:26:07+02:00",
+        "last_modified": "2026-03-11T16:04:08+02:00",
         "references": [
           "https://www.alienvault.com/open-threat-exchange/blog/from-russia-with-love-sofacy-sednit-apt28-is-in-town",
           "http://permalink.gmane.org/gmane.comp.security.ids.snort.emerging-sigs/22170",
@@ -138625,6 +138633,7 @@
           "https://www.virustotal.com/gui/file/a097400e060edf1190002a30c64506da0f72f92f96ed526b01cb4c00d5df2f0c/detection",
           "https://www.virustotal.com/gui/file/86a9ca34790e219ddc371fa154c51a9a2930e2afdebf4fc0889d2ba94d6acfc1/detection",
           "https://cert.gov.ua/article/6281123 (# UAC-0001)",
+          "https://hunt.io/blog/operation-roundish-apt28-roundcube-exploitation",
           "https://x.com/StrikeReadyLabs/status/1851266545793617938",
           "https://www.virustotal.com/gui/file/fa8a4d544ffb3ca9d51448772f478f303602023e0cd70af4b9f85d3b72b4cd27/detection",
           "https://x.com/StrikeReadyLabs/status/1852167112367689933",
@@ -138663,12 +138672,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1403,
+          "domain": 1407,
           "file_path": 78,
-          "ipv4": 55,
-          "url": 68
+          "ipv4": 58,
+          "url": 69
         },
-        "total": 1604
+        "total": 1612
       }
     },
     "SPACEPIRATES": {
