@@ -7537,6 +7537,7 @@
           "888toto.com",
           "8toto.co",
           "918slot.top",
+          "99media.com.pk",
           "99togel.org",
           "99toto.shop",
           "a.churchill91.com",
@@ -7981,7 +7982,8 @@
           "zhaodaolajiankang.com",
           "zhongwenchuantongqiye.com",
           "zingstockpicks.com",
-          "zmwardrobe.com"
+          "zmwardrobe.com",
+          "zoemagicbook.com"
         ],
         "file_path": [
           "/45Ugty845nv7rt.php",
@@ -8191,7 +8193,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-03-04T21:05:44+02:00",
+        "last_modified": "2026-03-11T20:06:48+02:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -8753,17 +8755,19 @@
           "https://www.virustotal.com/gui/file/4885affbac1695037c5fbfc000ff54021406c5da58a14fca96dd34f6de499220/detection",
           "https://www.virustotal.com/gui/file/5a98b05cff064c3884c689e4f4fb991533cf631de39299a924d69d8376661b0c/detection",
           "https://x.com/RedDrip7/status/2027209484784017629",
-          "https://www.virustotal.com/gui/file/e6b523e77c31b89f8eb3489007bf14b3b9d34bc3870a9d96ecf7b99efa506c76/detection"
+          "https://www.virustotal.com/gui/file/e6b523e77c31b89f8eb3489007bf14b3b9d34bc3870a9d96ecf7b99efa506c76/detection",
+          "https://x.com/RedDrip7/status/2031616083569029525",
+          "https://www.virustotal.com/gui/file/fb91c7fd342803ae581ea52e78bc610ab876cb5eb900486cb4fa7009feee2233/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 451,
+          "domain": 453,
           "file_path": 80,
           "ipv4": 74,
           "url": 18
         },
-        "total": 623
+        "total": 625
       }
     },
     "BLACKGEAR": {
