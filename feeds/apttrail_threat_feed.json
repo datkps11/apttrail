@@ -99028,6 +99028,7 @@
           "linekdin.online",
           "linenorre.click",
           "linesmanagement.fun",
+          "link-nid-log.oc9bk.dynv6.net",
           "link-usrinvoice.mydns.bz",
           "link.kuronekorearmryets.shop",
           "link.msoffic.homes",
@@ -102877,6 +102878,7 @@
           "nid-naverqos.onthewifi.com",
           "nid-naverqpo.servegame.com",
           "nid-naverqxz.serveftp.com",
+          "nid-naverrez.serveftp.com",
           "nid-naverrfi.onthewifi.com",
           "nid-naverrtc.myvnc.com",
           "nid-naversecmail.onthewifi.com",
@@ -105359,6 +105361,7 @@
           "oblogcenter.r-e.kr",
           "obmonspc.online",
           "obser.mygamesonline.org",
+          "oc9bk.dynv6.net",
           "occupoff.click",
           "oceandao.top",
           "oceanhub.xyz",
@@ -109978,7 +109981,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-10T11:12:52+02:00",
+        "last_modified": "2026-03-11T10:11:43+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -111475,12 +111478,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 16583,
+          "domain": 16586,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 17004
+        "total": 17007
       }
     },
     "KUN3": {
@@ -112662,6 +112665,7 @@
           "dc-ba6f51b553e0.olidhealth.com",
           "de.ztec.store",
           "deadfellaz.candidatescope.com",
+          "decentralizeddataexchangeinferencelayer.com",
           "decentscrippts.com",
           "deck.linkpc.net",
           "deepdriverupdate.online",
@@ -116385,7 +116389,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-03-09T12:44:55+02:00",
+        "last_modified": "2026-03-11T10:09:24+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -117569,12 +117573,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3458,
+          "domain": 3459,
           "file_path": 478,
           "ipv4": 530,
           "url": 102
         },
-        "total": 4568
+        "total": 4569
       }
     },
     "LAZYSCRIPTER": {
@@ -131635,6 +131639,7 @@
           "analytic.mfa-qov.com",
           "andc.govaf.org",
           "anefank.mom",
+          "ankara-mofa-gov-bd.fia-g0v.net",
           "antarticarevolution.sbs",
           "aop.gov-af.org",
           "ap-ms.net",
@@ -131843,6 +131848,7 @@
           "cabinet-division-pk.fia-gov.com",
           "cabinet-download-server.top",
           "cabinet-gov-bd.dwnlld.info",
+          "cabinet-gov-bd.fia-g0v.net",
           "cabinet-gov-bd.nic-svc.net",
           "cabinet-gov-bd.org-liv.net",
           "cabinet-gov-pk.dytt888.net",
@@ -132417,6 +132423,7 @@
           "fetchdrive.info",
           "fetchdrive.org",
           "ffc.gov.pk-mail.org",
+          "fia-g0v.net",
           "fia-gob.net",
           "fia-gov.com",
           "fia-gov.net",
@@ -133511,6 +133518,7 @@
           "mofa-gov-np.downnload.org",
           "mofa-gov-np.dwnlld.com",
           "mofa-gov-np.dytt888.net",
+          "mofa-gov-np.fia-g0v.net",
           "mofa-gov-np.fia-gob.net",
           "mofa-gov-np.fia-gov.net",
           "mofa-gov-np.live-co.org",
@@ -133531,6 +133539,7 @@
           "mofa-gov-pk.download.info",
           "mofa-gov-pk.dwnlld.com",
           "mofa-gov-pk.fdn-trace.net",
+          "mofa-gov-pk.fia-g0v.net",
           "mofa-gov-pk.pages.dev",
           "mofa-gov-pk.rf.gd",
           "mofa-gov-pk.site",
@@ -133654,6 +133663,7 @@
           "moha-gov-bd.snagdrive.com",
           "moha-gov-np.filenest.live",
           "moha-gov-np.snagdrive.com",
+          "moha-portal-gov-bd.fia-g0v.net",
           "moha.gov.bd.mail-pk.org",
           "moha.gov.np.gov-org.net",
           "moha.gov.np.mail-pk.org",
@@ -134319,8 +134329,10 @@
           "ptt-govt.lat",
           "pttgovt.bond",
           "ptv.pkgov.org",
+          "pubad-gov-ik.fia-g0v.net",
           "pubad-gov-lk.downld.org",
           "pubad-gov-lk.download-doc.net",
+          "pubad-gov-lk.fia-g0v.net",
           "pubad-gov-lk.filenest.live",
           "pubad-gov-lk.filenesthub.org",
           "pubad-gov-lk.grabfiles.net",
@@ -134837,6 +134849,7 @@
           "www-cbsl-gov-lk.dwnlld.com",
           "www-cbsl-gov-lk.dwnlld.info",
           "www-cbsl-gov-lk.dwnlld.infomfa-gov-lk.dwnlld.info",
+          "www-cbsl-gov-lk.fia-g0v.net",
           "www-cbsl-gov-lk.filenest.live",
           "www-cbsl-gov-lk.grabfiles.net",
           "www-cbsl-gov-lk.loadpath.info",
@@ -134844,6 +134857,7 @@
           "www-ccdi-gov-cn.hkbmwzone.com",
           "www-cdn.net",
           "www-chinaneast-gov-cn.videoem.com",
+          "www-commerce-gov-pk.fia-g0v.net",
           "www-communications-gov-pk.fetchdrive.org",
           "www-creditjx-gov-cn.aaaqb.com",
           "www-customs-gov-lk.net-co.info",
@@ -134851,6 +134865,7 @@
           "www-erd-gov-lk.downld.org",
           "www-erd-gov-lk.dwnlld.info",
           "www-erd-gov-lk.nic-svc.net",
+          "www-establishment-gov-pk.fia-g0v.net",
           "www-finance-gov-pk.fetchdrive.org",
           "www-finance-gov-pk.filenesthub.org",
           "www-finance-gov-pk.grabfiles.net",
@@ -135041,7 +135056,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-03-09T17:37:33+02:00",
+        "last_modified": "2026-03-11T10:30:57+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -136071,17 +136086,19 @@
           "https://www.virustotal.com/gui/file/795ea82a7aa424f6d54d975a44d1c69a622217dbf8ebbd67becb64559bd3a909/detection",
           "https://x.com/skocherhan/status/2027484078132379889",
           "https://x.com/volrant136/status/2028050650110554502",
-          "https://arcticwolf.com/resources/blog/sloppylemming-deploys-burrowshell-and-rust-based-rat-to-target-pakistan-and-bangladesh/"
+          "https://arcticwolf.com/resources/blog/sloppylemming-deploys-burrowshell-and-rust-based-rat-to-target-pakistan-and-bangladesh/",
+          "https://x.com/wa1Ile/status/2031612431856971936",
+          "https://www.virustotal.com/gui/file/dcca21d91e3f261f998d7caa78660ac86b8b16c3785eef87788b502e84d98a8b/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3415,
+          "domain": 3426,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3507
+        "total": 3518
       }
     },
     "SILENCE": {
@@ -144339,6 +144356,7 @@
           "keyofcricket.com",
           "kfast.store",
           "kgn-e-birth.xyz",
+          "kickstartercareer.website",
           "killendourf.com",
           "kilonserted.com",
           "kindfootball.com",
@@ -147428,7 +147446,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-03-10T22:24:18+02:00",
+        "last_modified": "2026-03-11T10:41:54+02:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -148527,17 +148545,19 @@
           "https://x.com/PrakkiSathwik/status/2030343602229199279",
           "https://www.virustotal.com/gui/file/d7872ff7d02010eb94182d81c1a6756994c53266fc1efffcd98f5913b1e4df13/detection",
           "https://x.com/SinghSoodeep/status/2031326993455755618",
-          "https://www.virustotal.com/gui/file/8587a778e3bae0fb664e598bcc54eb11fb90926c2fdf4d012960fdbabda0d92f/detection"
+          "https://www.virustotal.com/gui/file/8587a778e3bae0fb664e598bcc54eb11fb90926c2fdf4d012960fdbabda0d92f/detection",
+          "https://x.com/PrakkiSathwik/status/2031624100125487483",
+          "https://www.virustotal.com/gui/file/785c48c170d677ceee0112f843d8959ff7b701866283c2e503451c96c82f63ce/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 5787,
+          "domain": 5788,
           "file_path": 40,
           "ipv4": 829,
           "url": 125
         },
-        "total": 6781
+        "total": 6782
       }
     },
     "TRIANGULATION": {
