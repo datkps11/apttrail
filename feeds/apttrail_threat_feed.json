@@ -93307,6 +93307,7 @@
           "account-google.sign-protect.kro.kr",
           "account-google.sign-security.kro.kr",
           "account-kakao.ddnsking.com",
+          "account-kakao.dynv6.net",
           "account-kakao.servehttp.com",
           "account-live.p-e.kr",
           "account-login.kro.kr",
@@ -99160,6 +99161,7 @@
           "login-verifyaccount.o-r.kr",
           "login-yahoo.info",
           "login-yahoozfb.myvnc.com",
+          "login.account-kakao.dynv6.net",
           "login.accountcorp.online",
           "login.accountcorp.site",
           "login.accountcorpvstep.p-e.kr",
@@ -102797,6 +102799,7 @@
           "nid-naverdgl.onthewifi.com",
           "nid-naverdqp.servequake.com",
           "nid-naverdqw.servequake.com",
+          "nid-naverdqy.3utilities.com",
           "nid-naverdsf.servecounterstrike.com",
           "nid-naverdsm.servecounterstrike.com",
           "nid-naverduq.servegame.com",
@@ -109985,7 +109988,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-11T10:11:43+02:00",
+        "last_modified": "2026-03-12T10:39:19+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -111482,12 +111485,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 16586,
+          "domain": 16589,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 17007
+        "total": 17010
       }
     },
     "KUN3": {
@@ -112042,6 +112045,7 @@
           "app.getevalor.com",
           "app.gumlet.us",
           "app.harqen.us",
+          "app.highmatch.cloud",
           "app.highmatch.pro",
           "app.hiring-interview.com",
           "app.hiringinterview.org",
@@ -112050,6 +112054,7 @@
           "app.insighboard.com",
           "app.interviewnest.org",
           "app.ixcareer.video",
+          "app.jumpshare.online",
           "app.keenest.org",
           "app.lenvny.com",
           "app.limesurvey.us",
@@ -113208,6 +113213,7 @@
           "helpdeskassistance.org",
           "hentaikawaiiuwu.com",
           "heritagetbk.com",
+          "highmatch.cloud",
           "highmatch.pro",
           "hillokay.com",
           "hirebest.cv",
@@ -113395,6 +113401,7 @@
           "jqueryversion.net",
           "json-project-hazel.vercel.app",
           "jumping-mechellen.com",
+          "jumpshare.online",
           "juneprint.com",
           "jungfrau.co.kr",
           "justbuiltprojects.com.au",
@@ -114382,6 +114389,7 @@
           "soar.vip",
           "soc-log.vercel.app",
           "soccerlab.io",
+          "socket.decentralizeddataexchangeinferencelayer.com",
           "soft-dev.online",
           "softcaredesk.pro",
           "softdebugnest.pro",
@@ -116393,7 +116401,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-03-11T10:09:24+02:00",
+        "last_modified": "2026-03-12T10:36:24+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -117577,12 +117585,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3459,
+          "domain": 3464,
           "file_path": 478,
           "ipv4": 530,
           "url": 102
         },
-        "total": 4569
+        "total": 4574
       }
     },
     "LAZYSCRIPTER": {
