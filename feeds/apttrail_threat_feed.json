@@ -134998,6 +134998,7 @@
           "zimbra10-internationalrelation40-beep5751-brqupv53.leapcell.dev",
           "zimbra10-nml3wp-max8143-3ipio7e5.leapcell.dev",
           "zimbra10-nml3wp-max8143-fn1rsf7l.leapcell.dev",
+          "zimbramail-nayatel.leapcell.app",
           "ziptec.info",
           "zlaeso.xyz",
           "zmail.ptcl.pkgov.org",
@@ -135124,7 +135125,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-03-11T10:30:57+02:00",
+        "last_modified": "2026-03-12T18:35:15+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -136156,17 +136157,18 @@
           "https://x.com/volrant136/status/2028050650110554502",
           "https://arcticwolf.com/resources/blog/sloppylemming-deploys-burrowshell-and-rust-based-rat-to-target-pakistan-and-bangladesh/",
           "https://x.com/wa1Ile/status/2031612431856971936",
-          "https://www.virustotal.com/gui/file/dcca21d91e3f261f998d7caa78660ac86b8b16c3785eef87788b502e84d98a8b/detection"
+          "https://www.virustotal.com/gui/file/dcca21d91e3f261f998d7caa78660ac86b8b16c3785eef87788b502e84d98a8b/detection",
+          "https://x.com/volrant136/status/2032133065666089160"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3426,
+          "domain": 3427,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3518
+        "total": 3519
       }
     },
     "SILENCE": {
