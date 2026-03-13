@@ -113643,6 +113643,7 @@
           "lm-career.com",
           "lmaxtrd.com",
           "loading-coinbase.com",
+          "location-request-api.short.gy",
           "log-server-lovat.vercel.app",
           "log-writter.vercel.app",
           "logicfield-app681.vercel.app",
@@ -115103,6 +115104,7 @@
           "vscode-config-setting.vercel.app",
           "vscode-config-settings.vercel.app",
           "vscode-config.vercel.app",
+          "vscode-extension.vercel.app",
           "vscode-helper-132.vercel.app",
           "vscode-helper171-ruby.vercel.app",
           "vscode-helper171.vercel.app",
@@ -115110,6 +115112,7 @@
           "vscode-load-config.vercel.app",
           "vscode-load.onrender.com",
           "vscode-load.vercel.app",
+          "vscode-portfolio.vercel.app",
           "vscode-project-setting.vercel.app",
           "vscode-settings-bootstrap.vercel.app",
           "vscode-settings-config.vercel.app",
@@ -116556,7 +116559,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-03-12T10:36:24+02:00",
+        "last_modified": "2026-03-13T14:33:55+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -117735,17 +117738,19 @@
           "https://www.enki.co.kr/en/media-center/blog/contagious-interview-campaign-abusing-vscode-distributed-on-github",
           "https://socket.dev/blog/stegabin-26-malicious-npm-packages-use-pastebin-steganography",
           "https://x.com/RedDrip7/status/2029459268626465203",
-          "https://www.virustotal.com/gui/file/a897fb39d3e62c760d998511913785e30bfb703caf89af13a80cb1b18e83dfd9/detection"
+          "https://www.virustotal.com/gui/file/a897fb39d3e62c760d998511913785e30bfb703caf89af13a80cb1b18e83dfd9/detection",
+          "https://www.microsoft.com/en-us/security/blog/2026/03/11/contagious-interview-malware-delivered-through-fake-developer-job-interviews/",
+          "https://www.virustotal.com/gui/ip-address/91.197.243.143/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3464,
+          "domain": 3467,
           "file_path": 478,
           "ipv4": 530,
           "url": 102
         },
-        "total": 4574
+        "total": 4577
       }
     },
     "LAZYSCRIPTER": {
