@@ -20383,6 +20383,7 @@
           "flashmoblive.live",
           "flashnotederby.xyz",
           "flickry.xyz",
+          "flikupdates.info",
           "flowchatter.com",
           "font.backuplogs.xyz",
           "fontsloaders.xyz",
@@ -20495,6 +20496,7 @@
           "live-service.cf",
           "loadingmessage.info",
           "localsurfer.buzz",
+          "locaplayz.info",
           "log.bookservices.xyz",
           "logicfind.buzz",
           "login-gov.info",
@@ -20683,6 +20685,7 @@
           "reggysolution.info",
           "regionserverbackup.info",
           "registeronline.store",
+          "regupdates.info",
           "reload-cover-page.live",
           "reload-page-cover.site",
           "remindme.top",
@@ -21133,6 +21136,9 @@
           "/sERtJRTb9aBbiGe3KmbZpxYParKXhzKqxc1KzKGU6aTAoGcC.mp3",
           "/tDM1PLu22kdd47p9.php",
           "/tDM1PLu22kdd47p9KkHr26X5ZHWA0svGK6lctkM1SzxHZk90.rtf",
+          "/tihRiVEewMOgm6UN/fDPlz6QNjof30IVTzyMlLW261LZtf2kN3fFVrEmIP9byeiQX.ico",
+          "/tihRiVEewMOgm6UN/fDPlz6QNjof30IVTzyMlLW261LZtf2kN3fFVrEmIP9byeiQX.mp3",
+          "/tihRiVEewMOgm6UN/fDPlz6QNjof30IVTzyMlLW261LZtf2kN3fFVrEmIP9byeiQX.pptm",
           "/uE2rDaf9CdHcauDS/4oXCFBqnnxeb7vIM.php",
           "/ujhsygdhgtsygbuehdthd.doc",
           "/ujhsygdhgtsygbuehdthd.dot",
@@ -21226,7 +21232,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2026-03-09T12:51:30+02:00",
+        "last_modified": "2026-03-14T00:29:13+02:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -21877,17 +21883,20 @@
           "https://www.virustotal.com/gui/file/c997638d68430e808fe1cd9f4fedb5a0e611b2bf6356a7437df974888fa58049/detection",
           "https://x.com/RedDrip7/status/2028721108850225506",
           "https://www.virustotal.com/gui/file/ea649c47cf44498eab67bf6e208586114a8e9a86665d803a827f05a45222042e/detection",
-          "https://x.com/500mk500/status/2028854877552587246"
+          "https://x.com/500mk500/status/2028854877552587246",
+          "https://x.com/malwrhunterteam/status/2032576992596390127",
+          "https://www.virustotal.com/gui/ip-address/206.71.149.126/relations",
+          "https://www.virustotal.com/gui/file/caa66675f6574ba2295aff502850a0370450db602d3ff2bac2c059cdb265f2b7/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 731,
-          "file_path": 249,
+          "domain": 734,
+          "file_path": 252,
           "ipv4": 47,
           "url": 4
         },
-        "total": 1031
+        "total": 1037
       }
     },
     "DOWNEX": {
