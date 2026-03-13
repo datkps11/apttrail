@@ -5801,7 +5801,7 @@ rule APT_INEDIBLEOCHOTENSE
         description = "Detects IOCs associated with APT INEDIBLEOCHOTENSE"
         author = "APTtrail Automated Collection"
         apt_group = "INEDIBLEOCHOTENSE"
-        reference = "https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-apt-activity-report-q2-2025-q3-2025.pdf"
+        reference = "https://infosecwriteups.com/cti-research-sandworm-apt44-649332e8af44#5870"
         severity = "high"
         tlp = "white"
 
@@ -5811,6 +5811,7 @@ rule APT_INEDIBLEOCHOTENSE
         $domain2 = "esetremover\.com" ascii wide nocase
         $domain3 = "esetscanner\.com" ascii wide nocase
         $domain4 = "esetsmart\.com" ascii wide nocase
+        $domain5 = "updater-file\.xyz" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)

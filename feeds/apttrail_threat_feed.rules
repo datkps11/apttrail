@@ -2661,8 +2661,8 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT INDRA - HTTP Request to 
 # APT Group: INEDIBLEOCHOTENSE
 # ==================================================
 
-# INEDIBLEOCHOTENSE - Domain Indicators (5 domains)
-alert dns any any -> any any (msg:"APT INEDIBLEOCHOTENSE - Malicious Domain Activity"; dns.query; pcre:"/^(eset-endpointantivirus\.com|eset-review\.com|esetremover\.com|esetscanner\.com|esetsmart\.com)$/i"; classtype:trojan-activity; sid:9001507; rev:1; metadata:apt_group INEDIBLEOCHOTENSE, chunk 1;)
+# INEDIBLEOCHOTENSE - Domain Indicators (6 domains)
+alert dns any any -> any any (msg:"APT INEDIBLEOCHOTENSE - Malicious Domain Activity"; dns.query; pcre:"/^(eset-endpointantivirus\.com|eset-review\.com|esetremover\.com|esetscanner\.com|esetsmart\.com|updater-file\.xyz)$/i"; classtype:trojan-activity; sid:9001507; rev:1; metadata:apt_group INEDIBLEOCHOTENSE, chunk 1;)
 
 # ==================================================
 # APT Group: INFY

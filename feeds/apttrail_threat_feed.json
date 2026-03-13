@@ -91870,23 +91870,25 @@
           "eset-review.com",
           "esetremover.com",
           "esetscanner.com",
-          "esetsmart.com"
+          "esetsmart.com",
+          "updater-file.xyz"
         ]
       },
       "metadata": {
         "aliases": [],
         "apt_group": "INEDIBLEOCHOTENSE",
         "filename": "apt_inedibleochotense.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-03-14T00:54:43+02:00",
         "references": [
-          "https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-apt-activity-report-q2-2025-q3-2025.pdf"
+          "https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-apt-activity-report-q2-2025-q3-2025.pdf",
+          "https://infosecwriteups.com/cti-research-sandworm-apt44-649332e8af44#5870"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 5
+          "domain": 6
         },
-        "total": 5
+        "total": 6
       }
     },
     "INFY": {
