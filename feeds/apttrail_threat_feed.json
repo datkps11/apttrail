@@ -125283,6 +125283,7 @@
           "msit5214.b-cdn.net",
           "msoffice.user-assist.site",
           "msoutllook.ddns.net",
+          "muddtech.org",
           "muqaddasquran.com",
           "musickeepers.org",
           "mydropboxbackup.com",
@@ -125768,7 +125769,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2026-03-04T17:40:07+02:00",
+        "last_modified": "2026-03-13T17:39:42+02:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -126192,17 +126193,19 @@
           "https://x.com/suyog41/status/2021136856356987347",
           "https://www.virustotal.com/gui/file/24e16b13be82a21d4ebd38715deccaf55d34023507918825f40e1071c8da92a5/detection",
           "https://x.com/blackorbird/status/2029212305725198559",
-          "https://mp.weixin.qq.com/s/4Fb6P0ArHeYbKbBHhs4vUQ"
+          "https://mp.weixin.qq.com/s/4Fb6P0ArHeYbKbBHhs4vUQ",
+          "https://x.com/SinghSoodeep/status/2032443001658540322",
+          "https://www.virustotal.com/gui/file/3a2338e1f8bba1c6914545fd24bed1c24752f0ac4dcb7e129230956b87b2dcfe/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 633,
+          "domain": 634,
           "file_path": 79,
           "ipv4": 57,
           "url": 43
         },
-        "total": 812
+        "total": 813
       }
     },
     "PEEPINGTITLE": {
