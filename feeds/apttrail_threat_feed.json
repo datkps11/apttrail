@@ -132553,6 +132553,7 @@
           "defpak.net",
           "defpak.org",
           "defrgthyj.ksewpk.com",
+          "dekl-dgprocur2028200-ljakefli.leapcell.dev",
           "del-ivery.net",
           "dellicon.top",
           "demcon.live",
@@ -133418,6 +133419,7 @@
           "mail-gwadarport-gov-pk.ntc-telecomcorporation.workers.dev",
           "mail-hit-gov-pk.government-pak.workers.dev",
           "mail-hit-gov-pk.ntc-telecomcorporation.workers.dev",
+          "mail-hit-gov.leapcell.app",
           "mail-hitgovpk.government-pak.workers.dev",
           "mail-hitgovpk.govtpak.workers.dev",
           "mail-hitgovpk.myvnc.com",
@@ -135474,7 +135476,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-03-13T10:38:07+02:00",
+        "last_modified": "2026-03-14T17:04:31+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -136510,17 +136512,18 @@
           "https://x.com/volrant136/status/2032133065666089160",
           "https://x.com/RedDrip7/status/2032290347527913562",
           "https://www.virustotal.com/gui/file/67c341e187ddfcd5a4a7df8743ae82e72db1e5c3747d5c4e185d99f54182f093/detection",
-          "https://www.virustotal.com/gui/file/e5474cad56d35160c83378e6719f7c2331333581ab78a0428d0c425a3049e50f/detection"
+          "https://www.virustotal.com/gui/file/e5474cad56d35160c83378e6719f7c2331333581ab78a0428d0c425a3049e50f/detection",
+          "https://x.com/volrant136/status/2032833539201540166"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3433,
+          "domain": 3435,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3525
+        "total": 3527
       }
     },
     "SILENCE": {
