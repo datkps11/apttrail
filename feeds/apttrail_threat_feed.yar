@@ -12514,22 +12514,22 @@ rule APT_UNC2465
         $domain31 = "dbeaver-database\.tech" ascii wide nocase
         $domain32 = "dbeaver-database\.us" ascii wide nocase
         $domain33 = "dbeaver\.softwarep2p\.com" ascii wide nocase
-        $domain34 = "download\.rvtools-dev\.com" ascii wide nocase
-        $domain35 = "download\.rvtools-skillcamp\.com" ascii wide nocase
-        $domain36 = "ec2-app\.lewoha7320\.workers\.dev" ascii wide nocase
-        $domain37 = "ec2-server-noisy-band-0fe8\.focapaj280\.workers\.dev" ascii wide nocase
-        $domain38 = "ec2-server\.bayaj19162\.workers\.dev" ascii wide nocase
-        $domain39 = "ec2-server\.gegodec527\.workers\.dev" ascii wide nocase
-        $domain40 = "ec2-server\.milago3967\.workers\.dev" ascii wide nocase
-        $domain41 = "etherial\.groover\.workers\.dev" ascii wide nocase
-        $domain42 = "floral-paper-8eb1\.pihara4672\.workers\.dev" ascii wide nocase
-        $domain43 = "groover\.workers\.dev" ascii wide nocase
-        $domain44 = "harnetsecuriity\.com" ascii wide nocase
-        $domain45 = "harnetsecurity\.com" ascii wide nocase
-        $domain46 = "heidisql-enterprise\.app" ascii wide nocase
-        $domain47 = "heidisql-enterprise\.cc" ascii wide nocase
-        $domain48 = "heidisql-enterprise\.cloud" ascii wide nocase
-        $domain49 = "heidisql-enterprise\.co" ascii wide nocase
+        $domain34 = "deguercuernavaca\.mx" ascii wide nocase
+        $domain35 = "download\.rvtools-dev\.com" ascii wide nocase
+        $domain36 = "download\.rvtools-skillcamp\.com" ascii wide nocase
+        $domain37 = "ec2-app\.lewoha7320\.workers\.dev" ascii wide nocase
+        $domain38 = "ec2-server-noisy-band-0fe8\.focapaj280\.workers\.dev" ascii wide nocase
+        $domain39 = "ec2-server\.bayaj19162\.workers\.dev" ascii wide nocase
+        $domain40 = "ec2-server\.gegodec527\.workers\.dev" ascii wide nocase
+        $domain41 = "ec2-server\.milago3967\.workers\.dev" ascii wide nocase
+        $domain42 = "etherial\.groover\.workers\.dev" ascii wide nocase
+        $domain43 = "floral-paper-8eb1\.pihara4672\.workers\.dev" ascii wide nocase
+        $domain44 = "groover\.workers\.dev" ascii wide nocase
+        $domain45 = "harnetsecuriity\.com" ascii wide nocase
+        $domain46 = "harnetsecurity\.com" ascii wide nocase
+        $domain47 = "heidisql-enterprise\.app" ascii wide nocase
+        $domain48 = "heidisql-enterprise\.cc" ascii wide nocase
+        $domain49 = "heidisql-enterprise\.cloud" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)

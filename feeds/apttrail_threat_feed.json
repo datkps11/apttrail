@@ -150675,6 +150675,7 @@
           "dbeaver-database.tech",
           "dbeaver-database.us",
           "dbeaver.softwarep2p.com",
+          "deguercuernavaca.mx",
           "download.rvtools-dev.com",
           "download.rvtools-skillcamp.com",
           "ec2-app.lewoha7320.workers.dev",
@@ -150832,7 +150833,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-03-13T09:59:56+02:00",
+        "last_modified": "2026-03-14T15:56:56+02:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -150849,9 +150850,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 183
+          "domain": 184
         },
-        "total": 183
+        "total": 184
       }
     },
     "UNC2529": {
