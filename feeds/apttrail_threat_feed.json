@@ -94059,6 +94059,7 @@
           "arsakray.store",
           "arsgeostra.click",
           "artauctiondi.click",
+          "article-com.eu",
           "artisgo.n-e.kr",
           "artknowledgef.click",
           "artproject-part79.site",
@@ -110365,7 +110366,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-14T13:25:34+02:00",
+        "last_modified": "2026-03-14T13:49:13+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -111860,17 +111861,20 @@
           "https://www.virustotal.com/gui/ip-address/152.32.139.149/relations",
           "https://www.virustotal.com/gui/ip-address/152.32.138.225/relations",
           "https://x.com/skocherhan/status/2032213375057301676",
-          "https://x.com/skocherhan/status/2032672115405554035"
+          "https://x.com/skocherhan/status/2032672115405554035",
+          "https://x.com/smica83/status/2032707038770315606",
+          "https://tria.ge/260314-jtdlgsaz8v/behavioral1",
+          "https://x.com/skocherhan/status/2032602147548696890"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 16955,
+          "domain": 16956,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 17376
+        "total": 17377
       }
     },
     "KUN3": {
