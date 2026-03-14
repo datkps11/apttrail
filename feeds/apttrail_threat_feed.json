@@ -102393,21 +102393,28 @@
           "ndoc-kr.space",
           "ndoc-kr.store",
           "ndoc-mail.n-e.kr",
+          "ndoc-pass.dns.army",
           "ndoc-verify.dns.army",
           "ndoc.digital",
           "ndoc.realinfo.p-e.kr",
+          "ndocabpass.dynv6.net",
           "ndocajavsvr.store",
           "ndocasset.mydns.bz",
           "ndocaverify.dns.army",
           "ndocbpass.dns.army",
           "ndocbverify.dns.army",
           "ndoccverify.dns.army",
+          "ndocepass.dns.army",
           "ndoceverify.dns.army",
+          "ndocfpass.dns.army",
           "ndocfverify.dns.army",
           "ndocgverify.dns.army",
+          "ndochpass.dns.army",
           "ndociverify.dns.army",
+          "ndocnpass.dns.army",
           "ndocopass.dns.army",
           "ndocpass.dns.army",
+          "ndocppass.dns.army",
           "ndocpverify.dns.army",
           "ndocs-nsend.dynv6.net",
           "ndocs-verify.dns.army",
@@ -102421,8 +102428,10 @@
           "ndocs.xyz",
           "ndocs0link.dns.army",
           "ndocs0mai1.dns.army",
+          "ndocs2mai1.dns.army",
           "ndocs3link.dns.army",
           "ndocs3send.dynv6.net",
+          "ndocs5mai1.dns.army",
           "ndocsverify.dns.army",
           "ndocverify.dns.army",
           "ndomainservsec.store",
@@ -110372,7 +110381,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-14T15:11:45+02:00",
+        "last_modified": "2026-03-14T23:54:07+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -111876,12 +111885,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 16962,
+          "domain": 16971,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 17383
+        "total": 17392
       }
     },
     "KUN3": {
