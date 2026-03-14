@@ -94355,6 +94355,7 @@
           "binfo.blogercommunity.o-r.kr",
           "binfo.bloghomecenter.r-e.kr",
           "binfo.blogscorp.kro.kr",
+          "binfo.cert-dns.o-r.kr",
           "binfo.commonoblog.kro.kr",
           "binfo.communityweb.n-e.kr",
           "binfo.eblogapp.kro.kr",
@@ -94866,6 +94867,7 @@
           "check-line.site",
           "check-lnkedin.site",
           "check-operation.site",
+          "check-self.o-r.kr",
           "check-sign.o-r.kr",
           "check-up.work",
           "check-user.n-e.kr",
@@ -98214,6 +98216,7 @@
           "inform.certificateapp.n-e.kr",
           "informalservice.kro.kr",
           "informat.mylogin.p-e.kr",
+          "information.www.check-self.o-r.kr",
           "informsecurrity.n-e.kr",
           "infotechkorea.com",
           "infozap.digital",
@@ -100299,6 +100302,7 @@
           "mstether.top",
           "msvc.linkpc.net",
           "msvscode.o-r.kr",
+          "mt.sec.information.www.check-self.o-r.kr",
           "mta-sts.dlndocs.site",
           "mta-sts.docsuris.store",
           "mta-sts.htxpost.site",
@@ -103757,6 +103761,7 @@
           "niduser.info.verify-user.r-e.kr",
           "niduser.info.www.sign-dns.r-e.kr",
           "niduser.infoes.www.cloude.check-blog.r-e.kr",
+          "niduser.mt.sec.information.www.check-self.o-r.kr",
           "niduser.user-check.o-r.kr",
           "niduser2cops.tech",
           "niduserae.site",
@@ -106972,6 +106977,7 @@
           "sec-live.com",
           "sec-naver.com",
           "sec-portal.nl",
+          "sec.information.www.check-self.o-r.kr",
           "secacc-google.ddnsking.com",
           "secaprout.store",
           "secbesm.kro.kr",
@@ -110366,7 +110372,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-14T13:49:13+02:00",
+        "last_modified": "2026-03-14T15:11:45+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -111864,17 +111870,18 @@
           "https://x.com/skocherhan/status/2032672115405554035",
           "https://x.com/smica83/status/2032707038770315606",
           "https://tria.ge/260314-jtdlgsaz8v/behavioral1",
-          "https://x.com/skocherhan/status/2032602147548696890"
+          "https://x.com/skocherhan/status/2032602147548696890",
+          "https://x.com/skocherhan/status/2032603246888427844"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 16956,
+          "domain": 16962,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 17377
+        "total": 17383
       }
     },
     "KUN3": {
