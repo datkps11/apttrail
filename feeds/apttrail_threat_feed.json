@@ -101362,6 +101362,7 @@
           "naver.koreaair.shop",
           "naver.koreagov.com",
           "naver.korean-air.cloud",
+          "naver.liferod.com",
           "naver.mailnaverio.store",
           "naver.mainoutband.store",
           "naver.mallkrservice.site",
@@ -103347,6 +103348,7 @@
           "nid.naver.home-info.ml",
           "nid.naver.ignorelist.com",
           "nid.naver.jumpingcrab.com",
+          "nid.naver.liferod.com",
           "nid.naver.midjava.com",
           "nid.naver.minecraftnoob.com",
           "nid.naver.norushcharge.com",
@@ -110383,7 +110385,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-15T12:30:49+02:00",
+        "last_modified": "2026-03-15T12:44:31+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -111887,12 +111889,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 16973,
+          "domain": 16975,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 17394
+        "total": 17396
       }
     },
     "KUN3": {
