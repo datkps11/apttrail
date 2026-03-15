@@ -108973,6 +108973,7 @@
           "w1.user2list.kro.kr",
           "w3.navver.o-r.kr",
           "w3.secure-edit.n-e.kr",
+          "w3fx0gxf.today",
           "w7fsbv.onlinewebshop.net",
           "wa11ets.transfer-dosi.world",
           "wabsaic.info",
@@ -110385,7 +110386,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-15T12:44:31+02:00",
+        "last_modified": "2026-03-15T19:08:44+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -111889,12 +111890,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 16975,
+          "domain": 16976,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 17396
+        "total": 17397
       }
     },
     "KUN3": {
@@ -132921,6 +132922,7 @@
           "fqn-mil.net",
           "freay.tech",
           "freedom.olerpic.info",
+          "freshg-dgprocur2028200-ou4zqmub.leapcell.dev",
           "fritor.xyz",
           "front.bentec.tech",
           "frzpwdev.grabfiles.org",
@@ -135491,7 +135493,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-03-15T11:51:36+02:00",
+        "last_modified": "2026-03-15T19:01:47+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -136528,17 +136530,18 @@
           "https://x.com/RedDrip7/status/2032290347527913562",
           "https://www.virustotal.com/gui/file/67c341e187ddfcd5a4a7df8743ae82e72db1e5c3747d5c4e185d99f54182f093/detection",
           "https://www.virustotal.com/gui/file/e5474cad56d35160c83378e6719f7c2331333581ab78a0428d0c425a3049e50f/detection",
-          "https://x.com/volrant136/status/2032833539201540166"
+          "https://x.com/volrant136/status/2032833539201540166",
+          "https://x.com/volrant136/status/2033226839788060973"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3437,
+          "domain": 3438,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3529
+        "total": 3530
       }
     },
     "SILENCE": {
