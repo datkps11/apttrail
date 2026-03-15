@@ -98530,6 +98530,7 @@
           "johnyoon.site",
           "joien.iiiii.info",
           "join-login.o-r.kr",
+          "join86s.dynv6.net",
           "joinupvts.org",
           "jojoa.mypressonline.com",
           "jollof-and-rice.vercel.app",
@@ -103197,6 +103198,7 @@
           "nid-naverwza.servecounterstrike.com",
           "nid-naverxeu.serveftp.com",
           "nid-naverxft.onthewifi.com",
+          "nid-naverxil.onthewifi.com",
           "nid-naverxkr.servecounterstrike.com",
           "nid-naverxqh.servecounterstrike.com",
           "nid-naverxrl.3utilities.com",
@@ -110381,7 +110383,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-14T23:54:07+02:00",
+        "last_modified": "2026-03-15T12:30:49+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -111885,12 +111887,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 16971,
+          "domain": 16973,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 17392
+        "total": 17394
       }
     },
     "KUN3": {
@@ -134408,6 +134410,7 @@
           "olipy.info",
           "onedrives.pk-gov.org",
           "onesom.biz",
+          "onev.online",
           "online-csdgovpk.servehttp.com",
           "onlinestatus.live",
           "ootbp.pmreco.xyz",
@@ -135168,6 +135171,7 @@
           "visa.nadra-gov.online",
           "visa.nadra-gov.pt",
           "visa.nadra.gov-pak.com",
+          "visa.nadra.gov-pk.info",
           "visa.nadra.gov.pk-ev.online",
           "visa.nadra.gov.pk.com-e-visa.online",
           "visa.nadra.gov.pk.pakvisa.online",
@@ -135485,7 +135489,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-03-14T17:04:31+02:00",
+        "last_modified": "2026-03-15T11:51:36+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -136527,12 +136531,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3435,
+          "domain": 3437,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3527
+        "total": 3529
       }
     },
     "SILENCE": {
