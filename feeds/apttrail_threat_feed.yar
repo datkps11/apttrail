@@ -10673,22 +10673,23 @@ rule APT_SILENTLYNX
         $ip51 = "141.98.82.198" ascii wide
         $ip52 = "172.86.75.237" ascii wide
         $ip53 = "185.122.171.22" ascii wide
-        $ip54 = "193.124.203.226" ascii wide
-        $ip55 = "65.38.120.38" ascii wide
-        $ip56 = "65.38.121.107" ascii wide
-        $ip57 = "72.5.43.100" ascii wide
-        $ip58 = "72.5.43.178" ascii wide
-        $ip59 = "81.19.136.241" ascii wide
+        $ip54 = "185.62.57.219" ascii wide
+        $ip55 = "193.124.203.226" ascii wide
+        $ip56 = "65.38.120.38" ascii wide
+        $ip57 = "65.38.121.107" ascii wide
+        $ip58 = "72.5.43.100" ascii wide
+        $ip59 = "72.5.43.178" ascii wide
         $ip60 = "81.19.136.241" ascii wide
-        $ip61 = "82.115.223.210" ascii wide
-        $ip62 = "85.209.128.171" ascii wide
+        $ip61 = "81.19.136.241" ascii wide
+        $ip62 = "82.115.223.210" ascii wide
         $ip63 = "85.209.128.171" ascii wide
         $ip64 = "85.209.128.171" ascii wide
         $ip65 = "85.209.128.171" ascii wide
         $ip66 = "85.209.128.171" ascii wide
-        $ip67 = "88.214.26.37" ascii wide
+        $ip67 = "85.209.128.171" ascii wide
         $ip68 = "88.214.26.37" ascii wide
-        $ip69 = "96.9.125.168" ascii wide
+        $ip69 = "88.214.26.37" ascii wide
+        $ip70 = "96.9.125.168" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)

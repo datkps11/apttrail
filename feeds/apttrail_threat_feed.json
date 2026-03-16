@@ -133175,6 +133175,7 @@
           "ghaflah.top",
           "ghckjxvo.fia-gov.com",
           "ghj.pmdu-gov.org",
+          "girlfriendparty42.workers.dev",
           "github.nbppakistan.com",
           "gitlab.enclose.info",
           "gitlab.seoshz.live",
@@ -135069,6 +135070,7 @@
           "roncez.tech",
           "roof.wsink.live",
           "routinework.sbs",
+          "royal-field-9144.girlfriendparty42.workers.dev",
           "royalmigration.buzz",
           "rrkvisa200de.edu-cx.org",
           "rugby.wsink.live",
@@ -135711,7 +135713,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-03-15T19:01:47+02:00",
+        "last_modified": "2026-03-16T19:20:30+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -136749,17 +136751,18 @@
           "https://www.virustotal.com/gui/file/67c341e187ddfcd5a4a7df8743ae82e72db1e5c3747d5c4e185d99f54182f093/detection",
           "https://www.virustotal.com/gui/file/e5474cad56d35160c83378e6719f7c2331333581ab78a0428d0c425a3049e50f/detection",
           "https://x.com/volrant136/status/2032833539201540166",
-          "https://x.com/volrant136/status/2033226839788060973"
+          "https://x.com/volrant136/status/2033226839788060973",
+          "https://x.com/volrant136/status/2033574016154226898"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3438,
+          "domain": 3440,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3530
+        "total": 3532
       }
     },
     "SILENCE": {
@@ -136950,6 +136953,8 @@
           "etunabilar.com",
           "ex.wincorpupdates.com",
           "field-tec.org",
+          "filecenter.online",
+          "filereader.online",
           "filfilter-tr.com",
           "filorep.com",
           "fob-au.com",
@@ -137009,6 +137014,8 @@
           "m339.info",
           "magnitudeconsults.com",
           "magnumiserviceslp.com",
+          "mail-sanly.filecenter.online",
+          "mail-sanly.filereader.online",
           "mailboxarea.cloud",
           "mailboxdownload.com",
           "mailkeyboard.com",
@@ -137130,6 +137137,7 @@
           "141.98.82.198:9942",
           "172.86.75.237:443",
           "185.122.171.22:8082",
+          "185.62.57.219:10443",
           "193.124.203.226:9942",
           "65.38.120.38:443",
           "65.38.121.107:8000",
@@ -137166,7 +137174,7 @@
         ],
         "apt_group": "SILENTLYNX",
         "filename": "apt_silentlynx.txt",
-        "last_modified": "2026-02-25T13:27:08+02:00",
+        "last_modified": "2026-03-16T19:45:13+02:00",
         "references": [
           "https://x.com/StrikeReadyLabs/status/1877839055716581634",
           "https://x.com/virusbtn/status/1882771331726647421",
@@ -137184,17 +137192,20 @@
           "https://www.group-ib.com/blog/shadowsilk/",
           "https://x.com/ElementalX2/status/1985340834217173061",
           "https://www.seqrite.com/blog/operation-peek-a-baku-silent-lynx-apt-dushanbe-espionage/",
-          "https://www.vmray.com/hydra-saiga-covert-espionage-and-infiltration-of-critical-utilities/"
+          "https://www.vmray.com/hydra-saiga-covert-espionage-and-infiltration-of-critical-utilities/",
+          "https://x.com/SinghSoodeep/status/2033590183929721308",
+          "https://x.com/ElementalX2/status/2033593705735852115",
+          "https://www.virustotal.com/gui/file/a146e914560229a3389589acaee42cbcd37504731f8c7ba17676678db0547fed/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 247,
+          "domain": 251,
           "file_path": 1,
-          "ipv4": 20,
+          "ipv4": 21,
           "url": 9
         },
-        "total": 277
+        "total": 282
       }
     },
     "SIMBAA": {
