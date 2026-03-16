@@ -101438,6 +101438,7 @@
           "naver.belieview.com",
           "naver.bnene.com",
           "naver.callsvcauction.online",
+          "naver.casepractice.com",
           "naver.check-youtube.info",
           "naver.chickenkiller.com",
           "naver.cloudfiles.epizy.com",
@@ -101459,6 +101460,7 @@
           "naver.com.se",
           "naver.com3.top",
           "naver.company.09614082-c6ef-4ddd-9ebd-f25cf423492f.suporte.n-e.kr",
+          "naver.corporateadworld.com",
           "naver.crabdance.com",
           "naver.cx",
           "naver.desaindigital.com",
@@ -101567,6 +101569,7 @@
           "naver.srl",
           "naver.taxagent.site",
           "naver.taxhome.world",
+          "naver.techartsserver.com",
           "naver.technoreform.com",
           "naver.twilightparadox.com",
           "naver.unibok.kr",
@@ -103478,6 +103481,7 @@
           "nid.naver-active.online",
           "nid.naver-check.com",
           "nid.naver.adworldlog.com",
+          "nid.naver.casepractice.com",
           "nid.naver.chickenkiller.com",
           "nid.naver.com-user.pw",
           "nid.naver.com.ng",
@@ -103486,6 +103490,7 @@
           "nid.naver.com.se",
           "nid.naver.company.09614082-c6ef-4ddd-9ebd-f25cf423492f.suporte.n-e.kr",
           "nid.naver.corper.be",
+          "nid.naver.corporateadworld.com",
           "nid.naver.courter.com",
           "nid.naver.crabdance.com",
           "nid.naver.desaindigital.com",
@@ -103505,6 +103510,7 @@
           "nid.naver.seclogistic.com",
           "nid.naver.serverpit.com",
           "nid.naver.spottt.com",
+          "nid.naver.techartsserver.com",
           "nid.naver.technoreform.com",
           "nid.naver.twilightparadox.com",
           "nid.naver.unibok.kr",
@@ -110564,7 +110570,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-16T13:26:59+02:00",
+        "last_modified": "2026-03-16T16:05:16+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -112064,17 +112070,18 @@
           "https://tria.ge/260314-jtdlgsaz8v/behavioral1",
           "https://x.com/skocherhan/status/2032602147548696890",
           "https://x.com/skocherhan/status/2032603246888427844",
-          "https://x.com/skocherhan/status/2033300800399888682"
+          "https://x.com/skocherhan/status/2033300800399888682",
+          "https://x.com/skocherhan/status/2033295431657025869"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 17154,
+          "domain": 17160,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 17575
+        "total": 17581
       }
     },
     "KUN3": {
@@ -114161,6 +114168,7 @@
           "main-8i4.pages.dev",
           "main-aptitudespro.pages.dev",
           "main-az8.pages.dev",
+          "malicanbur.pro",
           "manchestercity.work.gd",
           "mante.li",
           "mantis-gewa.technisat-digital.de",
@@ -116511,6 +116519,7 @@
           "173.211.106.101:1244",
           "173.211.106.101:1245",
           "173.211.106.164:1244",
+          "173.211.46.22:8080",
           "173.211.46.37:8080",
           "173.211.70.210:8080",
           "173.211.70.246:8080",
@@ -116988,7 +116997,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-03-13T14:33:55+02:00",
+        "last_modified": "2026-03-16T16:54:05+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -118169,17 +118178,19 @@
           "https://x.com/RedDrip7/status/2029459268626465203",
           "https://www.virustotal.com/gui/file/a897fb39d3e62c760d998511913785e30bfb703caf89af13a80cb1b18e83dfd9/detection",
           "https://www.microsoft.com/en-us/security/blog/2026/03/11/contagious-interview-malware-delivered-through-fake-developer-job-interviews/",
-          "https://www.virustotal.com/gui/ip-address/91.197.243.143/relations"
+          "https://www.virustotal.com/gui/ip-address/91.197.243.143/relations",
+          "https://kmsec.uk/blog/pylangghost-npm/",
+          "https://www.virustotal.com/gui/file/0be2375362227f846c56c4de2db4d3113e197f0c605c297a7e0e0c154e94464e/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3467,
+          "domain": 3468,
           "file_path": 478,
-          "ipv4": 530,
+          "ipv4": 531,
           "url": 102
         },
-        "total": 4577
+        "total": 4579
       }
     },
     "LAZYSCRIPTER": {
