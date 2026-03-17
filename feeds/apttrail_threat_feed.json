@@ -103186,6 +103186,7 @@
           "nid-navercbys.servegame.com",
           "nid-navercdt.serveftp.com",
           "nid-navercorp.myvnc.com",
+          "nid-navercsv.servehalflife.com",
           "nid-naverctl.ddnsking.com",
           "nid-navercwv.servegame.com",
           "nid-naverczg.3utilities.com",
@@ -103207,6 +103208,7 @@
           "nid-naverezx.servecounterstrike.com",
           "nid-naverfaf.myvnc.com",
           "nid-naverfaq.onthewifi.com",
+          "nid-naverfbr.servecounterstrike.com",
           "nid-naverfez.ddnsking.com",
           "nid-naverfnx.ddnsking.com",
           "nid-naverfoq.ddnsking.com",
@@ -103316,6 +103318,7 @@
           "nid-naverumh.onthewifi.com",
           "nid-naveruml.servecounterstrike.com",
           "nid-naveruok.servequake.com",
+          "nid-naverupi.ddnsking.com",
           "nid-naverupt.servequake.com",
           "nid-naverurd.servemp3.com",
           "nid-naveruta.servequake.com",
@@ -103330,6 +103333,7 @@
           "nid-navervxu.servecounterstrike.com",
           "nid-naverway.ddnsking.com",
           "nid-naverwhf.3utilities.com",
+          "nid-naverwml.servequake.com",
           "nid-naverwoe.myvnc.com",
           "nid-naverwrg.ddnsking.com",
           "nid-naverwrn.serveftp.com",
@@ -110570,7 +110574,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-16T16:05:16+02:00",
+        "last_modified": "2026-03-17T11:19:00+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -112076,12 +112080,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 17160,
+          "domain": 17164,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 17581
+        "total": 17585
       }
     },
     "KUN3": {
