@@ -133289,8 +133289,10 @@
           "gov.pk.mail-pk.org",
           "gov.pk.modp-pk.org",
           "gov.pk.officemuwork.online",
+          "gov.pk.onev.online",
           "gov.pk.pk-mail.org",
           "gov.pk.viewdoc.online",
+          "gov.qrpk.info",
           "gov.za.mail-pk.org",
           "gov1-lk.com",
           "govaf.org",
@@ -135027,6 +135029,7 @@
           "qakt3.pmreco.xyz",
           "qhacgeao.pmdu-gov.org",
           "qq.mailcloucl.com",
+          "qrpk.info",
           "qrrl.net",
           "quickhelpsolve.com",
           "quran-books.store",
@@ -135400,6 +135403,7 @@
           "visa.nadra.gov.pk.com-e-visa.online",
           "visa.nadra.gov.pk.pakvisa.online",
           "visa.nadra.gov.pk.rdpip.com",
+          "visa.nadra.gov.qrpk.info",
           "visa.nadra.gove.pw",
           "visa.nadra.gvo-pk.cc",
           "vistavue.shop",
@@ -135713,7 +135717,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-03-16T19:20:30+02:00",
+        "last_modified": "2026-03-17T10:21:33+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -136757,12 +136761,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3440,
+          "domain": 3444,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3532
+        "total": 3536
       }
     },
     "SILENCE": {
