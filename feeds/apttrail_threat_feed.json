@@ -100462,6 +100462,7 @@
           "mld.edoc.file.nts-kkk.dynv6.net",
           "mld.mmm.mmm.mmm.mew-edoc.dynv6.net",
           "mld.mmm.mmm.mmm.mmm.edoc-otp.dynv6.net",
+          "mld.nts-multi.dynv6.net",
           "mlkboapiejqlznxvs.site",
           "mlodkf.online",
           "mlogin.p-e.kr",
@@ -103459,6 +103460,7 @@
           "nid-navercorp.myvnc.com",
           "nid-navercsv.servehalflife.com",
           "nid-naverctl.ddnsking.com",
+          "nid-navercwu.servecounterstrike.com",
           "nid-navercwv.servegame.com",
           "nid-naverczg.3utilities.com",
           "nid-naverdct.myvnc.com",
@@ -103484,6 +103486,7 @@
           "nid-naverfnx.ddnsking.com",
           "nid-naverfoq.ddnsking.com",
           "nid-naverggi.3utilities.com",
+          "nid-navergip.onthewifi.com",
           "nid-navergkn.serveftp.com",
           "nid-navergup.servecounterstrike.com",
           "nid-naverguv.servequake.com",
@@ -103522,6 +103525,7 @@
           "nid-navermfn.servepics.com",
           "nid-navermid.serveftp.com",
           "nid-navermly.servegame.com",
+          "nid-navermpg.3utilities.com",
           "nid-navermrs.servecounterstrike.com",
           "nid-navernja.myvnc.com",
           "nid-navernlj.servegame.com",
@@ -103579,6 +103583,7 @@
           "nid-navertgo.ddnsking.com",
           "nid-navertht.ddnsking.com",
           "nid-navertir.onthewifi.com",
+          "nid-navertnx.ddnsking.com",
           "nid-naverttk.servehalflife.com",
           "nid-navertuv.servegame.com",
           "nid-navertyh.servepics.com",
@@ -104143,6 +104148,7 @@
           "nids.anav.ntxhosts.dns.army",
           "nids.bnav.ntxhosts.dns.army",
           "nids.cn.nioipsde.dns.army",
+          "nids.cn.ntsspic.dynv6.net",
           "nids.contem.bz",
           "nids.discoveriner.sbs",
           "nids.dnav.ntxhosts.dns.army",
@@ -105473,6 +105479,7 @@
           "nts-msgs.space",
           "nts-msgs.store",
           "nts-msgs.website",
+          "nts-multi.dynv6.net",
           "nts-ncorp.live-on.net",
           "nts-ncorp.mydns.vc",
           "nts-new.website",
@@ -105872,6 +105879,7 @@
           "ntssign.cloud",
           "ntssign.site",
           "ntssign.space",
+          "ntsspic.dynv6.net",
           "ntssys.site",
           "ntstask.site",
           "ntstax-go.mydns.jp",
@@ -110956,7 +110964,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-18T11:33:38+02:00",
+        "last_modified": "2026-03-18T12:23:17+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -112465,12 +112473,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 17545,
+          "domain": 17553,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 17966
+        "total": 17974
       }
     },
     "KUN3": {
