@@ -95925,6 +95925,7 @@
           "dns-info.nps-kr.server-on.net",
           "dns-info.ntax.keyword-on.net",
           "dns-info.ntsbiling.server-on.net",
+          "dns-sign.www.nid-mail.o-r.kr",
           "dns.checkstep.o-r.kr",
           "dns.cjlogistics.kro.kr",
           "dns.cloud.check-info.o-r.kr",
@@ -103410,6 +103411,7 @@
           "nid-login.police-notice.dns.army",
           "nid-login.unts-corp.dynv6.net",
           "nid-logins.dynv6.net",
+          "nid-mail.o-r.kr",
           "nid-mail.pe.hu",
           "nid-mailnav.ddnsking.com",
           "nid-management-team.890m.com",
@@ -110964,7 +110966,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-18T12:23:17+02:00",
+        "last_modified": "2026-03-18T23:06:44+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -112468,17 +112470,18 @@
           "https://x.com/skocherhan/status/2033295431657025869",
           "https://x.com/skocherhan/status/2033638998049202393",
           "https://x.com/skocherhan/status/2034121930001826258",
-          "https://x.com/skocherhan/status/2033994044393627913"
+          "https://x.com/skocherhan/status/2033994044393627913",
+          "https://x.com/skocherhan/status/2034368941468889253"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 17553,
+          "domain": 17555,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 17974
+        "total": 17976
       }
     },
     "KUN3": {
