@@ -20660,6 +20660,7 @@
           "private-chat.site",
           "privatechat.life",
           "products.windowslive.pics",
+          "programgreedz.info",
           "programseeget.info",
           "pvtchat.live",
           "pvtchat.online",
@@ -21232,7 +21233,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2026-03-14T00:29:13+02:00",
+        "last_modified": "2026-03-18T09:58:06+02:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -21891,12 +21892,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 734,
+          "domain": 735,
           "file_path": 252,
           "ipv4": 47,
           "url": 4
         },
-        "total": 1037
+        "total": 1038
       }
     },
     "DOWNEX": {
@@ -115134,6 +115135,7 @@
           "secure.greendtb.com",
           "secure.paycount.webbs-information.login.udaviemayas.com",
           "secureshares.online",
+          "selfhonda.com",
           "selinicapital.online",
           "selinicapital.xyz",
           "sellinicapital.com",
@@ -116556,6 +116558,7 @@
           "zndance.com/shop/post.asp"
         ],
         "ipv4": [
+          "100.51.175.254:8080",
           "103.106.67.63:1244",
           "103.106.67.63:1245",
           "103.106.67.63:1247",
@@ -116692,6 +116695,7 @@
           "144.172.97.7:1224",
           "144.172.97.7:1245",
           "145.59.1.45:1244",
+          "146.103.99.12:8080",
           "146.70.253.107:1224",
           "146.70.253.107:1245",
           "146.70.41.188:1224",
@@ -116753,6 +116757,7 @@
           "167.88.39.141:5000",
           "167.88.39.55:3000",
           "167.88.39.55:4000",
+          "167.88.63.91:8080",
           "171.22.127.221:5000",
           "171.22.127.221:8000",
           "172.81.132.41:443",
@@ -116815,9 +116820,11 @@
           "185.163.125.196:3000",
           "185.163.125.196:5000",
           "185.164.111.104:3000",
+          "185.177.127.27:8080",
           "185.208.158.203:5555",
           "185.208.158.203:8080",
           "185.208.158.204:443",
+          "185.213.22.215:8080",
           "185.228.83.32:443",
           "185.235.241.208:1224",
           "185.235.241.208:1244",
@@ -116927,11 +116934,13 @@
           "26.165.218.44:2248",
           "27.102.118.204:6099",
           "27.102.128.152:8098",
+          "3.125.137.101:8080",
           "31.220.48.106:3000",
           "31.220.62.190:3000",
           "31.57.243.190:8080",
           "31.57.243.29:8080",
           "31.57.243.55:8080",
+          "31.57.35.114:8080",
           "31.97.211.52:3000",
           "31.97.218.133:6168",
           "35.188.212.32:3000",
@@ -116995,6 +117004,7 @@
           "45.61.169.99:3000",
           "45.76.154.181:3000",
           "45.8.146.93:443",
+          "45.81.243.71:8080",
           "45.83.140.55:1244",
           "47.206.4.145:59067",
           "5.135.5.48:1244",
@@ -117003,6 +117013,7 @@
           "51.77.65.154:443",
           "52.187.130.188:3000",
           "52.202.193.124:443",
+          "52.58.193.70:8080",
           "54.146.239.83:8080",
           "61.139.89.11:9999",
           "63.176.219.134:8080",
@@ -117290,7 +117301,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-03-18T09:45:25+02:00",
+        "last_modified": "2026-03-18T10:35:22+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -118475,17 +118486,20 @@
           "https://kmsec.uk/blog/pylangghost-npm/",
           "https://www.virustotal.com/gui/file/0be2375362227f846c56c4de2db4d3113e197f0c605c297a7e0e0c154e94464e/detection",
           "https://intel.breakglass.tech/post/lazarus-group-is-using-the-solana-blockchain-as-a-dead-drop-c2-channel-and-nobody-noticed-for-4-months",
-          "https://www.virustotal.com/gui/file/1e6487b7fbb9a0ff4c1d7032bfecd153fa6b9cc3c523243e8183588a98168267/detection"
+          "https://www.virustotal.com/gui/file/1e6487b7fbb9a0ff4c1d7032bfecd153fa6b9cc3c523243e8183588a98168267/detection",
+          "https://x.com/L0Psec/status/2034002954949128237",
+          "https://x.com/L0Psec/status/2034002958946337065",
+          "https://www.virustotal.com/gui/file/1540cbb8eac28dab396cbd95445bc936d4114a0c2bcc48ffe9630896df09a8a1/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3494,
+          "domain": 3495,
           "file_path": 478,
-          "ipv4": 545,
+          "ipv4": 554,
           "url": 107
         },
-        "total": 4624
+        "total": 4634
       }
     },
     "LAZYSCRIPTER": {
