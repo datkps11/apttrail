@@ -122620,8 +122620,17 @@
           "154.90.32.88:8043",
           "157.20.182.49:1269",
           "157.20.182.49:8000",
+          "157.20.182.75:1259",
           "157.20.182.75:1269",
           "159.198.36.115:4444",
+          "159.198.66.153:8000",
+          "159.198.66.153:8080",
+          "159.198.66.153:8081",
+          "159.198.66.153:8082",
+          "159.198.66.153:8443",
+          "159.198.66.153:8888",
+          "159.198.68.25:443",
+          "159.198.68.25:8080",
           "164.132.237.64:22",
           "164.132.237.65:22",
           "164.132.237.66:22",
@@ -122813,7 +122822,7 @@
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2026-03-05T13:59:43+02:00",
+        "last_modified": "2026-03-18T15:22:28+02:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
@@ -123025,6 +123034,7 @@
           "https://hunt.io/blog/apt-muddywater-deploys-multi-stage-phishing-to-target-cfos",
           "https://x.com/blackorbird/status/1989745708174643682",
           "https://mp.weixin.qq.com/s/BHyqfnMMMAvDDX_LZVubyA",
+          "https://unit42.paloaltonetworks.com/boggy-serpens-threat-assessment/",
           "https://x.com/MalGamy12/status/1990764630625698158",
           "https://www.virustotal.com/gui/file/0c8071494bc155c96f2cee998200f63efffcb5a064c021de0925504271806229/detection",
           "https://www.virustotal.com/gui/file/2fb21fa13c308228ae89c000cc1f9aa488cb010478ba8d15de372a0fbf37f1fb/detection",
@@ -123050,10 +123060,10 @@
         "by_type": {
           "domain": 178,
           "file_path": 187,
-          "ipv4": 97,
+          "ipv4": 106,
           "url": 111
         },
-        "total": 573
+        "total": 582
       }
     },
     "MURENSHARK": {
