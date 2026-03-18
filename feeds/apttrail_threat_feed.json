@@ -153437,6 +153437,36 @@
         "total": 2
       }
     },
+    "UNC6353": {
+      "indicators": {
+        "domain": [
+          "cdn.cdncounter.net",
+          "cdn.uacounter.com",
+          "cdncounter.net",
+          "count.cdncounter.net",
+          "sqwas.shapelie.com",
+          "static.cdncounter.net",
+          "uacounter.com"
+        ]
+      },
+      "metadata": {
+        "aliases": [
+          "darksword"
+        ],
+        "apt_group": "UNC6353",
+        "filename": "apt_unc6353.txt",
+        "last_modified": "2026-03-18T20:50:24+02:00",
+        "references": [
+          "https://www.lookout.com/threat-intelligence/article/darksword"
+        ]
+      },
+      "statistics": {
+        "by_type": {
+          "domain": 7
+        },
+        "total": 7
+      }
+    },
     "UNC6691": {
       "indicators": {
         "domain": [
@@ -158467,5 +158497,5 @@
     }
   },
   "source": "Maltrail APT Indicators",
-  "total_apt_groups": 336
+  "total_apt_groups": 337
 }

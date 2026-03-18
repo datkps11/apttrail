@@ -13524,6 +13524,30 @@ rule APT_UNC6293
         any of ($domain*, $ip*, $url*)
 }
 
+rule APT_UNC6353
+{
+    meta:
+        description = "Detects IOCs associated with APT UNC6353"
+        author = "APTtrail Automated Collection"
+        apt_group = "UNC6353"
+        aliases = "darksword"
+        reference = "https://www.lookout.com/threat-intelligence/article/darksword"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "cdn\.cdncounter\.net" ascii wide nocase
+        $domain1 = "cdn\.uacounter\.com" ascii wide nocase
+        $domain2 = "cdncounter\.net" ascii wide nocase
+        $domain3 = "count\.cdncounter\.net" ascii wide nocase
+        $domain4 = "sqwas\.shapelie\.com" ascii wide nocase
+        $domain5 = "static\.cdncounter\.net" ascii wide nocase
+        $domain6 = "uacounter\.com" ascii wide nocase
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
+}
+
 rule APT_UNC6691
 {
     meta:
