@@ -95651,6 +95651,7 @@
           "daum.unikortv.com",
           "daumabt.onthewifi.com",
           "daumalert.r-e.kr",
+          "daumbdu.viewdns.net",
           "daumblog.eu",
           "daumcdnkakao.ntscheck.info",
           "daumcdnkakao.ntsxhome.space",
@@ -102057,6 +102058,7 @@
           "naverlogin.esy.es",
           "naverlogs.r-e.kr",
           "naverlsi.ddnsking.com",
+          "naverlvp.servegame.com",
           "navermail-login.vercel.app",
           "navermail.callsvcauction.online",
           "navermail.center",
@@ -102122,6 +102124,7 @@
           "naverotnredirect.online",
           "naverovocorp.site",
           "naverovvcorp.tech",
+          "naverpaa.servehalflife.com",
           "naverpayment.com",
           "naverpayments.com",
           "naverpaymentz.com",
@@ -103443,6 +103446,7 @@
           "nid-navcorpsec.onthewifi.com",
           "nid-nave3.myvnc.com",
           "nid-naveersec.ddnsking.com",
+          "nid-naver-login.com",
           "nid-naver.blogg.host",
           "nid-naver.date",
           "nid-naver.ddnsking.com",
@@ -103471,6 +103475,7 @@
           "nid-navercau.myvnc.com",
           "nid-navercbys.servegame.com",
           "nid-navercdt.serveftp.com",
+          "nid-naverchr.serveftp.com",
           "nid-navercorp.myvnc.com",
           "nid-navercsv.servehalflife.com",
           "nid-naverctl.ddnsking.com",
@@ -103480,12 +103485,15 @@
           "nid-naverdct.myvnc.com",
           "nid-naverdff.3utilities.com",
           "nid-naverdgl.onthewifi.com",
+          "nid-naverdlm.servegame.com",
+          "nid-naverdmv.servehalflife.com",
           "nid-naverdqp.servequake.com",
           "nid-naverdqw.servequake.com",
           "nid-naverdqy.3utilities.com",
           "nid-naverdsf.servecounterstrike.com",
           "nid-naverdsm.servecounterstrike.com",
           "nid-naverduq.servegame.com",
+          "nid-naverecj.ddnsking.com",
           "nid-naveredh.servecounterstrike.com",
           "nid-naverekt.servecounterstrike.com",
           "nid-navereqp.servegame.com",
@@ -110983,7 +110991,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-19T10:25:10+02:00",
+        "last_modified": "2026-03-19T17:41:50+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -112490,17 +112498,18 @@
           "https://x.com/skocherhan/status/2033994044393627913",
           "https://x.com/skocherhan/status/2034368941468889253",
           "https://x.com/skocherhan/status/2034374861640884723",
-          "https://x.com/skocherhan/status/2034366890043126077"
+          "https://x.com/skocherhan/status/2034366890043126077",
+          "https://x.com/skocherhan/status/2034373020215607498"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 17565,
+          "domain": 17573,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 17986
+        "total": 17994
       }
     },
     "KUN3": {
