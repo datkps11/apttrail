@@ -117070,6 +117070,7 @@
           "217.69.11.60:5000",
           "217.69.11.60:8080",
           "217.69.11.99:5000",
+          "217.69.3.152:10000",
           "218.255.24.226:443",
           "23.106.253.194:1244",
           "23.106.253.209:1244",
@@ -117347,6 +117348,7 @@
           "http://217.69.0.159",
           "http://217.69.11.60",
           "http://217.69.11.99",
+          "http://217.69.3.152",
           "http://23.127.202.249",
           "http://23.227.202.242",
           "http://23.254.164.156",
@@ -117474,7 +117476,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-03-19T12:12:21+02:00",
+        "last_modified": "2026-03-19T15:04:51+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -118662,17 +118664,18 @@
           "https://www.virustotal.com/gui/file/1e6487b7fbb9a0ff4c1d7032bfecd153fa6b9cc3c523243e8183588a98168267/detection",
           "https://x.com/L0Psec/status/2034002954949128237",
           "https://x.com/L0Psec/status/2034002958946337065",
-          "https://www.virustotal.com/gui/file/1540cbb8eac28dab396cbd95445bc936d4114a0c2bcc48ffe9630896df09a8a1/detection"
+          "https://www.virustotal.com/gui/file/1540cbb8eac28dab396cbd95445bc936d4114a0c2bcc48ffe9630896df09a8a1/detection",
+          "https://www.aikido.dev/blog/glassworm-chrome-extension-rat"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 3497,
           "file_path": 478,
-          "ipv4": 555,
-          "url": 107
+          "ipv4": 556,
+          "url": 108
         },
-        "total": 4637
+        "total": 4639
       }
     },
     "LAZYSCRIPTER": {
