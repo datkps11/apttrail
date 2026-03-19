@@ -132936,6 +132936,7 @@
           "bol-north.com",
           "bol-south.com",
           "bol-south.org",
+          "bold-bonus-1d3b.malik-jaani786.workers.dev",
           "bookutrips.com",
           "bop.pkgov.org",
           "botcel.info",
@@ -136201,7 +136202,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-03-19T10:05:23+02:00",
+        "last_modified": "2026-03-19T16:39:58+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -137241,17 +137242,18 @@
           "https://x.com/volrant136/status/2032833539201540166",
           "https://x.com/volrant136/status/2033226839788060973",
           "https://x.com/volrant136/status/2033574016154226898",
-          "https://x.com/FatzQatz/status/2034236872076231108"
+          "https://x.com/FatzQatz/status/2034236872076231108",
+          "https://x.com/volrant136/status/2034639901853970679"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3461,
+          "domain": 3462,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3553
+        "total": 3554
       }
     },
     "SILENCE": {
