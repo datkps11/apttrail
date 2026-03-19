@@ -10562,6 +10562,9 @@
           "zoomweb.uswe05.us",
           "zoonn-platform.com"
         ],
+        "file_path": [
+          "ecoferros.com/wp-content/plugins/elementor/core/page-assets/captcha/controller.php"
+        ],
         "ipv4": [
           "104.168.145.52:8080",
           "104.168.151.70:8080",
@@ -10600,7 +10603,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-02-26T16:45:43+02:00",
+        "last_modified": "2026-03-19T10:11:12+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -10743,16 +10746,20 @@
           "https://x.com/JohnHultquist/status/2020952923082195374",
           "https://x.com/silentpush/status/2021453755808731140",
           "https://www.virustotal.com/gui/ip-address/134.45.83.95/relations",
-          "https://cloud.google.com/blog/topics/threat-intelligence/unc1069-targets-cryptocurrency-ai-social-engineering?e=48754805"
+          "https://cloud.google.com/blog/topics/threat-intelligence/unc1069-targets-cryptocurrency-ai-social-engineering?e=48754805",
+          "https://x.com/L0Psec/status/2034379795635548484",
+          "https://www.virustotal.com/gui/file/61b56c8c2df374861c8b23e6c555456f34e17e5638ea9965f721c3ffe77f57ca/detection",
+          "https://www.virustotal.com/gui/file/9526d8b337a176a76d960867b281bba06310e3ef58056904591c510e51d90839/detection"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 1294,
+          "file_path": 1,
           "ipv4": 14,
           "url": 3
         },
-        "total": 1311
+        "total": 1312
       }
     },
     "BLUEPRINT": {
@@ -98850,6 +98857,7 @@
           "join41s.dynv6.net",
           "join44s.dynv6.net",
           "join49s.dynv6.net",
+          "join54s.dynv6.net",
           "join78s.dynv6.net",
           "join86s.dynv6.net",
           "join93s.dynv6.net",
@@ -100736,9 +100744,11 @@
           "myblog14s.dynv6.net",
           "myblog16s.dynv6.net",
           "myblog24s.dynv6.net",
+          "myblog2s.dynv6.net",
           "myblog40s.dynv6.net",
           "myblog49s.dynv6.net",
           "myblog57s.dynv6.net",
+          "myblog78s.dynv6.net",
           "myblog7s.dynv6.net",
           "myblog87s.dynv6.net",
           "myblog91s.dynv6.net",
@@ -102130,6 +102140,7 @@
           "naverpwd.xyz",
           "naverquery.com",
           "naverquery.host",
+          "naverr.email",
           "naverramblecompany.online",
           "naverramblered.online",
           "naverrambleredi.online",
@@ -102813,6 +102824,7 @@
           "ndocgverify.dns.army",
           "ndochpass.dns.army",
           "ndociverify.dns.army",
+          "ndockverify.dns.army",
           "ndocnpass.dns.army",
           "ndocopass.dns.army",
           "ndocpass.dns.army",
@@ -103524,6 +103536,7 @@
           "nid-navermails.servegame.com",
           "nid-navermbi.servemp3.com",
           "nid-navermdh.ddnsking.com",
+          "nid-navermdh.servegame.com",
           "nid-navermfn.servepics.com",
           "nid-navermid.serveftp.com",
           "nid-navermly.servegame.com",
@@ -103543,6 +103556,7 @@
           "nid-naveroar.servemp3.com",
           "nid-naverohn.3utilities.com",
           "nid-naveroic.servequake.com",
+          "nid-naveroon.serveftp.com",
           "nid-naverosa.servecounterstrike.com",
           "nid-naveroty.serveftp.com",
           "nid-naveroup.servepics.com",
@@ -104890,6 +104904,7 @@
           "npmsvcmailchk.site",
           "npnote.site",
           "nportalonline.mydns.vc",
+          "npost-dns.com",
           "npower.o-r.kr",
           "npresscorp.store",
           "nprofi1e.kro.kr",
@@ -106352,6 +106367,7 @@
           "online.lecture-site.kro.kr",
           "online.receivdocs.n-e.kr",
           "online.viewers.r-e.kr",
+          "online98s.dynv6.net",
           "onlineactiverequest.store",
           "onlineblogid.o-r.kr",
           "onlineboxa.click",
@@ -107534,6 +107550,7 @@
           "sdoprio.lol",
           "se23rftresesrrer.cfd",
           "seamon.kro.kr",
+          "search38s.dynv6.net",
           "seasonta.click",
           "sebaliarcomsecurity.store",
           "sec-center.nl",
@@ -110966,7 +110983,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-18T23:06:44+02:00",
+        "last_modified": "2026-03-19T10:25:10+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -112471,17 +112488,19 @@
           "https://x.com/skocherhan/status/2033638998049202393",
           "https://x.com/skocherhan/status/2034121930001826258",
           "https://x.com/skocherhan/status/2033994044393627913",
-          "https://x.com/skocherhan/status/2034368941468889253"
+          "https://x.com/skocherhan/status/2034368941468889253",
+          "https://x.com/skocherhan/status/2034374861640884723",
+          "https://x.com/skocherhan/status/2034366890043126077"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 17555,
+          "domain": 17565,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 17976
+        "total": 17986
       }
     },
     "KUN3": {
@@ -115888,6 +115907,7 @@
           "vercel-site-r50pzdsjo.vercel.sh",
           "vercel-site.vercel.sh",
           "vercel-tmdb-wangsy1007s-projects.vercel.app",
+          "vereoy.pages.dev",
           "verification-blockfi.com",
           "verify.azure-protect.online",
           "verifydocument.online",
@@ -117126,6 +117146,7 @@
           "45.59.160.166:1244",
           "45.59.160.199:1244",
           "45.59.160.210:1244",
+          "45.59.160.211:1244",
           "45.59.163.23:1244",
           "45.59.163.55:1244",
           "45.59.163.56:1244",
@@ -117452,7 +117473,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-03-18T10:35:22+02:00",
+        "last_modified": "2026-03-19T09:51:47+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -118645,12 +118666,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3495,
+          "domain": 3496,
           "file_path": 478,
-          "ipv4": 554,
+          "ipv4": 555,
           "url": 107
         },
-        "total": 4634
+        "total": 4636
       }
     },
     "LAZYSCRIPTER": {
@@ -135264,6 +135285,7 @@
           "pk-hqr.online",
           "pk-ht.pk",
           "pk-mail.org",
+          "pk-o.xyz",
           "pk-post.top",
           "pk-soft.online",
           "pk.1.modp-pk.org",
@@ -135851,6 +135873,7 @@
           "visa.nadra.gov-pak.com",
           "visa.nadra.gov-pk.info",
           "visa.nadra.gov.pk-ev.online",
+          "visa.nadra.gov.pk-o.xyz",
           "visa.nadra.gov.pk.com-e-visa.online",
           "visa.nadra.gov.pk.pakvisa.online",
           "visa.nadra.gov.pk.rdpip.com",
@@ -136174,7 +136197,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-03-18T21:26:14+02:00",
+        "last_modified": "2026-03-19T10:05:23+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -137219,12 +137242,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3459,
+          "domain": 3461,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3551
+        "total": 3553
       }
     },
     "SILENCE": {
