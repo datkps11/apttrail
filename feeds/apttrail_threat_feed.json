@@ -113346,6 +113346,7 @@
           "blocknovas.talenthiringexpert.com",
           "blocknovasllc.com",
           "blockprices.io",
+          "blocktechtalent.com",
           "blocktestingto.com",
           "blog.br0vvnn.io",
           "blog.evalonboard.com",
@@ -117473,7 +117474,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-03-19T09:51:47+02:00",
+        "last_modified": "2026-03-19T12:12:21+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -118666,12 +118667,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3496,
+          "domain": 3497,
           "file_path": 478,
           "ipv4": 555,
           "url": 107
         },
-        "total": 4636
+        "total": 4637
       }
     },
     "LAZYSCRIPTER": {
