@@ -153483,13 +153483,20 @@
     "UNC6353": {
       "indicators": {
         "domain": [
+          "afewminago.site",
           "cdn.cdncounter.net",
           "cdn.uacounter.com",
           "cdncounter.net",
           "count.cdncounter.net",
+          "downdown.online",
+          "nuceciwa138.xyz",
+          "rhdcnwjnwf.site",
+          "shkaacloud.ink",
           "sqwas.shapelie.com",
           "static.cdncounter.net",
-          "uacounter.com"
+          "touch-n-go.online",
+          "uacounter.com",
+          "world-news.site"
         ]
       },
       "metadata": {
@@ -153498,16 +153505,17 @@
         ],
         "apt_group": "UNC6353",
         "filename": "apt_unc6353.txt",
-        "last_modified": "2026-03-18T20:50:24+02:00",
+        "last_modified": "2026-03-19T12:55:14+02:00",
         "references": [
-          "https://www.lookout.com/threat-intelligence/article/darksword"
+          "https://www.lookout.com/threat-intelligence/article/darksword",
+          "https://x.com/felixaime/status/2034580922742235351"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 7
+          "domain": 14
         },
-        "total": 7
+        "total": 14
       }
     },
     "UNC6691": {
