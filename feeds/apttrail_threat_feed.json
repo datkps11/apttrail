@@ -103151,6 +103151,7 @@
           "nevercorp.site",
           "nevercorp.tech",
           "neverrcorp.tech",
+          "neverserver.o-r.kr",
           "nevesvr.tech",
           "nevncorp.online",
           "nevns.site",
@@ -103619,6 +103620,7 @@
           "nid-naversvq.onthewifi.com",
           "nid-naversym.ddnsking.com",
           "nid-naversyy.ddnsking.com",
+          "nid-navertca.servehalflife.com",
           "nid-navertdm.servequake.com",
           "nid-navertgo.ddnsking.com",
           "nid-navertht.ddnsking.com",
@@ -107181,6 +107183,7 @@
           "recmaservice.store",
           "recommape.click",
           "recommcul.click",
+          "reconfirm.neverserver.o-r.kr",
           "reconfirm.redirectme.net",
           "reconlong.site",
           "recopack.click",
@@ -111014,7 +111017,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-19T18:20:07+02:00",
+        "last_modified": "2026-03-20T10:08:31+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -112528,12 +112531,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 17596,
+          "domain": 17599,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 18017
+        "total": 18020
       }
     },
     "KUN3": {
