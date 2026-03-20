@@ -113125,6 +113125,7 @@
           "app.stablehouses.info",
           "app.survicate.us",
           "app.toptiercrew.com",
+          "app.vereoy.com",
           "app.vervoe.org",
           "app.vervoe.us",
           "app.viasto.us",
@@ -115941,6 +115942,7 @@
           "vercel-site-r50pzdsjo.vercel.sh",
           "vercel-site.vercel.sh",
           "vercel-tmdb-wangsy1007s-projects.vercel.app",
+          "vereoy.com",
           "vereoy.pages.dev",
           "verification-blockfi.com",
           "verify.azure-protect.online",
@@ -117180,6 +117182,7 @@
           "45.43.11.248:1244",
           "45.59.160.166:1244",
           "45.59.160.199:1244",
+          "45.59.160.200:1244",
           "45.59.160.210:1244",
           "45.59.160.211:1244",
           "45.59.163.23:1244",
@@ -117509,7 +117512,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-03-19T15:04:51+02:00",
+        "last_modified": "2026-03-20T08:34:46+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -118703,12 +118706,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3497,
+          "domain": 3499,
           "file_path": 478,
-          "ipv4": 556,
+          "ipv4": 557,
           "url": 108
         },
-        "total": 4639
+        "total": 4642
       }
     },
     "LAZYSCRIPTER": {
