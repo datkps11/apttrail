@@ -103550,6 +103550,7 @@
           "nid-naverdct.myvnc.com",
           "nid-naverdff.3utilities.com",
           "nid-naverdgl.onthewifi.com",
+          "nid-naverdlm.servegame.co",
           "nid-naverdlm.servegame.com",
           "nid-naverdmv.servehalflife.com",
           "nid-naverdqp.servequake.com",
@@ -103615,6 +103616,7 @@
           "nid-navermly.servegame.com",
           "nid-navermpg.3utilities.com",
           "nid-navermrs.servecounterstrike.com",
+          "nid-navernet.onthewifi.com",
           "nid-navernja.myvnc.com",
           "nid-navernlj.servegame.com",
           "nid-navernmk.servemp3.com",
@@ -103629,6 +103631,7 @@
           "nid-naveroar.servemp3.com",
           "nid-naverohn.3utilities.com",
           "nid-naveroic.servequake.com",
+          "nid-naverolg.ddnsking.com",
           "nid-naveroon.serveftp.com",
           "nid-naverosa.servecounterstrike.com",
           "nid-naveroty.serveftp.com",
@@ -103641,6 +103644,7 @@
           "nid-naverpns.onthewifi.com",
           "nid-naverpog.ddnsking.com",
           "nid-naverpqw.onthewifi.com",
+          "nid-naverprf.serveftp.com",
           "nid-naverpvp.servequake.com",
           "nid-naverpxi.servegame.com",
           "nid-naverqcr.servepics.com",
@@ -103652,6 +103656,7 @@
           "nid-naverrez.serveftp.com",
           "nid-naverrfi.onthewifi.com",
           "nid-naverrtc.myvnc.com",
+          "nid-naversea.servequake.com",
           "nid-naversecmail.onthewifi.com",
           "nid-naversgg.ddnsking.com",
           "nid-naverslf.servegame.com",
@@ -103691,6 +103696,7 @@
           "nid-naveruva.3utilities.com",
           "nid-naveruvp.servegame.com",
           "nid-naveruyy.serveftp.com",
+          "nid-navervak.3utilities.com",
           "nid-navervan.onthewifi.com",
           "nid-navervei.serveftp.com",
           "nid-navervjb.myvnc.com",
@@ -111110,7 +111116,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-20T15:32:33+02:00",
+        "last_modified": "2026-03-21T00:57:45+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -112625,12 +112631,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 17692,
+          "domain": 17698,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 18113
+        "total": 18119
       }
     },
     "KUN3": {
