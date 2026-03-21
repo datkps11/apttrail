@@ -95826,6 +95826,7 @@
           "dinfo.invoicesendsvc.n-e.kr",
           "dingrahype.vercel.app",
           "diom2bolbooks.cloud",
+          "dipsd.dns.navy",
           "direct-million.online",
           "direct.n-cafe.cloud-ip.cc",
           "directdeliver.r-e.kr",
@@ -104106,6 +104107,7 @@
           "nidloes.cnav.ntxhosts.dns.army",
           "nidloes.dn.ipsnvlep.dns.army",
           "nidloes.dn.nioipsde.dns.army",
+          "nidloes.en.dipsd.dns.navy",
           "nidloes.ipsgtt.dns.army",
           "nidloes.ipsnoticed.dns.army",
           "nidloes.isget.dns.army",
@@ -104138,6 +104140,7 @@
           "nidlogins.bnav.ntxhosts.dns.army",
           "nidlogins.cn.gtopsed.dns.army",
           "nidlogins.cn.nnvesips.dns.army",
+          "nidlogins.cnav.polidcs.dns.navy",
           "nidlogins.contem.bz",
           "nidlogins.dn.nioipsde.dns.army",
           "nidlogins.dn.ntxals.dns.army",
@@ -104261,14 +104264,18 @@
           "nids-server.navors.innerdoc.v6.rocks",
           "nids-server.triatlonpacense.es",
           "nids.anav.ntxhosts.dns.army",
+          "nids.anav.poldocs.dns.navy",
           "nids.bnav.ntxhosts.dns.army",
           "nids.cn.nioipsde.dns.army",
           "nids.cn.ntsspic.dynv6.net",
+          "nids.cnav.poldocs.dns.navy",
           "nids.contem.bz",
           "nids.discoveriner.sbs",
+          "nids.dn.dipsd.dns.navy",
           "nids.dnav.ntxhosts.dns.army",
           "nids.dovmansec.cfd",
           "nids.edocsnavp.dynv6.net",
+          "nids.enav.poldocs.dns.navy",
           "nids.helpagencyall.site",
           "nids.htdcos.dns.army",
           "nids.ipscorped.dns.navy",
@@ -106923,6 +106930,7 @@
           "policy.webofknowledg.com",
           "policydocs.p-e.kr",
           "policyma.certuser.info",
+          "polidcs.dns.navy",
           "politetpa.click",
           "pollario.store",
           "polleag.click",
@@ -111131,7 +111139,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-21T09:44:47+02:00",
+        "last_modified": "2026-03-21T11:15:03+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -112647,12 +112655,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 17713,
+          "domain": 17721,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 18134
+        "total": 18142
       }
     },
     "KUN3": {
