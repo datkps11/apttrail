@@ -133280,6 +133280,7 @@
           "cabinet-gov-pk.dytt888.net",
           "cabinet-gov-pk.fetchdrive.org",
           "cabinet-gov-pk.ministry-pk.net",
+          "cabinet-gov-pk.mora-govpk.co",
           "cabinet-gov-pk.net-co.live",
           "cabinet.gov.bd.mofa-govtpk.net",
           "cabinet.gov.bd.pk-govt.com",
@@ -135149,6 +135150,7 @@
           "mopa.pk-govt.net",
           "mopf-gov-mm.direct888.net",
           "mopiler.top",
+          "mora-govpk.co",
           "mora.govpk.live",
           "mora.pdfadobe.com",
           "moragovt.net",
@@ -136514,7 +136516,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-03-19T16:39:58+02:00",
+        "last_modified": "2026-03-21T19:05:03+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -137555,17 +137557,18 @@
           "https://x.com/volrant136/status/2033226839788060973",
           "https://x.com/volrant136/status/2033574016154226898",
           "https://x.com/FatzQatz/status/2034236872076231108",
-          "https://x.com/volrant136/status/2034639901853970679"
+          "https://x.com/volrant136/status/2034639901853970679",
+          "https://x.com/volrant136/status/2035385952529522976"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3462,
+          "domain": 3464,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3554
+        "total": 3556
       }
     },
     "SILENCE": {
