@@ -114969,6 +114969,7 @@
           "mktrending.com",
           "mlischagori.pro",
           "mo-events.online",
+          "modelatelier.club",
           "momentumspace.top",
           "momls4ii.naveicoipa.tech",
           "momls4ii.naveicoipc.tech",
@@ -117762,7 +117763,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-03-20T15:38:51+02:00",
+        "last_modified": "2026-03-21T09:02:59+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -118957,12 +118958,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3500,
+          "domain": 3501,
           "file_path": 478,
           "ipv4": 557,
           "url": 108
         },
-        "total": 4643
+        "total": 4644
       }
     },
     "LAZYSCRIPTER": {
