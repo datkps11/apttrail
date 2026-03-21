@@ -138315,6 +138315,7 @@
           "ambcomission.com",
           "americanprogress-office365.com",
           "americanprogress-outlook.com",
+          "analyticemailmeter.com",
           "analyticsbar.org",
           "analyticsrequest.com",
           "analyticstest.net",
@@ -138568,6 +138569,7 @@
           "egypressoffice.com",
           "elaxo.org",
           "electionleaks.com",
+          "emailanalytics.com.ua",
           "emailloginerror.gq",
           "emailprovider.org",
           "emails-aol.com",
@@ -138655,8 +138657,10 @@
           "foreignreview.com",
           "forsvaret.co",
           "fountainrate.com",
+          "fraispei.com",
           "freefoodaid.com",
           "fsportal.net",
+          "ftp.fraispei.com",
           "ftp.password-google.com",
           "fubnt.com",
           "functiondiscovery.net",
@@ -138735,6 +138739,13 @@
           "hudsonorg-my-sharepoint.com",
           "hurriyet.org.uk",
           "hushmali.com",
+          "i.analyticemailmeter.com",
+          "i.emailanalytics.com.ua",
+          "i.mailnalysis.com",
+          "i.zimbra-metadata.com",
+          "i.zimbrasoft.com.ua",
+          "i.zimbrastat.com",
+          "i.zmailanalytics.com",
           "iacr-tcc.org",
           "iadb-online.com",
           "iboxmit.com",
@@ -138784,6 +138795,7 @@
           "ip113.ip-91-134-203.eu",
           "ipv6-microsoft.com",
           "iraqinews.info",
+          "istc-cloud.com",
           "istoreapple.com",
           "itune-app.com",
           "itunes-helper.net",
@@ -138903,6 +138915,7 @@
           "mailhost-ut.ee",
           "mailhost.university-tartu.info",
           "mailmil.ae",
+          "mailnalysis.com",
           "mailsettings-yandex.ru",
           "mailtransferservice.com",
           "majc.healthfloww.com",
@@ -139185,6 +139198,7 @@
           "privacy-yahooservice.com",
           "privacy-yandex.ru",
           "privacy.google-settings.com",
+          "pro.fraispei.com",
           "probenet.eu",
           "product-update.com",
           "profile-hotmail.com",
@@ -139376,6 +139390,7 @@
           "swvfy.noreplay-fca.com",
           "symantecsupport.org",
           "symanttec.org",
+          "synacorzimbra.nl",
           "syrianhrc.org",
           "sysanalyticweb.com",
           "systembeforeniceparent.com",
@@ -139396,6 +139411,7 @@
           "telemetry-network.com",
           "telsec.org",
           "test.chmail.in",
+          "test.fraispei.com",
           "testservice24.net",
           "testsnetcontrol.com",
           "thediplomat-press.com",
@@ -139605,6 +139621,10 @@
           "yovtube.co",
           "yuotubc.com",
           "zhblz.com",
+          "zimbra-metadata.com",
+          "zimbrasoft.com.ua",
+          "zimbrastat.com",
+          "zmailanalytics.com",
           "zoomailer.org",
           "zpfgr.com",
           "zxrgh.viouni.com"
@@ -139847,7 +139867,7 @@
         ],
         "apt_group": "SOFACY",
         "filename": "apt_sofacy.txt",
-        "last_modified": "2026-03-18T11:46:25+02:00",
+        "last_modified": "2026-03-21T19:42:21+02:00",
         "references": [
           "https://www.alienvault.com/open-threat-exchange/blog/from-russia-with-love-sofacy-sednit-apt28-is-in-town",
           "http://permalink.gmane.org/gmane.comp.security.ids.snort.emerging-sigs/22170",
@@ -140148,17 +140168,19 @@
           "https://www.virustotal.com/gui/file/506e7512c897514e9d312a1532d2e2949ec8ebd73f6ca52740fb5e3306f08843/detection",
           "https://x.com/LAB52io/status/2022281566513180933",
           "https://www.virustotal.com/gui/file/9097d9cf5e6659e869bf2edf766741b687e3d8570036d853c0ca59ae72f9e9fc/detection",
-          "https://ctrlaltintel.com/threat%20research/FancyBear/"
+          "https://ctrlaltintel.com/threat%20research/FancyBear/",
+          "https://x.com/TeamDreier/status/2035301205031719170",
+          "https://www.seqrite.com/blog/operation-ghostmail-zimbra-xss-russian-apt-ukraine/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1409,
+          "domain": 1429,
           "file_path": 78,
           "ipv4": 58,
           "url": 69
         },
-        "total": 1614
+        "total": 1634
       }
     },
     "SPACEPIRATES": {
