@@ -103184,6 +103184,7 @@
           "netdaily.store",
           "netdlink.store",
           "nete.p-e.kr",
+          "netelecviews33.dynv6.net",
           "netfray.store",
           "netgood.click",
           "netimeline.site",
@@ -107084,6 +107085,7 @@
           "publish.sendletters.site",
           "publishhostmap.shop",
           "pueg.hello0dns.kro.kr",
+          "pull16s.dynv6.net",
           "pulsewhip.today",
           "pumaria.store",
           "purchase-order-workers-playground-weathered-moon-6962.mslee.workers.dev",
@@ -107687,7 +107689,14 @@
           "sdoprio.lol",
           "se23rftresesrrer.cfd",
           "seamon.kro.kr",
+          "search1s.dynv6.net",
+          "search20s.dynv6.net",
           "search38s.dynv6.net",
+          "search39s.dynv6.net",
+          "search62s.dynv6.net",
+          "search64s.dynv6.net",
+          "search75s.dynv6.net",
+          "search88s.dynv6.net",
           "seasonta.click",
           "sebaliarcomsecurity.store",
           "sec-center.nl",
@@ -111139,7 +111148,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-21T11:15:03+02:00",
+        "last_modified": "2026-03-21T20:49:51+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -112650,17 +112659,18 @@
           "https://x.com/skocherhan/status/2034373020215607498",
           "https://x.com/skocherhan/status/2034355534518694287",
           "https://x.com/skocherhan/status/2034778424170946657",
-          "https://x.com/skocherhan/status/2035212493694406693"
+          "https://x.com/skocherhan/status/2035212493694406693",
+          "https://x.com/skocherhan/status/2035113201680122080"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 17721,
+          "domain": 17730,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 18142
+        "total": 18151
       }
     },
     "KUN3": {
