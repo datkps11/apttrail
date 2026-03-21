@@ -102877,8 +102877,22 @@
           "ndoc.digital",
           "ndoc.realinfo.p-e.kr",
           "ndocabpass.dynv6.net",
+          "ndocacverify.dynv6.net",
+          "ndocadcheck.dynv6.net",
+          "ndocaeverify.dynv6.net",
+          "ndocafverify.dynv6.net",
+          "ndocagverify.dynv6.net",
+          "ndocahverify.dynv6.net",
           "ndocajavsvr.store",
+          "ndocakverify.dynv6.net",
+          "ndocalverify.dynv6.net",
+          "ndocamverify.dynv6.net",
+          "ndocaoverify.dynv6.net",
+          "ndocapverify.dynv6.net",
+          "ndocaqverify.dynv6.net",
+          "ndocarverify.dynv6.net",
           "ndocasset.mydns.bz",
+          "ndocasverify.dynv6.net",
           "ndocaverify.dns.army",
           "ndocbpass.dns.army",
           "ndocbverify.dns.army",
@@ -103949,6 +103963,7 @@
           "nid.ncrop.org",
           "nid.ncustomsecteam.store",
           "nid.ncvcrlive.store",
+          "nid.ndocaqverify.dynv6.net",
           "nid.neaply.naver-active.online",
           "nid.neddocs.x10.network",
           "nid.never.com.ru",
@@ -111116,7 +111131,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-21T00:57:45+02:00",
+        "last_modified": "2026-03-21T09:44:47+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -112626,17 +112641,18 @@
           "https://x.com/skocherhan/status/2034366890043126077",
           "https://x.com/skocherhan/status/2034373020215607498",
           "https://x.com/skocherhan/status/2034355534518694287",
-          "https://x.com/skocherhan/status/2034778424170946657"
+          "https://x.com/skocherhan/status/2034778424170946657",
+          "https://x.com/skocherhan/status/2035212493694406693"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 17698,
+          "domain": 17713,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 18119
+        "total": 18134
       }
     },
     "KUN3": {
