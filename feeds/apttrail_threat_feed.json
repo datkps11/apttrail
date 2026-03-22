@@ -95642,6 +95642,7 @@
           "datadown1.shop",
           "dataedusoul.click",
           "dataserveronline.cfd",
+          "datasetdoc.mydns.bz",
           "daum-account-login.esy.es",
           "daum-account-login.esy.esoeks39402.890m.com",
           "daum-account-signin.pe.hu",
@@ -98620,6 +98621,7 @@
           "inv0ice.p-e.kr",
           "inventscience.st",
           "invesslonlinesite.store",
+          "investinfdoc.mydns.bz",
           "investing-life.site",
           "investor-onepick.site",
           "investor-people.site",
@@ -98639,6 +98641,7 @@
           "invoice.check-spo.kro.kr",
           "invoice.currentdoclist.mydns.bz",
           "invoice.dapit.net",
+          "invoice.datasetdoc.mydns.bz",
           "invoice.derivelink.kro.kr",
           "invoice.dfmab.eu",
           "invoice.dkimbasedoc.mydns.bz",
@@ -98662,6 +98665,7 @@
           "invoice.linknprecord.mydns.bz",
           "invoice.linktxdoc.server-on.net",
           "invoice.mashen.biz",
+          "invoice.memberlogcheck.mydns.bz",
           "invoice.myblogauth.mydns.vc",
           "invoice.mydns.jp",
           "invoice.myonlinedoc.kro.kr",
@@ -100379,6 +100383,7 @@
           "member2.download",
           "memberadd.xyz",
           "membergojinp.mydns.bz",
+          "memberlogcheck.mydns.bz",
           "memberma.certuser.info",
           "members-apple.com",
           "members.cdaumauth.cf",
@@ -102892,10 +102897,13 @@
           "ndocafverify.dynv6.net",
           "ndocagverify.dynv6.net",
           "ndocahverify.dynv6.net",
+          "ndocaipass.dynv6.net",
           "ndocajavsvr.store",
           "ndocakverify.dynv6.net",
           "ndocalverify.dynv6.net",
+          "ndocampass.dynv6.net",
           "ndocamverify.dynv6.net",
+          "ndocaopass.dynv6.net",
           "ndocaoverify.dynv6.net",
           "ndocapverify.dynv6.net",
           "ndocaqverify.dynv6.net",
@@ -109265,6 +109273,7 @@
           "usr.epsdocgoji.mydns.bz",
           "usr.hktaxdoc.mydns.vc",
           "usr.hometxdoc.mydns.bz",
+          "usr.investinfdoc.mydns.bz",
           "usr.linknprecord.mydns.bz",
           "usr.maildocusers.mydns.vc",
           "usr.moisdocdeposit.dynv6.net",
@@ -111167,7 +111176,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-21T22:34:17+02:00",
+        "last_modified": "2026-03-22T11:02:54+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -112685,12 +112694,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 17749,
+          "domain": 17758,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 18170
+        "total": 18179
       }
     },
     "KUN3": {
@@ -114044,6 +114053,7 @@
           "demo.dropfile.online",
           "demo.techsaeein.com",
           "deng-labs-6ts0pz3vm.vercel.sh",
+          "deoft.com",
           "derek-site-2026-6g03r9taz-derek-martins-projects.vercel.app",
           "designautocad.org",
           "detankwar.com",
@@ -115007,6 +115017,7 @@
           "meetwithhealthyh2o.com",
           "memecoinmania.net",
           "memo.ccuk.edu.ng",
+          "menchro.pro",
           "merreo.org",
           "metaschool.video-meets.online",
           "metric-analytics.vercel.app",
@@ -117817,7 +117828,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-03-21T09:02:59+02:00",
+        "last_modified": "2026-03-22T10:46:11+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -119012,12 +119023,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3501,
+          "domain": 3503,
           "file_path": 478,
           "ipv4": 557,
           "url": 108
         },
-        "total": 4644
+        "total": 4646
       }
     },
     "LAZYSCRIPTER": {
