@@ -133870,6 +133870,7 @@
           "fauji.pkgov.org",
           "faujifoundation.bitlyy.me",
           "fb-dn.net",
+          "fbr-g0v.pk",
           "fbr-gov.net",
           "fbr-taxupdates.serveblog.net",
           "fbr.gov-pk.com",
@@ -135280,6 +135281,7 @@
           "ndma-govpak.org",
           "ndma-govpk.co",
           "ndma-govpk.info",
+          "ndmagovpk.com",
           "neger.site",
           "nelcec.info",
           "nelpec.top",
@@ -136557,7 +136559,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-03-21T19:05:03+02:00",
+        "last_modified": "2026-03-22T18:40:09+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -137599,17 +137601,18 @@
           "https://x.com/volrant136/status/2033574016154226898",
           "https://x.com/FatzQatz/status/2034236872076231108",
           "https://x.com/volrant136/status/2034639901853970679",
-          "https://x.com/volrant136/status/2035385952529522976"
+          "https://x.com/volrant136/status/2035385952529522976",
+          "https://x.com/volrant136/status/2035748336410759648"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3464,
+          "domain": 3466,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3556
+        "total": 3558
       }
     },
     "SILENCE": {
