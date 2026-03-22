@@ -112706,8 +112706,11 @@
       "indicators": {
         "domain": [
           "28dg.com",
+          "360-browser.com",
+          "360edge.cn",
           "7s.pc-kakaocorp.com",
           "8-210-67-136.cprapid.com",
+          "addguard.cn",
           "af-whatsapp.com",
           "anzhihui.net",
           "api.hami888.com",
@@ -112740,6 +112743,7 @@
           "bwsc668.com",
           "cashotc.com",
           "chachazaimai.com",
+          "chromiumx-360.cn",
           "clash55.com",
           "clash99.com",
           "clashdown.link",
@@ -112950,6 +112954,9 @@
           "pc-v2rayn.com",
           "pc-winrar.com",
           "pendikliler.com",
+          "qishui-music.com",
+          "qishuicn.com",
+          "qishuimusic.org",
           "quickq.fit",
           "quuv.fun",
           "quuv.info",
@@ -113070,7 +113077,7 @@
         ],
         "apt_group": "KUN3",
         "filename": "apt_kun3.txt",
-        "last_modified": "2026-03-20T21:45:16+02:00",
+        "last_modified": "2026-03-22T21:28:06+02:00",
         "references": [
           "https://x.com/Des00464472/status/1833089486307344766",
           "https://mp-weixin-qq-com.translate.goog/s/Z-MBBlwGZ7pvylA3Mad03A?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=wapp",
@@ -113080,16 +113087,17 @@
           "https://x.com/malwrhunterteam/status/1918796545119416554",
           "https://www.virustotal.com/gui/ip-address/45.204.200.3/relations",
           "https://www.virustotal.com/gui/file/73850107076eef72390e6b616735dea2e020acd1a21df71e8feb36a18f1811c3/detection",
-          "https://asec.ahnlab.com/ko/92924/"
+          "https://asec.ahnlab.com/ko/92924/",
+          "https://github.com/hagezi/dns-blocklists/issues/9478"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 350,
+          "domain": 357,
           "ipv4": 2,
           "url": 1
         },
-        "total": 353
+        "total": 360
       }
     },
     "LAZARUS": {
