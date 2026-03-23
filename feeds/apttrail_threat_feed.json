@@ -115657,6 +115657,7 @@
           "oncehub.co",
           "onchainassess.com",
           "onchainhiringtool.com",
+          "onchainmodeltraining.com",
           "one.microshare.cloud",
           "onebalancelab.com",
           "onedocshare.com",
@@ -117495,6 +117496,8 @@
           "137.139.135.151:64694",
           "137.184.15.189:22",
           "138.201.199.46:1224",
+          "138.201.248.205:49498",
+          "138.201.248.205:49499",
           "138.201.50.5:5961",
           "139.60.163.206:4000",
           "14.37.47.13:1244",
@@ -118171,7 +118174,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-03-22T10:46:11+02:00",
+        "last_modified": "2026-03-23T17:45:10+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -119361,17 +119364,21 @@
           "https://x.com/L0Psec/status/2034002958946337065",
           "https://www.virustotal.com/gui/file/1540cbb8eac28dab396cbd95445bc936d4114a0c2bcc48ffe9630896df09a8a1/detection",
           "https://www.aikido.dev/blog/glassworm-chrome-extension-rat",
-          "https://jp.security.ntt/insights_resources/tech_blog/stoatwaffle_malware_en/"
+          "https://jp.security.ntt/insights_resources/tech_blog/stoatwaffle_malware_en/",
+          "https://x.com/L0Psec/status/2036098821059461256",
+          "https://www.virustotal.com/gui/file/4291da6d5461c51ff0f852ca40a557739e955667df66c359cb0952542bb796b2/detection",
+          "https://www.virustotal.com/gui/file/c2fe5b1d2c4cef27ab22fa8bc960a78264418e02ab3787bf0053c8f3a37c95ca/detection",
+          "https://www.virustotal.com/gui/file/a6d2f0c3892b443d022d4c77835a85efb1131b0a12d3464b01cec3563194c73c/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3503,
+          "domain": 3504,
           "file_path": 478,
-          "ipv4": 557,
+          "ipv4": 559,
           "url": 108
         },
-        "total": 4646
+        "total": 4649
       }
     },
     "LAZYSCRIPTER": {
