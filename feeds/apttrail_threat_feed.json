@@ -133657,6 +133657,7 @@
           "caapakistan.pk-mail.org",
           "cabinet-division-pk.fia-gov.com",
           "cabinet-download-server.top",
+          "cabinet-gov-bd.donwloaad-file.com",
           "cabinet-gov-bd.dwnlld.info",
           "cabinet-gov-bd.fia-g0v.net",
           "cabinet-gov-bd.nic-svc.net",
@@ -133972,6 +133973,7 @@
           "dev.govpk.info",
           "dev.grabfiles.org",
           "dev.onesom.biz",
+          "df.donwloaad-file.com",
           "dfd-punjab.govt-pk.com",
           "dfd.punjab.govt-pk.com",
           "dfgrthy.moma-pk.org",
@@ -134050,6 +134052,7 @@
           "dof-govmm.sytes.net",
           "doken.xyz",
           "dolper.top",
+          "donwloaad-file.com",
           "donwload-file.com",
           "donwloaded.com",
           "donwloaded.net",
@@ -134214,6 +134217,7 @@
           "faujifoundation.bitlyy.me",
           "fb-dn.net",
           "fbr-g0v.pk",
+          "fbr-gov-pk.donwloaad-file.com",
           "fbr-gov.net",
           "fbr-taxupdates.serveblog.net",
           "fbr.gov-pk.com",
@@ -136162,6 +136166,7 @@
           "pttgovt.bond",
           "ptv.pkgov.org",
           "pubad-gov-ik.fia-g0v.net",
+          "pubad-gov-lk.donwloaad-file.com",
           "pubad-gov-lk.downld.org",
           "pubad-gov-lk.download-doc.net",
           "pubad-gov-lk.fia-g0v.net",
@@ -136707,6 +136712,7 @@
           "www-erd-gov-lk.dwnlld.info",
           "www-erd-gov-lk.nic-svc.net",
           "www-establishment-gov-pk.fia-g0v.net",
+          "www-fbr-gov-pk.donwloaad-file.com",
           "www-finance-gov-pk.fetchdrive.org",
           "www-finance-gov-pk.filenesthub.org",
           "www-finance-gov-pk.grabfiles.net",
@@ -136902,7 +136908,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-03-22T18:40:09+02:00",
+        "last_modified": "2026-03-23T16:56:29+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -137945,17 +137951,19 @@
           "https://x.com/FatzQatz/status/2034236872076231108",
           "https://x.com/volrant136/status/2034639901853970679",
           "https://x.com/volrant136/status/2035385952529522976",
-          "https://x.com/volrant136/status/2035748336410759648"
+          "https://x.com/volrant136/status/2035748336410759648",
+          "https://x.com/SinghSoodeep/status/2035992239235903862",
+          "https://www.virustotal.com/gui/file/4d11d087acbf9573e3f850a99f5bb67357ed2215de0e96a63c4c151f0714e4f9/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3466,
+          "domain": 3472,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3558
+        "total": 3564
       }
     },
     "SILENCE": {
