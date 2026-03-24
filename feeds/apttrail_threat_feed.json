@@ -157434,8 +157434,10 @@
           "uanews.press",
           "ukrbezpeka.online",
           "ukremail.com",
+          "ukrguard.org",
           "ukrnet.01mirror.com.ua",
           "ukrnet.press",
+          "ukrvarta.online",
           "ultravireslegaladvice.org",
           "un.linuxd.org",
           "unian.pw",
@@ -157757,6 +157759,7 @@
         ],
         "url": [
           "http://104.255.66.139",
+          "http://109.237.97.4",
           "http://122.155.28.155",
           "http://13.211.167.218",
           "http://141.147.168.69",
@@ -157806,6 +157809,7 @@
           "http://5.9.242.126",
           "http://51.254.60.208",
           "http://62.77.156.188",
+          "http://77.239.96.186",
           "http://79.142.76.40/news.php",
           "http://81.27.243.51",
           "http://91.109.23.175",
@@ -157819,7 +157823,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2026-03-03T10:30:17+02:00",
+        "last_modified": "2026-03-24T22:07:47+02:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -158269,6 +158273,7 @@
           "https://x.com/suyog41/status/2016126098384593287",
           "https://www.virustotal.com/gui/file/2477bbf0ab3f0c9db73fcb2f5f9dfe8cf6703a88862a7c98a5de6f349cd8833f/detection",
           "https://x.com/smica83/status/2024781300440211506",
+          "https://x.com/smica83/status/2036531992569798930",
           "https://www.virustotal.com/gui/file/531b11daeab05d4f91817502e251209a1a08f112b3bfc38c1af05f35f1ba8d6e/detection",
           "https://cert.gov.ua/article/6287707 (# UAC-0252)",
           "https://www.virustotal.com/gui/ip-address/95.85.252.196/relations",
@@ -158284,12 +158289,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1219,
+          "domain": 1221,
           "file_path": 77,
           "ipv4": 117,
-          "url": 57
+          "url": 59
         },
-        "total": 1470
+        "total": 1474
       }
     },
     "USH": {
