@@ -94190,6 +94190,7 @@
           "au.news-web.site",
           "auction.server-on.net",
           "audko.store",
+          "aumyjk9jxc.dns.army",
           "auridab.click",
           "auser.eu",
           "auth-check.n-e.kr",
@@ -94480,6 +94481,7 @@
           "blinksurge.today",
           "bliogfull.click",
           "block.setinfo.kro.kr",
+          "block.usermemberblg.freeddns.org",
           "blockbusterrelease.cfd",
           "blockmedia.site",
           "blockworks.one",
@@ -101234,6 +101236,7 @@
           "n-store.nts-gov.mydns.bz",
           "n-store.nts-kit.mydns.bz",
           "n-store.nts-ncorp.mydns.vc",
+          "n-store.nts-nidinvoce.dynv6.net",
           "n-store.nts-nidlogin.dynv6.net",
           "n-store.nts-taxkr.mydns.vc",
           "n-store.ntsml-auth.mydns.vc",
@@ -103061,10 +103064,13 @@
           "ndocadcheck.dynv6.net",
           "ndocaeverify.dynv6.net",
           "ndocafverify.dynv6.net",
+          "ndocagpass.dynv6.net",
           "ndocagverify.dynv6.net",
           "ndocahverify.dynv6.net",
           "ndocaipass.dynv6.net",
           "ndocajavsvr.store",
+          "ndocajpass.dynv6.net",
+          "ndocakpass.dynv6.net",
           "ndocakverify.dynv6.net",
           "ndocalpass.dynv6.net",
           "ndocalverify.dynv6.net",
@@ -103074,6 +103080,7 @@
           "ndocaoverify.dynv6.net",
           "ndocappass.dynv6.net",
           "ndocapverify.dynv6.net",
+          "ndocaqpass.dynv6.net",
           "ndocaqverify.dynv6.net",
           "ndocarverify.dynv6.net",
           "ndocasset.mydns.bz",
@@ -104231,6 +104238,7 @@
           "nida.nts-alert.dns.navy",
           "nida.nts-edoced.dns.army",
           "nida.ntsdocs.dns.army",
+          "nida.service-relay.dedyn.io",
           "nida.unts-corp.dynv6.net",
           "nidalo.memavers.pics",
           "nidanaver.tech",
@@ -105834,6 +105842,7 @@
           "nts-news.website",
           "nts-nid.mydns.vc",
           "nts-nidauth.mydns.bz",
+          "nts-nidinvoce.dynv6.net",
           "nts-nidlog.mydns.jp",
           "nts-nidlogin.dynv6.net",
           "nts-nidstore.mydns.jp",
@@ -108094,6 +108103,7 @@
           "service-cloud.o-r.kr",
           "service-googlces.info",
           "service-info.co",
+          "service-relay.dedyn.io",
           "service.deliverymailsvc.kro.kr",
           "service.documentviews.com",
           "service.goegle-auth.kro.kr",
@@ -109459,6 +109469,7 @@
           "usermanagers-confirmation.site",
           "usermanagetokendown.ggm.kr",
           "usermemberauth.kro.kr",
+          "usermemberblg.freeddns.org",
           "usermemberblog.mydns.vc",
           "usermyblog.dynuddns.com",
           "usernaver.com",
@@ -111424,7 +111435,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-24T08:21:08+02:00",
+        "last_modified": "2026-03-24T10:07:14+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -112944,12 +112955,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18006,
+          "domain": 18017,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 18427
+        "total": 18438
       }
     },
     "KUN3": {
@@ -152294,6 +152305,8 @@
           "rvtoolis.com",
           "rvtoolit.com",
           "rvtoolls.info",
+          "rvtoollsa.com",
+          "rvtoollsi.com",
           "rvtools-app.com",
           "rvtools-cloud.com",
           "rvtools-dell.com",
@@ -152399,7 +152412,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-03-14T15:56:56+02:00",
+        "last_modified": "2026-03-24T09:57:00+02:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -152416,9 +152429,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 184
+          "domain": 186
         },
-        "total": 184
+        "total": 186
       }
     },
     "UNC2529": {
