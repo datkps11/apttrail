@@ -101208,6 +101208,7 @@
           "n-cloud.nts-nidauth.mydns.bz",
           "n-cloud.nts-taxkr.mydns.vc",
           "n-cloud.ntsml-auth.mydns.vc",
+          "n-cloud.ntx-store.dynv6.net",
           "n-cloud.o-r.kr",
           "n-corp.htax-noticedoc.mydns.bz",
           "n-corp.ips-auth.mydns.vc",
@@ -104870,6 +104871,7 @@
           "nldgggnnn.fun",
           "nldiogin.o-r.kr",
           "nldiogin.p-e.kr",
+          "nldlg.dynv6.net",
           "nldlogdowload.tech",
           "nldlogggon.online",
           "nldloggin.online",
@@ -106364,6 +106366,7 @@
           "ntusertypes.mydns.bz",
           "ntwsx.site",
           "ntx-nav.dynv6.net",
+          "ntx-store.dynv6.net",
           "ntxals.dns.army",
           "ntxhosts.dns.army",
           "ntxthom.dns.army",
@@ -111516,7 +111519,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-24T15:07:39+02:00",
+        "last_modified": "2026-03-24T20:27:15+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -113032,17 +113035,18 @@
           "https://www.virustotal.com/gui/ip-address/123.58.200.69/relations",
           "https://x.com/skocherhan/status/2035848460016971802",
           "https://x.com/malwrhunterteam/status/2036158996554637591",
-          "https://x.com/skocherhan/status/2036427645370441731"
+          "https://x.com/skocherhan/status/2036427645370441731",
+          "https://x.com/skocherhan/status/2036478912583053652"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 18098,
+          "domain": 18101,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 18519
+        "total": 18522
       }
     },
     "KUN3": {
