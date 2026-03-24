@@ -98263,6 +98263,7 @@
           "htax-kr.server-on.net",
           "htax-mail.server-on.net",
           "htax-noticedoc.mydns.bz",
+          "htax-store.dns.navy",
           "htax.live-on.net",
           "htax.server-on.net",
           "htc-llc.net",
@@ -100894,6 +100895,7 @@
           "mta2.msoffic.homes",
           "mtdoc-hometax.mydns.bz",
           "mtdocument-hometax.mydns.bz",
+          "mtnvs.dynv6.net",
           "mtpeck.store",
           "mts-main.dns.army",
           "mubifurlifae.click",
@@ -101099,6 +101101,7 @@
           "n-checker.n-e.kr",
           "n-cloud.edoc-nts.mydns.bz",
           "n-cloud.htax-noticedoc.mydns.bz",
+          "n-cloud.htax-store.dns.navy",
           "n-cloud.invoicedoc-nts.dynv6.net",
           "n-cloud.ips-dns.mydns.vc",
           "n-cloud.ips-ecall.mydns.bz",
@@ -104006,6 +104009,7 @@
           "nid-user.nts-nidlog.mydns.jp",
           "nid-user.nts-nidlogin.dynv6.net",
           "nid-user.ntsml-auth.mydns.vc",
+          "nid-user.tax-loadoc.dns.army",
           "nid-verify.v6.rocks",
           "nid-yyanagemeniteam.890m.com",
           "nid.account.myus93nsesq.kro.kr",
@@ -106119,6 +106123,7 @@
           "ntsmsgs.online",
           "ntsmsgs.site",
           "ntsmsgs.website",
+          "ntsncorp.dynv6.net",
           "ntsnew.homes",
           "ntsnew.site",
           "ntsnew.space",
@@ -108874,6 +108879,7 @@
           "tax-deliver.v6.navy",
           "tax-gokr.mydns.jp",
           "tax-guide.dns.army",
+          "tax-loadoc.dns.army",
           "tax-ndoc.o-r.kr",
           "tax.groupsinvoice.64bit.kr",
           "tax.ooguy.com",
@@ -111418,7 +111424,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-23T21:59:18+02:00",
+        "last_modified": "2026-03-24T08:21:08+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -112938,12 +112944,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18000,
+          "domain": 18006,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 18421
+        "total": 18427
       }
     },
     "KUN3": {
