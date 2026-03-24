@@ -134148,6 +134148,7 @@
           "downloads.masarh.live",
           "downnload.net",
           "downnload.org",
+          "dp.islamic-finder.org",
           "dr-doom.xyz",
           "draft-paper-advertisementfdg.netlify.app",
           "drive-acct-offl-pdf.com",
@@ -136978,7 +136979,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-03-23T16:56:29+02:00",
+        "last_modified": "2026-03-24T07:55:09+02:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -138028,12 +138029,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3472,
+          "domain": 3473,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3564
+        "total": 3565
       }
     },
     "SILENCE": {
