@@ -9381,6 +9381,7 @@
           "ca05web.com",
           "caladan.video",
           "calendly.caladan.video",
+          "calltan.com",
           "cardiagnostic.net",
           "careers.bankofamerica.nyc",
           "careers.mizuhogroup.us",
@@ -10603,7 +10604,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-03-19T10:11:12+02:00",
+        "last_modified": "2026-03-25T16:58:37+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -10749,17 +10750,20 @@
           "https://cloud.google.com/blog/topics/threat-intelligence/unc1069-targets-cryptocurrency-ai-social-engineering?e=48754805",
           "https://x.com/L0Psec/status/2034379795635548484",
           "https://www.virustotal.com/gui/file/61b56c8c2df374861c8b23e6c555456f34e17e5638ea9965f721c3ffe77f57ca/detection",
-          "https://www.virustotal.com/gui/file/9526d8b337a176a76d960867b281bba06310e3ef58056904591c510e51d90839/detection"
+          "https://www.virustotal.com/gui/file/9526d8b337a176a76d960867b281bba06310e3ef58056904591c510e51d90839/detection",
+          "https://x.com/L0Psec/status/2036815031283671284",
+          "https://www.virustotal.com/gui/file/02fdd3fd9d8f70ab1c3796617296bec8e2b7e3796fd2e2c220ddaa8625081230/detection",
+          "https://www.virustotal.com/gui/file/7d2c8ccbbb60dc340811b641abfe2cda4e7e9fc5a4eca1c703d07b86bc1263ba/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1294,
+          "domain": 1295,
           "file_path": 1,
           "ipv4": 14,
           "url": 3
         },
-        "total": 1312
+        "total": 1313
       }
     },
     "BLUEPRINT": {
@@ -156554,8 +156558,6 @@
           "asbares.com",
           "asdf.avstore.com.tw",
           "asdf.skypetm.com.tw",
-          "askod.ezvit-plus.online",
-          "askod.mev-askod-support.online",
           "asmkpo.com",
           "atessan.online",
           "atlmiami.com.pl",
@@ -156719,7 +156721,6 @@
           "dlstube.com",
           "dlstubes.com",
           "doc.az-link.email",
-          "doc.mev-askod-support.online",
           "doca.az-link.email",
           "docs.az-link.email",
           "document.diia.me",
@@ -156783,7 +156784,6 @@
           "exmo.day",
           "expo-forum.net",
           "ezelogs.ddns.net",
-          "ezvit-plus.online",
           "f1.vr.wincloud.com",
           "facebookchanel.servehalflife.com",
           "falling-rice-4afa.ochiplus.workers.dev",
@@ -157079,8 +157079,6 @@
           "lmao.money",
           "localzilla.fun",
           "loge.otzo.com",
-          "login.mev-askod-support.online",
-          "login.mev-docs.online",
           "login.wonderbackup.com",
           "loki2.linkpc.net",
           "loldevs.com",
@@ -157104,7 +157102,6 @@
           "mail.ceiua.com",
           "mail.fedll.com",
           "mail.mailshield.ga",
-          "mail.mev-askod-support.online",
           "mail.mfa.az-link.email",
           "mail.ukremail.com",
           "mailer-support.com",
@@ -157129,8 +157126,6 @@
           "medicosempresa.com",
           "medknass.ddns.net",
           "medoblack.no-ip.biz",
-          "mev-askod-support.online",
-          "mev-docs.online",
           "mfa-gov-tm.online",
           "mfa-gov-tm.ru",
           "mfa-gov.ru",
@@ -157425,7 +157420,6 @@
           "sfeer55.no-ip.biz",
           "sharazoori.zapto.org",
           "share.infinitybackup.net",
-          "sies-askod-support.online",
           "sifebuissines.noip.us",
           "silent404tmd.no-ip.biz",
           "silver13.ddns.net",
@@ -157948,7 +157942,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2026-03-24T22:07:47+02:00",
+        "last_modified": "2026-03-25T16:00:51+02:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -158369,8 +158363,6 @@
           "https://www.virustotal.com/gui/file/921ab60e8c05f98a0e8a27650421599d946024d1b12fdac614499176375670a8/detection",
           "https://x.com/malwrhunterteam/status/1920745183991246975",
           "https://www.virustotal.com/gui/file/9834bac2717ea3cdfe8f92f8577af0e2ae0be9f34554a7cfb6de70add1eb1421/detection",
-          "https://www.virustotal.com/gui/ip-address/104.194.145.78/relations",
-          "https://www.virustotal.com/gui/file/96d295ed61025039be5a7ea589242df3349c15687ad9e512ce29bf8f05344b1a/detection",
           "https://www.sentinelone.com/labs/operation-digital-eye-chinese-apt-compromises-critical-digital-infrastructure-via-visual-studio-code-tunnels/",
           "https://x.com/skocherhan/status/1950536840840384715",
           "https://www.virustotal.com/gui/file/99dc7bde98d3e7f002068fca295f695ff4cb5362ad6c1c36245e02458d571085/detection",
@@ -158414,12 +158406,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1221,
+          "domain": 1211,
           "file_path": 77,
           "ipv4": 117,
           "url": 59
         },
-        "total": 1474
+        "total": 1464
       }
     },
     "USH": {
