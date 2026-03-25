@@ -115240,6 +115240,8 @@ SANDWORM,domain,desktopaplus.workers.dev
 SANDWORM,domain,desktopapluscom.workers.dev
 SANDWORM,domain,documentreader.net
 SANDWORM,domain,documents-reader.com
+SANDWORM,domain,dontgivedamn.com
+SANDWORM,domain,dontgivefuck.com
 SANDWORM,domain,drive.google.com.filepreview.auth.userarea.click
 SANDWORM,domain,dvjbn4sg4p1ck.cloudfront.net
 SANDWORM,domain,esetpremium.com
@@ -115256,6 +115258,7 @@ SANDWORM,domain,hackzona.tk
 SANDWORM,domain,hostapp.be
 SANDWORM,domain,hwupdates.com
 SANDWORM,domain,i.ua.account-check.hostapp.link
+SANDWORM,domain,i2rgcvog6cypjohfzfzw3d5kqgoobkzlbchsdxx4gm7lyaxn5nfp6bid.onion
 SANDWORM,domain,jakkaru.ru
 SANDWORM,domain,k0x.ru
 SANDWORM,domain,kalambur.net
@@ -115271,10 +115274,12 @@ SANDWORM,domain,kyivstar.online
 SANDWORM,domain,login.adfs.kyivstar.online
 SANDWORM,domain,login.antimailspam.com
 SANDWORM,domain,login.kyivstar.online
+SANDWORM,domain,massgrave.link
 SANDWORM,domain,me-cloud.link
 SANDWORM,domain,myaccount.click
 SANDWORM,domain,myaccount.one
 SANDWORM,domain,myprodjs.ru
+SANDWORM,domain,n6b6j4vlkc4ak343j4fmuwmosxtwrft6bph5s5562lefji4a475smuad.onion
 SANDWORM,domain,nalog.in
 SANDWORM,domain,nt3rrzq5hcyznvdkpslvqbbc2jqecqrinhi5jtwoae2x7psqtcb6dcad.onion
 SANDWORM,domain,object-storage-service.com
@@ -115292,6 +115297,7 @@ SANDWORM,domain,solntsepek.com
 SANDWORM,domain,spdup.art
 SANDWORM,domain,star-cz.ddns.net
 SANDWORM,domain,star-link.ddns.net
+SANDWORM,domain,sumbur.net
 SANDWORM,domain,telegramweb.us
 SANDWORM,domain,tgcloud.link
 SANDWORM,domain,tgeo.link
@@ -115418,6 +115424,7 @@ SANDWORM,ipv4,109.192.30.125:995
 SANDWORM,ipv4,109.192.30.125:996
 SANDWORM,ipv4,124.115.171.103:443
 SANDWORM,ipv4,146.0.74.7:443
+SANDWORM,ipv4,146.59.116.226:50845
 SANDWORM,ipv4,148.251.82.21:443
 SANDWORM,ipv4,148.76.89.2:3269
 SANDWORM,ipv4,148.76.89.2:636
@@ -115628,6 +115635,7 @@ SANDWORM,ipv4,50.255.126.65:990
 SANDWORM,ipv4,50.255.126.65:994
 SANDWORM,ipv4,50.255.126.65:995
 SANDWORM,ipv4,50.255.126.65:996
+SANDWORM,ipv4,57.128.59.134:24102
 SANDWORM,ipv4,70.62.153.174:3269
 SANDWORM,ipv4,70.62.153.174:636
 SANDWORM,ipv4,70.62.153.174:8443

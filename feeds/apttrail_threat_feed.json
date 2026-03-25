@@ -132369,6 +132369,8 @@
           "desktopapluscom.workers.dev",
           "documentreader.net",
           "documents-reader.com",
+          "dontgivedamn.com",
+          "dontgivefuck.com",
           "drive.google.com.filepreview.auth.userarea.click",
           "dvjbn4sg4p1ck.cloudfront.net",
           "esetpremium.com",
@@ -132385,6 +132387,7 @@
           "hostapp.be",
           "hwupdates.com",
           "i.ua.account-check.hostapp.link",
+          "i2rgcvog6cypjohfzfzw3d5kqgoobkzlbchsdxx4gm7lyaxn5nfp6bid.onion",
           "jakkaru.ru",
           "k0x.ru",
           "kalambur.net",
@@ -132400,10 +132403,12 @@
           "login.adfs.kyivstar.online",
           "login.antimailspam.com",
           "login.kyivstar.online",
+          "massgrave.link",
           "me-cloud.link",
           "myaccount.click",
           "myaccount.one",
           "myprodjs.ru",
+          "n6b6j4vlkc4ak343j4fmuwmosxtwrft6bph5s5562lefji4a475smuad.onion",
           "nalog.in",
           "nt3rrzq5hcyznvdkpslvqbbc2jqecqrinhi5jtwoae2x7psqtcb6dcad.onion",
           "object-storage-service.com",
@@ -132421,6 +132426,7 @@
           "spdup.art",
           "star-cz.ddns.net",
           "star-link.ddns.net",
+          "sumbur.net",
           "telegramweb.us",
           "tgcloud.link",
           "tgeo.link",
@@ -132551,6 +132557,7 @@
           "109.192.30.125:996",
           "124.115.171.103:443",
           "146.0.74.7:443",
+          "146.59.116.226:50845",
           "148.251.82.21:443",
           "148.76.89.2:3269",
           "148.76.89.2:636",
@@ -132761,6 +132768,7 @@
           "50.255.126.65:994",
           "50.255.126.65:995",
           "50.255.126.65:996",
+          "57.128.59.134:24102",
           "70.62.153.174:3269",
           "70.62.153.174:636",
           "70.62.153.174:8443",
@@ -132916,7 +132924,7 @@
         ],
         "apt_group": "SANDWORM",
         "filename": "apt_sandworm.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-03-25T11:55:48+02:00",
         "references": [
           "https://web.archive.org/web/20120106212034/http://amada.abuse.ch/blocklist.php?download=domainblocklist",
           "https://www.virustotal.com/gui/ip-address/185.80.53.22/relations",
@@ -132978,17 +132986,19 @@
           "https://www.virustotal.com/gui/file/4a302c0ed3c47231bc7c34cf2d41bc0ceb60d9c7b0023df015f75a58853f43d2/detection",
           "https://x.com/WhichbufferArda/status/1972012355983720623",
           "https://www.virustotal.com/gui/file/6472d2f027e25639b98381affdeb6932a82a530aa593198d6d85f99a1d74c114/detection",
-          "https://www.virustotal.com/gui/file/a1b41f7ee862ee9703afda7793d22728e4f8fa571241520b97d523875d81333e/detection"
+          "https://www.virustotal.com/gui/file/a1b41f7ee862ee9703afda7793d22728e4f8fa571241520b97d523875d81333e/detection",
+          "https://x.com/RexorVc0/status/2036703151303065880",
+          "https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247508035&idx=1&sn=4d58712823b2121714adf4edbea69f60&chksm=f9c1934aceb61a5c9f3a225a38ac04498862d4a49f7c1aeb76dd2c15ed572cd3fc667fa2b0f3&scene=178&cur_album_id=1955835290309230595&search_click_id"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 109,
+          "domain": 115,
           "file_path": 28,
-          "ipv4": 392,
+          "ipv4": 394,
           "url": 32
         },
-        "total": 561
+        "total": 569
       }
     },
     "SAURON": {
