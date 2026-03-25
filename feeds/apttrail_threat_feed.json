@@ -9369,6 +9369,7 @@
           "blog.cloudsecure.space",
           "bloomcloud.org",
           "bluewhale7.xyz",
+          "bluyy.com",
           "bots.autoupdate.online",
           "breakdream.com",
           "btcprime.itsaol.com",
@@ -10604,7 +10605,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-03-25T16:58:37+02:00",
+        "last_modified": "2026-03-25T17:01:40+02:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -10758,12 +10759,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1295,
+          "domain": 1296,
           "file_path": 1,
           "ipv4": 14,
           "url": 3
         },
-        "total": 1313
+        "total": 1314
       }
     },
     "BLUEPRINT": {
