@@ -93122,6 +93122,7 @@
           "2c8b3f19-0325-4acc-a3dd-31a918e4dbf5.random.osyst.life",
           "2ebq4.dns.army",
           "2prosrv.com",
+          "2wq82.v6.navy",
           "3.supports.o-r.kr",
           "30nservercc.cfd",
           "30onlinen.cfd",
@@ -94208,6 +94209,7 @@
           "attachnents.epizy.com",
           "attiavi.click",
           "au.news-web.site",
+          "au0fo.dns.army",
           "auction.server-on.net",
           "audko.store",
           "aumyjk9jxc.dns.army",
@@ -98615,6 +98617,7 @@
           "i-info.userinfoblg.o-r.kr",
           "i.ua.userscheck.info",
           "i.wanblibang.com.cn",
+          "ia3lp.v6.rocks",
           "iamsam.asuscomm.com",
           "iasoiexci.site",
           "iauonise.site",
@@ -99401,6 +99404,8 @@
           "kinfguve.cc",
           "kingwisecell.store",
           "kinhos.online",
+          "kinomovna.online",
+          "kinorempax.online",
           "kionetaorg39hoaker.icu",
           "kiroffo.site",
           "kisa-home.site",
@@ -100496,6 +100501,7 @@
           "main-alarm.space",
           "main-line.work",
           "main-service.site",
+          "main-situation.myvnc.com",
           "main-support.work",
           "main.dkwis.kro.kr",
           "main.in.net",
@@ -101400,6 +101406,7 @@
           "n-store.tax-auth.dynv6.net",
           "n-tax.server-on.net",
           "n-user.ips-ecorp.mydns.bz",
+          "n02zi.v6.rocks",
           "n09ccafestopcm.website",
           "n1dlogin.p-e.kr",
           "n1i1link.mydns.bz",
@@ -103278,6 +103285,7 @@
           "ndocasset.mydns.bz",
           "ndocasverify.dynv6.net",
           "ndocaverify.dns.army",
+          "ndocaycheck.dynv6.net",
           "ndocbpass.dns.army",
           "ndocbverify.dns.army",
           "ndoccverify.dns.army",
@@ -109525,6 +109533,7 @@
           "u-info.userinfoblg.o-r.kr",
           "u.appw.p-e.kr",
           "u.chromup.p-e.kr",
+          "u3yte.v6.rocks",
           "ua.userscheck.info",
           "uaafixi.click",
           "uaefnoi.shop",
@@ -111794,7 +111803,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-26T10:20:37+02:00",
+        "last_modified": "2026-03-27T12:15:23+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -113319,12 +113328,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18364,
+          "domain": 18373,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 18785
+        "total": 18794
       }
     },
     "KUN3": {
@@ -140735,7 +140744,7 @@
         ],
         "apt_group": "SOFACY",
         "filename": "apt_sofacy.txt",
-        "last_modified": "2026-03-26T14:41:09+02:00",
+        "last_modified": "2026-03-27T12:42:56+02:00",
         "references": [
           "https://www.alienvault.com/open-threat-exchange/blog/from-russia-with-love-sofacy-sednit-apt28-is-in-town",
           "http://permalink.gmane.org/gmane.comp.security.ids.snort.emerging-sigs/22170",
@@ -141040,7 +141049,9 @@
           "https://x.com/TeamDreier/status/2035301205031719170",
           "https://www.seqrite.com/blog/operation-ghostmail-zimbra-xss-russian-apt-ukraine/",
           "https://www.trendmicro.com/en_us/research/26/c/pawn-storm-targets-govt-infra.html",
-          "https://documents.trendmicro.com/assets/txt/Pawn%20Storm%20Deploys%20PRISMA%20IOCs-xQ48S7H.txt"
+          "https://documents.trendmicro.com/assets/txt/Pawn%20Storm%20Deploys%20PRISMA%20IOCs-xQ48S7H.txt",
+          "https://x.com/smica83/status/2037477379530953027",
+          "https://www.virustotal.com/gui/file/479fd5e5bd5566a0252acd4ec29c5abc0dac501d0d6e9f316612b52aa48a3587/detection"
         ]
       },
       "statistics": {
