@@ -7585,6 +7585,7 @@
           "btappclientsvc.net",
           "bulltrader.vip",
           "camncryptsvc.net",
+          "caravelcruiser.com",
           "care.autodefragapp.com",
           "carlminiclub.com",
           "cbyxhuxo663.ddns.net",
@@ -7673,6 +7674,7 @@
           "gspcfdqtloe.sportsaccessstore.com",
           "guppu.pk",
           "gxwxtvonline.com",
+          "haburyohoteam.com",
           "haileemecacademy.com",
           "hallanskylarks.com",
           "han.huandocimama.com",
@@ -8030,6 +8032,7 @@
           "/jdfgwe.php",
           "/jmv/jmd.php?st=",
           "/jsprc.php?h=",
+          "/jvdmhawme.okjhvthfv",
           "/kna.php?ka=",
           "/kvs06v.php",
           "/lax05u.php",
@@ -8193,7 +8196,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-03-11T20:06:48+02:00",
+        "last_modified": "2026-03-27T10:32:22+02:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -8757,17 +8760,21 @@
           "https://x.com/RedDrip7/status/2027209484784017629",
           "https://www.virustotal.com/gui/file/e6b523e77c31b89f8eb3489007bf14b3b9d34bc3870a9d96ecf7b99efa506c76/detection",
           "https://x.com/RedDrip7/status/2031616083569029525",
-          "https://www.virustotal.com/gui/file/fb91c7fd342803ae581ea52e78bc610ab876cb5eb900486cb4fa7009feee2233/detection"
+          "https://www.virustotal.com/gui/file/fb91c7fd342803ae581ea52e78bc610ab876cb5eb900486cb4fa7009feee2233/detection",
+          "https://x.com/RedDrip7/status/2037368638605570409",
+          "https://www.virustotal.com/gui/file/c967e7d3c8227e209537257bfe21a69aa2943e4a7b21cf8f79d2904df29404f7/detection",
+          "https://x.com/RedDrip7/status/2037368885876564464",
+          "https://www.virustotal.com/gui/file/bbe94912c0dd4b812decf9d4e8a81d1f5ad215627334b50d949ff407d7062e5f/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 453,
-          "file_path": 80,
+          "domain": 455,
+          "file_path": 81,
           "ipv4": 74,
           "url": 18
         },
-        "total": 625
+        "total": 628
       }
     },
     "BLACKGEAR": {
