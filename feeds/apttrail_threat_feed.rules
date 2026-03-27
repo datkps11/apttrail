@@ -5574,8 +5574,8 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT UNC6293 - HTTP Request t
 # Aliases: darksword
 # ==================================================
 
-# UNC6353 - Domain Indicators (14 domains)
-alert dns any any -> any any (msg:"APT UNC6353 - Malicious Domain Activity"; dns.query; pcre:"/^(afewminago\.site|cdn\.cdncounter\.net|cdn\.uacounter\.com|cdncounter\.net|count\.cdncounter\.net|downdown\.online|nuceciwa138\.xyz|rhdcnwjnwf\.site|shkaacloud\.ink|sqwas\.shapelie\.com|static\.cdncounter\.net|touch-n-go\.online|uacounter\.com|world-news\.site)$/i"; classtype:trojan-activity; sid:9002960; rev:1; metadata:apt_group UNC6353, chunk 1;)
+# UNC6353 - Domain Indicators (16 domains)
+alert dns any any -> any any (msg:"APT UNC6353 - Malicious Domain Activity"; dns.query; pcre:"/^(afewminago\.site|cdn\.cdncounter\.net|cdn\.uacounter\.com|cdncounter\.net|count\.cdncounter\.net|downdown\.online|escofiringbijou\.com|nuceciwa138\.xyz|rhdcnwjnwf\.site|shkaacloud\.ink|siekeltd\.com|sqwas\.shapelie\.com|static\.cdncounter\.net|touch-n-go\.online|uacounter\.com|world-news\.site)$/i"; classtype:trojan-activity; sid:9002960; rev:1; metadata:apt_group UNC6353, chunk 1;)
 
 # ==================================================
 # APT Group: UNC6691

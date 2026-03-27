@@ -13542,14 +13542,16 @@ rule APT_UNC6353
         $domain3 = "cdncounter\.net" ascii wide nocase
         $domain4 = "count\.cdncounter\.net" ascii wide nocase
         $domain5 = "downdown\.online" ascii wide nocase
-        $domain6 = "nuceciwa138\.xyz" ascii wide nocase
-        $domain7 = "rhdcnwjnwf\.site" ascii wide nocase
-        $domain8 = "shkaacloud\.ink" ascii wide nocase
-        $domain9 = "sqwas\.shapelie\.com" ascii wide nocase
-        $domain10 = "static\.cdncounter\.net" ascii wide nocase
-        $domain11 = "touch-n-go\.online" ascii wide nocase
-        $domain12 = "uacounter\.com" ascii wide nocase
-        $domain13 = "world-news\.site" ascii wide nocase
+        $domain6 = "escofiringbijou\.com" ascii wide nocase
+        $domain7 = "nuceciwa138\.xyz" ascii wide nocase
+        $domain8 = "rhdcnwjnwf\.site" ascii wide nocase
+        $domain9 = "shkaacloud\.ink" ascii wide nocase
+        $domain10 = "siekeltd\.com" ascii wide nocase
+        $domain11 = "sqwas\.shapelie\.com" ascii wide nocase
+        $domain12 = "static\.cdncounter\.net" ascii wide nocase
+        $domain13 = "touch-n-go\.online" ascii wide nocase
+        $domain14 = "uacounter\.com" ascii wide nocase
+        $domain15 = "world-news\.site" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)
