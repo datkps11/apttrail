@@ -15761,6 +15761,7 @@
           "land-of-service.com",
           "liquidacionesjudiciales.com",
           "live-identifier.com",
+          "lmhtvn.github.io",
           "localukre.com",
           "login.officesecure.online",
           "loyaltyfirst.org",
@@ -15781,6 +15782,7 @@
           "mutualrescuebook.org",
           "mvd-cloud.ru",
           "mvd-redir.ru",
+          "mxhvn.github.io",
           "mybookie-us.live",
           "mygeiger.org",
           "myitappnext.com",
@@ -15868,6 +15870,7 @@
           "sangrail-share.com",
           "scallopsflippant.com",
           "sci.officesecure.online",
+          "sdij.org",
           "secure.officesecure.online",
           "secureauth-login.com",
           "secureclientauth0.com",
@@ -15904,6 +15907,7 @@
           "sharepolnte-web.com",
           "shielditlabel.com",
           "shortinfoonline.com",
+          "siidj.xyz",
           "skeletcheck.com",
           "skycithereforeit.com",
           "skyinformdata.com",
@@ -15980,6 +15984,7 @@
           "viewerdoconline.com",
           "vn3hg.officesecure.online",
           "vocabpaper.com",
+          "vod.sdij.org",
           "voltcloudpine.com",
           "web-sharcpoint.com",
           "web-sharcpolnt.com",
@@ -16027,11 +16032,12 @@
           "simplefix",
           "yesrobot",
           "mayberobot",
-          "coldcopy"
+          "coldcopy",
+          "darksword"
         ],
         "apt_group": "COLDRIVER",
         "filename": "apt_coldriver.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-03-28T12:17:05+02:00",
         "references": [
           "https://blog.google/threat-analysis-group/tracking-cyber-activity-eastern-europe/",
           "https://blog.sekoia.io/calisto-continues-its-credential-harvesting-campaign/",
@@ -16074,16 +16080,19 @@
           "https://www.virustotal.com/gui/file/d7520e4f1c55ed1dcbdeba5c6e681e1d269d9b5a690636bf18bcdc5b294f3f8a/detection",
           "https://www.virustotal.com/gui/file/52eb2b3df1e5e2a07ba4562b79eeb67679ac6f7f90190e72d3e6adcf5186401d/detection",
           "https://www.virustotal.com/gui/file/bce2a7165ceead4e3601e311c72743e0059ec2cd734ce7acf5cc9f7d8795ba0f/detection",
-          "https://www.virustotal.com/gui/file/731ca51ac983f24f10409ae67eae65de81f661df2960bf309a412bca500185a7/detection"
+          "https://www.virustotal.com/gui/file/731ca51ac983f24f10409ae67eae65de81f661df2960bf309a412bca500185a7/detection",
+          "https://x.com/JCyberSec_/status/2037789860455420316",
+          "https://urlscan.io/result/019d28bf-2dff-7003-adcb-4762f044e142",
+          "https://x.com/JCyberSec_/status/2037789874137297214"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 464,
+          "domain": 469,
           "ipv4": 3,
           "url": 3
         },
-        "total": 470
+        "total": 475
       }
     },
     "COLDWASTREL": {
@@ -154759,11 +154768,13 @@
         ],
         "apt_group": "UNC6353",
         "filename": "apt_unc6353.txt",
-        "last_modified": "2026-03-27T11:53:30+02:00",
+        "last_modified": "2026-03-28T12:08:40+02:00",
         "references": [
           "https://www.lookout.com/threat-intelligence/article/darksword",
           "https://x.com/felixaime/status/2034580922742235351",
-          "https://x.com/MalforsHQ/status/2037293707351765450"
+          "https://x.com/MalforsHQ/status/2037293707351765450",
+          "https://x.com/threatinsight/status/2037563799142858899",
+          "https://www.virustotal.com/gui/file/b7ef4985662625c45955db295d949e04fd0a9fd5c8ce0c6a3bcb68e4a06c16e4/detection"
         ]
       },
       "statistics": {
