@@ -97330,6 +97330,7 @@
           "fetch80s.dynv6.net",
           "fetch81s.dynv6.net",
           "fetch82s.dynv6.net",
+          "fetch83s.dynv6.net",
           "fetch87s.dynv6.net",
           "fetch89s.dynv6.net",
           "fetch8s.dynv6.net",
@@ -98617,6 +98618,7 @@
           "i-info.userinfoblg.o-r.kr",
           "i.ua.userscheck.info",
           "i.wanblibang.com.cn",
+          "i14o6.dns.army",
           "ia3lp.v6.rocks",
           "iamsam.asuscomm.com",
           "iasoiexci.site",
@@ -99404,8 +99406,12 @@
           "kinfguve.cc",
           "kingwisecell.store",
           "kinhos.online",
+          "kinobaize.online",
           "kinomovna.online",
           "kinorempax.online",
+          "kinoriteka.online",
+          "kinotanaka.online",
+          "kinyz.v6.navy",
           "kionetaorg39hoaker.icu",
           "kiroffo.site",
           "kisa-home.site",
@@ -104027,6 +104033,7 @@
           "nid-naverjkf.onthewifi.com",
           "nid-naverjlm.ddnsking.com",
           "nid-naverjpd.servequake.com",
+          "nid-naverjqs.serveftp.com",
           "nid-naverjxt.3utilities.com",
           "nid-naverjzc.servehalflife.com",
           "nid-naverkae.servecounterstrike.com",
@@ -104056,6 +104063,7 @@
           "nid-navernrh.servemp3.com",
           "nid-navernrn.3utilities.com",
           "nid-navernrr.servequake.com",
+          "nid-navernsw.ddnsking.com",
           "nid-navernuw.ddnsking.com",
           "nid-navernvi.myvnc.com",
           "nid-navernvj.servequake.com",
@@ -108165,6 +108173,7 @@
           "rwy5dff.top",
           "rwy5qwf.top",
           "rwy5zxs.top",
+          "rx5o1.v6.navy",
           "rycqvkbwcrtzaesg.cfd",
           "rzdzociaoeaieoqnzid.store",
           "s-clouds.top",
@@ -109515,6 +109524,7 @@
           "tvrfekxqrtvpqzr5tvrfdu5evt0.blogspot.com",
           "tvrfeuxqrtfnqzr4t0m0ee5utt0.blogspot.com",
           "tvtheoybestactive.click",
+          "tvu6a.dns.navy",
           "twistblaze.today",
           "twistskillsi.click",
           "twitgca.click",
@@ -109537,6 +109547,7 @@
           "ua.userscheck.info",
           "uaafixi.click",
           "uaefnoi.shop",
+          "uahg0.v6.navy",
           "uanoak.sytes.net",
           "uansilne.site",
           "uawing977.cfd",
@@ -111256,6 +111267,7 @@
           "yxakmjrpznyscsas.xn--h32bi4v.xn--3e0b707e",
           "yyttiidown.online",
           "yzadapapwt.top",
+          "yzj00ivzg6.dynv6.net",
           "yzjkdaspo.top",
           "yzjladsiouewk.top",
           "yzkjdasiouej.top",
@@ -111803,7 +111815,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-27T12:15:23+02:00",
+        "last_modified": "2026-03-28T11:27:36+02:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -113328,12 +113340,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18373,
+          "domain": 18385,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 18794
+        "total": 18806
       }
     },
     "KUN3": {
@@ -118200,6 +118212,8 @@
           "216.126.229.166:1245",
           "216.173.115.200:1244",
           "216.244.71.233:443",
+          "216.250.248.200:1224",
+          "216.250.249.176:1224",
           "216.250.251.211:1244",
           "216.250.251.87:1244",
           "216.250.251.87:1245",
@@ -118628,7 +118642,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-03-26T14:51:07+02:00",
+        "last_modified": "2026-03-28T11:13:23+02:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -119830,10 +119844,10 @@
         "by_type": {
           "domain": 3505,
           "file_path": 478,
-          "ipv4": 559,
+          "ipv4": 561,
           "url": 108
         },
-        "total": 4650
+        "total": 4652
       }
     },
     "LAZYSCRIPTER": {
@@ -152729,6 +152743,7 @@
           "rvtoolsbox.com",
           "rvtoolsed.com",
           "rvtoolses.com",
+          "rvtoolseu.com",
           "rvtoolsgo.com",
           "rvtoolshq.com",
           "rvtoolsio.com",
@@ -152746,6 +152761,7 @@
           "rvtoolspro.online",
           "rvtoolsrun.com",
           "rvtoolss.com",
+          "rvtoolsuk.com",
           "rvtoolsun.com",
           "rvtoolsup.com",
           "rvtoolsus.com",
@@ -152810,7 +152826,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-03-24T09:57:00+02:00",
+        "last_modified": "2026-03-28T11:08:23+02:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -152827,9 +152843,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 186
+          "domain": 188
         },
-        "total": 186
+        "total": 188
       }
     },
     "UNC2529": {
