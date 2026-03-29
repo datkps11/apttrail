@@ -96087,6 +96087,7 @@
           "dnss.world",
           "do-can.click",
           "doanthi.myvnc.com",
+          "doc-deliver.kinyz.v6.navy",
           "doc-hometax.mydns.bz",
           "doc-info.ultimamilla.cl",
           "doc-ips.dns.navy",
@@ -97165,6 +97166,7 @@
           "eucie091.myartsonline.com",
           "eucie09111.myartsonline.com",
           "eudtk-tax.dns.army",
+          "eug3j.dns.army",
           "euratu.space",
           "euroq0utcoja.store",
           "euthemi.click",
@@ -111217,6 +111219,7 @@
           "yhnujmtyu.tech",
           "yinianshenmiszelda.store",
           "yinmine.click",
+          "ylbvz.v6.rocks",
           "ymail.notici.as",
           "yncc.ml",
           "ynwttphhhpy.xn--hu5b25b77nvwc.xn--3e0b707e",
@@ -111824,7 +111827,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-28T11:27:36+02:00",
+        "last_modified": "2026-03-29T12:08:21+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -113349,12 +113352,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18385,
+          "domain": 18388,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 18806
+        "total": 18809
       }
     },
     "KUN3": {
