@@ -1395,8 +1395,8 @@ rule APT_BITTER
         $ip75 = "185.193.50.233" ascii wide
         $ip76 = "185.237.166.24" ascii wide
         $ip77 = "185.76.79.30" ascii wide
-        $ip78 = "192.71.213.128" ascii wide
-        $ip79 = "192.71.249.194" ascii wide
+        $ip78 = "188.214.33.170" ascii wide
+        $ip79 = "192.71.213.128" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)

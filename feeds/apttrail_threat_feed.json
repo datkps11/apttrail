@@ -8099,6 +8099,7 @@
           "185.193.50.233:443",
           "185.237.166.24:56218",
           "185.76.79.30:443",
+          "188.214.33.170:443",
           "192.71.213.128:4431",
           "192.71.249.194:443",
           "193.142.58.38:34905",
@@ -8196,7 +8197,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-03-27T10:32:22+02:00",
+        "last_modified": "2026-03-31T11:01:59+03:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -8764,17 +8765,20 @@
           "https://x.com/RedDrip7/status/2037368638605570409",
           "https://www.virustotal.com/gui/file/c967e7d3c8227e209537257bfe21a69aa2943e4a7b21cf8f79d2904df29404f7/detection",
           "https://x.com/RedDrip7/status/2037368885876564464",
-          "https://www.virustotal.com/gui/file/bbe94912c0dd4b812decf9d4e8a81d1f5ad215627334b50d949ff407d7062e5f/detection"
+          "https://www.virustotal.com/gui/file/bbe94912c0dd4b812decf9d4e8a81d1f5ad215627334b50d949ff407d7062e5f/detection",
+          "https://x.com/RedDrip7/status/2038827595018727498",
+          "https://www.virustotal.com/gui/file/7ea0930a332788c2e88e5822e4908d77cdcaad57e0e97401ed8fe4b117fdfc95/detection",
+          "https://www.virustotal.com/gui/file/9fb6f4c55e5198739123264f8007cf6e22b3821af97a00a471bd54b30991ecd0/detection"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 455,
           "file_path": 81,
-          "ipv4": 74,
+          "ipv4": 75,
           "url": 18
         },
-        "total": 628
+        "total": 629
       }
     },
     "BLACKGEAR": {
@@ -134710,6 +134714,7 @@
           "eterplicity.live",
           "ethanhunthero125.workers.dev",
           "eurekawatersolution.com",
+          "evisa-nadra-govpak.com",
           "ex1.mov",
           "exmail-qq-drive.com",
           "exosel.info",
@@ -137419,7 +137424,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-03-30T09:53:18+03:00",
+        "last_modified": "2026-03-31T11:06:27+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -138469,12 +138474,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3476,
+          "domain": 3477,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3568
+        "total": 3569
       }
     },
     "SILENCE": {
