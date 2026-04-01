@@ -117917,6 +117917,7 @@
           "103.35.189.107:4000",
           "103.65.230.100:1244",
           "104.168.136.24:8080",
+          "104.168.151.116:443",
           "104.168.151.34:8080",
           "104.168.157.45:3389",
           "104.168.157.45:443",
@@ -117927,6 +117928,7 @@
           "104.168.165.203:3389",
           "104.168.165.203:443",
           "104.168.172.20:8080",
+          "104.168.198.145:443",
           "104.168.203.159:3389",
           "104.168.203.159:443",
           "104.192.42.117:3000",
@@ -117985,6 +117987,7 @@
           "139.60.163.206:4000",
           "14.37.47.13:1244",
           "14.37.47.13:1245",
+          "142.11.209.109:443",
           "142.11.210.175:3000",
           "143.198.48.95:22",
           "143.198.48.95:443",
@@ -118197,9 +118200,16 @@
           "188.43.33.251:5000",
           "188.43.33.251:8000",
           "188.43.33.251:8080",
+          "192.119.116.231:443",
           "192.169.250.185:443",
           "192.210.213.178:443",
           "192.210.239.122:443",
+          "192.236.146.20:443",
+          "192.236.146.22:443",
+          "192.236.176.164:443",
+          "192.236.233.162:443",
+          "192.236.233.165:443",
+          "192.236.236.100:443",
           "193.56.28.103:88",
           "193.56.28.251:443",
           "194.45.8.41:443",
@@ -118276,6 +118286,8 @@
           "23.227.203.204:1224",
           "23.227.203.204:1245",
           "23.254.119.12:443",
+          "23.254.128.114:443",
+          "23.254.164.50:443",
           "23.254.244.242:3000",
           "23.254.244.248:3389",
           "23.254.244.248:443",
@@ -118660,7 +118672,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-03-30T09:55:29+03:00",
+        "last_modified": "2026-04-01T17:06:43+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -119862,10 +119874,10 @@
         "by_type": {
           "domain": 3505,
           "file_path": 478,
-          "ipv4": 562,
+          "ipv4": 574,
           "url": 108
         },
-        "total": 4653
+        "total": 4665
       }
     },
     "LAZYSCRIPTER": {
@@ -157034,6 +157046,7 @@
           "digicertweb.com",
           "digital-ua.digital",
           "diia.me",
+          "discbase.work",
           "djou233.zapto.org",
           "dlbh.telemetry.geostatcdn.com",
           "dlgmail.com",
@@ -158261,7 +158274,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2026-03-25T16:00:51+02:00",
+        "last_modified": "2026-04-01T17:23:01+03:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -158720,17 +158733,19 @@
           "https://www.virustotal.com/gui/file/ea078216452f5f6d4eea27bbc062286396a5252e2c267ecc3933d05a4e38da15/detection",
           "https://x.com/malwrhunterteam/status/2026625918223978705",
           "https://x.com/smica83/status/2026630531392160251",
-          "https://tria.ge/260225-pazmhaby3b/behavioral1"
+          "https://tria.ge/260225-pazmhaby3b/behavioral1",
+          "https://x.com/smica83/status/2039340183292633436",
+          "https://www.virustotal.com/gui/file/27cc24191592acbbb4108f1f947de3458922bd3212f0cd8d10b01e0f0f432f75/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1211,
+          "domain": 1212,
           "file_path": 77,
           "ipv4": 117,
           "url": 59
         },
-        "total": 1464
+        "total": 1465
       }
     },
     "USH": {
