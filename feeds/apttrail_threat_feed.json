@@ -93727,6 +93727,7 @@
           "ageegigi.click",
           "agellar.info",
           "aget0mkcoilp.store",
+          "agfsddfdfdfndesfr.forum",
           "agni.farm",
           "agsbte.store",
           "ahealthhfdfvei.forum",
@@ -111832,7 +111833,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-03-30T10:18:38+03:00",
+        "last_modified": "2026-04-02T11:30:35+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -113357,12 +113358,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18389,
+          "domain": 18390,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 18810
+        "total": 18811
       }
     },
     "KUN3": {
@@ -117964,6 +117965,13 @@
           "111.90.148.132:443",
           "112.175.92.57:443",
           "113.114.117.122:23397",
+          "116.202.208.125:8086",
+          "116.202.208.125:8087",
+          "116.202.208.125:8089",
+          "116.202.208.125:8181",
+          "116.202.208.125:8443",
+          "116.202.208.125:8888",
+          "116.202.208.125:9999",
           "118.123.54.71:9999",
           "119.18.230.253:443",
           "119.6.121.143:9999",
@@ -118672,7 +118680,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-04-01T17:06:43+03:00",
+        "last_modified": "2026-04-02T11:06:59+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -119867,17 +119875,20 @@
           "https://www.virustotal.com/gui/file/4291da6d5461c51ff0f852ca40a557739e955667df66c359cb0952542bb796b2/detection",
           "https://www.virustotal.com/gui/file/c2fe5b1d2c4cef27ab22fa8bc960a78264418e02ab3787bf0053c8f3a37c95ca/detection",
           "https://www.virustotal.com/gui/file/a6d2f0c3892b443d022d4c77835a85efb1131b0a12d3464b01cec3563194c73c/detection",
-          "https://x.com/0x6rss/status/2036819936232763746"
+          "https://x.com/0x6rss/status/2036819936232763746",
+          "https://x.com/Fact_Finder03/status/2039577095664525728",
+          "https://www.virustotal.com/gui/ip-address/116.202.208.125/community",
+          "https://jp.security.ntt/tech_blog/en-waterplum-ottercookie"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 3505,
           "file_path": 478,
-          "ipv4": 574,
+          "ipv4": 581,
           "url": 108
         },
-        "total": 4665
+        "total": 4672
       }
     },
     "LAZYSCRIPTER": {
