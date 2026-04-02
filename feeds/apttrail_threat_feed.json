@@ -134729,6 +134729,7 @@
           "erd.gov.lk.pk-mail.org",
           "ereribe.tech",
           "eservice-ptclnetpk.servehttp.com",
+          "estabiishment.gov.ministry-gov.org",
           "establishment.gov.pk-govt.net",
           "establishment.mails-pk.com",
           "estate.ovil.tech",
@@ -134963,6 +134964,7 @@
           "gov.lk.mofa-govtpk.net",
           "gov.lk.pk-mail.org",
           "gov.mail-pk.org",
+          "gov.ministry-gov.org",
           "gov.mm.gov-co.org",
           "gov.mm.gov-org.net",
           "gov.mv.gov-org.net",
@@ -135759,6 +135761,7 @@
           "mindef.gov.pk.govt-pk.com",
           "mindef.govvv.pk",
           "ministry-gov.cdn-dl.cn",
+          "ministry-gov.org",
           "ministry-interior-gov-pk.cdn-dl.cn",
           "ministry-pk.net",
           "ministryofdefencechinadrive.pages.dev",
@@ -137447,7 +137450,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-03-31T11:06:27+03:00",
+        "last_modified": "2026-04-02T14:25:55+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -138492,17 +138495,18 @@
           "https://x.com/volrant136/status/2035385952529522976",
           "https://x.com/volrant136/status/2035748336410759648",
           "https://x.com/SinghSoodeep/status/2035992239235903862",
-          "https://www.virustotal.com/gui/file/4d11d087acbf9573e3f850a99f5bb67357ed2215de0e96a63c4c151f0714e4f9/detection"
+          "https://www.virustotal.com/gui/file/4d11d087acbf9573e3f850a99f5bb67357ed2215de0e96a63c4c151f0714e4f9/detection",
+          "https://x.com/__0XYC__/status/2039538772090753351"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3477,
+          "domain": 3480,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3569
+        "total": 3572
       }
     },
     "SILENCE": {
