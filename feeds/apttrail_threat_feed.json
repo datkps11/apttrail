@@ -113936,6 +113936,7 @@
           "1drvmicrosoft.com",
           "1winfans.com",
           "247l.net",
+          "260120.vercel.app",
           "2ab9.watashinonegai.ru",
           "2daojnjnp666jla6.dropfile.online",
           "360scanner.store",
@@ -114007,6 +114008,7 @@
           "ajileuowl.dliklone.online",
           "akamaitechnologies.online",
           "alahbabgroup.com",
+          "alanservice.vercel.app",
           "alchemy-api-v3.cloud",
           "alchemy.motionassess.com",
           "alchemy.onchainhiringtool.com",
@@ -114866,6 +114868,7 @@
           "deck.linkpc.net",
           "deepdriverupdate.online",
           "deepmindschematic.com",
+          "default-configuration.vercel.app",
           "defi.smart-contracts.blog",
           "defianceanalytics.abilityscan360.com",
           "defianceanalytics.easyhiringtool.com",
@@ -115173,6 +115176,7 @@
           "fastwise.org",
           "fclouddown.co",
           "febintllc.com",
+          "felixpools.vercel.app",
           "fenbushi.general-meeting.team",
           "fenbushi.private-meet.online",
           "fenbushi.private-meet.team",
@@ -115289,6 +115293,7 @@
           "general-meet.team",
           "general-meeting.team",
           "geocollab.wegrowup.us",
+          "georgeservice77.vercel.app",
           "getapilatency.onrender.com",
           "getcoinprice.info",
           "getdonald.xyz",
@@ -115565,6 +115570,7 @@
           "j-rl.com",
           "jaicvc.com",
           "jamesbillion.com",
+          "jameslack.vercel.app",
           "jbic.us",
           "jbmnqpwp.naveicoipg.online",
           "jdkgradle.com",
@@ -117179,8 +117185,10 @@
           "vscode-project-setting.vercel.app",
           "vscode-settings-bootstrap.vercel.app",
           "vscode-settings-config.vercel.app",
+          "vscode-settings-tasks-json.vercel.app",
           "vscode-toolkit-bootstrap.vercel.app",
           "vscodeconfig.com",
+          "vscodesetting-task.vercel.app",
           "vscodesettings03kui.vercel.app",
           "vscodesettingstask.vercel.app",
           "vscodesettingtask.vercel.app",
@@ -118680,7 +118688,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-04-02T11:06:59+03:00",
+        "last_modified": "2026-04-03T17:38:40+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -119878,17 +119886,18 @@
           "https://x.com/0x6rss/status/2036819936232763746",
           "https://x.com/Fact_Finder03/status/2039577095664525728",
           "https://www.virustotal.com/gui/ip-address/116.202.208.125/community",
-          "https://jp.security.ntt/tech_blog/en-waterplum-ottercookie"
+          "https://jp.security.ntt/tech_blog/en-waterplum-ottercookie",
+          "https://opensourcemalware.com/blog/tasksjacker-blog-post"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3505,
+          "domain": 3513,
           "file_path": 478,
           "ipv4": 581,
           "url": 108
         },
-        "total": 4672
+        "total": 4680
       }
     },
     "LAZYSCRIPTER": {
@@ -137323,6 +137332,7 @@
           "zimbra10-internationalrelation40-beep5751-brqupv53.leapcell.dev",
           "zimbra10-nml3wp-max8143-3ipio7e5.leapcell.dev",
           "zimbra10-nml3wp-max8143-fn1rsf7l.leapcell.dev",
+          "zimbramail-nayatel-com.zeabur.app",
           "zimbramail-nayatel.leapcell.app",
           "ziptec.info",
           "zlaeso.xyz",
@@ -137450,7 +137460,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-04-02T14:25:55+03:00",
+        "last_modified": "2026-04-03T17:11:47+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -138496,17 +138506,18 @@
           "https://x.com/volrant136/status/2035748336410759648",
           "https://x.com/SinghSoodeep/status/2035992239235903862",
           "https://www.virustotal.com/gui/file/4d11d087acbf9573e3f850a99f5bb67357ed2215de0e96a63c4c151f0714e4f9/detection",
-          "https://x.com/__0XYC__/status/2039538772090753351"
+          "https://x.com/__0XYC__/status/2039538772090753351",
+          "https://x.com/volrant136/status/2039761718969315508"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3480,
+          "domain": 3481,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3572
+        "total": 3573
       }
     },
     "SILENCE": {
