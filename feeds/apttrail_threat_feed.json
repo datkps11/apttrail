@@ -118008,6 +118008,7 @@
           "137.139.135.151:64694",
           "137.184.15.189:22",
           "138.201.199.46:1224",
+          "138.201.223.115:4801",
           "138.201.248.205:49498",
           "138.201.248.205:49499",
           "138.201.50.5:5961",
@@ -118264,6 +118265,10 @@
           "214.75.112.56:1245",
           "216.126.229.166:1224",
           "216.126.229.166:1245",
+          "216.126.237.71:4801",
+          "216.126.237.71:4806",
+          "216.126.237.71:4809",
+          "216.126.237.71:4899",
           "216.173.115.200:1244",
           "216.244.71.233:443",
           "216.250.248.200:1224",
@@ -118699,7 +118704,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-04-04T13:57:34+03:00",
+        "last_modified": "2026-04-05T00:00:10+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -119898,17 +119903,18 @@
           "https://x.com/Fact_Finder03/status/2039577095664525728",
           "https://www.virustotal.com/gui/ip-address/116.202.208.125/community",
           "https://jp.security.ntt/tech_blog/en-waterplum-ottercookie",
-          "https://opensourcemalware.com/blog/tasksjacker-blog-post"
+          "https://opensourcemalware.com/blog/tasksjacker-blog-post",
+          "https://x.com/abh1sek/status/2039637787742507381"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 3518,
           "file_path": 478,
-          "ipv4": 581,
+          "ipv4": 586,
           "url": 108
         },
-        "total": 4685
+        "total": 4690
       }
     },
     "LAZYSCRIPTER": {
