@@ -95332,6 +95332,7 @@
           "coliov.shop",
           "collect-info.p-e.kr",
           "com-account.kro.kr",
+          "com-accountsverify.dynv6.net",
           "com-ace.live-on.net",
           "com-active.work",
           "com-atw.click",
@@ -100759,6 +100760,7 @@
           "mexc-view.n-e.kr",
           "mexc.account-login.r-e.kr",
           "mexc.com-account.kro.kr",
+          "mexc.com-accountsverify.dynv6.net",
           "mexc.com-privacy.kro.kr",
           "mexc.corn-info.space",
           "mexc.m-service.space",
@@ -107070,6 +107072,7 @@
           "online-access.dynv6.net",
           "online-doc.linkpc.net",
           "online-edu-course.online",
+          "online-kt.dynv6.net",
           "online-kt.server-on.net",
           "online-mexc.kro.kr",
           "online-support.work",
@@ -109143,6 +109146,7 @@
           "store.nps-from.site",
           "store.nps-top.site",
           "store.ntspost.space",
+          "store.online-kt.dynv6.net",
           "storeer.chickenkiller.com",
           "stormcod.click",
           "storodi.click",
@@ -111833,7 +111837,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-02T11:30:35+03:00",
+        "last_modified": "2026-04-04T13:31:34+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -113358,12 +113362,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18390,
+          "domain": 18394,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 18811
+        "total": 18815
       }
     },
     "KUN3": {
