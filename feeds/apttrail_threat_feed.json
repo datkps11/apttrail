@@ -117177,6 +117177,7 @@
           "vscode-config-setting.vercel.app",
           "vscode-config-settings.vercel.app",
           "vscode-config.vercel.app",
+          "vscode-css-sort-website.vercel.app",
           "vscode-extension.vercel.app",
           "vscode-helper-132.vercel.app",
           "vscode-helper171-ruby.vercel.app",
@@ -117185,17 +117186,21 @@
           "vscode-load-config.vercel.app",
           "vscode-load.onrender.com",
           "vscode-load.vercel.app",
+          "vscode-marketplace-badge.vercel.app",
           "vscode-portfolio.vercel.app",
           "vscode-project-setting.vercel.app",
           "vscode-settings-bootstrap.vercel.app",
           "vscode-settings-config.vercel.app",
           "vscode-settings-tasks-json.vercel.app",
+          "vscode-theme-lesser.vercel.app",
+          "vscode-themes-community.vercel.app",
           "vscode-toolkit-bootstrap.vercel.app",
           "vscodeconfig.com",
           "vscodesetting-task.vercel.app",
           "vscodesettings03kui.vercel.app",
           "vscodesettingstask.vercel.app",
           "vscodesettingtask.vercel.app",
+          "vscodeweb.vercel.app",
           "vz206llb19o.com",
           "w3capi.marketing",
           "waitingfor.cfd",
@@ -118692,7 +118697,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-04-03T17:38:40+03:00",
+        "last_modified": "2026-04-04T13:57:34+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -119896,12 +119901,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3513,
+          "domain": 3518,
           "file_path": 478,
           "ipv4": 581,
           "url": 108
         },
-        "total": 4680
+        "total": 4685
       }
     },
     "LAZYSCRIPTER": {
