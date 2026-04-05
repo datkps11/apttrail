@@ -93548,6 +93548,7 @@
           "accountsuey.kakaoaccouts.store",
           "accountsuser.store",
           "accountsute.kakaoaccouts.store",
+          "accountsverify.kro.kr",
           "accountuquery.kro.kr",
           "accountuserconfirm.kro.kr",
           "accountuserservice.kro.kr",
@@ -100761,6 +100762,7 @@
           "mexc-signin.kro.kr",
           "mexc-view.n-e.kr",
           "mexc.account-login.r-e.kr",
+          "mexc.accountsverify.kro.kr",
           "mexc.com-account.kro.kr",
           "mexc.com-accountsverify.dynv6.net",
           "mexc.com-privacy.kro.kr",
@@ -111839,7 +111841,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-04T18:15:43+03:00",
+        "last_modified": "2026-04-05T15:47:51+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -113364,12 +113366,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18396,
+          "domain": 18398,
           "file_path": 282,
           "ipv4": 77,
           "url": 62
         },
-        "total": 18817
+        "total": 18819
       }
     },
     "KUN3": {
