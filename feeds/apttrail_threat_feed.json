@@ -7602,6 +7602,7 @@
           "coerciondigital.com",
           "colorsofnether.com",
           "com-ae.net",
+          "commonlifesupport.com",
           "comnmsgwrapsvc.net",
           "confirm97.com",
           "converse-app.org",
@@ -8197,7 +8198,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-03-31T11:01:59+03:00",
+        "last_modified": "2026-04-06T17:23:20+03:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -8768,17 +8769,19 @@
           "https://www.virustotal.com/gui/file/bbe94912c0dd4b812decf9d4e8a81d1f5ad215627334b50d949ff407d7062e5f/detection",
           "https://x.com/RedDrip7/status/2038827595018727498",
           "https://www.virustotal.com/gui/file/7ea0930a332788c2e88e5822e4908d77cdcaad57e0e97401ed8fe4b117fdfc95/detection",
-          "https://www.virustotal.com/gui/file/9fb6f4c55e5198739123264f8007cf6e22b3821af97a00a471bd54b30991ecd0/detection"
+          "https://www.virustotal.com/gui/file/9fb6f4c55e5198739123264f8007cf6e22b3821af97a00a471bd54b30991ecd0/detection",
+          "https://x.com/volrant136/status/2041159217374244990",
+          "https://www.virustotal.com/gui/file/0b6d4f7a545e6fc1bfc907f76e9291a75f1fbb679dcb87c5a72cf2dcadf4aa6f/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 455,
+          "domain": 456,
           "file_path": 81,
           "ipv4": 75,
           "url": 18
         },
-        "total": 629
+        "total": 630
       }
     },
     "BLACKGEAR": {
@@ -124763,6 +124766,8 @@
           "files.documentpdfviewer.xyz",
           "files.office-docs.online",
           "files.office3-docviewer.com",
+          "filesdownld.z13.web.core.windows.net",
+          "filestoretome.z23.web.core.windows.net",
           "fitehook.com",
           "fjke5oe.com",
           "flach.cn",
@@ -124777,6 +124782,7 @@
           "ggrdl4.com",
           "gm4rys.com",
           "goclamdep.net",
+          "gooledives.z48.web.core.windows.net",
           "gui.document-invoiceviewer.online",
           "gui.documentpdfviewer.xyz",
           "gui.office-docs.online",
@@ -124885,6 +124891,7 @@
           "president-office.gov.mm",
           "profile-keybord.com",
           "qa.flowise.document-viewer.xyz",
+          "reloadsite.z13.web.core.windows.net",
           "renewyourclicks.org",
           "renxinguo.com",
           "rewards.roshan.af",
@@ -125127,7 +125134,7 @@
         ],
         "apt_group": "MUSTANGPANDA",
         "filename": "apt_mustangpanda.txt",
-        "last_modified": "2026-02-25T13:36:13+02:00",
+        "last_modified": "2026-04-06T17:15:54+03:00",
         "references": [
           "https://www.anomali.com/blog/china-based-apt-mustang-panda-targets-minority-groups-public-and-private-sector-organizations",
           "https://otx.alienvault.com/pulse/5d9c72d7e2efa3b5aa799b41",
@@ -125314,17 +125321,18 @@
           "https://x.com/goldenjackel12/status/2026529278758990165",
           "https://x.com/malwrhunterteam/status/2026614706866180128",
           "https://www.virustotal.com/gui/file/30c71d644bc72e0d55d46bed753ab3f72dc77b7f1be0e34693c957939a779507/detection",
-          "https://www.virustotal.com/gui/file/e79d19d68d307c12413f8549aafa4a56776002dd04601e36e0125b2e6d56ff94/detection"
+          "https://www.virustotal.com/gui/file/e79d19d68d307c12413f8549aafa4a56776002dd04601e36e0125b2e6d56ff94/detection",
+          "https://www.proofpoint.com/us/blog/threat-insight/id-come-running-back-eu-again-ta416-resumes-european-government-espionage"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 225,
+          "domain": 229,
           "file_path": 1,
           "ipv4": 123,
           "url": 48
         },
-        "total": 397
+        "total": 401
       }
     },
     "NAIKON": {
@@ -134745,6 +134753,7 @@
           "consmofagov.com",
           "consmofagovhqipk.com",
           "contact.gov-pak.org",
+          "contract-agreement-with-staff.zeabur.app",
           "coordination-cas-visit.netlify.app",
           "coremailcloud.com",
           "corporate-social-activity-updates.ciecc.com.cn.81-cn.info",
@@ -137809,7 +137818,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-04-04T18:00:40+03:00",
+        "last_modified": "2026-04-06T17:25:20+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -138856,17 +138865,18 @@
           "https://x.com/SinghSoodeep/status/2035992239235903862",
           "https://www.virustotal.com/gui/file/4d11d087acbf9573e3f850a99f5bb67357ed2215de0e96a63c4c151f0714e4f9/detection",
           "https://x.com/__0XYC__/status/2039538772090753351",
-          "https://x.com/volrant136/status/2039761718969315508"
+          "https://x.com/volrant136/status/2039761718969315508",
+          "https://x.com/volrant136/status/2040459381930877404"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3483,
+          "domain": 3484,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3575
+        "total": 3576
       }
     },
     "SILENCE": {
