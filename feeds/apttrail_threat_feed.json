@@ -155409,6 +155409,7 @@
           "69p.icu",
           "6a50.de83c8f74.net",
           "6b30c.ryvjugi.com",
+          "6cd622249b.top",
           "6cxrf02iacu9s87.xyz",
           "6de029.lwmgxssk.com",
           "6e2.jkhvfia.com",
@@ -157224,7 +157225,7 @@
         ],
         "apt_group": "UNC6691",
         "filename": "apt_unc6691.txt",
-        "last_modified": "2026-04-06T11:59:59+03:00",
+        "last_modified": "2026-04-06T14:39:26+03:00",
         "references": [
           "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit",
           "https://iverify.io/blog/coruna-inside-the-nation-state-grade-ios-exploit-kit-we-ve-been-tracking",
@@ -157233,10 +157234,10 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 2018,
+          "domain": 2019,
           "file_path": 1
         },
-        "total": 2019
+        "total": 2020
       }
     },
     "UNC961": {
