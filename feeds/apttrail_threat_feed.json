@@ -155382,6 +155382,7 @@
           "54mx1.com",
           "54mx2.com",
           "54mx3.com",
+          "54mx4.com",
           "55676.mqztymvz.cc",
           "5702b6.de83c8f74.net",
           "571534cd1c.top",
@@ -157240,7 +157241,7 @@
         ],
         "apt_group": "UNC6691",
         "filename": "apt_unc6691.txt",
-        "last_modified": "2026-04-06T14:39:26+03:00",
+        "last_modified": "2026-04-07T12:59:30+03:00",
         "references": [
           "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit",
           "https://iverify.io/blog/coruna-inside-the-nation-state-grade-ios-exploit-kit-we-ve-been-tracking",
@@ -157249,10 +157250,10 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 2019,
+          "domain": 2020,
           "file_path": 1
         },
-        "total": 2020
+        "total": 2021
       }
     },
     "UNC961": {
