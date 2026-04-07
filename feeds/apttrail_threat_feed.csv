@@ -7658,6 +7658,7 @@ BLUENOROFF,domain,uk01webzoom.us
 BLUENOROFF,domain,uk02webzoom.us
 BLUENOROFF,domain,uk03webzoom.us
 BLUENOROFF,domain,uk04webzoom.us
+BLUENOROFF,domain,uk05live.us
 BLUENOROFF,domain,uk05webzoom.us
 BLUENOROFF,domain,uk06webzoom.us
 BLUENOROFF,domain,uk07webzoom.us
@@ -131368,6 +131369,9 @@ UNC2465,domain,vsphere-client.org
 UNC2465,domain,web-app.dasik14289.workers.dev
 UNC2465,domain,web-app.larij21770.workers.dev
 UNC2465,domain,work-server-1.picalob750.workers.dev
+UNC2465,domain,workbenche.com
+UNC2465,domain,workbencn.com
+UNC2465,domain,workbenech.com
 UNC2529,domain,adupla.net
 UNC2529,domain,aibemarle.com
 UNC2529,domain,arcadiabay.org
