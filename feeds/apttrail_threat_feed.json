@@ -131284,9 +131284,12 @@
           "v.pic447.com",
           "v2.pic447.com",
           "w.pic447.com",
-          "wk.goldeyeuu.io"
+          "wk.goldeyeuu.io",
+          "yy-service.s3.ap-northeast-2.amazonaws.com",
+          "yyupdats.s3.ap-southeast-1.amazonaws.com"
         ],
         "ipv4": [
+          "143.92.57.46:15628",
           "185.135.79.196:5188",
           "185.135.79.200:5188",
           "206.233.128.103:443"
@@ -131303,7 +131306,7 @@
         ],
         "apt_group": "Q27",
         "filename": "apt_q27.txt",
-        "last_modified": "2026-01-18T03:20:30+02:00",
+        "last_modified": "2026-04-07T21:23:53+03:00",
         "references": [
           "https://news.sophos.com/en-us/2023/05/03/doubled-dll-sideloading-dragon-breath/",
           "https://github.com/sophoslabs/IoCs/blob/master/double-dragon-breath-iocs.csv",
@@ -131313,16 +131316,19 @@
           "https://x.com/WabiSabi777_/status/2009238999190392969",
           "https://www.virustotal.com/gui/file/01268d68f1726a31e881515bd70139bf9e3e235fa3a899b0aa9e52db4a7c0547/detection",
           "https://x.com/smica83/status/2012523844196544813",
-          "https://tria.ge/260117-sjqyhafw7g/behavioral1"
+          "https://tria.ge/260117-sjqyhafw7g/behavioral1",
+          "https://x.com/malwrhunterteam/status/2002322293091901684",
+          "https://cyberpress.org/apt-q-27-evades-corporate-defenses/",
+          "https://www.virustotal.com/gui/file/14d374ea0604f70e6f39306efd948e7962fdd21cdb3e187ba461312027ebd3f5/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 20,
-          "ipv4": 3,
+          "domain": 22,
+          "ipv4": 4,
           "url": 1
         },
-        "total": 24
+        "total": 27
       }
     },
     "QUARIAN": {

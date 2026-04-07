@@ -9304,7 +9304,7 @@ rule APT_Q27
         author = "APTtrail Automated Collection"
         apt_group = "Q27"
         aliases = "apt-q-27, dragon breath, golden eye dog"
-        reference = "https://github.com/sophoslabs/IoCs/blob/master/double-dragon-breath-iocs.csv"
+        reference = "https://cyberpress.org/apt-q-27-evades-corporate-defenses/"
         severity = "high"
         tlp = "white"
 
@@ -9329,9 +9329,12 @@ rule APT_Q27
         $domain17 = "v2\.pic447\.com" ascii wide nocase
         $domain18 = "w\.pic447\.com" ascii wide nocase
         $domain19 = "wk\.goldeyeuu\.io" ascii wide nocase
-        $ip20 = "185.135.79.196" ascii wide
-        $ip21 = "185.135.79.200" ascii wide
-        $ip22 = "206.233.128.103" ascii wide
+        $domain20 = "yy-service\.s3\.ap-northeast-2\.amazonaws\.com" ascii wide nocase
+        $domain21 = "yyupdats\.s3\.ap-southeast-1\.amazonaws\.com" ascii wide nocase
+        $ip22 = "143.92.57.46" ascii wide
+        $ip23 = "185.135.79.196" ascii wide
+        $ip24 = "185.135.79.200" ascii wide
+        $ip25 = "206.233.128.103" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
