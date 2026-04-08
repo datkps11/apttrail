@@ -153247,7 +153247,8 @@
           "work-server-1.picalob750.workers.dev",
           "workbenche.com",
           "workbencn.com",
-          "workbenech.com"
+          "workbenech.com",
+          "workbeneh.com"
         ]
       },
       "metadata": {
@@ -153256,7 +153257,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-04-07T11:31:09+03:00",
+        "last_modified": "2026-04-08T10:14:51+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -153273,9 +153274,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 191
+          "domain": 192
         },
-        "total": 191
+        "total": 192
       }
     },
     "UNC2529": {
