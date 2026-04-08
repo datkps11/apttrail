@@ -101998,6 +101998,7 @@
           "natemail.info",
           "natemall.farted.net",
           "natemjp.onthewifi.com",
+          "naterqn.onthewifi.com",
           "nates.kro.kr",
           "nates.lat",
           "nates.store",
@@ -104255,6 +104256,7 @@
           "nid-navercorp.myvnc.com",
           "nid-navercsv.servehalflife.com",
           "nid-naverctl.ddnsking.com",
+          "nid-navercto.ddnsking.com",
           "nid-navercwu.servecounterstrike.com",
           "nid-navercwv.servegame.com",
           "nid-naverczg.3utilities.com",
@@ -104285,6 +104287,7 @@
           "nid-naverfnx.ddnsking.com",
           "nid-naverfoq.ddnsking.com",
           "nid-naverfxc.servecounterstrike.com",
+          "nid-navergbd.serveftp.com",
           "nid-naverggi.3utilities.com",
           "nid-navergip.onthewifi.com",
           "nid-navergkn.serveftp.com",
@@ -104344,6 +104347,7 @@
           "nid-navernvj.servequake.com",
           "nid-navernxe.servegame.com",
           "nid-navernym.servequake.com",
+          "nid-navernyp.onthewifi.com",
           "nid-naveroar.servemp3.com",
           "nid-naverohn.3utilities.com",
           "nid-naveroic.servequake.com",
@@ -112171,7 +112175,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-05T19:22:13+03:00",
+        "last_modified": "2026-04-08T10:34:14+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -113694,17 +113698,18 @@
           "https://x.com/skocherhan/status/2036444684436865138",
           "https://www.virustotal.com/gui/ip-address/158.247.219.150/relations",
           "https://x.com/G60930953/status/2040605804949053513",
-          "https://www.virustotal.com/gui/file/169586b6eb36b17520ef5afd206da86c4de89eb01d6294ba9631414271ba752f/detection"
+          "https://www.virustotal.com/gui/file/169586b6eb36b17520ef5afd206da86c4de89eb01d6294ba9631414271ba752f/detection",
+          "https://www.virustotal.com/gui/ip-address/27.102.137.150/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 18656,
+          "domain": 18660,
           "file_path": 282,
           "ipv4": 77,
           "url": 63
         },
-        "total": 19078
+        "total": 19082
       }
     },
     "KUN3": {
