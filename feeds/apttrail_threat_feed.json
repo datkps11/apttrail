@@ -158240,6 +158240,7 @@
           "daisy101.ddns.net",
           "datastorage-ds.click",
           "db-control-uplink.com",
+          "dbx.ado-read-parser.com",
           "de-ledger.com",
           "decgov.us",
           "deekay123.linkpc.net",
@@ -159503,7 +159504,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2026-04-09T13:45:13+03:00",
+        "last_modified": "2026-04-09T14:42:55+03:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -159972,12 +159973,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1214,
+          "domain": 1215,
           "file_path": 77,
           "ipv4": 119,
           "url": 59
         },
-        "total": 1469
+        "total": 1470
       }
     },
     "USH": {
