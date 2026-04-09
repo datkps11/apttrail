@@ -11197,7 +11197,6 @@ rule APT_STRONGPITY
         $domain48 = "resolutionplatform\.com" ascii wide nocase
         $domain49 = "selectednewfile\.com" ascii wide nocase
         $ip50 = "193.235.207.60" ascii wide
-        $url51 = "/gui/ip-address/139\.59\.250\.183/relations" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)

@@ -94482,6 +94482,7 @@
           "attiavi.click",
           "au.news-web.site",
           "au0fo.dns.army",
+          "auction.dynv6.net",
           "auction.server-on.net",
           "audko.store",
           "aumyjk9jxc.dns.army",
@@ -109614,6 +109615,7 @@
           "stock66.sbs",
           "stockqq.sbs",
           "stockqq.top",
+          "store.auction.dynv6.net",
           "store.farted.net",
           "store.navemid.host",
           "store.notici.as",
@@ -112345,7 +112347,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-08T10:34:14+03:00",
+        "last_modified": "2026-04-09T12:18:41+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -113874,12 +113876,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18660,
+          "domain": 18662,
           "file_path": 282,
           "ipv4": 77,
           "url": 63
         },
-        "total": 19082
+        "total": 19084
       }
     },
     "KUN3": {
@@ -142315,9 +142317,6 @@
         ],
         "ipv4": [
           "193.235.207.60:443"
-        ],
-        "url": [
-          "https://www.virustotal.com/gui/ip-address/139.59.250.183/relations"
         ]
       },
       "metadata": {
@@ -142328,7 +142327,7 @@
         ],
         "apt_group": "STRONGPITY",
         "filename": "apt_strongpity.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-04-09T13:31:12+03:00",
         "references": [
           "https://www.proofpoint.com/us/daily-ruleset-update-summary-20180522",
           "https://twitter.com/VK_Intel/status/1189939324344766464",
@@ -142399,16 +142398,16 @@
           "https://twitter.com/Des00464472/status/1583333357714538497",
           "https://twitter.com/malwrhunterteam/status/1549125906416943108",
           "https://www.welivesecurity.com/2023/01/10/strongpity-espionage-campaign-targeting-android-users/",
-          "https://www.virustotal.com/gui/file/be1593bd1f1d5a4d05217f0492832e13bddd61281d8e109668ea5c64920fe9b2/detection"
+          "https://www.virustotal.com/gui/file/be1593bd1f1d5a4d05217f0492832e13bddd61281d8e109668ea5c64920fe9b2/detection",
+          "https://www.virustotal.com/gui/ip-address/139.59.250.183/relations"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 78,
-          "ipv4": 1,
-          "url": 1
+          "ipv4": 1
         },
-        "total": 80
+        "total": 79
       }
     },
     "STUXNET": {
@@ -158075,6 +158074,7 @@
           "accountapp.xyz",
           "accountsgoog1e.com",
           "acrobatverify.com",
+          "ado-read-parser.com",
           "adobeactiveupdate.com",
           "adobeactiveupdates.com",
           "adobeseupdater.com",
@@ -159234,6 +159234,7 @@
           "zoro2015.ddns.net",
           "zororo.mobi",
           "zscaler-alstom.westeurope.cloudapp.azure.com",
+          "zx.ado-read-parser.com",
           "zz.allsoulu.com"
         ],
         "file_path": [
@@ -159354,6 +159355,7 @@
           "167.71.226.171:81",
           "167.71.226.171:82",
           "167.86.98.190:3617",
+          "169.40.2.68:45191",
           "172.105.34.34:8081",
           "172.105.34.34:8087",
           "172.105.34.34:8443",
@@ -159385,6 +159387,7 @@
           "185.233.202.133:90",
           "185.76.78.117:443",
           "185.86.151.223",
+          "188.214.34.20:34123",
           "188.35.20.137:443",
           "192.145.44.201:443",
           "193.122.105.160:8080",
@@ -159500,7 +159503,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2026-04-01T17:23:01+03:00",
+        "last_modified": "2026-04-09T13:45:13+03:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -159961,17 +159964,20 @@
           "https://x.com/smica83/status/2026630531392160251",
           "https://tria.ge/260225-pazmhaby3b/behavioral1",
           "https://x.com/smica83/status/2039340183292633436",
-          "https://www.virustotal.com/gui/file/27cc24191592acbbb4108f1f947de3458922bd3212f0cd8d10b01e0f0f432f75/detection"
+          "https://www.virustotal.com/gui/file/27cc24191592acbbb4108f1f947de3458922bd3212f0cd8d10b01e0f0f432f75/detection",
+          "https://justhaifei1.blogspot.com/2026/04/expmon-detected-sophisticated-zero-day-adobe-reader.html",
+          "https://www.virustotal.com/gui/file/54077a5b15638e354fa02318623775b7a1cc0e8c21e59bcbab333035369e377f/detection",
+          "https://www.virustotal.com/gui/file/65dca34b04416f9a113f09718cbe51e11fd58e7287b7863e37f393ed4d25dde7/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1212,
+          "domain": 1214,
           "file_path": 77,
-          "ipv4": 117,
+          "ipv4": 119,
           "url": 59
         },
-        "total": 1465
+        "total": 1469
       }
     },
     "USH": {
