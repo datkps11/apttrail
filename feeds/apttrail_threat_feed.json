@@ -118601,6 +118601,7 @@
           "147.124.202.194:3000",
           "147.124.202.208:3000",
           "147.124.202.225:1244",
+          "147.124.202.225:3000",
           "147.124.212.125:1244",
           "147.124.212.146:1244",
           "147.124.212.234:1244",
@@ -119216,7 +119217,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-04-05T00:00:10+03:00",
+        "last_modified": "2026-04-10T20:55:33+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -120243,6 +120244,7 @@
           "https://www.virustotal.com/gui/ip-address/84.32.84.32/relations",
           "https://www.virustotal.com/gui/ip-address/82.197.83.216/relations",
           "https://app.validin.com/detail?find=Node.js%20upload%20multiple%20files&type=raw&ref_id=02496d38d39#tab=host_pairs (# 2025-08-02)",
+          "https://pilot.validin.com/detail?find=VScode&type=raw&ref_id=689da69896f#tab=host_pairs (# 2026-04-10)",
           "https://www.veracode.com/blog/north-korean-crypto-stealing-campaign-again/",
           "https://x.com/lazarusholic/status/1953086237193150753",
           "https://any.run/cybersecurity-blog/pylangghost-malware-analysis/",
@@ -120423,10 +120425,10 @@
         "by_type": {
           "domain": 3518,
           "file_path": 478,
-          "ipv4": 586,
+          "ipv4": 587,
           "url": 108
         },
-        "total": 4690
+        "total": 4691
       }
     },
     "LAZYSCRIPTER": {
