@@ -100460,6 +100460,7 @@
           "logginnld.tech",
           "logginnldsignup.tech",
           "logicchampi.click",
+          "login-accounts.dynv6.net",
           "login-accounts.kro.kr",
           "login-accounts.servehttp.com",
           "login-co-kr.com",
@@ -110277,6 +110278,7 @@
           "user-hometx.r-e.kr",
           "user-info.binduserdoc.p-e.kr",
           "user-info.mybox-check.o-r.kr",
+          "user-kakao.login-accounts.dynv6.net",
           "user-line.dynv6.net",
           "user-manage-cenier.nol.es",
           "user-manage-center.hol.es",
@@ -112354,7 +112356,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-11T21:39:30+03:00",
+        "last_modified": "2026-04-11T22:22:08+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -113886,12 +113888,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18668,
+          "domain": 18670,
           "file_path": 282,
           "ipv4": 77,
           "url": 64
         },
-        "total": 19091
+        "total": 19093
       }
     },
     "KUN3": {
