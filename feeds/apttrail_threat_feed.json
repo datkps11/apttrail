@@ -95328,6 +95328,7 @@
           "check.htax-mail.server-on.net",
           "check.kisa-security.cf",
           "check.nid-auth.kro.kr",
+          "check.nid-log.com",
           "check.niduser.info.check-sign.o-r.kr",
           "check.ntenew.kro.kr",
           "check.reportdocs.n-e.kr",
@@ -108354,6 +108355,7 @@
           "read.hsects.store",
           "read.moedocs.store",
           "read.tongilmoney.com",
+          "read73s.dynv6.net",
           "readerti.click",
           "real-dating.news-portal.site",
           "real-joey-nicely.ngrok-free.app",
@@ -108655,6 +108657,8 @@
           "ruerentaltrue.click",
           "rukagu.mypressonline.com",
           "rukomu.space",
+          "rule52s.dynv6.net",
+          "rule62s.dynv6.net",
           "runauiso.site",
           "runeventc.click",
           "ruoknvcxsd.cc",
@@ -112267,6 +112271,7 @@
           "http://121.183.134.113",
           "http://121.66.72.110",
           "http://122.155.191.33",
+          "http://130.94.29.111",
           "http://131.153.13.235",
           "http://141.164.51.224",
           "http://141.164.56.44",
@@ -112347,7 +112352,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-09T12:18:41+03:00",
+        "last_modified": "2026-04-11T12:38:47+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -113830,6 +113835,9 @@
           "https://app.validin.com/detail?find=c2bd47d03b48320b1c23f8f92e1f89f6&type=hash&ref_id=4d053dd12f1#tab=host_pairs",
           "https://x.com/Ghostyak/status/2028365739762323777",
           "https://www.virustotal.com/gui/ip-address/101.36.114.231/relations",
+          "https://www.virustotal.com/gui/file/1eff237dee95172363bfc0342d0389f809f753a6ec5e6848e57b3fd5482e9793/detection",
+          "https://www.virustotal.com/gui/file/af50f35701916d3909f2727cdcbde1a7af47f46eb8db3996905b1c0725aa133f/detection",
+          "https://www.virustotal.com/gui/file/d7c09e7bf79aa9b786dcd9f870427f4a1110f702646fba9d3835215ad3649d0b/detection",
           "https://x.com/skocherhan/status/2028588428787433658",
           "https://x.com/skocherhan/status/2028589092506595810",
           "https://x.com/skocherhan/status/2029308664788484421",
@@ -113876,12 +113884,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18662,
+          "domain": 18666,
           "file_path": 282,
           "ipv4": 77,
-          "url": 63
+          "url": 64
         },
-        "total": 19084
+        "total": 19089
       }
     },
     "KUN3": {

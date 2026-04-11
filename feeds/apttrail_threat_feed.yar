@@ -6444,7 +6444,6 @@ rule APT_KIMSUKY
         $ip77 = "185.224.137.164" ascii wide
         $ip78 = "185.235.128.114" ascii wide
         $ip79 = "192.186.142.74" ascii wide
-        $url80 = "/test/v\.php" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)
