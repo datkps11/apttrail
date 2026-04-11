@@ -109729,6 +109729,7 @@
           "t0ngbirsmirn.cloud",
           "t1ma.certuser.info",
           "t22a44es.atwebpages.com",
+          "t3.nid-log.com",
           "t34r.7ieub.dns.army",
           "tablemacfood.click",
           "tableview.p-e.kr",
@@ -112353,7 +112354,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-11T13:05:01+03:00",
+        "last_modified": "2026-04-11T21:39:30+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -113885,12 +113886,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18667,
+          "domain": 18668,
           "file_path": 282,
           "ipv4": 77,
           "url": 64
         },
-        "total": 19090
+        "total": 19091
       }
     },
     "KUN3": {
