@@ -94207,6 +94207,7 @@
           "aodoc-hometax.mydns.bz",
           "aodocument-hometax.mydns.bz",
           "aoi-mail.ml",
+          "aointerviews.com",
           "aokpag.click",
           "aol.pagelock.host",
           "aol.socketplug.store",
@@ -112352,7 +112353,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-11T12:38:47+03:00",
+        "last_modified": "2026-04-11T13:05:01+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -113884,12 +113885,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18666,
+          "domain": 18667,
           "file_path": 282,
           "ipv4": 77,
           "url": 64
         },
-        "total": 19089
+        "total": 19090
       }
     },
     "KUN3": {
