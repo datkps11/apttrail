@@ -158769,6 +158769,8 @@
           "nefal.mobi",
           "nehabe.mobi",
           "nejoja.mobi",
+          "nemzetivalasztas.com",
+          "nemzetivalasztasiroda.com",
           "nevyfedera1.org",
           "news.microotf.com",
           "news.newss.nl",
@@ -159518,7 +159520,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2026-04-09T14:42:55+03:00",
+        "last_modified": "2026-04-12T01:38:37+03:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -159982,17 +159984,19 @@
           "https://www.virustotal.com/gui/file/27cc24191592acbbb4108f1f947de3458922bd3212f0cd8d10b01e0f0f432f75/detection",
           "https://justhaifei1.blogspot.com/2026/04/expmon-detected-sophisticated-zero-day-adobe-reader.html",
           "https://www.virustotal.com/gui/file/54077a5b15638e354fa02318623775b7a1cc0e8c21e59bcbab333035369e377f/detection",
-          "https://www.virustotal.com/gui/file/65dca34b04416f9a113f09718cbe51e11fd58e7287b7863e37f393ed4d25dde7/detection"
+          "https://www.virustotal.com/gui/file/65dca34b04416f9a113f09718cbe51e11fd58e7287b7863e37f393ed4d25dde7/detection",
+          "https://x.com/smica83/status/2043078916508708895",
+          "https://www.virustotal.com/gui/file/b54371228b9a9657abe03b118247942d5b61370b36bbdd6027abc178b8a09e35/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1215,
+          "domain": 1217,
           "file_path": 77,
           "ipv4": 119,
           "url": 59
         },
-        "total": 1470
+        "total": 1472
       }
     },
     "USH": {
