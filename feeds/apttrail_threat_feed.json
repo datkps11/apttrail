@@ -104553,6 +104553,7 @@
           "nid-naverrtc.myvnc.com",
           "nid-naversea.servequake.com",
           "nid-naversecmail.onthewifi.com",
+          "nid-naverset.ddnsking.com",
           "nid-naversgg.ddnsking.com",
           "nid-naverslf.servegame.com",
           "nid-naversll.myvnc.com",
@@ -112356,7 +112357,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-11T22:22:08+03:00",
+        "last_modified": "2026-04-14T10:08:32+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -113888,12 +113889,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18670,
+          "domain": 18671,
           "file_path": 282,
           "ipv4": 77,
           "url": 64
         },
-        "total": 19093
+        "total": 19094
       }
     },
     "KUN3": {
@@ -118880,6 +118881,7 @@
           "38.92.47.151:1244",
           "38.92.47.152:1244",
           "38.92.47.155:1244",
+          "38.92.47.167:3000",
           "38.92.47.85:1244",
           "38.92.47.91:1244",
           "41.208.185.235:443",
@@ -119231,7 +119233,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-04-13T13:26:54+03:00",
+        "last_modified": "2026-04-14T09:52:54+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -120439,10 +120441,10 @@
         "by_type": {
           "domain": 3519,
           "file_path": 478,
-          "ipv4": 588,
+          "ipv4": 589,
           "url": 108
         },
-        "total": 4693
+        "total": 4694
       }
     },
     "LAZYSCRIPTER": {
