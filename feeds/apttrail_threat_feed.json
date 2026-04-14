@@ -1708,6 +1708,7 @@
           "instantreceive.org",
           "israanews.zz.com.ve",
           "itamaraty.net",
+          "japanroom.com",
           "jlrandsons.co.uk",
           "jquery.services",
           "js.ad4949.co.kr",
@@ -2012,7 +2013,7 @@
         ],
         "apt_group": "37",
         "filename": "apt_37.txt",
-        "last_modified": "2026-02-27T16:00:49+02:00",
+        "last_modified": "2026-04-14T15:59:49+03:00",
         "references": [
           "https://www.symantec.com/security_response/writeup.jsp?docid=2016-063014-0934-99&tabid=2",
           "https://otx.alienvault.com/pulse/5d4456d289603cc548ddbc92",
@@ -2174,17 +2175,19 @@
           "https://www.virustotal.com/gui/file/4f2617a971b9c78c8b215d6cb65525ff56f0633a3bcd381695a19efe08156a04/detection",
           "https://www.zscaler.com/blogs/security-research/apt37-adds-new-capabilities-air-gapped-networks",
           "https://www.virustotal.com/gui/file/a8b8a92d170029885d4e7763675f10eb172150f8503592677cadedc392edccf4/detection",
-          "https://www.virustotal.com/gui/file/c61c679eec1c1b43bbd01727fdfb6a69b11485931eb8569e6b20ada30bfe84af/detection"
+          "https://www.virustotal.com/gui/file/c61c679eec1c1b43bbd01727fdfb6a69b11485931eb8569e6b20ada30bfe84af/detection",
+          "https://www.genians.co.kr/en/blog/threat_intelligence/pretexting",
+          "https://www.virustotal.com/gui/file/3ecb8632582982f5ea4cef6b32ac468bd43c61896b5de57416c8100f8ab90102/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 405,
+          "domain": 406,
           "file_path": 34,
           "ipv4": 2,
           "url": 7
         },
-        "total": 448
+        "total": 449
       }
     },
     "38": {
@@ -115224,6 +115227,9 @@
           "cloud.optvers.net",
           "cloud.prosec.ink",
           "cloud.smbcgroup.uk",
+          "cloudflarefirewall.vercel.app",
+          "cloudflareinsights.vercel.app",
+          "cloudflaresecurity.vercel.app",
           "cloudfly.org",
           "cloudharbor-app239.vercel.app",
           "cloudharbor-ext664.vercel.app",
@@ -118490,6 +118496,9 @@
           "107.189.16.176:1245",
           "107.189.20.152:1224",
           "107.189.20.152:1245",
+          "107.189.22.20:8085",
+          "107.189.22.20:8086",
+          "107.189.22.20:8087",
           "107.189.24.80:1224",
           "107.189.24.80:1245",
           "107.189.25.109:1224",
@@ -118576,6 +118585,15 @@
           "144.172.109.155:1224",
           "144.172.109.98:1224",
           "144.172.109.98:1245",
+          "144.172.110.132:8085",
+          "144.172.110.132:8086",
+          "144.172.110.132:8087",
+          "144.172.110.228:8085",
+          "144.172.110.228:8086",
+          "144.172.110.228:8087",
+          "144.172.110.96:8085",
+          "144.172.110.96:8086",
+          "144.172.110.96:8087",
           "144.172.112.106:1224",
           "144.172.112.106:1245",
           "144.172.114.238:8085",
@@ -118589,6 +118607,12 @@
           "144.172.86.27:1224",
           "144.172.86.27:1245",
           "144.172.87.27:1224",
+          "144.172.93.169:8085",
+          "144.172.93.169:8086",
+          "144.172.93.169:8087",
+          "144.172.93.253:8085",
+          "144.172.93.253:8086",
+          "144.172.93.253:8087",
           "144.172.93.88:8080",
           "144.172.93.88:8088",
           "144.172.94.226:5961",
@@ -118602,6 +118626,12 @@
           "144.172.96.80:1245",
           "144.172.97.7:1224",
           "144.172.97.7:1245",
+          "144.172.99.248:8085",
+          "144.172.99.248:8086",
+          "144.172.99.248:8087",
+          "144.172.99.81:8085",
+          "144.172.99.81:8086",
+          "144.172.99.81:8087",
           "145.59.1.45:1244",
           "146.103.99.12:8080",
           "146.70.253.107:1224",
@@ -119233,7 +119263,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-04-14T09:52:54+03:00",
+        "last_modified": "2026-04-14T15:15:59+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -120434,17 +120464,18 @@
           "https://www.virustotal.com/gui/ip-address/116.202.208.125/community",
           "https://jp.security.ntt/tech_blog/en-waterplum-ottercookie",
           "https://opensourcemalware.com/blog/tasksjacker-blog-post",
-          "https://x.com/abh1sek/status/2039637787742507381"
+          "https://x.com/abh1sek/status/2039637787742507381",
+          "https://panther.com/blog/tracking-an-ottercookie-infostealer-campaign-across-npm"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3519,
+          "domain": 3522,
           "file_path": 478,
-          "ipv4": 589,
+          "ipv4": 613,
           "url": 108
         },
-        "total": 4694
+        "total": 4721
       }
     },
     "LAZYSCRIPTER": {
@@ -150153,6 +150184,8 @@
           "204.12.227.117:29242",
           "204.12.227.117:35412",
           "204.12.227.117:7944",
+          "204.12.236.177:36826",
+          "204.12.236.177:9628",
           "204.12.245.189:19662",
           "204.12.245.189:24858",
           "204.12.245.189:29865",
@@ -150669,7 +150702,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-03-23T10:08:39+02:00",
+        "last_modified": "2026-04-14T15:05:27+03:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -151772,17 +151805,19 @@
           "https://x.com/PrakkiSathwik/status/2031624100125487483",
           "https://www.virustotal.com/gui/file/785c48c170d677ceee0112f843d8959ff7b701866283c2e503451c96c82f63ce/detection",
           "https://x.com/Cyberteam008/status/2035903346314502301",
-          "https://www.virustotal.com/gui/ip-address/176.125.240.33/relations"
+          "https://www.virustotal.com/gui/ip-address/176.125.240.33/relations",
+          "https://x.com/Cyberteam008/status/2043891889842291024",
+          "https://www.virustotal.com/gui/file/2f7f476ea5513d20963ba9834765f9712823ab720b42f101c844e0c148728c3f/detection"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 5797,
           "file_path": 40,
-          "ipv4": 831,
+          "ipv4": 833,
           "url": 125
         },
-        "total": 6793
+        "total": 6795
       }
     },
     "TRIANGULATION": {
