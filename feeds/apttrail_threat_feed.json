@@ -95006,6 +95006,7 @@
           "bn.loglli1syou.mydns.bz",
           "bn.n1ilink.mydns.bz",
           "bn.navtorp.dns.navy",
+          "bn.ndocaapass.dynv6.net",
           "bn.nideeyou.mydns.bz",
           "bn.nkdoc-hometax.mydns.bz",
           "bn.nlink.server-on.net",
@@ -103423,6 +103424,7 @@
           "navrsteam.site",
           "navs.an.dpsipes.dns.army",
           "navs.blog-nids.dns.army",
+          "navs.bn.ndocaapass.dynv6.net",
           "navs.cn.cofipdo.dns.army",
           "navs.dn.nhisann.dns.navy",
           "navs.dn.nioipsde.dns.army",
@@ -103673,6 +103675,7 @@
           "ncnavcorp.tech",
           "ncnaver.com",
           "ncnetman.store",
+          "ncodbvpass.dynv6.net",
           "ncomails.store",
           "ncomonline.store",
           "ncomorgan.store",
@@ -103798,9 +103801,11 @@
           "ndoc-verify.dns.army",
           "ndoc.digital",
           "ndoc.realinfo.p-e.kr",
+          "ndocaapass.dynv6.net",
           "ndocabpass.dynv6.net",
           "ndocacverify.dynv6.net",
           "ndocadcheck.dynv6.net",
+          "ndocadpass.dynv6.net",
           "ndocaeverify.dynv6.net",
           "ndocafverify.dynv6.net",
           "ndocagpass.dynv6.net",
@@ -103824,8 +103829,17 @@
           "ndocarverify.dynv6.net",
           "ndocasset.mydns.bz",
           "ndocasverify.dynv6.net",
+          "ndocatpass.dynv6.net",
+          "ndocaupass.dynv6.net",
           "ndocaverify.dns.army",
           "ndocaycheck.dynv6.net",
+          "ndocazpass.dynv6.net",
+          "ndocbapass.dynv6.net",
+          "ndocbcpass.dynv6.net",
+          "ndocbdpass.dynv6.net",
+          "ndocbepass.dynv6.net",
+          "ndocbfpass.v6.army",
+          "ndocbgpass.v6.army",
           "ndocbpass.dns.army",
           "ndocbverify.dns.army",
           "ndoccverify.dns.army",
@@ -112451,7 +112465,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-15T13:55:28+03:00",
+        "last_modified": "2026-04-15T23:03:13+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -113983,12 +113997,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18672,
+          "domain": 18686,
           "file_path": 282,
           "ipv4": 77,
           "url": 64
         },
-        "total": 19095
+        "total": 19109
       }
     },
     "KUN3": {
