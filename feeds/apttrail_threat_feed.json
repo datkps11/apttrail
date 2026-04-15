@@ -7697,6 +7697,7 @@
           "inhostnetservice.com",
           "inizdesignstudio.com",
           "inspurcloudservice.com",
+          "invstampvest.com",
           "islam-360-plus.com",
           "jacknwoods.com",
           "jetmains.com",
@@ -8201,7 +8202,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-04-06T17:23:20+03:00",
+        "last_modified": "2026-04-15T18:07:31+03:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -8774,17 +8775,19 @@
           "https://www.virustotal.com/gui/file/7ea0930a332788c2e88e5822e4908d77cdcaad57e0e97401ed8fe4b117fdfc95/detection",
           "https://www.virustotal.com/gui/file/9fb6f4c55e5198739123264f8007cf6e22b3821af97a00a471bd54b30991ecd0/detection",
           "https://x.com/volrant136/status/2041159217374244990",
-          "https://www.virustotal.com/gui/file/0b6d4f7a545e6fc1bfc907f76e9291a75f1fbb679dcb87c5a72cf2dcadf4aa6f/detection"
+          "https://www.virustotal.com/gui/file/0b6d4f7a545e6fc1bfc907f76e9291a75f1fbb679dcb87c5a72cf2dcadf4aa6f/detection",
+          "https://x.com/smica83/status/2044417422606655769",
+          "https://www.virustotal.com/gui/file/6fd40f0aba5c6bd9dd784abd8f5c0ede41e81e7cc4c0a9c614bd2aa32f449f89/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 456,
+          "domain": 457,
           "file_path": 81,
           "ipv4": 75,
           "url": 18
         },
-        "total": 630
+        "total": 631
       }
     },
     "BLACKGEAR": {
@@ -153601,6 +153604,7 @@
           "beekeeperstudio.space",
           "beekeeperstudio.tech",
           "calm-haze-cdae.test-runner-4b7.workers.dev",
+          "cdn-ae.azureedge.net",
           "cdn-app-server.vewojo9572.workers.dev",
           "cdn-app-web.piniyi9484.workers.dev",
           "cdn-server-1.xiren77418.workers.dev",
@@ -153641,6 +153645,7 @@
           "devolutions-rdm.com",
           "devolutions.space",
           "disk-7133.identity-svc-9mz.workers.dev",
+          "diskqenios.com",
           "divine-glitter-cfb4.elena-morales.workers.dev",
           "download.rvtools-dev.com",
           "download.rvtools-skillcamp.com",
@@ -153807,6 +153812,8 @@
           "server-cdn.sidoke9822.workers.dev",
           "server-cdn.virej10913.workers.dev",
           "server-cdn.xohahey822.workers.dev",
+          "server-software-cdn.azureedge.net",
+          "server-software.azureedge.net",
           "server-web-cdn.detocim498.workers.dev",
           "server-web-cdn.dones86497.workers.dev",
           "server-web-cdn.kagoli5215.workers.dev",
@@ -153876,7 +153883,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-04-15T17:26:51+03:00",
+        "last_modified": "2026-04-15T18:20:05+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -153895,9 +153902,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 291
+          "domain": 295
         },
-        "total": 291
+        "total": 295
       }
     },
     "UNC2529": {
