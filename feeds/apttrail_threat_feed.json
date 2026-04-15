@@ -126769,6 +126769,7 @@
           "109.107.171.113:51821",
           "139.59.30.109:8090",
           "144.202.46.221:443",
+          "152.32.144.5:443",
           "154.93.37.106:443",
           "160.86.38.21:443",
           "178.255.220.115:443",
@@ -126816,7 +126817,7 @@
         ],
         "apt_group": "OCEANLOTUS",
         "filename": "apt_oceanlotus.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-04-15T10:48:27+03:00",
         "references": [
           "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
           "https://github.com/eset/malware-ioc/tree/master/oceanlotus",
@@ -127001,17 +127002,19 @@
           "https://www.virustotal.com/gui/file/52ba0fd4b275a8e817dd5896534c51d824032cbb1b6fb12c0ae6e82c97ecb849/detection",
           "https://x.com/blackorbird/status/1968961523323183313",
           "https://mp.weixin.qq.com/s/zZVmDDWHQx7XuJZ8YO6joA",
-          "https://www.virustotal.com/gui/file/88a67b1b0875495b30e93ec925908ed2fade26005f5d50f59f8c45f51e2fc01b/detection"
+          "https://www.virustotal.com/gui/file/88a67b1b0875495b30e93ec925908ed2fade26005f5d50f59f8c45f51e2fc01b/detection",
+          "https://x.com/RedDrip7/status/2044239571370815802",
+          "https://www.virustotal.com/gui/file/31e812704e41e7e779d96a553500d45409d4b46c7f1007af2ba042407d562b1d/detection"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 491,
           "file_path": 4,
-          "ipv4": 24,
+          "ipv4": 25,
           "url": 13
         },
-        "total": 532
+        "total": 533
       }
     },
     "OILALPHA": {
