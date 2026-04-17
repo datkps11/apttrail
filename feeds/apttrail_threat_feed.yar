@@ -6508,16 +6508,16 @@ rule APT_KUN3
         $domain37 = "arthauscustomworks\.com" ascii wide nocase
         $domain38 = "arunstennisacademy\.com" ascii wide nocase
         $domain39 = "ateliersaaka\.com" ascii wide nocase
-        $domain40 = "awq-line\.com" ascii wide nocase
-        $domain41 = "backlinkmate\.com" ascii wide nocase
-        $domain42 = "baobeimiao\.com" ascii wide nocase
-        $domain43 = "bbbbbd\.cn" ascii wide nocase
-        $domain44 = "beanmachineatx\.com" ascii wide nocase
-        $domain45 = "beijingjiawenkeji\.com" ascii wide nocase
-        $domain46 = "beijingzhongmingsheng\.com" ascii wide nocase
-        $domain47 = "beliefforce\.com" ascii wide nocase
-        $domain48 = "bing-sogou\.com" ascii wide nocase
-        $domain49 = "biz-wps\.com" ascii wide nocase
+        $domain40 = "attacklive\.com" ascii wide nocase
+        $domain41 = "awq-line\.com" ascii wide nocase
+        $domain42 = "backlinkmate\.com" ascii wide nocase
+        $domain43 = "baobeimiao\.com" ascii wide nocase
+        $domain44 = "bbbbbd\.cn" ascii wide nocase
+        $domain45 = "beanmachineatx\.com" ascii wide nocase
+        $domain46 = "beijingjiawenkeji\.com" ascii wide nocase
+        $domain47 = "beijingzhongmingsheng\.com" ascii wide nocase
+        $domain48 = "beliefforce\.com" ascii wide nocase
+        $domain49 = "bing-sogou\.com" ascii wide nocase
         $ip50 = "156.251.17.147" ascii wide
         $ip51 = "45.204.207.244" ascii wide
 
