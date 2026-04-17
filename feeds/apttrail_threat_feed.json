@@ -95033,6 +95033,10 @@
           "blogmailauth.mydns.vc",
           "blogmanage.server-on.net",
           "blogreference.dynuddns.net",
+          "blogrighof2id.dynv6.net",
+          "blogrighof5id.dynv6.net",
+          "blogrighof6id.dynv6.net",
+          "blogrighof7id.dynv6.net",
           "blogrighthome.server-on.net",
           "blogscorp.kro.kr",
           "blogsnet.r-e.kr",
@@ -97028,6 +97032,7 @@
           "edoc.authterms.mydns.bz",
           "edoc.baroitda.co.kr",
           "edoc.blogreference.dynuddns.net",
+          "edoc.blogrighof5id.dynv6.net",
           "edoc.bloguresource.mydns.bz",
           "edoc.checkusrblogs.mydns.vc",
           "edoc.chkidentity.mydns.bz",
@@ -99353,6 +99358,7 @@
           "info.severalrule.kro.kr",
           "info.supportipsinvoice.mydns.bz",
           "info.taxdocdevice.mydns.vc",
+          "info.ubposting25s.dynv6.net",
           "info.udocreferal.kozow.com",
           "info.uncork.biz",
           "info.user.ipsdelivercheck.dynv6.net",
@@ -108654,6 +108660,7 @@
           "replacka.click",
           "report.mailnotification.xyz",
           "reportdocs.n-e.kr",
+          "reportml44id.dynv6.net",
           "repossessedrides.online",
           "repponse.click",
           "reprtic.click",
@@ -110265,6 +110272,7 @@
           "ublogcenter.kro.kr",
           "ublogprotector.mydns.vc",
           "uboam.com",
+          "ubposting25s.dynv6.net",
           "ucaeoinmo.shop",
           "ucloudpay.net",
           "ucmdjwer.lol",
@@ -110558,6 +110566,7 @@
           "userinfo.nts-edoc.o-r.kr",
           "userinfo.ntsaccessmember.mydns.bz",
           "userinfo.ntverifyrecord.mydns.bz",
+          "userinfo.reportml44id.dynv6.net",
           "userinfo.requestmbl43s.dynv6.net",
           "userinfo.reverifyusrprofile.mydns.bz",
           "userinfoblg.o-r.kr",
@@ -112552,7 +112561,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-17T10:58:49+03:00",
+        "last_modified": "2026-04-18T02:23:58+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -114085,12 +114094,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18713,
+          "domain": 18722,
           "file_path": 282,
           "ipv4": 77,
           "url": 64
         },
-        "total": 19136
+        "total": 19145
       }
     },
     "KUN3": {
