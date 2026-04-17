@@ -9438,6 +9438,7 @@
           "chainverve.com",
           "check-address.xyz",
           "check.datatabletemplate.shop",
+          "check02id.com",
           "checkdata.wiki",
           "chemistryworld.us",
           "chkactive.online",
@@ -10903,6 +10904,7 @@
           "ecoferros.com/wp-content/plugins/elementor/core/page-assets/captcha/controller.php"
         ],
         "ipv4": [
+          "104.145.210.107:6783",
           "104.168.145.52:8080",
           "104.168.151.70:8080",
           "104.168.198.145:8080",
@@ -10918,7 +10920,11 @@
           "45.61.129.29:3000",
           "45.61.140.26:3389",
           "45.61.157.248:3000",
-          "66.181.166.15:8080"
+          "66.181.166.15:8080",
+          "83.136.208.246:6783",
+          "83.136.208.48:443",
+          "83.136.209.22:8444",
+          "83.136.210.180:5202"
         ],
         "url": [
           "http://104.255.172.56",
@@ -10942,7 +10948,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-04-14T18:52:15+03:00",
+        "last_modified": "2026-04-17T14:29:10+03:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -11099,17 +11105,18 @@
           "https://www.virustotal.com/gui/ip-address/83.136.210.87/relations",
           "https://radar.securityalliance.org/advisory-on-dprk-unc1069-fake-microsoft-teams-and-zoom-calls/",
           "https://x.com/_SEAL_Org/status/2041926956183076951",
-          "https://www.validin.com/blog/i_cant_hear_you_unc1069/"
+          "https://www.validin.com/blog/i_cant_hear_you_unc1069/",
+          "https://www.microsoft.com/en-us/security/blog/2026/04/16/dissecting-sapphire-sleets-macos-intrusion-from-lure-to-compromise/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1611,
+          "domain": 1612,
           "file_path": 1,
-          "ipv4": 16,
+          "ipv4": 21,
           "url": 3
         },
-        "total": 1631
+        "total": 1637
       }
     },
     "BLUEPRINT": {

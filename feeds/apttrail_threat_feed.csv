@@ -6956,6 +6956,7 @@ BLUENOROFF,domain,chaincapx.com
 BLUENOROFF,domain,chainverve.com
 BLUENOROFF,domain,check-address.xyz
 BLUENOROFF,domain,check.datatabletemplate.shop
+BLUENOROFF,domain,check02id.com
 BLUENOROFF,domain,checkdata.wiki
 BLUENOROFF,domain,chemistryworld.us
 BLUENOROFF,domain,chkactive.online
@@ -8417,6 +8418,7 @@ BLUENOROFF,domain,zoomus05web.com
 BLUENOROFF,domain,zoomweb.uswe05.us
 BLUENOROFF,domain,zoonn-platform.com
 BLUENOROFF,file_path,ecoferros.com/wp-content/plugins/elementor/core/page-assets/captcha/controller.php
+BLUENOROFF,ipv4,104.145.210.107:6783
 BLUENOROFF,ipv4,104.168.145.52:8080
 BLUENOROFF,ipv4,104.168.151.70:8080
 BLUENOROFF,ipv4,104.168.198.145:8080
@@ -8433,6 +8435,10 @@ BLUENOROFF,ipv4,45.61.129.29:3000
 BLUENOROFF,ipv4,45.61.140.26:3389
 BLUENOROFF,ipv4,45.61.157.248:3000
 BLUENOROFF,ipv4,66.181.166.15:8080
+BLUENOROFF,ipv4,83.136.208.246:6783
+BLUENOROFF,ipv4,83.136.208.48:443
+BLUENOROFF,ipv4,83.136.209.22:8444
+BLUENOROFF,ipv4,83.136.210.180:5202
 BLUENOROFF,url,http://104.255.172.56
 BLUENOROFF,url,http://163.25.24.44
 BLUENOROFF,url,http://45.238.25.2
