@@ -94827,6 +94827,7 @@
           "bill.fin-ncloud.com",
           "bill.gov-ncloud.com",
           "bill.ncloud.com",
+          "billing-manga.line-rc.me",
           "billingserver.online",
           "billions168.com",
           "billmatedoc.kro.kr",
@@ -112491,7 +112492,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-16T11:52:13+03:00",
+        "last_modified": "2026-04-17T10:58:49+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -114024,12 +114025,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18712,
+          "domain": 18713,
           "file_path": 282,
           "ipv4": 77,
           "url": 64
         },
-        "total": 19135
+        "total": 19136
       }
     },
     "KUN3": {
