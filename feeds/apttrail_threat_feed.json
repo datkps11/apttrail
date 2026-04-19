@@ -109545,6 +109545,7 @@
           "soeihfrwo0303now.cfd",
           "sofaprotocol.xyz",
           "sofaprotocols.xyz",
+          "soft-til.space",
           "soft.doc-taxdeliver.dns.army",
           "softmail.kro.kr",
           "softmailneed.site",
@@ -112620,7 +112621,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-19T19:54:18+03:00",
+        "last_modified": "2026-04-19T21:45:13+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -114155,12 +114156,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18781,
+          "domain": 18782,
           "file_path": 282,
           "ipv4": 77,
           "url": 64
         },
-        "total": 19204
+        "total": 19205
       }
     },
     "KUN3": {
