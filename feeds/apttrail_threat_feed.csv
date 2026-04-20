@@ -8487,18 +8487,22 @@ BLUENOROFF,ipv4,104.145.210.107:6783
 BLUENOROFF,ipv4,104.168.145.52:8080
 BLUENOROFF,ipv4,104.168.151.70:8080
 BLUENOROFF,ipv4,104.168.198.145:8080
+BLUENOROFF,ipv4,109.248.163.127:3000
 BLUENOROFF,ipv4,118.70.116.154:8080
+BLUENOROFF,ipv4,139.150.73.123:3000
 BLUENOROFF,ipv4,140.117.91.22:8080
 BLUENOROFF,ipv4,140.136.134.201:8080
 BLUENOROFF,ipv4,163.25.24.44:443
 BLUENOROFF,ipv4,163.5.254.70:3000
 BLUENOROFF,ipv4,186.183.185.94:8080
 BLUENOROFF,ipv4,23.254.202.223:8080
+BLUENOROFF,ipv4,38.110.228.52:3000
 BLUENOROFF,ipv4,41.85.145.164:8080
 BLUENOROFF,ipv4,45.238.25.2:443
 BLUENOROFF,ipv4,45.61.129.29:3000
 BLUENOROFF,ipv4,45.61.140.26:3389
 BLUENOROFF,ipv4,45.61.157.248:3000
+BLUENOROFF,ipv4,59.152.103.205:3000
 BLUENOROFF,ipv4,66.181.166.15:8080
 BLUENOROFF,ipv4,83.136.208.246:6783
 BLUENOROFF,ipv4,83.136.208.48:443
@@ -83168,6 +83172,7 @@ KIMSUKY,domain,account-v3sign.server-on.net
 KIMSUKY,domain,account-verify.kro.kr
 KIMSUKY,domain,account-viewer.work
 KIMSUKY,domain,account.ckakao.kro.kr
+KIMSUKY,domain,account.com-verified.dynv6.net
 KIMSUKY,domain,account.daum.unikftc.kr
 KIMSUKY,domain,account.daum.unikortv.com
 KIMSUKY,domain,account.daurn.pe.hu
@@ -83609,6 +83614,7 @@ KIMSUKY,domain,alphasphere.digital
 KIMSUKY,domain,alphastateibi.click
 KIMSUKY,domain,alps.travelmountain.ml
 KIMSUKY,domain,alska37navorcom.website
+KIMSUKY,domain,alstnskkal.duckdns.org
 KIMSUKY,domain,althmoexch.click
 KIMSUKY,domain,altinmaske.site
 KIMSUKY,domain,altool.p-e.kr
@@ -85223,6 +85229,7 @@ KIMSUKY,domain,com-swod.mydns.tw
 KIMSUKY,domain,com-trace.space
 KIMSUKY,domain,com-tree.mydns.tw
 KIMSUKY,domain,com-user.kro.kr
+KIMSUKY,domain,com-verified.dynv6.net
 KIMSUKY,domain,com-view.mydns.tw
 KIMSUKY,domain,com-vps.work
 KIMSUKY,domain,com-will.click
@@ -88547,6 +88554,10 @@ KIMSUKY,domain,idocument-hometax.mydns.bz
 KIMSUKY,domain,idonskenecoolsurry.store
 KIMSUKY,domain,idv.kakaocop.eu
 KIMSUKY,domain,idverify.docavailable.kro.kr
+KIMSUKY,domain,iec11px.dynv6.net
+KIMSUKY,domain,iec12px.dynv6.net
+KIMSUKY,domain,iec26px.dynv6.net
+KIMSUKY,domain,iec28px.dynv6.net
 KIMSUKY,domain,ielsd.myartsonline.com
 KIMSUKY,domain,ielsems.com
 KIMSUKY,domain,ierosc.shop
@@ -89016,6 +89027,8 @@ KIMSUKY,domain,irspost.site
 KIMSUKY,domain,irsz.us
 KIMSUKY,domain,irucuseiw.site
 KIMSUKY,domain,irykiixdfztqy.r-e.kr
+KIMSUKY,domain,isc24px.dns.army
+KIMSUKY,domain,isc8px.dns.army
 KIMSUKY,domain,isget.dns.army
 KIMSUKY,domain,iso3488.co.kr
 KIMSUKY,domain,isolaticre.click
@@ -90017,6 +90030,7 @@ KIMSUKY,domain,login-verifyaccount.o-r.kr
 KIMSUKY,domain,login-yahoo.info
 KIMSUKY,domain,login-yahoozfb.myvnc.com
 KIMSUKY,domain,login.account-kakao.dynv6.net
+KIMSUKY,domain,login.account.com-verified.dynv6.net
 KIMSUKY,domain,login.accountcorp.online
 KIMSUKY,domain,login.accountcorp.site
 KIMSUKY,domain,login.accountcorpvstep.p-e.kr
@@ -90995,6 +91009,7 @@ KIMSUKY,domain,mscure.dns.army
 KIMSUKY,domain,msdatl3.inc
 KIMSUKY,domain,mseth.xyz
 KIMSUKY,domain,msgbugreporting.lovestoblog.com
+KIMSUKY,domain,msi5ex.dynv6.net
 KIMSUKY,domain,msikocanatgioan3c.store
 KIMSUKY,domain,msky05bookscom.shop
 KIMSUKY,domain,msn-imap.com
@@ -91037,6 +91052,8 @@ KIMSUKY,domain,mtnvs.dynv6.net
 KIMSUKY,domain,mtops.dns.army
 KIMSUKY,domain,mtpeck.store
 KIMSUKY,domain,mts-main.dns.army
+KIMSUKY,domain,mts18op.dynv6.net
+KIMSUKY,domain,mts2op.dynv6.net
 KIMSUKY,domain,mubifurlifae.click
 KIMSUKY,domain,muboom.click
 KIMSUKY,domain,mudsea.click
@@ -91259,6 +91276,7 @@ KIMSUKY,domain,n-cloud.nauth-ips.mydns.vc
 KIMSUKY,domain,n-cloud.nauth-nts.mydns.vc
 KIMSUKY,domain,n-cloud.nblog.mydns.bz
 KIMSUKY,domain,n-cloud.nidlgipes.dns.army
+KIMSUKY,domain,n-cloud.nos37ips.dynv6.net
 KIMSUKY,domain,n-cloud.nts-auth.mydns.bz
 KIMSUKY,domain,n-cloud.nts-authdoc.mydns.vc
 KIMSUKY,domain,n-cloud.nts-dns.mydns.vc
@@ -91347,6 +91365,7 @@ KIMSUKY,domain,n-main.r-e.kr
 KIMSUKY,domain,n-sign.n-e.kr
 KIMSUKY,domain,n-store.blogstore.mydns.vc
 KIMSUKY,domain,n-store.edoc-nts.mydns.bz
+KIMSUKY,domain,n-store.iec28px.dynv6.net
 KIMSUKY,domain,n-store.invoicedoc-nts.dynv6.net
 KIMSUKY,domain,n-store.ips-calledoc.mydns.vc
 KIMSUKY,domain,n-store.ips-checkauth.mydns.vc
@@ -91373,6 +91392,7 @@ KIMSUKY,domain,n-store.nblog.mydns.bz
 KIMSUKY,domain,n-store.nid-blog.mydns.vc
 KIMSUKY,domain,n-store.nidinvoice-ips.mydns.bz
 KIMSUKY,domain,n-store.noticekr-ips.dynv6.net
+KIMSUKY,domain,n-store.ns17ios.dynv6.net
 KIMSUKY,domain,n-store.nts-auth.mydns.bz
 KIMSUKY,domain,n-store.nts-calledoc.dynv6.net
 KIMSUKY,domain,n-store.nts-gov.mydns.bz
@@ -92880,6 +92900,7 @@ KIMSUKY,domain,navs.dn.nhisann.dns.navy
 KIMSUKY,domain,navs.dn.nioipsde.dns.army
 KIMSUKY,domain,navs.dn.ntxals.dns.army
 KIMSUKY,domain,navs.en.ntopeds.dns.army
+KIMSUKY,domain,navs.en.ntspiu.dynv6.net
 KIMSUKY,domain,navs.ipsgtt.dns.army
 KIMSUKY,domain,navs.ipsnoticed.dns.army
 KIMSUKY,domain,navs.moisesd.dns.army
@@ -94282,6 +94303,7 @@ KIMSUKY,domain,nid-sevices.sleepgate.im
 KIMSUKY,domain,nid-tax.dns.army
 KIMSUKY,domain,nid-traffic.v6.rocks
 KIMSUKY,domain,nid-user.edoc-nts.mydns.bz
+KIMSUKY,domain,nid-user.iec12px.dynv6.net
 KIMSUKY,domain,nid-user.ips-auth.mydns.vc
 KIMSUKY,domain,nid-user.ips-callev.mydns.vc
 KIMSUKY,domain,nid-user.ips-calleve.mydns.vc
@@ -94300,10 +94322,12 @@ KIMSUKY,domain,nid-user.ips-tax.mydns.vc
 KIMSUKY,domain,nid-user.ipsdoc-auth.mydns.vc
 KIMSUKY,domain,nid-user.ipsml-auth.mydns.vc
 KIMSUKY,domain,nid-user.ipsncorp.dns.navy
+KIMSUKY,domain,nid-user.mts18op.dynv6.net
 KIMSUKY,domain,nid-user.nauth-ips.mydns.vc
 KIMSUKY,domain,nid-user.nblog.mydns.bz
 KIMSUKY,domain,nid-user.nid-blog.mydns.vc
 KIMSUKY,domain,nid-user.nidlgipes.dns.army
+KIMSUKY,domain,nid-user.nos37ips.dynv6.net
 KIMSUKY,domain,nid-user.notice-blog.mydns.bz
 KIMSUKY,domain,nid-user.nts-authdoc.mydns.vc
 KIMSUKY,domain,nid-user.nts-govkr.mydns.vc
@@ -94359,6 +94383,7 @@ KIMSUKY,domain,nid.edocs.fuzzylookups.com
 KIMSUKY,domain,nid.edocs.zigboxs.com
 KIMSUKY,domain,nid.eledoc.decharacter.com
 KIMSUKY,domain,nid.en.nioipsde.dns.army
+KIMSUKY,domain,nid.en.ntxcopesd.dns.army
 KIMSUKY,domain,nid.enav.ntxthom.dns.army
 KIMSUKY,domain,nid.excount.info
 KIMSUKY,domain,nid.favorites.gq
@@ -94682,6 +94707,7 @@ KIMSUKY,domain,nidlogins.bnav.ntxhosts.dns.army
 KIMSUKY,domain,nidlogins.cederfeldt.se
 KIMSUKY,domain,nidlogins.cn.gtopsed.dns.army
 KIMSUKY,domain,nidlogins.cn.nnvesips.dns.army
+KIMSUKY,domain,nidlogins.cn.ntdepo.dns.army
 KIMSUKY,domain,nidlogins.cnav.nhiscopsed.dns.army
 KIMSUKY,domain,nidlogins.cnav.nhishosts.dns.army
 KIMSUKY,domain,nidlogins.cnav.polidcs.dns.navy
@@ -95535,6 +95561,10 @@ KIMSUKY,domain,norosor.site
 KIMSUKY,domain,norosr.xyz
 KIMSUKY,domain,nortice-centre.esy.es
 KIMSUKY,domain,nortions.info
+KIMSUKY,domain,nos34ips.dynv6.net
+KIMSUKY,domain,nos35ips.dynv6.net
+KIMSUKY,domain,nos36ips.dynv6.net
+KIMSUKY,domain,nos37ips.dynv6.net
 KIMSUKY,domain,nosamer.tech
 KIMSUKY,domain,nosano.site
 KIMSUKY,domain,nosaomr.xyz
@@ -95835,6 +95865,7 @@ KIMSUKY,domain,ns14aidozalzia.cfd
 KIMSUKY,domain,ns15aoaozidioa.cfd
 KIMSUKY,domain,ns16aizodoiao.cfd
 KIMSUKY,domain,ns17aidoaozid.cfd
+KIMSUKY,domain,ns17ios.dynv6.net
 KIMSUKY,domain,ns18aiodzodia.cfd
 KIMSUKY,domain,ns19aoapzoa.cfd
 KIMSUKY,domain,ns1aieoqoweiruioqwueasdoif.cfd
@@ -96057,6 +96088,7 @@ KIMSUKY,domain,ntclouds.site
 KIMSUKY,domain,ntcn-kr.server-on.net
 KIMSUKY,domain,ntdecs.dns.army
 KIMSUKY,domain,ntdepinfo.r-e.kr
+KIMSUKY,domain,ntdepo.dns.army
 KIMSUKY,domain,ntdinvocie.dns.army
 KIMSUKY,domain,ntdispsize.ddnsguru.com
 KIMSUKY,domain,ntdlink.mydns.bz
@@ -96607,6 +96639,7 @@ KIMSUKY,domain,ntspays.site
 KIMSUKY,domain,ntspays.space
 KIMSUKY,domain,ntspaysvc.o-r.kr
 KIMSUKY,domain,ntspc.site
+KIMSUKY,domain,ntspiu.dynv6.net
 KIMSUKY,domain,ntsplus.cloud
 KIMSUKY,domain,ntspolicy.site
 KIMSUKY,domain,ntspolicy.space
@@ -96725,6 +96758,7 @@ KIMSUKY,domain,ntwsx.site
 KIMSUKY,domain,ntx-nav.dynv6.net
 KIMSUKY,domain,ntx-store.dynv6.net
 KIMSUKY,domain,ntxals.dns.army
+KIMSUKY,domain,ntxcopesd.dns.army
 KIMSUKY,domain,ntxhosts.dns.army
 KIMSUKY,domain,ntxnodeinvoice.mydns.bz
 KIMSUKY,domain,ntxnodemydns.bz
@@ -96766,6 +96800,7 @@ KIMSUKY,domain,nuser-login.ips-nidecall.mydns.vc
 KIMSUKY,domain,nuser-login.ips-nidlg.mydns.bz
 KIMSUKY,domain,nuser-login.ips-nidservice.mydns.vc
 KIMSUKY,domain,nuser-login.ips-tax.mydns.vc
+KIMSUKY,domain,nuser-login.isc8px.dns.army
 KIMSUKY,domain,nuser-login.mail-ips.mydns.bz
 KIMSUKY,domain,nuser-login.nauth-ips.mydns.vc
 KIMSUKY,domain,nuser-login.nauth-nts.mydns.vc
@@ -97322,6 +97357,7 @@ KIMSUKY,domain,outlook-kr.com
 KIMSUKY,domain,outlook-live.ml
 KIMSUKY,domain,outlook.memberslogin.info
 KIMSUKY,domain,outlook.msoffic.homes
+KIMSUKY,domain,outlook.pinc.toh.info
 KIMSUKY,domain,outlook.securitymid.com
 KIMSUKY,domain,outlook.seoul-kor.tk
 KIMSUKY,domain,outlook.usermanagers-confirmation.site
@@ -97507,6 +97543,7 @@ KIMSUKY,domain,pids.htdcos.dns.army
 KIMSUKY,domain,pig.nbnbnb.p-e.kr
 KIMSUKY,domain,pikaros2.r-e.kr
 KIMSUKY,domain,pillartwe.click
+KIMSUKY,domain,pinc.toh.info
 KIMSUKY,domain,ping.requests.p-e.kr
 KIMSUKY,domain,pingball.mygamesonline.org
 KIMSUKY,domain,pingguo2.atwebpages.com
