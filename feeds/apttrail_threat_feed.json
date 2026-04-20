@@ -135007,6 +135007,9 @@
           "api.watch-earn.live",
           "apl-com.icu",
           "apl-org.online",
+          "apostille-mofa-gov-pk-verify-attestation.cerapostille.com",
+          "apostille-mofa-gov-pk-verify-attestation.encodertechs.com",
+          "apostillemofag0v-pk.storeaone.com",
           "app-sec01.online",
           "app.dytt888.net",
           "app.grabfiles.org",
@@ -135014,6 +135017,9 @@
           "app.onesom.biz",
           "appclub.live",
           "appcrew.info",
+          "appostile-mofa-pk.storeaone.com",
+          "appostille-mofa-gov-pk-attestation.storeaone.com",
+          "appostille-mofa-gov.storeaone.com",
           "apps.fia-gov.net",
           "appsrv.live",
           "appsstore.in",
@@ -137677,6 +137683,7 @@
           "presidentsoffice.lk.mofa-govtpk.net",
           "presidentsoffice.mofa-govlk.org",
           "preview-attachments-f1les-0pen-pdf.netlify.app",
+          "preview-mail-from-mofa-gov-pk-user-com-center.malik-jaani786.workers.dev",
           "primary.news-bd.com",
           "prison-gov-bd.dwnlld.info",
           "prisons.punjab.gov.pk-govt.com",
@@ -138337,6 +138344,7 @@
           "zimbra10-nml3wp-max8143-fn1rsf7l.leapcell.dev",
           "zimbramail-nayatel-com.zeabur.app",
           "zimbramail-nayatel.leapcell.app",
+          "zimramail-nayatel.girlfriendparty42.workers.dev",
           "ziptec.info",
           "zlaeso.xyz",
           "zmail.ptcl.pkgov.org",
@@ -138463,7 +138471,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-04-20T19:04:36+03:00",
+        "last_modified": "2026-04-20T22:08:01+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -139515,17 +139523,19 @@
           "https://x.com/__0XYC__/status/2042075173915127858",
           "https://x.com/SinghSoodeep/status/2043571382601289736",
           "https://www.virustotal.com/gui/file/492a46f495a17a0c5d7e59cf362f3f6f57f01c3be39f912e37ec51298fa73d6a/detection",
-          "https://x.com/volrant136/status/2046241063380390343"
+          "https://x.com/volrant136/status/2046241063380390343",
+          "https://intel.breakglass.tech/post/sidewinder-z2fa-lts-moincox-bangladesh-navy-pakistan-mofa-opsec-burn",
+          "https://www.virustotal.com/gui/ip-address/89.116.133.247/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3488,
+          "domain": 3496,
           "file_path": 16,
           "ipv4": 47,
           "url": 29
         },
-        "total": 3580
+        "total": 3588
       }
     },
     "SILENCE": {
