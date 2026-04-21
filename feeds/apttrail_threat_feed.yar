@@ -7823,8 +7823,8 @@ rule APT_MUSTANGPANDA
         $ip74 = "103.79.120.81" ascii wide
         $ip75 = "103.79.120.85" ascii wide
         $ip76 = "103.79.120.89" ascii wide
-        $ip77 = "104.194.154.150" ascii wide
-        $ip78 = "107.155.56.87" ascii wide
+        $ip77 = "103.79.77.181" ascii wide
+        $ip78 = "104.194.154.150" ascii wide
         $ip79 = "107.155.56.87" ascii wide
 
     condition:

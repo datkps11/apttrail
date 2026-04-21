@@ -125460,6 +125460,7 @@
           "dodefoh.com",
           "download.flach.cn",
           "download.hilifimyanmar.com",
+          "editor.gleeze.com",
           "electrictulsa.com",
           "em2in.johnsimde.xyz",
           "estmongolia.com",
@@ -125620,6 +125621,7 @@
           "thisistestc2.com",
           "toptipvideo.com",
           "tripadviso.online",
+          "unassigned.172-81-60-97.spryt.net",
           "update.careerhuawei.net",
           "update.fjke5oe.com",
           "update.flach.cn",
@@ -125639,7 +125641,8 @@
           "zimbra.page"
         ],
         "file_path": [
-          "/kptinfo/import/index.php"
+          "/kptinfo/import/index.php",
+          "cosmosmusic.com/upload/pds/_notes/music.js"
         ],
         "ipv4": [
           "103.107.104.37:443",
@@ -125669,6 +125672,7 @@
           "103.79.120.81:8088",
           "103.79.120.85:443",
           "103.79.120.89:443",
+          "103.79.77.181:443",
           "104.194.154.150:443",
           "107.155.56.87:443",
           "107.155.56.87:53",
@@ -125839,7 +125843,7 @@
         ],
         "apt_group": "MUSTANGPANDA",
         "filename": "apt_mustangpanda.txt",
-        "last_modified": "2026-04-06T17:15:54+03:00",
+        "last_modified": "2026-04-21T17:46:48+03:00",
         "references": [
           "https://www.anomali.com/blog/china-based-apt-mustang-panda-targets-minority-groups-public-and-private-sector-organizations",
           "https://otx.alienvault.com/pulse/5d9c72d7e2efa3b5aa799b41",
@@ -126027,17 +126031,19 @@
           "https://x.com/malwrhunterteam/status/2026614706866180128",
           "https://www.virustotal.com/gui/file/30c71d644bc72e0d55d46bed753ab3f72dc77b7f1be0e34693c957939a779507/detection",
           "https://www.virustotal.com/gui/file/e79d19d68d307c12413f8549aafa4a56776002dd04601e36e0125b2e6d56ff94/detection",
-          "https://www.proofpoint.com/us/blog/threat-insight/id-come-running-back-eu-again-ta416-resumes-european-government-espionage"
+          "https://www.proofpoint.com/us/blog/threat-insight/id-come-running-back-eu-again-ta416-resumes-european-government-espionage",
+          "https://www.acronis.com/en/tru/posts/same-packet-different-magic-mustang-panda-hits-indias-banking-sector-and-korea-geopolitics/",
+          "https://www.virustotal.com/gui/file/18bc0e0f627d90fb283aa243055b46d0bfb5d85a7240d0f63ec2d1c0a2c15893/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 229,
-          "file_path": 1,
-          "ipv4": 123,
+          "domain": 231,
+          "file_path": 2,
+          "ipv4": 124,
           "url": 48
         },
-        "total": 401
+        "total": 405
       }
     },
     "NAIKON": {
