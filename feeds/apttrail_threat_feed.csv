@@ -7354,6 +7354,7 @@ BLUENOROFF,domain,live-video-call.me.panelize.cloud
 BLUENOROFF,domain,live05ms.us
 BLUENOROFF,domain,livehuddle01.us
 BLUENOROFF,domain,livemeetgooogle.com
+BLUENOROFF,domain,livemicrosft.com
 BLUENOROFF,domain,liveonedrvshare.xyz
 BLUENOROFF,domain,livescall.us
 BLUENOROFF,domain,livescall.xyz
@@ -8492,8 +8493,10 @@ BLUENOROFF,ipv4,118.70.116.154:8080
 BLUENOROFF,ipv4,139.150.73.123:3000
 BLUENOROFF,ipv4,140.117.91.22:8080
 BLUENOROFF,ipv4,140.136.134.201:8080
+BLUENOROFF,ipv4,144.172.114.220:443
 BLUENOROFF,ipv4,163.25.24.44:443
 BLUENOROFF,ipv4,163.5.254.70:3000
+BLUENOROFF,ipv4,172.86.91.195:443
 BLUENOROFF,ipv4,186.183.185.94:8080
 BLUENOROFF,ipv4,23.254.202.223:8080
 BLUENOROFF,ipv4,38.110.228.52:3000
@@ -8510,6 +8513,7 @@ BLUENOROFF,ipv4,83.136.209.22:8444
 BLUENOROFF,ipv4,83.136.210.180:5202
 BLUENOROFF,url,http://104.255.172.56
 BLUENOROFF,url,http://163.25.24.44
+BLUENOROFF,url,http://172.86.91.195
 BLUENOROFF,url,http://45.238.25.2
 BLUEPRINT,domain,cloud.yourdocument.biz
 BLUEPRINT,domain,swift-fraud.com
@@ -121307,11 +121311,14 @@ SILENTLYNX,url,http://72.5.43.100
 SILENTLYNX,url,http://85.209.128.171
 SILENTLYNX,url,http://91.212.89.197
 SIMBAA,domain,firebasebox.com
+SKYCLOAK,domain,2zrek3mkl72d5b6evpkx2rz2glzrltiorgblpfb2ttg6lacwlsdk4iqd.onion
 SKYCLOAK,domain,3xl6xhboulyuez6fuydyhj7pdvkshzn4ogsmgwbb3ukrkvgi6bcwvfyd.onion
 SKYCLOAK,domain,e3mnde5uyuxjoztup6t3m7nykbicexbzra76ucligwgsaez65w63y2ad.onion
+SKYCLOAK,domain,imnlyhj4mtmtesqrvf7c4ma6dkxeyxw3ae53w6fuz42spndg7zpat6qd.onion
 SKYCLOAK,domain,iz4cthf7lios7igq7lvvlgg6xyn5eqowfue5wgsdlgdipueam7av32ad.onion
 SKYCLOAK,domain,juliw3eyjz5gx7hup73jbnyeqrdlrzvzxxsbww2tewp3sbh2qtpbasad.onion
 SKYCLOAK,domain,kvk46su7d2qi6g4n43syp4zbsf2rihnc6ztj77qtc2ojvewjqvqilnqd.onion
+SKYCLOAK,domain,nytiplwknkinobjaeb5tajjiglip3vtaccju6ta7d47u5u64ktrwhrqd.onion
 SKYCLOAK,domain,q35x354qfx43klbx5wd2iw7272wrrhcvgwqqbwut44yiui2hw7cz7fyd.onion
 SKYCLOAK,domain,uliw3eyjz5gx7hup73jbnyeqrdlrzvzxxsbww2tewp3sbh2qtpbasad.onion
 SKYCLOAK,domain,yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd.onion

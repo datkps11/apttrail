@@ -1678,7 +1678,7 @@ rule APT_BLUENOROFF
         author = "APTtrail Automated Collection"
         apt_group = "BLUENOROFF"
         aliases = "CoreKit, NimDoor, RTV4"
-        reference = "https://app.any.run/tasks/8d5e66c9-3942-4e00-bfdf-8f2c24054a92/"
+        reference = "https://any.run/cybersecurity-blog/lazarus-macos-malware-mach-o-man/"
         severity = "high"
         tlp = "white"
 
@@ -1742,22 +1742,24 @@ rule APT_BLUENOROFF
         $ip56 = "139.150.73.123" ascii wide
         $ip57 = "140.117.91.22" ascii wide
         $ip58 = "140.136.134.201" ascii wide
-        $ip59 = "163.25.24.44" ascii wide
-        $ip60 = "163.5.254.70" ascii wide
-        $ip61 = "186.183.185.94" ascii wide
-        $ip62 = "23.254.202.223" ascii wide
-        $ip63 = "38.110.228.52" ascii wide
-        $ip64 = "41.85.145.164" ascii wide
-        $ip65 = "45.238.25.2" ascii wide
-        $ip66 = "45.61.129.29" ascii wide
-        $ip67 = "45.61.140.26" ascii wide
-        $ip68 = "45.61.157.248" ascii wide
-        $ip69 = "59.152.103.205" ascii wide
-        $ip70 = "66.181.166.15" ascii wide
-        $ip71 = "83.136.208.246" ascii wide
-        $ip72 = "83.136.208.48" ascii wide
-        $ip73 = "83.136.209.22" ascii wide
-        $ip74 = "83.136.210.180" ascii wide
+        $ip59 = "144.172.114.220" ascii wide
+        $ip60 = "163.25.24.44" ascii wide
+        $ip61 = "163.5.254.70" ascii wide
+        $ip62 = "172.86.91.195" ascii wide
+        $ip63 = "186.183.185.94" ascii wide
+        $ip64 = "23.254.202.223" ascii wide
+        $ip65 = "38.110.228.52" ascii wide
+        $ip66 = "41.85.145.164" ascii wide
+        $ip67 = "45.238.25.2" ascii wide
+        $ip68 = "45.61.129.29" ascii wide
+        $ip69 = "45.61.140.26" ascii wide
+        $ip70 = "45.61.157.248" ascii wide
+        $ip71 = "59.152.103.205" ascii wide
+        $ip72 = "66.181.166.15" ascii wide
+        $ip73 = "83.136.208.246" ascii wide
+        $ip74 = "83.136.208.48" ascii wide
+        $ip75 = "83.136.209.22" ascii wide
+        $ip76 = "83.136.210.180" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
@@ -10738,21 +10740,24 @@ rule APT_SKYCLOAK
         tlp = "white"
 
     strings:
-        $domain0 = "3xl6xhboulyuez6fuydyhj7pdvkshzn4ogsmgwbb3ukrkvgi6bcwvfyd\.onion" ascii wide nocase
-        $domain1 = "e3mnde5uyuxjoztup6t3m7nykbicexbzra76ucligwgsaez65w63y2ad\.onion" ascii wide nocase
-        $domain2 = "iz4cthf7lios7igq7lvvlgg6xyn5eqowfue5wgsdlgdipueam7av32ad\.onion" ascii wide nocase
-        $domain3 = "juliw3eyjz5gx7hup73jbnyeqrdlrzvzxxsbww2tewp3sbh2qtpbasad\.onion" ascii wide nocase
-        $domain4 = "kvk46su7d2qi6g4n43syp4zbsf2rihnc6ztj77qtc2ojvewjqvqilnqd\.onion" ascii wide nocase
-        $domain5 = "q35x354qfx43klbx5wd2iw7272wrrhcvgwqqbwut44yiui2hw7cz7fyd\.onion" ascii wide nocase
-        $domain6 = "uliw3eyjz5gx7hup73jbnyeqrdlrzvzxxsbww2tewp3sbh2qtpbasad\.onion" ascii wide nocase
-        $domain7 = "yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd\.onion" ascii wide nocase
-        $ip8 = "176.169.236.210" ascii wide
-        $ip9 = "188.116.26.254" ascii wide
-        $ip10 = "193.138.81.106" ascii wide
-        $ip11 = "74.208.183.104" ascii wide
-        $ip12 = "81.141.112.253" ascii wide
-        $ip13 = "91.208.206.67" ascii wide
-        $ip14 = "95.179.192.8" ascii wide
+        $domain0 = "2zrek3mkl72d5b6evpkx2rz2glzrltiorgblpfb2ttg6lacwlsdk4iqd\.onion" ascii wide nocase
+        $domain1 = "3xl6xhboulyuez6fuydyhj7pdvkshzn4ogsmgwbb3ukrkvgi6bcwvfyd\.onion" ascii wide nocase
+        $domain2 = "e3mnde5uyuxjoztup6t3m7nykbicexbzra76ucligwgsaez65w63y2ad\.onion" ascii wide nocase
+        $domain3 = "imnlyhj4mtmtesqrvf7c4ma6dkxeyxw3ae53w6fuz42spndg7zpat6qd\.onion" ascii wide nocase
+        $domain4 = "iz4cthf7lios7igq7lvvlgg6xyn5eqowfue5wgsdlgdipueam7av32ad\.onion" ascii wide nocase
+        $domain5 = "juliw3eyjz5gx7hup73jbnyeqrdlrzvzxxsbww2tewp3sbh2qtpbasad\.onion" ascii wide nocase
+        $domain6 = "kvk46su7d2qi6g4n43syp4zbsf2rihnc6ztj77qtc2ojvewjqvqilnqd\.onion" ascii wide nocase
+        $domain7 = "nytiplwknkinobjaeb5tajjiglip3vtaccju6ta7d47u5u64ktrwhrqd\.onion" ascii wide nocase
+        $domain8 = "q35x354qfx43klbx5wd2iw7272wrrhcvgwqqbwut44yiui2hw7cz7fyd\.onion" ascii wide nocase
+        $domain9 = "uliw3eyjz5gx7hup73jbnyeqrdlrzvzxxsbww2tewp3sbh2qtpbasad\.onion" ascii wide nocase
+        $domain10 = "yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd\.onion" ascii wide nocase
+        $ip11 = "176.169.236.210" ascii wide
+        $ip12 = "188.116.26.254" ascii wide
+        $ip13 = "193.138.81.106" ascii wide
+        $ip14 = "74.208.183.104" ascii wide
+        $ip15 = "81.141.112.253" ascii wide
+        $ip16 = "91.208.206.67" ascii wide
+        $ip17 = "95.179.192.8" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)

@@ -9836,6 +9836,7 @@
           "live05ms.us",
           "livehuddle01.us",
           "livemeetgooogle.com",
+          "livemicrosft.com",
           "liveonedrvshare.xyz",
           "livescall.us",
           "livescall.xyz",
@@ -10978,8 +10979,10 @@
           "139.150.73.123:3000",
           "140.117.91.22:8080",
           "140.136.134.201:8080",
+          "144.172.114.220:443",
           "163.25.24.44:443",
           "163.5.254.70:3000",
+          "172.86.91.195:443",
           "186.183.185.94:8080",
           "23.254.202.223:8080",
           "38.110.228.52:3000",
@@ -10998,6 +11001,7 @@
         "url": [
           "http://104.255.172.56",
           "http://163.25.24.44",
+          "http://172.86.91.195",
           "http://45.238.25.2"
         ]
       },
@@ -11017,7 +11021,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-04-20T13:57:49+03:00",
+        "last_modified": "2026-04-21T16:16:30+03:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -11176,17 +11180,18 @@
           "https://radar.securityalliance.org/advisory-on-dprk-unc1069-fake-microsoft-teams-and-zoom-calls/",
           "https://x.com/_SEAL_Org/status/2041926956183076951",
           "https://www.validin.com/blog/i_cant_hear_you_unc1069/",
-          "https://www.microsoft.com/en-us/security/blog/2026/04/16/dissecting-sapphire-sleets-macos-intrusion-from-lure-to-compromise/"
+          "https://www.microsoft.com/en-us/security/blog/2026/04/16/dissecting-sapphire-sleets-macos-intrusion-from-lure-to-compromise/",
+          "https://any.run/cybersecurity-blog/lazarus-macos-malware-mach-o-man/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1677,
+          "domain": 1678,
           "file_path": 1,
-          "ipv4": 25,
-          "url": 3
+          "ipv4": 27,
+          "url": 4
         },
-        "total": 1706
+        "total": 1710
       }
     },
     "BLUEPRINT": {
@@ -140096,11 +140101,14 @@
     "SKYCLOAK": {
       "indicators": {
         "domain": [
+          "2zrek3mkl72d5b6evpkx2rz2glzrltiorgblpfb2ttg6lacwlsdk4iqd.onion",
           "3xl6xhboulyuez6fuydyhj7pdvkshzn4ogsmgwbb3ukrkvgi6bcwvfyd.onion",
           "e3mnde5uyuxjoztup6t3m7nykbicexbzra76ucligwgsaez65w63y2ad.onion",
+          "imnlyhj4mtmtesqrvf7c4ma6dkxeyxw3ae53w6fuz42spndg7zpat6qd.onion",
           "iz4cthf7lios7igq7lvvlgg6xyn5eqowfue5wgsdlgdipueam7av32ad.onion",
           "juliw3eyjz5gx7hup73jbnyeqrdlrzvzxxsbww2tewp3sbh2qtpbasad.onion",
           "kvk46su7d2qi6g4n43syp4zbsf2rihnc6ztj77qtc2ojvewjqvqilnqd.onion",
+          "nytiplwknkinobjaeb5tajjiglip3vtaccju6ta7d47u5u64ktrwhrqd.onion",
           "q35x354qfx43klbx5wd2iw7272wrrhcvgwqqbwut44yiui2hw7cz7fyd.onion",
           "uliw3eyjz5gx7hup73jbnyeqrdlrzvzxxsbww2tewp3sbh2qtpbasad.onion",
           "yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd.onion"
@@ -140121,7 +140129,7 @@
         ],
         "apt_group": "SKYCLOAK",
         "filename": "apt_skycloak.txt",
-        "last_modified": "2026-02-18T14:24:30+02:00",
+        "last_modified": "2026-04-21T16:01:07+03:00",
         "references": [
           "https://x.com/smica83/status/1982342773626880217",
           "https://x.com/PrakkiSathwik/status/1984324320731283614",
@@ -140141,15 +140149,16 @@
           "https://x.com/smica83/status/2023827560111763702",
           "https://x.com/t3ft3lb/status/2023910905134686227",
           "https://x.com/PrakkiSathwik/status/2023797472456569074",
-          "https://www.virustotal.com/gui/file/5b2ca77a39fb4617e1a50797f519e861c2b924c7258c80a4f771418bd0d31291/detection"
+          "https://www.virustotal.com/gui/file/5b2ca77a39fb4617e1a50797f519e861c2b924c7258c80a4f771418bd0d31291/detection",
+          "https://mp.weixin.qq.com/s/nJpqvXCYV3ZdvNgYGrG4ow"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 8,
+          "domain": 11,
           "ipv4": 7
         },
-        "total": 15
+        "total": 18
       }
     },
     "SNOWMAN": {
