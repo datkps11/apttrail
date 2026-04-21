@@ -104755,6 +104755,7 @@
           "nid-naverhcf.servemp3.com",
           "nid-naverhem.3utilities.com",
           "nid-naverhko.serveftp.com",
+          "nid-naverhmt.servequake.com",
           "nid-naverhoc.onthewifi.com",
           "nid-naverhpk.onthewifi.com",
           "nid-naverhpv.servehalflife.com",
@@ -104786,6 +104787,7 @@
           "nid-navermbi.servemp3.com",
           "nid-navermdh.ddnsking.com",
           "nid-navermdh.servegame.com",
+          "nid-navermen.bounceme.net",
           "nid-navermfn.servepics.com",
           "nid-navermhw.3utilities.com",
           "nid-navermid.serveftp.com",
@@ -112755,7 +112757,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-21T10:07:24+03:00",
+        "last_modified": "2026-04-21T11:37:08+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -114292,12 +114294,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18899,
+          "domain": 18901,
           "file_path": 282,
           "ipv4": 77,
           "url": 64
         },
-        "total": 19322
+        "total": 19324
       }
     },
     "KUN3": {
@@ -154140,6 +154142,7 @@
           "rv-toolso.com",
           "rvtoo1.com",
           "rvtoo1s.com",
+          "rvtooik.com",
           "rvtoois.com",
           "rvtoolaca.com",
           "rvtoolaca.online",
@@ -154296,7 +154299,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-04-20T10:15:13+03:00",
+        "last_modified": "2026-04-21T11:34:45+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -154315,9 +154318,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 296
+          "domain": 297
         },
-        "total": 296
+        "total": 297
       }
     },
     "UNC2529": {
