@@ -114991,6 +114991,7 @@
           "admin.dropfile.online",
           "admin.echelonfnd.io",
           "admin.general-meet.site",
+          "admin.luckyguys.site",
           "admin.meeting-central.online",
           "admin.meeting-zone.online",
           "admin.support.general-meet.site",
@@ -115896,6 +115897,7 @@
           "demo.docsend.store",
           "demo.drop-box.store",
           "demo.dropfile.online",
+          "demo.luckyguys.site",
           "demo.techsaeein.com",
           "deng-labs-6ts0pz3vm.vercel.sh",
           "deoft.com",
@@ -116322,6 +116324,7 @@
           "gfinanzen.net",
           "giantblock.org",
           "git-hub.me",
+          "git.luckyguys.site",
           "githero-dev7uf163-gimenetes-projects.vercel.app",
           "github.expublic.linkpc.net",
           "gkins2p3i.naveicoiph.online",
@@ -116732,6 +116735,7 @@
           "lrakkiqr.team-meeting.pro",
           "luc.uefa-meeting.com",
           "lucas-gaming.com",
+          "luckyguys.site",
           "lunoxbet77--yes.site",
           "lunoxbet77rain.baby",
           "lunoxbet77rain.online",
@@ -119162,6 +119166,7 @@
           "159.93.36.84:8444",
           "160.20.147.253:8443",
           "163.245.194.216:3000",
+          "163.245.219.19:443",
           "165.140.85.105:1244",
           "165.140.85.106:1243",
           "165.140.85.106:1244",
@@ -119308,6 +119313,9 @@
           "216.126.237.71:4806",
           "216.126.237.71:4809",
           "216.126.237.71:4899",
+          "216.158.225.144:3000",
+          "216.158.225.144:443",
+          "216.158.225.144:8000",
           "216.173.115.200:1244",
           "216.244.71.233:443",
           "216.250.248.200:1224",
@@ -119595,6 +119603,7 @@
           "http://156.245.16.55/admin/admin.asp",
           "http://158.69.57.135",
           "http://159.100.18.177",
+          "http://163.245.219.19",
           "http://172.86.109.49",
           "http://172.86.113.12",
           "http://172.86.114.141",
@@ -119613,6 +119622,7 @@
           "http://195.250.29.94",
           "http://213.180.180.154",
           "http://216.107.137.53",
+          "http://216.158.225.144",
           "http://217.69.0.159",
           "http://217.69.11.60",
           "http://217.69.11.99",
@@ -119745,7 +119755,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-04-22T10:13:25+03:00",
+        "last_modified": "2026-04-22T22:36:46+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -120947,17 +120957,18 @@
           "https://jp.security.ntt/tech_blog/en-waterplum-ottercookie",
           "https://opensourcemalware.com/blog/tasksjacker-blog-post",
           "https://x.com/abh1sek/status/2039637787742507381",
-          "https://panther.com/blog/tracking-an-ottercookie-infostealer-campaign-across-npm"
+          "https://panther.com/blog/tracking-an-ottercookie-infostealer-campaign-across-npm",
+          "https://www.team-cymru.com/post/dprk-fake-it-worker-cyber-threat-actors-infrastructure"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3522,
+          "domain": 3526,
           "file_path": 478,
-          "ipv4": 616,
-          "url": 108
+          "ipv4": 620,
+          "url": 110
         },
-        "total": 4724
+        "total": 4734
       }
     },
     "LAZYSCRIPTER": {
