@@ -104846,6 +104846,7 @@
           "nid-naversecmail.onthewifi.com",
           "nid-naverset.ddnsking.com",
           "nid-naversgg.ddnsking.com",
+          "nid-naversiq.servequake.com",
           "nid-naverslf.servegame.com",
           "nid-naversll.myvnc.com",
           "nid-naversne.servecounterstrike.com",
@@ -104862,6 +104863,7 @@
           "nid-naversyy.ddnsking.com",
           "nid-navertca.servehalflife.com",
           "nid-navertdm.servequake.com",
+          "nid-naverteta.serveftp.com",
           "nid-navertgo.ddnsking.com",
           "nid-navertht.ddnsking.com",
           "nid-navertir.onthewifi.com",
@@ -104916,6 +104918,7 @@
           "nid-naverzis.servequake.com",
           "nid-naverzmyc.ddnsking.com",
           "nid-naverzsq.ddnsking.com",
+          "nid-naverztm.ddns.net",
           "nid-naverzwr.serveftp.com",
           "nid-navesec.serveftp.com",
           "nid-naveserve.serveftp.com",
@@ -112762,7 +112765,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-21T11:37:08+03:00",
+        "last_modified": "2026-04-22T21:12:59+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -114299,12 +114302,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 18901,
+          "domain": 18904,
           "file_path": 282,
           "ipv4": 77,
           "url": 64
         },
-        "total": 19324
+        "total": 19327
       }
     },
     "KUN3": {
@@ -154274,6 +154277,7 @@
           "rvtoolvm.com",
           "rvtoolze.com",
           "rvtootsacad.com",
+          "rvtootsad.com",
           "rvtouls.com",
           "rvvtools.com",
           "s3bravser.com",
@@ -154359,7 +154363,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-04-21T11:34:45+03:00",
+        "last_modified": "2026-04-22T20:55:20+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -154378,9 +154382,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 297
+          "domain": 298
         },
-        "total": 297
+        "total": 298
       }
     },
     "UNC2529": {
