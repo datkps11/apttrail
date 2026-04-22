@@ -112606,6 +112606,7 @@
           "107.189.16.65:3389",
           "109.248.151.179:53",
           "116.202.99.218:443",
+          "118.194.248.246:443",
           "121.183.134.113:443",
           "121.183.134.113:7000",
           "121.183.134.113:8080",
@@ -112681,6 +112682,7 @@
           "http://103.76.228.204",
           "http://104.36.229.179",
           "http://109.107.157.107",
+          "http://118.194.248.246",
           "http://121.183.134.113",
           "http://121.66.72.110",
           "http://122.155.191.33",
@@ -112765,7 +112767,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-22T21:12:59+03:00",
+        "last_modified": "2026-04-23T00:55:36+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -114297,17 +114299,18 @@
           "https://www.virustotal.com/gui/ip-address/165.154.52.8/relations",
           "https://x.com/skocherhan/status/2045202017875120258",
           "https://x.com/skocherhan/status/2045963626901897341",
-          "https://x.com/skocherhan/status/2046292771594555463"
+          "https://x.com/skocherhan/status/2046292771594555463",
+          "https://x.com/phatomcandle/status/2046650190183256469"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 18904,
           "file_path": 282,
-          "ipv4": 77,
-          "url": 64
+          "ipv4": 78,
+          "url": 65
         },
-        "total": 19327
+        "total": 19329
       }
     },
     "KUN3": {

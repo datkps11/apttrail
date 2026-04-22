@@ -6439,24 +6439,24 @@ rule APT_KIMSUKY
         $ip59 = "107.189.16.65" ascii wide
         $ip60 = "109.248.151.179" ascii wide
         $ip61 = "116.202.99.218" ascii wide
-        $ip62 = "121.183.134.113" ascii wide
+        $ip62 = "118.194.248.246" ascii wide
         $ip63 = "121.183.134.113" ascii wide
         $ip64 = "121.183.134.113" ascii wide
-        $ip65 = "121.66.72.110" ascii wide
-        $ip66 = "125.136.67.99" ascii wide
-        $ip67 = "141.164.41.17" ascii wide
-        $ip68 = "152.89.247.57" ascii wide
-        $ip69 = "156.224.22.247" ascii wide
-        $ip70 = "158.247.238.155" ascii wide
-        $ip71 = "159.100.6.137" ascii wide
-        $ip72 = "162.216.114.133" ascii wide
-        $ip73 = "162.245.188.225" ascii wide
-        $ip74 = "172.93.201.248" ascii wide
+        $ip65 = "121.183.134.113" ascii wide
+        $ip66 = "121.66.72.110" ascii wide
+        $ip67 = "125.136.67.99" ascii wide
+        $ip68 = "141.164.41.17" ascii wide
+        $ip69 = "152.89.247.57" ascii wide
+        $ip70 = "156.224.22.247" ascii wide
+        $ip71 = "158.247.238.155" ascii wide
+        $ip72 = "159.100.6.137" ascii wide
+        $ip73 = "162.216.114.133" ascii wide
+        $ip74 = "162.245.188.225" ascii wide
         $ip75 = "172.93.201.248" ascii wide
-        $ip76 = "183.105.66.48" ascii wide
-        $ip77 = "185.224.137.164" ascii wide
-        $ip78 = "185.235.128.114" ascii wide
-        $ip79 = "192.186.142.74" ascii wide
+        $ip76 = "172.93.201.248" ascii wide
+        $ip77 = "183.105.66.48" ascii wide
+        $ip78 = "185.224.137.164" ascii wide
+        $ip79 = "185.235.128.114" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
