@@ -119018,6 +119018,8 @@
           "135.181.123.177:9001",
           "137.139.135.151:64694",
           "137.184.15.189:22",
+          "138.201.125.58:1224",
+          "138.201.125.58:1245",
           "138.201.199.46:1224",
           "138.201.223.115:4801",
           "138.201.248.205:49498",
@@ -119740,7 +119742,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-04-17T10:15:18+03:00",
+        "last_modified": "2026-04-22T10:13:25+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -120949,10 +120951,10 @@
         "by_type": {
           "domain": 3522,
           "file_path": 478,
-          "ipv4": 614,
+          "ipv4": 616,
           "url": 108
         },
-        "total": 4722
+        "total": 4724
       }
     },
     "LAZYSCRIPTER": {
