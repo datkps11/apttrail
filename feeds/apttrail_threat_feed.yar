@@ -10523,17 +10523,17 @@ rule APT_SIDEWINDER
         $ip66 = "213.227.154.175" ascii wide
         $ip67 = "31.15.17.230" ascii wide
         $ip68 = "31.58.137.246" ascii wide
-        $ip69 = "46.8.226.5" ascii wide
-        $ip70 = "47.236.177.123" ascii wide
-        $ip71 = "47.76.135.130" ascii wide
-        $ip72 = "47.84.196.148" ascii wide
-        $ip73 = "5.230.40.141" ascii wide
-        $ip74 = "5.230.42.202" ascii wide
-        $ip75 = "5.230.43.203" ascii wide
-        $ip76 = "5.230.52.133" ascii wide
-        $ip77 = "5.230.54.162" ascii wide
-        $ip78 = "5.230.54.63" ascii wide
-        $ip79 = "5.230.55.29" ascii wide
+        $ip69 = "38.60.235.109" ascii wide
+        $ip70 = "46.8.226.5" ascii wide
+        $ip71 = "47.236.177.123" ascii wide
+        $ip72 = "47.76.135.130" ascii wide
+        $ip73 = "47.84.196.148" ascii wide
+        $ip74 = "5.230.40.141" ascii wide
+        $ip75 = "5.230.42.202" ascii wide
+        $ip76 = "5.230.43.203" ascii wide
+        $ip77 = "5.230.52.133" ascii wide
+        $ip78 = "5.230.54.162" ascii wide
+        $ip79 = "5.230.54.63" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)

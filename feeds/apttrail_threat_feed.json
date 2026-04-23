@@ -117820,7 +117820,6 @@
           "sunflowbikes.com",
           "sunlotustech.com",
           "suntcijm.mouradvps43hostwin.online",
-          "superdocsoff.com",
           "superstarscanner.com",
           "superstate-team.xyz",
           "superstatefund.co",
@@ -119758,7 +119757,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-04-22T22:36:46+03:00",
+        "last_modified": "2026-04-23T11:49:53+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -120966,12 +120965,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3526,
+          "domain": 3525,
           "file_path": 478,
           "ipv4": 620,
           "url": 110
         },
-        "total": 4734
+        "total": 4733
       }
     },
     "LAZYSCRIPTER": {
@@ -128591,6 +128590,7 @@
           "paapakistan-com-pk.pages.dev",
           "pakistanpower.org",
           "pakpower.org",
+          "paksecurity.org",
           "pakserver.live",
           "pankilo.xyz",
           "parkways.info",
@@ -128717,6 +128717,7 @@
           "tangyball.com",
           "taxofill.info",
           "tea-time.link",
+          "techoption.org",
           "techzcore.org",
           "tected.toproid.xyz",
           "teens3xweb.com",
@@ -128827,6 +128828,7 @@
           "/ABDYot0NxyG.php",
           "/BDYot0NxyG.php",
           "/Cljfdghdjhndklh_ommjhfdgj/cfnbgjfghom_mun_jkghdfjkghdjklgfk_ication.php",
+          "/H7OG7pFMzFh5.php",
           "/HSfuywrhjerfsd.txt",
           "/HprodXprnvlm1.php",
           "/Jsdfwejhrg.rko",
@@ -128893,6 +128895,7 @@
           "/sun2/save_target_applist.php",
           "/sun2/save_whats_chat.php",
           "/sun2/savetargetdeviceinfo.php",
+          "/tHjFCiMNw5Bs/H7OG7pFMzFh5.php",
           "/ticket_line/afa.php",
           "/ticket_line/certificate.php",
           "/ticket_line/llb.php",
@@ -129029,7 +129032,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2026-04-21T09:48:55+03:00",
+        "last_modified": "2026-04-23T12:16:38+03:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -129462,17 +129465,20 @@
           "https://tria.ge/260415-rc7r1agt7l/behavioral1",
           "https://www.virustotal.com/gui/file/045d995dee9b3fba080415be55c932f245582c44d70243fc3fbf0174fd3495bd/detection",
           "https://x.com/RedDrip7/status/2046417026835714239",
-          "https://www.virustotal.com/gui/file/0c69637c2f54822a2f6c796a7800192474742d6f309b3d6aa82ecb10690a7097/detection"
+          "https://www.virustotal.com/gui/file/0c69637c2f54822a2f6c796a7800192474742d6f309b3d6aa82ecb10690a7097/detection",
+          "https://x.com/malwrhunterteam/status/2047237436065894594",
+          "https://www.virustotal.com/gui/file/9b2637b8fefeedf8dca8a0ace491de05b6d937ea7463b48562cd1a0f25abb9f5/detection",
+          "https://www.virustotal.com/gui/file/9d7e12eae6b593e582d8b2c3af3154a989977309dcffc7a85aedf0e047d4ca0b/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 647,
-          "file_path": 81,
+          "domain": 649,
+          "file_path": 83,
           "ipv4": 57,
           "url": 43
         },
-        "total": 828
+        "total": 832
       }
     },
     "PEEPINGTITLE": {
@@ -135769,6 +135775,7 @@
           "drive-rokectsaans-com-tr-account-file.netlify.app",
           "drive-roketsans-com-tr-account-files.netlify.app",
           "drive.desktopserver.top",
+          "driveattachment-mofa.com",
           "drsasa.hopto.org",
           "drtgfhj.mofss.co",
           "dsadsa.pakmarines.com",
@@ -138555,6 +138562,7 @@
           "213.227.154.175:443",
           "31.15.17.230:443",
           "31.58.137.246:443",
+          "38.60.235.109:9876",
           "46.8.226.5:443",
           "47.236.177.123:9090",
           "47.76.135.130:443",
@@ -138633,7 +138641,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-04-21T18:54:39+03:00",
+        "last_modified": "2026-04-23T12:35:05+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -139688,17 +139696,20 @@
           "https://x.com/volrant136/status/2046241063380390343",
           "https://intel.breakglass.tech/post/sidewinder-z2fa-lts-moincox-bangladesh-navy-pakistan-mofa-opsec-burn",
           "https://www.virustotal.com/gui/ip-address/89.116.133.247/relations",
-          "https://x.com/volrant136/status/2046603826296234102"
+          "https://x.com/volrant136/status/2046603826296234102",
+          "https://x.com/Thisism23567356/status/2047237888799092781",
+          "https://www.virustotal.com/gui/file/ae3348414926ec22db313ccd61b0d78c819325b3c6f364903d88da5404a05ac4/detection",
+          "https://www.virustotal.com/gui/file/d375ad74e3f3994f919a68f97d082f796a8dc426083423141d40d5f095cede09/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3538,
+          "domain": 3539,
           "file_path": 16,
-          "ipv4": 47,
+          "ipv4": 48,
           "url": 29
         },
-        "total": 3630
+        "total": 3632
       }
     },
     "SILENCE": {
