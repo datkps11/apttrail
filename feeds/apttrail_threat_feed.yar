@@ -5045,6 +5045,25 @@ rule APT_GOLDMOUSE
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_GOPHERWHISPER
+{
+    meta:
+        description = "Detects IOCs associated with APT GOPHERWHISPER"
+        author = "APTtrail Automated Collection"
+        apt_group = "GOPHERWHISPER"
+        aliases = "boxoffriends, compactgopher, laxgopher"
+        reference = "https://web-assets.esetstatic.com/wls/en/papers/white-papers/gopherwhisper-burrow-full-malware.pdf"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $ip0 = "43.231.113.50" ascii wide
+        $ip1 = "43.231.113.50" ascii wide
+
+    condition:
+        any of ($domain*, $ip*, $url*)
+}
+
 rule APT_GORGON
 {
     meta:

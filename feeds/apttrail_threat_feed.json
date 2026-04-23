@@ -91039,6 +91039,40 @@
         "total": 5
       }
     },
+    "GOPHERWHISPER": {
+      "indicators": {
+        "ipv4": [
+          "43.231.113.50:22",
+          "43.231.113.50:443"
+        ],
+        "url": [
+          "http://43.231.113.50"
+        ]
+      },
+      "metadata": {
+        "aliases": [
+          "compactgopher",
+          "laxgopher",
+          "ratgopher",
+          "sslordoor",
+          "boxoffriends"
+        ],
+        "apt_group": "GOPHERWHISPER",
+        "filename": "apt_gopherwhisper.txt",
+        "last_modified": "2026-04-23T22:50:54+03:00",
+        "references": [
+          "https://www.welivesecurity.com/en/eset-research/gopherwhisper-burrow-full-malware/",
+          "https://web-assets.esetstatic.com/wls/en/papers/white-papers/gopherwhisper-burrow-full-malware.pdf"
+        ]
+      },
+      "statistics": {
+        "by_type": {
+          "ipv4": 2,
+          "url": 1
+        },
+        "total": 3
+      }
+    },
     "GORGON": {
       "indicators": {
         "domain": [
@@ -162150,5 +162184,5 @@
     }
   },
   "source": "Maltrail APT Indicators",
-  "total_apt_groups": 338
+  "total_apt_groups": 339
 }
