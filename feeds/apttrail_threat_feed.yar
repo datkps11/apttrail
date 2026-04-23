@@ -13646,6 +13646,28 @@ rule APT_UNC6691
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_UNC6692
+{
+    meta:
+        description = "Detects IOCs associated with APT UNC6692"
+        author = "APTtrail Automated Collection"
+        apt_group = "UNC6692"
+        aliases = "snowbelt, snowglaze"
+        reference = "https://cloud.google.com/blog/topics/threat-intelligence/unc6692-social-engineering-custom-malware"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "cloudfront-021\.s3\.us-west-2\.amazonaws\.com" ascii wide nocase
+        $domain1 = "sad4w7h913-b4a57f9c36eb\.herokuapp\.com" ascii wide nocase
+        $domain2 = "service-page-11369-28315-outlook\.s3\.us-west-2\.amazonaws\.com" ascii wide nocase
+        $domain3 = "service-page-18968-2419-outlook\.s3\.us-west-2\.amazonaws\.com" ascii wide nocase
+        $domain4 = "service-page-25144-30466-outlook\.s3\.us-west-2\.amazonaws\.com" ascii wide nocase
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
+}
+
 rule APT_UNC961
 {
     meta:

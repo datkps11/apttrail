@@ -94721,6 +94721,7 @@
           "auth.eboard-blog.kro.kr",
           "auth.eboardserver.n-e.kr",
           "auth.eboardsvc.r-e.kr",
+          "auth.hrstrotage.n-e.kr",
           "auth.linkedin.r-e.kr",
           "auth.myonlineblog.r-e.kr",
           "auth.n-works.o-r.kr",
@@ -94909,6 +94910,7 @@
           "bigfiile-down.r-e.kr",
           "bigfile-naver.servepics.com",
           "bigfile-serverdown.kro.kr",
+          "bigfile.navcloudstorage.n-e.kr",
           "bigfile.pe.hu",
           "bigfile.pkzz.org",
           "bigfile.totalh.net",
@@ -95709,6 +95711,7 @@
           "cloudfiles.epizy.com",
           "cloudflare.nid-recaptcha.kro.kr",
           "cloudflare.nid-recheck.kro.kr",
+          "cloudflareproxy.rinet.ai",
           "cloudfls.xyz",
           "cloudin.helpagencyall.site",
           "cloudin.scorenidmain.bond",
@@ -96353,6 +96356,7 @@
           "deleblog.64bit.kr",
           "delete1.kro.kr",
           "deletea.click",
+          "delfino.o-r.kr",
           "deliver-doc.v6.navy",
           "deliver.miss-tax.dns.navy",
           "deliverdoc-ips.mydns.bz",
@@ -98588,6 +98592,7 @@
           "govenments24.site",
           "governments.pro",
           "goverteamsol.shop",
+          "govkorea.o-r.kr",
           "gownpuh.click",
           "gpadisd.top",
           "gpepedao.top",
@@ -98954,6 +98959,7 @@
           "hrdked-n.ahcorp.co.kr",
           "hrhrdh.jhtjtfjhtfght.r-e.kr",
           "hrnksel.store",
+          "hrstrotage.n-e.kr",
           "hsaihfkahfband.top",
           "hsects.store",
           "hseiref.click",
@@ -99202,6 +99208,7 @@
           "iaxevar.click",
           "ibasrugpiah.kakaoviwer.com",
           "iberico.site",
+          "ibizplus.n-e.kr",
           "ibjblaxfnwpkkhrb.cfd",
           "ibusine.click",
           "ice.ntsaccessmember.mydns.bz",
@@ -99261,6 +99268,7 @@
           "illuviumtoken.top",
           "illuviumtoken.xyz",
           "ilnas.n-e.kr",
+          "image.fin-tech.com",
           "image.ionexusa.com",
           "image.secuwizvpn.r-e.kr",
           "imagedownload.ignorelist.com",
@@ -99715,6 +99723,7 @@
           "ir-service.online",
           "ir-service.site",
           "irenmta.click",
+          "ireslution.p-e.kr",
           "irony.cyou",
           "irspost.site",
           "irsz.us",
@@ -100674,6 +100683,7 @@
           "load.fpr.net",
           "load.k-invoice.v6.navy",
           "load.navrcloud.n-e.kr",
+          "load.nidonepass.n-e.kr",
           "load.onecloud.o-r.kr",
           "load.othertime.o-r.kr",
           "load.rwbcode.com",
@@ -102570,6 +102580,7 @@
           "navcerteam.site",
           "navcescorp.site",
           "navcestr.site",
+          "navcloudstorage.n-e.kr",
           "navcmr.site",
           "navcncorp.online",
           "navcncorp.site",
@@ -103447,6 +103458,7 @@
           "navmanager.website",
           "navmcns.site",
           "navmcorp.tech",
+          "navmercorp.n-e.kr",
           "navmgr.site",
           "navmncsas.online",
           "navmncsas.site",
@@ -104602,6 +104614,7 @@
           "nhjmbg.online",
           "nhkr-docs.online",
           "nhlife.kro.kr",
+          "nhls.o-r.kr",
           "nhmiss.site",
           "nhn-articleread.cafe",
           "nhn-cafearticle.com",
@@ -105264,6 +105277,7 @@
           "nid.navincteam.shop",
           "nid.navipdes.dns.army",
           "nid.navkatok.eu",
+          "nid.navmercorp.n-e.kr",
           "nid.navor-logins.dns.navy",
           "nid.navor.r-e.kr",
           "nid.navorntes.dns.army",
@@ -105608,6 +105622,7 @@
           "nidnvmail.servehttp.com",
           "nidnvsecum.servemp3.com",
           "nidocument-hometax.mydns.bz",
+          "nidonepass.n-e.kr",
           "nidowermgrdce.cfd",
           "nidpele.mofamail.shop",
           "nidper.navecorps.com",
@@ -110728,6 +110743,7 @@
           "update-online.p-e.kr",
           "update.ahnlaib.kro.kr",
           "update.alzip.r-e.kr",
+          "update.delfino.o-r.kr",
           "update.doumi.kro.kr",
           "update.farted.net",
           "update.hannarng.kro.kr",
@@ -112885,7 +112901,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-23T14:46:33+03:00",
+        "last_modified": "2026-04-23T21:57:50+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -114419,17 +114435,18 @@
           "https://x.com/skocherhan/status/2045963626901897341",
           "https://x.com/skocherhan/status/2046292771594555463",
           "https://x.com/phatomcandle/status/2046650190183256469",
-          "https://x.com/skocherhan/status/2047021479523496153"
+          "https://x.com/skocherhan/status/2047021479523496153",
+          "https://www.virustotal.com/gui/ip-address/163.245.215.46/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 19022,
+          "domain": 19038,
           "file_path": 282,
           "ipv4": 78,
           "url": 65
         },
-        "total": 19447
+        "total": 19463
       }
     },
     "KUN3": {
@@ -158890,6 +158907,35 @@
         "total": 2370
       }
     },
+    "UNC6692": {
+      "indicators": {
+        "domain": [
+          "cloudfront-021.s3.us-west-2.amazonaws.com",
+          "sad4w7h913-b4a57f9c36eb.herokuapp.com",
+          "service-page-11369-28315-outlook.s3.us-west-2.amazonaws.com",
+          "service-page-18968-2419-outlook.s3.us-west-2.amazonaws.com",
+          "service-page-25144-30466-outlook.s3.us-west-2.amazonaws.com"
+        ]
+      },
+      "metadata": {
+        "aliases": [
+          "snowbelt",
+          "snowglaze"
+        ],
+        "apt_group": "UNC6692",
+        "filename": "apt_unc6692.txt",
+        "last_modified": "2026-04-23T20:49:53+03:00",
+        "references": [
+          "https://cloud.google.com/blog/topics/threat-intelligence/unc6692-social-engineering-custom-malware"
+        ]
+      },
+      "statistics": {
+        "by_type": {
+          "domain": 5
+        },
+        "total": 5
+      }
+    },
     "UNC961": {
       "indicators": {
         "ipv4": [
@@ -162104,5 +162150,5 @@
     }
   },
   "source": "Maltrail APT Indicators",
-  "total_apt_groups": 337
+  "total_apt_groups": 338
 }
