@@ -115195,10 +115195,12 @@
           "ai.coinhouse360.com",
           "aiagentnow.online",
           "aideck.net",
+          "aihealthchains.com",
           "aionedev.best",
           "aixstore.info",
           "ajileuowl.dliklone.online",
           "akamaitechnologies.online",
+          "akaunting25709.hostkey.in",
           "alahbabgroup.com",
           "alanservice.vercel.app",
           "alchemy-api-v3.cloud",
@@ -115909,6 +115911,7 @@
           "cobinbase.com",
           "coca-cola.bond",
           "codebiogblog.com",
+          "codepointlab.com",
           "codepool.cloud",
           "codevexillium.org",
           "codeviewer-fawn.vercel.app",
@@ -116026,6 +116029,7 @@
           "customizetions.com",
           "cv-8zz57gksb-simons-projects-486531f7.vercel.app",
           "cwwpxpxuswo7b6tr.onion",
+          "cyberpanel78354.hostkey.in",
           "cyptian.com",
           "cyptoconnections.com",
           "czinfo.club",
@@ -116268,6 +116272,7 @@
           "ehiremeasure.com",
           "einei.line.pm",
           "electoralvictory.site",
+          "element-3.bestleas.ru",
           "elemize.us",
           "eli.dropfile.online",
           "elitedrivva-app.dabacof.com",
@@ -116999,6 +117004,7 @@
           "mat-techcore.org",
           "materialindia.in",
           "matias.uefa-meeting.com",
+          "matrix-3.bestleas.ru",
           "matrixane.com",
           "mavenradar.com",
           "maverick-njkr6h6me-sohybes-projects.vercel.app",
@@ -117445,6 +117451,7 @@
           "paxosfuture.com",
           "paxosinterview.com",
           "paxosvideointerviewassesment.com",
+          "pay.aihealthchains.com",
           "pay.resumegenie.us",
           "paycount.webbs-information.login.udaviemayas.com",
           "payloadrpc.com",
@@ -119957,7 +119964,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-04-24T08:49:56+03:00",
+        "last_modified": "2026-04-24T14:02:55+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -121169,12 +121176,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3541,
+          "domain": 3548,
           "file_path": 478,
           "ipv4": 629,
           "url": 110
         },
-        "total": 4758
+        "total": 4765
       }
     },
     "LAZYSCRIPTER": {
