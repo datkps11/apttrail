@@ -129169,6 +129169,7 @@
           "kimaho.breatlee.org",
           "kinomei.rootranger.info",
           "kirdycorp.com",
+          "klarinkonten.com",
           "kmong.breatlee.org",
           "komonnv.breatlee.org",
           "ksecure.bio",
@@ -129203,6 +129204,7 @@
           "matrixrevolt.com",
           "mdridefys.info",
           "meetme-abc03-default-rtdb.firebaseio.com",
+          "meiszahlenup.com",
           "messagenote.ink",
           "messagenote.org",
           "metformina.live",
@@ -129452,6 +129454,7 @@
           "twigreader.com",
           "tyfk1.b-cdn.net",
           "uchitel-nitsa.com",
+          "ulmenbilora.com",
           "upgrading-office-content.esy.es",
           "upxvion.info",
           "user-assist.site",
@@ -129739,7 +129742,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2026-04-24T12:41:03+03:00",
+        "last_modified": "2026-04-25T13:14:17+03:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -130180,12 +130183,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 653,
+          "domain": 656,
           "file_path": 83,
           "ipv4": 57,
           "url": 43
         },
-        "total": 836
+        "total": 839
       }
     },
     "PEEPINGTITLE": {
