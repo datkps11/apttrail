@@ -139053,6 +139053,7 @@
           "watch-earn.live",
           "we-are-under-gain.000webhostapp.com",
           "web.sngpl.org.pk",
+          "webapp-getdocumentodwnload-pacapp.malik-jaani786.workers.dev",
           "webarchive-datacenter.herokuapp.com",
           "webdisk.bdgov.info",
           "webdisk.govpk.info",
@@ -139351,7 +139352,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-04-23T12:35:05+03:00",
+        "last_modified": "2026-04-25T20:26:30+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -140409,17 +140410,18 @@
           "https://x.com/volrant136/status/2046603826296234102",
           "https://x.com/Thisism23567356/status/2047237888799092781",
           "https://www.virustotal.com/gui/file/ae3348414926ec22db313ccd61b0d78c819325b3c6f364903d88da5404a05ac4/detection",
-          "https://www.virustotal.com/gui/file/d375ad74e3f3994f919a68f97d082f796a8dc426083423141d40d5f095cede09/detection"
+          "https://www.virustotal.com/gui/file/d375ad74e3f3994f919a68f97d082f796a8dc426083423141d40d5f095cede09/detection",
+          "https://x.com/volrant136/status/2048054426078724126"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3539,
+          "domain": 3540,
           "file_path": 16,
           "ipv4": 48,
           "url": 29
         },
-        "total": 3632
+        "total": 3633
       }
     },
     "SILENCE": {
