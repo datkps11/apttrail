@@ -129528,6 +129528,7 @@
           "winfileshare.com",
           "wingpao.info",
           "wissenbalora.com",
+          "wisssteuerhub.com",
           "wond3rfulworld.com",
           "xbladezz.com",
           "xiahong.rootranger.info",
@@ -129771,7 +129772,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2026-04-26T12:15:42+03:00",
+        "last_modified": "2026-04-26T23:13:27+03:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -130212,12 +130213,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 659,
+          "domain": 660,
           "file_path": 83,
           "ipv4": 57,
           "url": 43
         },
-        "total": 842
+        "total": 843
       }
     },
     "PEEPINGTITLE": {
