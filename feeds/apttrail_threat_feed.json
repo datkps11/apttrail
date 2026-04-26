@@ -97757,6 +97757,7 @@
           "ericoneth.xyz",
           "ermisco.online",
           "erpolicies-0v.dynv6.net",
+          "erpolicies-21v.dynv6.net",
           "erpolicies-4v.dynv6.net",
           "erpolicies-58v.dynv6.net",
           "erpolicies-75v.dynv6.net",
@@ -99693,6 +99694,7 @@
           "invoice.targetblogrecord.dns.army",
           "invoice.udocreferal.kozow.com",
           "invoice.uncork.biz",
+          "invoice.uofficialerc45v.dynuddns.com",
           "invoice.userdirectaddr.mydns.bz",
           "invoice.userhostverify.mydns.bz",
           "invoice.usermemberblog.mydns.vc",
@@ -106508,6 +106510,7 @@
           "nmbvcr.shop",
           "nmdoc-hometax.mydns.bz",
           "nmdocument-hometax.mydns.bz",
+          "nmethodsrc21v.dynuddns.com",
           "nmior.shop",
           "nmjbg.website",
           "nmjhgt.space",
@@ -108995,6 +108998,7 @@
           "polercm-40v.dynv6.net",
           "polercm-43v.dynv6.net",
           "polercm-4v.dynv6.net",
+          "polercm-55v.dynv6.net",
           "polercm-56v.dynv6.net",
           "polercm-67v.dynv6.net",
           "polercm-84v.dynv6.net",
@@ -111247,6 +111251,15 @@
           "unw.elecdocs.dynv6.net",
           "uo.zosua.o-r.kr",
           "uoeicxo.site",
+          "uofficialerc13v.dynuddns.com",
+          "uofficialerc14v.dynuddns.com",
+          "uofficialerc20v.dynuddns.com",
+          "uofficialerc21v.dynuddns.com",
+          "uofficialerc28v.dynuddns.com",
+          "uofficialerc33v.dynuddns.com",
+          "uofficialerc34v.dynuddns.com",
+          "uofficialerc45v.dynuddns.com",
+          "uofficialerc5v.dynuddns.com",
           "uoinesx.site",
           "uoneati.click",
           "uoptxe.click",
@@ -113442,7 +113455,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-26T13:47:31+03:00",
+        "last_modified": "2026-04-26T18:50:28+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -114978,17 +114991,18 @@
           "https://x.com/phatomcandle/status/2046650190183256469",
           "https://x.com/skocherhan/status/2047021479523496153",
           "https://www.virustotal.com/gui/ip-address/163.245.215.46/relations",
-          "https://x.com/skocherhan/status/2047382182000312798"
+          "https://x.com/skocherhan/status/2047382182000312798",
+          "https://x.com/skocherhan/status/2048153192563613921"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 19540,
+          "domain": 19553,
           "file_path": 282,
           "ipv4": 78,
           "url": 65
         },
-        "total": 19965
+        "total": 19978
       }
     },
     "KUN3": {
@@ -139233,6 +139247,7 @@
           "zhenpinxuanji.vip",
           "zhuhai-a1rsh0w-reg1strat1i0n-2o24.netlify.app",
           "zimbra-com.up.railway.app",
+          "zimbra-nyatel-production.up.railway.app",
           "zimbra10-internationalrelation40-beep5751-brqupv53.leapcell.dev",
           "zimbra10-nml3wp-max8143-3ipio7e5.leapcell.dev",
           "zimbra10-nml3wp-max8143-fn1rsf7l.leapcell.dev",
@@ -139366,7 +139381,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-04-25T20:26:30+03:00",
+        "last_modified": "2026-04-26T19:30:45+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -140425,17 +140440,18 @@
           "https://x.com/Thisism23567356/status/2047237888799092781",
           "https://www.virustotal.com/gui/file/ae3348414926ec22db313ccd61b0d78c819325b3c6f364903d88da5404a05ac4/detection",
           "https://www.virustotal.com/gui/file/d375ad74e3f3994f919a68f97d082f796a8dc426083423141d40d5f095cede09/detection",
-          "https://x.com/volrant136/status/2048054426078724126"
+          "https://x.com/volrant136/status/2048054426078724126",
+          "https://x.com/volrant136/status/2048431910871875851"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3540,
+          "domain": 3541,
           "file_path": 16,
           "ipv4": 48,
           "url": 29
         },
-        "total": 3633
+        "total": 3634
       }
     },
     "SILENCE": {
