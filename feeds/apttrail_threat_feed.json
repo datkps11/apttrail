@@ -95702,9 +95702,11 @@
           "claimhub.top",
           "claimhubs.top",
           "claimshub.xyz",
+          "clarifypost.forum",
           "claum.kro.kr",
           "claum.ml",
           "clearcheck.r-e.kr",
+          "clearnotice.sbs",
           "clearview-cpa.ca",
           "clearview-cpa.net",
           "cleavoice.click",
@@ -96451,6 +96453,7 @@
           "dev.nvdocs.online",
           "dev.science.aidu.kr",
           "dev.userscheck.info",
+          "dev3.daliajobs.com",
           "development.news-portal.site",
           "develtfie.click",
           "devf.n-e.kr",
@@ -97100,6 +97103,7 @@
           "edaum.online",
           "edcloud.store",
           "edcrfv.tech",
+          "edeliever-address-verify.biz",
           "edgwjzahpprymw.xn--h32bi4v.xn--3e0b707e",
           "edit.n-e.kr",
           "editlash.click",
@@ -98847,6 +98851,7 @@
           "havorcorp.tech",
           "havorcorpsv.online",
           "hayoungju.n-e.kr",
+          "hc.vlkjq328j-q2odlajejfj-vnweq1v.site",
           "hcaredocs.o-r.kr",
           "hdac-wallet.com",
           "hdkrkswndmlswee1.cfd",
@@ -100001,6 +100006,7 @@
           "jx3kked.top",
           "jx3mndf.top",
           "jypf.site",
+          "jzeyutudey.dynv6.net",
           "jzmhlklzrpidvejr.xn--yq5b.xn--3e0b707e",
           "jzwillyjdpxfircb.xn--h32bi4v.xn--3e0b707e",
           "k-ac.net",
@@ -109180,6 +109186,7 @@
           "ptotoservice.cfd",
           "puac.net",
           "pubano.pro",
+          "public-revenue-info.biz",
           "public.hummedaroundput.com",
           "publiccn.nlink.mydns.bz",
           "publish.kro.kr",
@@ -109330,6 +109337,7 @@
           "rancaugh.click",
           "random.enternhisserver.store",
           "random.fornmailcorphost.store",
+          "random.jgf674.com",
           "random.nmailinconline.store",
           "random.nvcees.xyz",
           "random.onlinenhiscomservice.store",
@@ -111291,6 +111299,7 @@
           "urbanfilesibi.click",
           "ureraiam.click",
           "urgencynoe.click",
+          "urgent-notice-check.click",
           "urgent.swatpolicy.dns.army",
           "urhost30bomlibs.site",
           "urlalink.info",
@@ -111898,6 +111907,7 @@
           "vksfewkiurybsdkf.cfd",
           "vl9238fyqwoejrbn.cfd",
           "vlkjq328j-q2odlajejfj-vnweq1v.sit",
+          "vlkjq328j-q2odlajejfj-vnweq1v.site",
           "vlnk.ga",
           "vm.rotsis.r-e.kr",
           "vmwna.site",
@@ -112075,6 +112085,7 @@
           "web-rain.work",
           "web-state.work",
           "web-store.work",
+          "web.dev3.daliajobs.com",
           "web.publishhostmap.shop",
           "web.remote.set.setcokiep3.kro.kr",
           "web.remote.set.superpages.kro.kr",
@@ -113431,7 +113442,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-24T17:30:19+03:00",
+        "last_modified": "2026-04-26T13:47:31+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -114972,12 +114983,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 19529,
+          "domain": 19540,
           "file_path": 282,
           "ipv4": 78,
           "url": 65
         },
-        "total": 19954
+        "total": 19965
       }
     },
     "KUN3": {
@@ -129109,6 +129120,7 @@
           "greenhippo.info",
           "greenpop.info",
           "greenxeonsr.info",
+          "greifbrunnex.com",
           "guangzhou.nihaoucloud.org",
           "guardianofgalaxy.live",
           "gyyun.xyz",
@@ -129404,6 +129416,7 @@
           "sphereinc.info",
           "springbring.info",
           "st-wcde.org",
+          "startfinanzio.com",
           "static.opensecurity-legacy.com",
           "stealthcomm.org",
           "steirgothara.com",
@@ -129499,6 +129512,7 @@
           "wikifedia.space",
           "winfileshare.com",
           "wingpao.info",
+          "wissenbalora.com",
           "wond3rfulworld.com",
           "xbladezz.com",
           "xiahong.rootranger.info",
@@ -129742,7 +129756,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2026-04-25T13:14:17+03:00",
+        "last_modified": "2026-04-26T12:15:42+03:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -130183,12 +130197,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 656,
+          "domain": 659,
           "file_path": 83,
           "ipv4": 57,
           "url": 43
         },
-        "total": 839
+        "total": 842
       }
     },
     "PEEPINGTITLE": {
@@ -154993,7 +155007,9 @@
           "rvtoolsaq.com",
           "rvtoolsax.com",
           "rvtoolsbox.com",
+          "rvtoolse.info",
           "rvtoolsed.com",
+          "rvtoolsen.com",
           "rvtoolses.com",
           "rvtoolseu.com",
           "rvtoolsgo.com",
@@ -155010,6 +155026,7 @@
           "rvtoolsnt.com",
           "rvtoolso.com",
           "rvtoolson.com",
+          "rvtoolson.info",
           "rvtoolsone.com",
           "rvtoolspro.com",
           "rvtoolspro.info",
@@ -155112,7 +155129,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-04-25T14:07:32+03:00",
+        "last_modified": "2026-04-26T12:53:26+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -155131,9 +155148,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 300
+          "domain": 303
         },
-        "total": 300
+        "total": 303
       }
     },
     "UNC2529": {
