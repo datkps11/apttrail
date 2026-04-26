@@ -96491,6 +96491,7 @@
           "difficra.click",
           "digiibyte.click",
           "digiimed.click",
+          "digital-notice-kr.sbs",
           "digital-post.live",
           "digital.pepperbank.kro.kr",
           "dihl-defence.o-r.kr",
@@ -113455,7 +113456,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-26T18:50:28+03:00",
+        "last_modified": "2026-04-26T21:24:52+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -114997,12 +114998,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 19553,
+          "domain": 19554,
           "file_path": 282,
           "ipv4": 78,
           "url": 65
         },
-        "total": 19978
+        "total": 19979
       }
     },
     "KUN3": {
