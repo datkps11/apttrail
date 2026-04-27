@@ -112161,6 +112161,7 @@
           "webabc.click",
           "webcctv.site",
           "webcloud-notice.com",
+          "webdavclient.o-r.kr",
           "webdisk.acc-portal.nl",
           "webdisk.custom-center.nl",
           "webdisk.havercorp.site",
@@ -113509,7 +113510,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-27T17:56:03+03:00",
+        "last_modified": "2026-04-27T22:07:33+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -115051,12 +115052,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 19607,
+          "domain": 19608,
           "file_path": 282,
           "ipv4": 78,
           "url": 65
         },
-        "total": 20032
+        "total": 20033
       }
     },
     "KUN3": {
