@@ -120059,6 +120059,7 @@
           "214.75.112.56:1224",
           "214.75.112.56:1244",
           "214.75.112.56:1245",
+          "216.126.224.220:5976",
           "216.126.229.166:1224",
           "216.126.229.166:1245",
           "216.126.237.71:4801",
@@ -120374,6 +120375,7 @@
           "http://191.96.31.38",
           "http://193.56.28.251",
           "http://193.56.28.32",
+          "http://195.201.104.53",
           "http://195.250.29.94",
           "http://213.180.180.154",
           "http://216.107.137.53",
@@ -120510,7 +120512,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-04-24T14:02:55+03:00",
+        "last_modified": "2026-04-27T16:38:16+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -121716,18 +121718,23 @@
           "https://www.team-cymru.com/post/dprk-fake-it-worker-cyber-threat-actors-infrastructure",
           "https://www.trendmicro.com/en_us/research/26/d/void-dokkaebi-uses-fake-job-interview-lure-to-spread-malware-via-code-repositories.html",
           "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/26/d/void-dokkaebi/Void-Dokkaebi-Uses-Fake-Job-Interview-Lure-to-Spread-Malware-via-Code-Repositories-IoCs.txt",
+          "https://x.com/npm_malware/status/2048749068051247429",
+          "https://socket.dev/npm/package/ozonex-sdk/files/1.0.5/postinstall.js",
           "https://www.aikido.dev/blog/fast-draft-open-vsx-bloktrooper",
-          "https://expel.com/blog/inside-lazarus-how-north-korea-uses-ai-to-industrialize-attacks-on-developers/"
+          "https://expel.com/blog/inside-lazarus-how-north-korea-uses-ai-to-industrialize-attacks-on-developers/",
+          "https://gist.github.com/danslo/edb46198720ed0f4ad6e4b1c4b481efe",
+          "https://gist.github.com/danslo/390782908532ef78b137cf14bd403a7e",
+          "https://gist.githubusercontent.com/danslo/fb62df9fcc65ae252ffb0c416fe35b4d/raw/e895416c7b708966ab1b3973c648dec39d6cf129/gistfile1.txt"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 3548,
           "file_path": 478,
-          "ipv4": 629,
-          "url": 110
+          "ipv4": 630,
+          "url": 111
         },
-        "total": 4765
+        "total": 4767
       }
     },
     "LAZYSCRIPTER": {
@@ -129382,6 +129389,7 @@
           "popcornstudy.info",
           "ppzo3687.b-cdn.net",
           "privchat-6cc58-default-rtdb.firebaseio.com",
+          "proberichtsweg.com",
           "propriated.co.in",
           "provoxil.live",
           "psca-gop.org",
@@ -129800,7 +129808,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2026-04-26T23:13:27+03:00",
+        "last_modified": "2026-04-27T14:50:00+03:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -130241,12 +130249,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 660,
+          "domain": 661,
           "file_path": 83,
           "ipv4": 57,
           "url": 43
         },
-        "total": 843
+        "total": 844
       }
     },
     "PEEPINGTITLE": {

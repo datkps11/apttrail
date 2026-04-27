@@ -107734,6 +107734,7 @@ LAZARUS,ipv4,212.81.47.217:8080
 LAZARUS,ipv4,214.75.112.56:1224
 LAZARUS,ipv4,214.75.112.56:1244
 LAZARUS,ipv4,214.75.112.56:1245
+LAZARUS,ipv4,216.126.224.220:5976
 LAZARUS,ipv4,216.126.229.166:1224
 LAZARUS,ipv4,216.126.229.166:1245
 LAZARUS,ipv4,216.126.237.71:4801
@@ -108047,6 +108048,7 @@ LAZARUS,url,http://185.29.8.53
 LAZARUS,url,http://191.96.31.38
 LAZARUS,url,http://193.56.28.251
 LAZARUS,url,http://193.56.28.32
+LAZARUS,url,http://195.201.104.53
 LAZARUS,url,http://195.250.29.94
 LAZARUS,url,http://213.180.180.154
 LAZARUS,url,http://216.107.137.53
@@ -113647,6 +113649,7 @@ PATCHWORK,domain,pnra-pk.org
 PATCHWORK,domain,popcornstudy.info
 PATCHWORK,domain,ppzo3687.b-cdn.net
 PATCHWORK,domain,privchat-6cc58-default-rtdb.firebaseio.com
+PATCHWORK,domain,proberichtsweg.com
 PATCHWORK,domain,propriated.co.in
 PATCHWORK,domain,provoxil.live
 PATCHWORK,domain,psca-gop.org
