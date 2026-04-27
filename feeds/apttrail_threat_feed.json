@@ -94523,6 +94523,7 @@
           "appleplus2.site",
           "applesec.info",
           "applesec.site",
+          "appleviewer.sbs",
           "appmedicine.whoint.cf",
           "apporigin.store",
           "apps.imagelogger.o-r.kr",
@@ -104067,6 +104068,7 @@
           "nckr.space",
           "ncloud.click",
           "ncloud.host",
+          "ncloud.julgiya.com",
           "ncloud.uno",
           "ncloud2usernet.tech",
           "ncmails.store",
@@ -105077,6 +105079,7 @@
           "nid-naverkhc.serveftp.com",
           "nid-naverkhd.onthewifi.com",
           "nid-naverkne.serveftp.com",
+          "nid-naverkrl.servequake.com",
           "nid-naverkze.onthewifi.com",
           "nid-naverlnm.ddnsking.com",
           "nid-naverlpd.onthewifi.com",
@@ -113456,7 +113459,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-26T21:24:52+03:00",
+        "last_modified": "2026-04-27T10:23:00+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -114998,12 +115001,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 19554,
+          "domain": 19557,
           "file_path": 282,
           "ipv4": 78,
           "url": 65
         },
-        "total": 19979
+        "total": 19982
       }
     },
     "KUN3": {
