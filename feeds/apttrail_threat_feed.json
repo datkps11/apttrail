@@ -116954,6 +116954,7 @@
           "fast-video-recording.com",
           "fasttet.com",
           "fastwise.org",
+          "faulttolerantdigitalengine.com",
           "fclouddown.co",
           "febintllc.com",
           "felixpools.vercel.app",
@@ -119920,6 +119921,7 @@
           "147.124.214.237:1244",
           "147.124.215.131:1244",
           "147.93.40.224:3000",
+          "148.251.11.208:9498",
           "149.28.137.173:7001",
           "149.28.139.62:8080",
           "149.40.62.82:3000",
@@ -120539,7 +120541,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-04-27T16:38:16+03:00",
+        "last_modified": "2026-04-28T20:38:54+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -121732,6 +121734,7 @@
           "https://www.aikido.dev/blog/glassworm-chrome-extension-rat",
           "https://jp.security.ntt/insights_resources/tech_blog/stoatwaffle_malware_en/",
           "https://x.com/L0Psec/status/2036098821059461256",
+          "https://x.com/L0Psec/status/2049158325372125450",
           "https://www.virustotal.com/gui/file/4291da6d5461c51ff0f852ca40a557739e955667df66c359cb0952542bb796b2/detection",
           "https://www.virustotal.com/gui/file/c2fe5b1d2c4cef27ab22fa8bc960a78264418e02ab3787bf0053c8f3a37c95ca/detection",
           "https://www.virustotal.com/gui/file/a6d2f0c3892b443d022d4c77835a85efb1131b0a12d3464b01cec3563194c73c/detection",
@@ -121756,12 +121759,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3548,
+          "domain": 3549,
           "file_path": 478,
-          "ipv4": 630,
+          "ipv4": 631,
           "url": 111
         },
-        "total": 4767
+        "total": 4769
       }
     },
     "LAZYSCRIPTER": {
