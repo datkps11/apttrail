@@ -21194,6 +21194,7 @@
           "sessions4life.club",
           "sessions4life.pw",
           "severgreys.info",
+          "shadoworkz.info",
           "share.printerjobs.xyz",
           "shareingsevices.info",
           "sharelives.xyz",
@@ -21686,7 +21687,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2026-03-18T09:58:06+02:00",
+        "last_modified": "2026-04-28T19:26:24+03:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -22345,12 +22346,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 735,
+          "domain": 736,
           "file_path": 252,
           "ipv4": 47,
           "url": 4
         },
-        "total": 1038
+        "total": 1039
       }
     },
     "DOWNEX": {
