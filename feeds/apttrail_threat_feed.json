@@ -104192,6 +104192,10 @@
           "ncodbvpass.dynv6.net",
           "ncodbvverify.dynv6.net",
           "ncodbypass.dynv6.net",
+          "ncodbzpass.dynv6.net",
+          "ncodcapass.dynv6.net",
+          "ncodcbpass.dynv6.net",
+          "ncodccpass.dynv6.net",
           "ncomails.store",
           "ncomonline.store",
           "ncomorgan.store",
@@ -113665,7 +113669,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-04-28T23:58:49+03:00",
+        "last_modified": "2026-04-29T10:48:17+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -115212,12 +115216,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 19760,
+          "domain": 19764,
           "file_path": 282,
           "ipv4": 78,
           "url": 67
         },
-        "total": 20187
+        "total": 20191
       }
     },
     "KUN3": {
