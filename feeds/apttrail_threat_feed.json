@@ -7627,6 +7627,8 @@
           "diginurworld.com",
           "diyefosterfeeds.com",
           "dnldsalecraze.com",
+          "domainnamevalidator.com",
+          "domainregistationcheck.com",
           "dracjohnsupport.com",
           "drogbachelsea.com",
           "dtzappaccount.com",
@@ -7660,6 +7662,7 @@
           "gallery.play-protect.com",
           "gandharaart.org",
           "gdatesystems.com",
+          "getserviceupdates.com",
           "gewistaplaner.gewista.at",
           "ghayoorfilmstudio.com",
           "giov.officeweb.live",
@@ -8089,6 +8092,7 @@
           "147.124.223.140:41320",
           "151.236.14.173:443",
           "151.236.21.48:8080",
+          "151.236.4.164:5010",
           "151.236.9.75:5080",
           "151.236.9.75:6396",
           "158.255.215.45:8899",
@@ -8142,6 +8146,7 @@
           "89.40.206.85:52529",
           "89.46.234.221:443",
           "89.46.234.221:9672",
+          "89.46.236.152:443",
           "91.103.66.202:46882",
           "91.132.92.231:5959",
           "91.132.92.231:6060",
@@ -8167,6 +8172,7 @@
           "http://45.11.19.170",
           "http://45.61.139.69",
           "http://46.229.55.63",
+          "http://46.30.191.221",
           "http://47.245.111.83",
           "http://63.250.38.240",
           "http://72.11.134.216",
@@ -8205,7 +8211,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-04-30T15:06:13+03:00",
+        "last_modified": "2026-04-30T23:28:39+03:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -8787,17 +8793,19 @@
           "https://x.com/RedDrip7/status/2049775100237676647",
           "https://www.virustotal.com/gui/file/359200a112936939f8b324bee7edc943e97cbf0677c8478bfa20b5b333a47663/detection",
           "https://www.virustotal.com/gui/file/c151a8861d4f75c09803efa677322193d04c4ec4e5b9d8eadcc6cbea69069b57/detection",
-          "https://www.virustotal.com/gui/file/84f2b3cde61895fbe28c3660d5f8d796f6eac6a969838eb340283a50a2c3de09/detection"
+          "https://www.virustotal.com/gui/file/84f2b3cde61895fbe28c3660d5f8d796f6eac6a969838eb340283a50a2c3de09/detection",
+          "https://x.com/RexorVc0/status/2049740014875967766",
+          "https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247508516&idx=1&sn=a869f67294b5777615ad597c3730105e&chksm=f9c1912dceb6183b4f7f359de87814c613d58b671245307a99857eb03847a0860743516e7fae&scene=178&cur_album_id=1955835290309230595&search_click_id"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 459,
+          "domain": 462,
           "file_path": 82,
-          "ipv4": 75,
-          "url": 18
+          "ipv4": 77,
+          "url": 19
         },
-        "total": 634
+        "total": 640
       }
     },
     "BLACKGEAR": {
