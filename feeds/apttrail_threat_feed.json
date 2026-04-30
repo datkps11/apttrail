@@ -7582,6 +7582,7 @@
           "bootcampquest.com",
           "botanoolifeapp.net",
           "box.livevideosonlinepk.com",
+          "bravojacksonmentor.com",
           "briarapppro.org",
           "broadsforthestate.com",
           "bsdqcaptureman.com",
@@ -8204,7 +8205,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-04-24T10:55:13+03:00",
+        "last_modified": "2026-04-30T15:06:13+03:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -8782,17 +8783,21 @@
           "https://www.virustotal.com/gui/file/6fd40f0aba5c6bd9dd784abd8f5c0ede41e81e7cc4c0a9c614bd2aa32f449f89/detection",
           "https://x.com/RedDrip7/status/2047579562184413587",
           "https://www.virustotal.com/gui/file/563fd6ff3f767d8120731803aeec9e5f5fc3a26a48567ac57d95493ca18133ee/detection",
-          "https://www.virustotal.com/gui/file/85fae6eb3d173274e59293d31d48c119608682862390f70d58b9ad7465dcbc1e/detection"
+          "https://www.virustotal.com/gui/file/85fae6eb3d173274e59293d31d48c119608682862390f70d58b9ad7465dcbc1e/detection",
+          "https://x.com/RedDrip7/status/2049775100237676647",
+          "https://www.virustotal.com/gui/file/359200a112936939f8b324bee7edc943e97cbf0677c8478bfa20b5b333a47663/detection",
+          "https://www.virustotal.com/gui/file/c151a8861d4f75c09803efa677322193d04c4ec4e5b9d8eadcc6cbea69069b57/detection",
+          "https://www.virustotal.com/gui/file/84f2b3cde61895fbe28c3660d5f8d796f6eac6a969838eb340283a50a2c3de09/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 458,
+          "domain": 459,
           "file_path": 82,
           "ipv4": 75,
           "url": 18
         },
-        "total": 633
+        "total": 634
       }
     },
     "BLACKGEAR": {
@@ -115868,6 +115873,7 @@
           "2daojnjnp666jla6.dropfile.online",
           "360scanner.store",
           "360share.pro",
+          "49rjaf1fgrlzl1t82dpxmiqmyeedl4kku5y3hjvanjleyhpo3pjmbn23q0.pages.dev",
           "4bjt2rceijktwedi.onion",
           "4w9h8ps9.naveicoipa.tech",
           "4w9h8ps9.naveicoipc.tech",
@@ -120726,7 +120732,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-04-30T13:41:16+03:00",
+        "last_modified": "2026-04-30T15:14:33+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -121941,17 +121947,19 @@
           "https://gist.github.com/danslo/390782908532ef78b137cf14bd403a7e",
           "https://gist.githubusercontent.com/danslo/fb62df9fcc65ae252ffb0c416fe35b4d/raw/e895416c7b708966ab1b3973c648dec39d6cf129/gistfile1.txt",
           "https://www.linkedin.com/feed/update/urn:li:activity:7455559719282241536/",
-          "https://www.virustotal.com/gui/ip-address/45.15.167.146/relations"
+          "https://www.virustotal.com/gui/ip-address/45.15.167.146/relations",
+          "https://x.com/nextronresearch/status/2049775774027124938",
+          "https://www.virustotal.com/gui/file/5fc61384dd6f15e6bb510e0421000c1301a40d7acf05cedbeb6bc789c0a99d00/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3567,
+          "domain": 3568,
           "file_path": 478,
           "ipv4": 631,
           "url": 115
         },
-        "total": 4791
+        "total": 4792
       }
     },
     "LAZYSCRIPTER": {
