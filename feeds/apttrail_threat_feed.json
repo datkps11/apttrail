@@ -10302,6 +10302,7 @@
           "thanhthienai.com",
           "thefirststore.bond",
           "thorwsap.finance",
+          "thriddata.com",
           "tokenhub.mefound.com",
           "tokenomic.itsaol.com",
           "tokentrack.mrbasic.com",
@@ -11040,7 +11041,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-04-30T18:26:53+03:00",
+        "last_modified": "2026-05-01T18:21:56+03:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -11139,6 +11140,8 @@
           "https://x.com/IstaPee/status/1935788234468213130",
           "https://x.com/ValidinLLC/status/1943648048401244489",
           "https://www.validin.com/blog/zooming_through_bluenoroff_pivots/",
+          "https://arcticwolf.com/resources/blog/bluenoroff-uses-clickfix-fileless-powershell-and-ai-generated-zoom-meetings-to-target-web3-sector/",
+          "https://github.com/rtkwlf/wolf-tools/blob/main/threat-intelligence/bluenoroff-fake-zoom-clickfix/Bluenoroff_Appendix_items.md",
           "https://www.virustotal.com/gui/ip-address/147.79.103.251/relations",
           "https://app.validin.com/lookalikes?lookback=90&depth=2&find=%2Fus%5B0-9%5D%7B2%7D%5Ba-z%5D%7B3%7D-zoom%5C.%5Ba-z%5D%7B2%2C5%7D%2F (# 2025-06-20)",
           "https://github.com/hagezi/dns-blocklists/issues/6545",
@@ -11205,12 +11208,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1678,
+          "domain": 1679,
           "file_path": 1,
           "ipv4": 27,
           "url": 4
         },
-        "total": 1710
+        "total": 1711
       }
     },
     "BLUEPRINT": {
