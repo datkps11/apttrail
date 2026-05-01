@@ -21230,6 +21230,7 @@
           "sloganstory.com",
           "slowcute.digital",
           "solotrricks.info",
+          "solutionpelle.info",
           "solutionsroof.xyz",
           "soundedge.live",
           "soundvista.club",
@@ -21700,7 +21701,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2026-04-28T19:26:24+03:00",
+        "last_modified": "2026-05-01T11:47:34+03:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -22359,12 +22360,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 736,
+          "domain": 737,
           "file_path": 252,
           "ipv4": 47,
           "url": 4
         },
-        "total": 1039
+        "total": 1040
       }
     },
     "DOWNEX": {
@@ -120271,6 +120272,7 @@
           "196.38.48.121",
           "197.211.212.59:7443",
           "198.105.127.210:443",
+          "198.135.55.67:1224",
           "198.180.198.6:443",
           "201.77.179.66:8082",
           "202.163.147.124:1248",
@@ -120752,7 +120754,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-04-30T22:44:46+03:00",
+        "last_modified": "2026-05-01T11:40:33+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -121978,10 +121980,10 @@
         "by_type": {
           "domain": 3568,
           "file_path": 478,
-          "ipv4": 643,
+          "ipv4": 644,
           "url": 115
         },
-        "total": 4804
+        "total": 4805
       }
     },
     "LAZYSCRIPTER": {
@@ -129489,6 +129491,7 @@
           "letschat-5d5e3-default-rtdb.firebaseio.com",
           "letsgetclose.com",
           "lifengine.org",
+          "liststernia.com",
           "little-nuts.com",
           "liuyi.neectar.info",
           "loma.breatlee.org",
@@ -130055,7 +130058,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2026-04-27T14:50:00+03:00",
+        "last_modified": "2026-05-01T11:46:08+03:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -130496,12 +130499,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 661,
+          "domain": 662,
           "file_path": 83,
           "ipv4": 57,
           "url": 43
         },
-        "total": 844
+        "total": 845
       }
     },
     "PEEPINGTITLE": {
