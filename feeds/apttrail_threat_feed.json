@@ -136987,6 +136987,7 @@
           "edms-vpn.ddns.net",
           "edu-cx.org",
           "edu-mil.cn",
+          "ee-visa.com",
           "eede6f46.cdn-caa-sco.pages.dev",
           "efes-mindef-gov-pk.dowmload.org",
           "efes-mindef-qov-pk.dowmload.org",
@@ -138467,6 +138468,7 @@
           "naatlibrary.com",
           "nactagovpk.org",
           "nadra-gov-pk.com",
+          "nadra-gov.ee-visa.com",
           "nadra-gov.online",
           "nadra-gov.pt",
           "nadra-govpk.com",
@@ -139816,7 +139818,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-04-28T22:38:59+03:00",
+        "last_modified": "2026-05-02T16:49:59+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -140884,12 +140886,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3549,
+          "domain": 3551,
           "file_path": 16,
           "ipv4": 48,
           "url": 29
         },
-        "total": 3642
+        "total": 3644
       }
     },
     "SILENCE": {
