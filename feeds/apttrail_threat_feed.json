@@ -118140,6 +118140,7 @@
           "neugrenz.com",
           "neuraldock-app734.vercel.app",
           "neuraldock-ext126.vercel.app",
+          "neuralnetworkdatalab.com",
           "new.hirvexo.com",
           "newcoming.cfd",
           "newfromjune.xyz",
@@ -120238,6 +120239,7 @@
           "147.124.214.237:1244",
           "147.124.215.131:1244",
           "147.93.40.224:3000",
+          "147.93.90.228:8090",
           "148.251.11.208:9498",
           "149.28.137.173:7001",
           "149.28.139.62:8080",
@@ -120885,7 +120887,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-05-02T00:41:03+03:00",
+        "last_modified": "2026-05-02T15:38:51+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -122115,12 +122117,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3594,
+          "domain": 3595,
           "file_path": 478,
-          "ipv4": 654,
+          "ipv4": 655,
           "url": 115
         },
-        "total": 4841
+        "total": 4843
       }
     },
     "LAZYSCRIPTER": {
