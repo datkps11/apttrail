@@ -129371,6 +129371,7 @@
           "azureinternalupdates.com",
           "b3autybab3s.com",
           "baidunetdisk.info",
+          "balschsteuerix.com",
           "bayanat.co.nf",
           "beautifullimages.co.nf",
           "beijingtv.org",
@@ -129909,6 +129910,7 @@
           "uchitel-nitsa.com",
           "ulmenbilora.com",
           "upgrading-office-content.esy.es",
+          "upklarbericht.com",
           "upxvion.info",
           "user-assist.site",
           "useraccount.co",
@@ -130197,7 +130199,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2026-05-01T11:46:08+03:00",
+        "last_modified": "2026-05-03T14:24:22+03:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -130638,12 +130640,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 662,
+          "domain": 664,
           "file_path": 83,
           "ipv4": 57,
           "url": 43
         },
-        "total": 845
+        "total": 847
       }
     },
     "PEEPINGTITLE": {

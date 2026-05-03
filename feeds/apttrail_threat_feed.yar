@@ -8745,9 +8745,9 @@ rule APT_PATCHWORK
         $domain44 = "azureinternalupdates\.com" ascii wide nocase
         $domain45 = "b3autybab3s\.com" ascii wide nocase
         $domain46 = "baidunetdisk\.info" ascii wide nocase
-        $domain47 = "bayanat\.co\.nf" ascii wide nocase
-        $domain48 = "beautifullimages\.co\.nf" ascii wide nocase
-        $domain49 = "beijingtv\.org" ascii wide nocase
+        $domain47 = "balschsteuerix\.com" ascii wide nocase
+        $domain48 = "bayanat\.co\.nf" ascii wide nocase
+        $domain49 = "beautifullimages\.co\.nf" ascii wide nocase
         $ip50 = "103.106.2.35" ascii wide
         $ip51 = "104.27.172.22" ascii wide
         $ip52 = "104.27.173.22" ascii wide
