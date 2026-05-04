@@ -94919,6 +94919,7 @@
           "b4356hjrtrtybner.cfd",
           "b7a06388-d667-4b7a-b73a-0420e1c60e61.nidcorp.store",
           "babaleside.cyou",
+          "babelbit.site",
           "baboivan.scienceontheweb.net",
           "babyhouse.xn--2i0b10rqve.xn--3e0b707e",
           "back-face.com",
@@ -96477,6 +96478,7 @@
           "dcentre.kro.kr",
           "dcfvgb.space",
           "dciaopztuqfkoadfh.site",
+          "dcinside.babelbit.site",
           "dcinside.site",
           "dcloud.binduserdoc.p-e.kr",
           "dcloud.docderive.n-e.kr",
@@ -99204,6 +99206,7 @@
           "hostnmailcorpservice.store",
           "hostnmailserver.store",
           "hostnmailservice.store",
+          "hostpilot.website",
           "hotbriefs.digital",
           "hotdognec.click",
           "hotlook.jonga.ml",
@@ -112886,6 +112889,7 @@
           "writegra.click",
           "writoma.click",
           "wruniesio.site",
+          "ws.serverdock.online",
           "wsaxns.site",
           "wscnains.site",
           "wscript.shell.run",
@@ -113853,7 +113857,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-04T12:02:06+03:00",
+        "last_modified": "2026-05-04T23:17:05+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -115412,12 +115416,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 19892,
+          "domain": 19896,
           "file_path": 286,
           "ipv4": 78,
           "url": 68
         },
-        "total": 20324
+        "total": 20328
       }
     },
     "KUN3": {
