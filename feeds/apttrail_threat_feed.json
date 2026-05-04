@@ -94187,6 +94187,7 @@
           "admin.contras.site",
           "admin.daisen.fi",
           "admin.daum-or.ml",
+          "admin.dev2.daliajobs.com",
           "admin.etherscard.com",
           "admin.ikuu.xule.cc",
           "admin.lidonft.fi",
@@ -96542,6 +96543,8 @@
           "detaoffi.click",
           "detecsel.click",
           "detewell.click",
+          "dev-crh.daliajobs.com",
+          "dev-dashboard.daliajobs.com",
           "dev.contras.site",
           "dev.infonavera.com",
           "dev.kakaoteam.site",
@@ -96549,6 +96552,7 @@
           "dev.nvdocs.online",
           "dev.science.aidu.kr",
           "dev.userscheck.info",
+          "dev1.daliajobs.com",
           "dev3.daliajobs.com",
           "development.news-portal.site",
           "develtfie.click",
@@ -99691,6 +99695,7 @@
           "infoblogrequire.mydns.bz",
           "infoboxi.click",
           "infoburst.today",
+          "infocheck.abrdns.com",
           "infocheck.cf",
           "infochecker.dns.niduser.user-check.o-r.kr",
           "infoconfim.mydns.bz",
@@ -99932,6 +99937,7 @@
           "ips-check.o-r.kr",
           "ips-checkauth.mydns.vc",
           "ips-cloud.nid-recheck.kro.kr",
+          "ips-co.abrdns.com",
           "ips-cokr.mydns.bz",
           "ips-dns.mydns.bz",
           "ips-dns.mydns.vc",
@@ -100408,6 +100414,7 @@
           "klip.site",
           "kloedil.click",
           "klooknoreply.xyz",
+          "km-link.mois-go.cloud-ip.cc",
           "kmbxt.icu",
           "kmember.option.r-e.kr",
           "kmestick.click",
@@ -101930,6 +101937,7 @@
           "mois-com.site",
           "mois-daot.site",
           "mois-env.site",
+          "mois-go.cloud-ip.cc",
           "mois-gokr.dns.navy",
           "mois-gov.site",
           "mois-kite.site",
@@ -105175,6 +105183,7 @@
           "nicmalloc.store",
           "nicorps.website",
           "nid-account.store",
+          "nid-auth.infocheck.abrdns.com",
           "nid-auth.kro.kr",
           "nid-auth.v6.navy",
           "nid-blog.eblogflag16s.dynv6.net",
@@ -105566,6 +105575,7 @@
           "nid-sevices.navercorps.v6.rocks",
           "nid-sevices.pereras.eu",
           "nid-sevices.sleepgate.im",
+          "nid-support.abrdns.com",
           "nid-tax.dns.army",
           "nid-traffic.v6.rocks",
           "nid-user.asntml.dynv6.net",
@@ -110235,6 +110245,7 @@
           "secure.nhorne.kro.kr",
           "secure.personcheck.o-r.kr",
           "secureactivity.kro.kr",
+          "securebit.store",
           "securecenters.site",
           "securedrive-mofa.servehttp.com",
           "securedrive.fin-tech.com",
@@ -113839,7 +113850,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-04T01:12:23+03:00",
+        "last_modified": "2026-05-04T12:02:06+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -115398,12 +115409,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 19881,
+          "domain": 19892,
           "file_path": 286,
           "ipv4": 78,
           "url": 68
         },
-        "total": 20313
+        "total": 20324
       }
     },
     "KUN3": {
@@ -146180,6 +146191,7 @@
           "ccrssorgi.co.in",
           "cdrfox.xyz",
           "cdsofficialgov.site",
+          "ceadelhi.in",
           "ceengrmes.attachment.biz",
           "cehihy.com",
           "ceit.shop",
@@ -147513,6 +147525,7 @@
           "eoffice-sparrow.online",
           "eoffice.coord.site",
           "epcare.help",
+          "epolpro.org",
           "epserv.help",
           "erforias.cam",
           "ermcare.help",
@@ -150112,6 +150125,7 @@
           "moonreydoul.com",
           "moonrfc.com",
           "moonxcaptial.com",
+          "mopngs.org",
           "motor-power-hmk.com",
           "mouselp.com",
           "movenp.com",
@@ -151649,6 +151663,8 @@
           "victorycricketx.com",
           "victorygreengolf.com",
           "victorystumps.com",
+          "videshapp.in",
+          "videshapp.org",
           "viecard.xyz",
           "viesw.site",
           "viewca.cam",
@@ -152884,7 +152900,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-04-28T22:16:10+03:00",
+        "last_modified": "2026-05-04T11:41:33+03:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -153997,17 +154013,19 @@
           "https://www.virustotal.com/gui/file/dfec14b95671a4f8ec280390b7ae8fe0fedc938c8f86236351b6df62c64608ad/detection",
           "https://www.virustotal.com/gui/file/80b4b7b1f00d869958e18f5f1d809603798c634a03453f411711210dbdfcfd91/detection",
           "https://x.com/smica83/status/2047562832401531378",
-          "https://www.virustotal.com/gui/file/4edbed6228be3369efbc5c38b1c08d2227f907fd5be0de2bacdb4f51fff8a95b/detection"
+          "https://www.virustotal.com/gui/file/4edbed6228be3369efbc5c38b1c08d2227f907fd5be0de2bacdb4f51fff8a95b/detection",
+          "https://x.com/Cyberteam008/status/2051140637186232355",
+          "https://www.virustotal.com/gui/file/34396d4460dfba92a7daeb8d4417ce0fb6088fb50055323dc4b8b071a687163a/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 6115,
+          "domain": 6120,
           "file_path": 40,
           "ipv4": 839,
           "url": 125
         },
-        "total": 7119
+        "total": 7124
       }
     },
     "TRIANGULATION": {
@@ -155757,6 +155775,7 @@
           "aigripe.com",
           "aihyperpulse.com",
           "aiimageflux.com",
+          "aiimagelayer.com",
           "aiinsighttgrid.com",
           "aiintellifuse.com",
           "ailabsync.com",
@@ -156096,6 +156115,7 @@
           "devolutions-itdesk.com",
           "devolutions-manager.com",
           "devolutions-rdm.com",
+          "devolutions-rdm.online",
           "devolutions-stack.com",
           "devolutions-subnetlab.com",
           "devolutions.rd-manager.com",
@@ -156451,6 +156471,7 @@
           "log-ingest-f1d.nina-alvarez.workers.dev",
           "logpayset.pro",
           "ltngworth.icu",
+          "lucky-portal.com",
           "lumensavesolar.com",
           "lumverse.shop",
           "lunarwhisper.world",
@@ -156583,6 +156604,7 @@
           "ox-fanzine.org",
           "oyunlar.fun",
           "pacote-premium.pics",
+          "panotarypublic.com",
           "panpacs.com",
           "pathvera.org",
           "paycrenta.com",
@@ -156727,6 +156749,7 @@
           "rvtooli.info",
           "rvtoolik.com",
           "rvtoolis.com",
+          "rvtoolis.info",
           "rvtoolit.com",
           "rvtoolls.info",
           "rvtoollsa.com",
@@ -156777,6 +156800,7 @@
           "rvtoolsnow.com",
           "rvtoolsnt.com",
           "rvtoolso.com",
+          "rvtoolso.info",
           "rvtoolson.com",
           "rvtoolson.info",
           "rvtoolsone.com",
@@ -156793,6 +156817,7 @@
           "rvtoolsv.com",
           "rvtoolsz.com",
           "rvtoolvm.com",
+          "rvtoolz.info",
           "rvtoolze.com",
           "rvtootsacad.com",
           "rvtootsad.com",
@@ -156833,6 +156858,7 @@
           "scuolaoperator.com",
           "secrid-de.com",
           "securecrt-app.com",
+          "securecrt-configledger.com",
           "securecrt-console.com",
           "securecrt-terminalops.com",
           "securecrt.session-ops.com",
@@ -157135,7 +157161,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-05-03T14:48:25+03:00",
+        "last_modified": "2026-05-04T12:08:00+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -157154,9 +157180,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1467
+          "domain": 1475
         },
-        "total": 1467
+        "total": 1475
       }
     },
     "UNC2529": {
