@@ -1537,6 +1537,7 @@
         "domain": [
           "0member-services.hol.es",
           "1006ieudneu.atwebpages.com",
+          "1980food.co.kr",
           "1995ieudneu.atwebpages.com",
           "acddesigns.com.au",
           "acl-medias.fr",
@@ -1587,6 +1588,8 @@
           "cloudocument.com",
           "cloudsecurityservice.net",
           "cloudwebappservice.com",
+          "cndsoft.co.kr",
+          "colorncopy.co.kr",
           "com-change.pw",
           "com-serviceround.info",
           "conference.outlook-offices.com",
@@ -1722,6 +1725,7 @@
           "koryogroup.1apps.com",
           "kswebdesign.eu",
           "labimy.ink",
+          "lawwell.co.kr",
           "lh-logins.com",
           "lh-logs.com",
           "li.namecentless.top",
@@ -1855,6 +1859,7 @@
           "securityforcastreport.com",
           "securitysettings.info",
           "securytingmail.com",
+          "sejonghaeun.com",
           "seoulhobi.biz",
           "servicenaver.com",
           "servicenidnaver.com",
@@ -1877,6 +1882,7 @@
           "softfilemanage.com",
           "softlay-ware.c1.biz",
           "sorry.duckdns.org",
+          "sqgame.com.cn",
           "ssidnaver.com",
           "stategov.biz",
           "stjohns-burscough.org",
@@ -1885,6 +1891,7 @@
           "successgoo.com",
           "support-info.network",
           "svg.jquery.services",
+          "swr.co.kr",
           "sync.appchecks.rr.nu",
           "table.jquery.services",
           "takemetoyouheart.c1.biz",
@@ -1937,6 +1944,7 @@
           "work3.b4a.app",
           "worksongo.store",
           "xfindphoneloc.com",
+          "xiazai.sqgame.com.cn",
           "xn--mcrosoft-online-hic.com",
           "yalnoo.com",
           "youngs.dgweb.kr",
@@ -2009,11 +2017,12 @@
           "Temp.Reaper",
           "RokRAT",
           "footwine",
-          "thumbsbd"
+          "thumbsbd",
+          "birdcall"
         ],
         "apt_group": "37",
         "filename": "apt_37.txt",
-        "last_modified": "2026-04-14T15:59:49+03:00",
+        "last_modified": "2026-05-05T15:34:31+03:00",
         "references": [
           "https://www.symantec.com/security_response/writeup.jsp?docid=2016-063014-0934-99&tabid=2",
           "https://otx.alienvault.com/pulse/5d4456d289603cc548ddbc92",
@@ -2177,17 +2186,19 @@
           "https://www.virustotal.com/gui/file/a8b8a92d170029885d4e7763675f10eb172150f8503592677cadedc392edccf4/detection",
           "https://www.virustotal.com/gui/file/c61c679eec1c1b43bbd01727fdfb6a69b11485931eb8569e6b20ada30bfe84af/detection",
           "https://www.genians.co.kr/en/blog/threat_intelligence/pretexting",
-          "https://www.virustotal.com/gui/file/3ecb8632582982f5ea4cef6b32ac468bd43c61896b5de57416c8100f8ab90102/detection"
+          "https://www.virustotal.com/gui/file/3ecb8632582982f5ea4cef6b32ac468bd43c61896b5de57416c8100f8ab90102/detection",
+          "https://www.welivesecurity.com/en/eset-research/rigged-game-scarcruft-compromises-gaming-platform-supply-chain-attack/",
+          "https://github.com/eset/malware-ioc/tree/master/scarcruft#urls"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 406,
+          "domain": 414,
           "file_path": 34,
           "ipv4": 2,
           "url": 7
         },
-        "total": 449
+        "total": 457
       }
     },
     "38": {
@@ -103488,6 +103499,7 @@
           "naverclouds.cckr.store",
           "naverclouds.com",
           "navercnid.xyz",
+          "navercom.duckdns.org",
           "navercom.org",
           "navercom.site",
           "navercoma.click",
@@ -113939,7 +113951,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-05T14:47:21+03:00",
+        "last_modified": "2026-05-05T15:30:57+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -115495,17 +115507,18 @@
           "https://www.virustotal.com/gui/file/29f871bf9bcbf9f12a16504631872871255a9f2b54cf892b4fc1cab3cec30708/detection",
           "https://x.com/skocherhan/status/2050934068489949471",
           "https://x.com/skocherhan/status/2050936246638109037",
-          "https://x.com/skocherhan/status/2050659775428337786"
+          "https://x.com/skocherhan/status/2050659775428337786",
+          "https://www.virustotal.com/gui/ip-address/125.178.110.74/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 19978,
+          "domain": 19979,
           "file_path": 286,
           "ipv4": 78,
           "url": 68
         },
-        "total": 20410
+        "total": 20411
       }
     },
     "KUN3": {
@@ -116740,6 +116753,7 @@
           "blocknovasllc.com",
           "blockprices.io",
           "blocktechtalent.com",
+          "blockterralab.com",
           "blocktestingto.com",
           "blog.br0vvnn.io",
           "blog.evalonboard.com",
@@ -119172,6 +119186,7 @@
           "tasksettingsnew.vercel.app",
           "tazmim.com",
           "tdlgzoom.com",
+          "teachersrecruitmentboard.in",
           "team-meet.online",
           "team-meet.xyz",
           "team-meeting.net",
@@ -119245,6 +119260,7 @@
           "tptf.ltd",
           "tracking.toptiercrew.com",
           "tradeboard.mefound.com",
+          "tradeinsight360.com",
           "trailads.net",
           "transactions.publicvm.com",
           "transferwiser.io",
@@ -119252,17 +119268,20 @@
           "trappuzzle.com",
           "trashcrease.com",
           "treelifeups.com",
+          "trendofferstore.com",
           "tresordocs.com",
           "trollinguneaten.org",
           "troubleshoot.group-meeting.team",
           "troubleshoot.internal-meeting.online",
           "troubleshoot.team-meeting.xyz",
+          "truehimalayahikes.com",
           "trueskilltest.com",
           "trustmeeting.live",
           "trustmeeting.online",
           "trustpdfs.com",
           "truthwillsetyoufree.online",
           "tsukan.online",
+          "tudiapalmsprings.com",
           "turacodi.com",
           "turkishmob.com",
           "twlekqnwl.naveicoipg.online",
@@ -119287,6 +119306,7 @@
           "un-call.services",
           "unbelievableresult.site",
           "unbelievableresult.store",
+          "unibotechreports.com",
           "unimeta.biz",
           "unioncrypto.vip",
           "unionminerscorp.com",
@@ -119319,6 +119339,7 @@
           "usconsultinghub.cloud",
           "usengineergroup.com",
           "ushrt.us",
+          "usinetechnologies.com",
           "usncet.org",
           "usweb-zoom.us",
           "usweb02.us",
@@ -119334,6 +119355,7 @@
           "v0-frame.vercel.sh",
           "v0-vercel-webhook-automation-fp90rr464.vercel.sh",
           "v2ray.gelithagithmal.workers.dev",
+          "vajrasilverstores.com",
           "validator.blog",
           "validator.uno",
           "varietyjob.com",
@@ -119535,6 +119557,7 @@
           "web3remotework.com",
           "web3talentmint.com",
           "web3talentreview.com",
+          "web3tradinghub.com",
           "webbs-information.login.udaviemayas.com",
           "webcamdrivers.cloud",
           "webcamfix.cloud",
@@ -119629,6 +119652,7 @@
           "www1.dropfile.online",
           "www2.dropfile.online",
           "xchangetrump.com",
+          "xcryptoflasher.com",
           "xjba.linkpc.net",
           "xjbb.linkpc.net",
           "xjbd.linkpc.net",
@@ -121063,7 +121087,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-05-02T15:38:51+03:00",
+        "last_modified": "2026-05-05T19:37:02+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -122288,17 +122312,18 @@
           "https://socket.dev/blog/new-pypi-malware-exfiltrates-ethereum-private-keys",
           "https://www.reversinglabs.com/blog/claude-promptmink-malware-crypto",
           "https://www.virustotal.com/gui/file/96f79c766d045e4c0733eda16fc9c5fd3a9ac567e0c5d61c4976de874c20ee30/detection",
-          "https://www.virustotal.com/gui/file/aef28d1fb239269b74b85903ddeb62feb75e3dd2f037b6a72ad57e0d065c8a31/detection"
+          "https://www.virustotal.com/gui/file/aef28d1fb239269b74b85903ddeb62feb75e3dd2f037b6a72ad57e0d065c8a31/detection",
+          "https://x.com/banthisguy9349/status/2051667828928086143"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3595,
+          "domain": 3606,
           "file_path": 478,
           "ipv4": 655,
           "url": 115
         },
-        "total": 4843
+        "total": 4854
       }
     },
     "LAZYSCRIPTER": {
@@ -162028,7 +162053,6 @@
           "fedll.com",
           "fedortest.xyz",
           "ferkhwazumar.no-ip.biz",
-          "fetish-friends.com",
           "fifaorigin123.no-ip.biz",
           "file.wonderbackup.com",
           "fileapi.ru-file.info",
@@ -162190,7 +162214,6 @@
           "iec-co-il.com",
           "iecr.co",
           "iibbrr.zapto.org",
-          "ilptour.com",
           "img01.10260.com",
           "indexmasr.com",
           "indexy.org",
@@ -162229,7 +162252,6 @@
           "jjsiu.ml",
           "jlp.ammopak.site",
           "jlyb.scb.shaanxigas.com",
-          "jmbyxx.com",
           "jnkey.ddns.net",
           "jodaje.mobi",
           "johaca.mobi",
@@ -162262,7 +162284,6 @@
           "kano.ddns.net",
           "kartalescort.mobi",
           "kayaya.mobi",
-          "kcii2.com",
           "khaleeel.no-ip.biz",
           "kharkiv.host",
           "khouyatte.duckdns.org",
@@ -162357,7 +162378,6 @@
           "max2015.ddns.net",
           "mazamoza.no-ip.biz",
           "mca.avstore.com.tw",
-          "mcagov.cc",
           "mckeaguee.com",
           "mclartyc.com",
           "medicosempresa.com",
@@ -162539,7 +162559,6 @@
           "probityjrat5.duckdns.org",
           "professional.mobi",
           "projecttestingforedu.chickenkiller.com",
-          "protaskpartners.cc",
           "protect-outlook.com",
           "prozorro-ua.net",
           "pvrdn.ml",
@@ -162575,7 +162594,6 @@
           "rhubarb3.com",
           "rimaw.ml",
           "rlg.mobi",
-          "roldco.com",
           "roma1996.no-ip.org",
           "rostransnadzor.digital",
           "routermanager.ga",
@@ -162756,7 +162774,6 @@
           "tibct.net",
           "tibct.org",
           "ticanews.com",
-          "tingshuzu8.com",
           "tizkomek.ga",
           "tizkomek.online",
           "tm.msdefender.xyz",
@@ -162868,7 +162885,6 @@
           "x3rbx.ddns.net",
           "xfxf.ddns.net",
           "xhxh1988.no-ip.org",
-          "xiekuabao99.com",
           "xinxx.allsoulu.com",
           "xmgl.gcb.shaanxigas.com",
           "xn--avyfedera-yubm.org",
@@ -163199,7 +163215,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2026-04-16T13:38:34+03:00",
+        "last_modified": "2026-05-05T20:04:14+03:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -163626,9 +163642,6 @@
           "https://x.com/ginkgo_g/status/1954802283151081540",
           "https://www.virustotal.com/gui/file/8e92f2324ec6fb885f7d701c90a6abc0314d03551916a42073ba3195b686c5ec/detection",
           "https://www.virustotal.com/gui/file/96601349a78d5dd7797fde6c1e74fac024f05228cc768e65e71dca52b112a79e/detection",
-          "https://x.com/k3yp0d/status/1955264469728199005",
-          "https://app.any.run/tasks/824d5d9b-cf78-4059-9fc0-47cc1077a846",
-          "https://app.any.run/tasks/158d8312-dc5d-4a35-8501-91149b721eee",
           "https://x.com/k3yp0d/status/1955980087913779500",
           "https://www.virustotal.com/gui/file/eb5cfca67c4684d2f7eb2fc8fa532465b9cc5bfde006836353ab9b90c4b35f45/detection",
           "https://x.com/malwrhunterteam/status/1964075552152641544",
@@ -163672,12 +163685,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1224,
+          "domain": 1215,
           "file_path": 77,
           "ipv4": 128,
           "url": 62
         },
-        "total": 1491
+        "total": 1482
       }
     },
     "USH": {

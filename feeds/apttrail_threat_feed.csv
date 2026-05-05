@@ -1045,6 +1045,7 @@ apt_group,indicator_type,indicator
 33,url,http://34.101.157.124
 37,domain,0member-services.hol.es
 37,domain,1006ieudneu.atwebpages.com
+37,domain,1980food.co.kr
 37,domain,1995ieudneu.atwebpages.com
 37,domain,acddesigns.com.au
 37,domain,acl-medias.fr
@@ -1095,6 +1096,8 @@ apt_group,indicator_type,indicator
 37,domain,cloudocument.com
 37,domain,cloudsecurityservice.net
 37,domain,cloudwebappservice.com
+37,domain,cndsoft.co.kr
+37,domain,colorncopy.co.kr
 37,domain,com-change.pw
 37,domain,com-serviceround.info
 37,domain,conference.outlook-offices.com
@@ -1230,6 +1233,7 @@ apt_group,indicator_type,indicator
 37,domain,koryogroup.1apps.com
 37,domain,kswebdesign.eu
 37,domain,labimy.ink
+37,domain,lawwell.co.kr
 37,domain,lh-logins.com
 37,domain,lh-logs.com
 37,domain,li.namecentless.top
@@ -1363,6 +1367,7 @@ apt_group,indicator_type,indicator
 37,domain,securityforcastreport.com
 37,domain,securitysettings.info
 37,domain,securytingmail.com
+37,domain,sejonghaeun.com
 37,domain,seoulhobi.biz
 37,domain,servicenaver.com
 37,domain,servicenidnaver.com
@@ -1385,6 +1390,7 @@ apt_group,indicator_type,indicator
 37,domain,softfilemanage.com
 37,domain,softlay-ware.c1.biz
 37,domain,sorry.duckdns.org
+37,domain,sqgame.com.cn
 37,domain,ssidnaver.com
 37,domain,stategov.biz
 37,domain,stjohns-burscough.org
@@ -1393,6 +1399,7 @@ apt_group,indicator_type,indicator
 37,domain,successgoo.com
 37,domain,support-info.network
 37,domain,svg.jquery.services
+37,domain,swr.co.kr
 37,domain,sync.appchecks.rr.nu
 37,domain,table.jquery.services
 37,domain,takemetoyouheart.c1.biz
@@ -1445,6 +1452,7 @@ apt_group,indicator_type,indicator
 37,domain,work3.b4a.app
 37,domain,worksongo.store
 37,domain,xfindphoneloc.com
+37,domain,xiazai.sqgame.com.cn
 37,domain,xn--mcrosoft-online-hic.com
 37,domain,yalnoo.com
 37,domain,youngs.dgweb.kr
@@ -92786,6 +92794,7 @@ KIMSUKY,domain,navercheck.kro.kr
 KIMSUKY,domain,naverclouds.cckr.store
 KIMSUKY,domain,naverclouds.com
 KIMSUKY,domain,navercnid.xyz
+KIMSUKY,domain,navercom.duckdns.org
 KIMSUKY,domain,navercom.org
 KIMSUKY,domain,navercom.site
 KIMSUKY,domain,navercoma.click
@@ -104390,6 +104399,7 @@ LAZARUS,domain,blocknovas.talenthiringexpert.com
 LAZARUS,domain,blocknovasllc.com
 LAZARUS,domain,blockprices.io
 LAZARUS,domain,blocktechtalent.com
+LAZARUS,domain,blockterralab.com
 LAZARUS,domain,blocktestingto.com
 LAZARUS,domain,blog.br0vvnn.io
 LAZARUS,domain,blog.evalonboard.com
@@ -106822,6 +106832,7 @@ LAZARUS,domain,task-hrec.vercel.app
 LAZARUS,domain,tasksettingsnew.vercel.app
 LAZARUS,domain,tazmim.com
 LAZARUS,domain,tdlgzoom.com
+LAZARUS,domain,teachersrecruitmentboard.in
 LAZARUS,domain,team-meet.online
 LAZARUS,domain,team-meet.xyz
 LAZARUS,domain,team-meeting.net
@@ -106895,6 +106906,7 @@ LAZARUS,domain,tptf.cloud
 LAZARUS,domain,tptf.ltd
 LAZARUS,domain,tracking.toptiercrew.com
 LAZARUS,domain,tradeboard.mefound.com
+LAZARUS,domain,tradeinsight360.com
 LAZARUS,domain,trailads.net
 LAZARUS,domain,transactions.publicvm.com
 LAZARUS,domain,transferwiser.io
@@ -106902,17 +106914,20 @@ LAZARUS,domain,transplugin.io
 LAZARUS,domain,trappuzzle.com
 LAZARUS,domain,trashcrease.com
 LAZARUS,domain,treelifeups.com
+LAZARUS,domain,trendofferstore.com
 LAZARUS,domain,tresordocs.com
 LAZARUS,domain,trollinguneaten.org
 LAZARUS,domain,troubleshoot.group-meeting.team
 LAZARUS,domain,troubleshoot.internal-meeting.online
 LAZARUS,domain,troubleshoot.team-meeting.xyz
+LAZARUS,domain,truehimalayahikes.com
 LAZARUS,domain,trueskilltest.com
 LAZARUS,domain,trustmeeting.live
 LAZARUS,domain,trustmeeting.online
 LAZARUS,domain,trustpdfs.com
 LAZARUS,domain,truthwillsetyoufree.online
 LAZARUS,domain,tsukan.online
+LAZARUS,domain,tudiapalmsprings.com
 LAZARUS,domain,turacodi.com
 LAZARUS,domain,turkishmob.com
 LAZARUS,domain,twlekqnwl.naveicoipg.online
@@ -106937,6 +106952,7 @@ LAZARUS,domain,ukweb07.us
 LAZARUS,domain,un-call.services
 LAZARUS,domain,unbelievableresult.site
 LAZARUS,domain,unbelievableresult.store
+LAZARUS,domain,unibotechreports.com
 LAZARUS,domain,unimeta.biz
 LAZARUS,domain,unioncrypto.vip
 LAZARUS,domain,unionminerscorp.com
@@ -106969,6 +106985,7 @@ LAZARUS,domain,usconsultinghub.blog
 LAZARUS,domain,usconsultinghub.cloud
 LAZARUS,domain,usengineergroup.com
 LAZARUS,domain,ushrt.us
+LAZARUS,domain,usinetechnologies.com
 LAZARUS,domain,usncet.org
 LAZARUS,domain,usweb-zoom.us
 LAZARUS,domain,usweb02.us
@@ -106984,6 +107001,7 @@ LAZARUS,domain,v0-frame-render-engine-git-tz-chatzipupload0115.vercel.sh
 LAZARUS,domain,v0-frame.vercel.sh
 LAZARUS,domain,v0-vercel-webhook-automation-fp90rr464.vercel.sh
 LAZARUS,domain,v2ray.gelithagithmal.workers.dev
+LAZARUS,domain,vajrasilverstores.com
 LAZARUS,domain,validator.blog
 LAZARUS,domain,validator.uno
 LAZARUS,domain,varietyjob.com
@@ -107185,6 +107203,7 @@ LAZARUS,domain,web3neptune.com
 LAZARUS,domain,web3remotework.com
 LAZARUS,domain,web3talentmint.com
 LAZARUS,domain,web3talentreview.com
+LAZARUS,domain,web3tradinghub.com
 LAZARUS,domain,webbs-information.login.udaviemayas.com
 LAZARUS,domain,webcamdrivers.cloud
 LAZARUS,domain,webcamfix.cloud
@@ -107279,6 +107298,7 @@ LAZARUS,domain,www1.docsend.online
 LAZARUS,domain,www1.dropfile.online
 LAZARUS,domain,www2.dropfile.online
 LAZARUS,domain,xchangetrump.com
+LAZARUS,domain,xcryptoflasher.com
 LAZARUS,domain,xjba.linkpc.net
 LAZARUS,domain,xjbb.linkpc.net
 LAZARUS,domain,xjbd.linkpc.net
@@ -139074,7 +139094,6 @@ UNCLASSIFIED,domain,fdsb.telemetry.geostatcdn.com
 UNCLASSIFIED,domain,fedll.com
 UNCLASSIFIED,domain,fedortest.xyz
 UNCLASSIFIED,domain,ferkhwazumar.no-ip.biz
-UNCLASSIFIED,domain,fetish-friends.com
 UNCLASSIFIED,domain,fifaorigin123.no-ip.biz
 UNCLASSIFIED,domain,file.wonderbackup.com
 UNCLASSIFIED,domain,fileapi.ru-file.info
@@ -139236,7 +139255,6 @@ UNCLASSIFIED,domain,id.3323sf.com
 UNCLASSIFIED,domain,iec-co-il.com
 UNCLASSIFIED,domain,iecr.co
 UNCLASSIFIED,domain,iibbrr.zapto.org
-UNCLASSIFIED,domain,ilptour.com
 UNCLASSIFIED,domain,img01.10260.com
 UNCLASSIFIED,domain,indexmasr.com
 UNCLASSIFIED,domain,indexy.org
@@ -139275,7 +139293,6 @@ UNCLASSIFIED,domain,jeojang.ga
 UNCLASSIFIED,domain,jjsiu.ml
 UNCLASSIFIED,domain,jlp.ammopak.site
 UNCLASSIFIED,domain,jlyb.scb.shaanxigas.com
-UNCLASSIFIED,domain,jmbyxx.com
 UNCLASSIFIED,domain,jnkey.ddns.net
 UNCLASSIFIED,domain,jodaje.mobi
 UNCLASSIFIED,domain,johaca.mobi
@@ -139308,7 +139325,6 @@ UNCLASSIFIED,domain,kamgov.us
 UNCLASSIFIED,domain,kano.ddns.net
 UNCLASSIFIED,domain,kartalescort.mobi
 UNCLASSIFIED,domain,kayaya.mobi
-UNCLASSIFIED,domain,kcii2.com
 UNCLASSIFIED,domain,khaleeel.no-ip.biz
 UNCLASSIFIED,domain,kharkiv.host
 UNCLASSIFIED,domain,khouyatte.duckdns.org
@@ -139403,7 +139419,6 @@ UNCLASSIFIED,domain,marketrealist.shop
 UNCLASSIFIED,domain,max2015.ddns.net
 UNCLASSIFIED,domain,mazamoza.no-ip.biz
 UNCLASSIFIED,domain,mca.avstore.com.tw
-UNCLASSIFIED,domain,mcagov.cc
 UNCLASSIFIED,domain,mckeaguee.com
 UNCLASSIFIED,domain,mclartyc.com
 UNCLASSIFIED,domain,medicosempresa.com
@@ -139585,7 +139600,6 @@ UNCLASSIFIED,domain,prntsrcn.com
 UNCLASSIFIED,domain,probityjrat5.duckdns.org
 UNCLASSIFIED,domain,professional.mobi
 UNCLASSIFIED,domain,projecttestingforedu.chickenkiller.com
-UNCLASSIFIED,domain,protaskpartners.cc
 UNCLASSIFIED,domain,protect-outlook.com
 UNCLASSIFIED,domain,prozorro-ua.net
 UNCLASSIFIED,domain,pvrdn.ml
@@ -139621,7 +139635,6 @@ UNCLASSIFIED,domain,rhubarb2.com
 UNCLASSIFIED,domain,rhubarb3.com
 UNCLASSIFIED,domain,rimaw.ml
 UNCLASSIFIED,domain,rlg.mobi
-UNCLASSIFIED,domain,roldco.com
 UNCLASSIFIED,domain,roma1996.no-ip.org
 UNCLASSIFIED,domain,rostransnadzor.digital
 UNCLASSIFIED,domain,routermanager.ga
@@ -139802,7 +139815,6 @@ UNCLASSIFIED,domain,thundermailx.org
 UNCLASSIFIED,domain,tibct.net
 UNCLASSIFIED,domain,tibct.org
 UNCLASSIFIED,domain,ticanews.com
-UNCLASSIFIED,domain,tingshuzu8.com
 UNCLASSIFIED,domain,tizkomek.ga
 UNCLASSIFIED,domain,tizkomek.online
 UNCLASSIFIED,domain,tm.msdefender.xyz
@@ -139914,7 +139926,6 @@ UNCLASSIFIED,domain,wzrpx.com
 UNCLASSIFIED,domain,x3rbx.ddns.net
 UNCLASSIFIED,domain,xfxf.ddns.net
 UNCLASSIFIED,domain,xhxh1988.no-ip.org
-UNCLASSIFIED,domain,xiekuabao99.com
 UNCLASSIFIED,domain,xinxx.allsoulu.com
 UNCLASSIFIED,domain,xmgl.gcb.shaanxigas.com
 UNCLASSIFIED,domain,xn--avyfedera-yubm.org
