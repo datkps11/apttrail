@@ -96588,6 +96588,7 @@
           "detewell.click",
           "dev-crh.daliajobs.com",
           "dev-dashboard.daliajobs.com",
+          "dev-elwood-staffing.daliajobs.com",
           "dev.contras.site",
           "dev.infonavera.com",
           "dev.kakaoteam.site",
@@ -104395,6 +104396,7 @@
           "ncodcbpass.dynv6.net",
           "ncodccpass.dynv6.net",
           "ncodcepass.dynv6.net",
+          "ncodclcheck.dns.navy",
           "ncomails.store",
           "ncomonline.store",
           "ncomorgan.store",
@@ -104503,6 +104505,9 @@
           "ndefenderhome.store",
           "ndefenderserver.store",
           "ndefenseteamsol.shop",
+          "ndeliver-d21s.dynv6.net",
+          "ndeliver-d40s.dynv6.net",
+          "ndeliver-d69s.dynv6.net",
           "ndfge325rtertret.cfd",
           "ndfghj.store",
           "ndfsdk.website",
@@ -106103,6 +106108,7 @@
           "nidloes.navorntes.dns.army",
           "nidloes.navps.dns.army",
           "nidloes.navripses.dns.army",
+          "nidloes.ncodclcheck.dns.navy",
           "nidloes.npsesdocs.dns.army",
           "nidloes.ntsedco.dns.army",
           "nidlog.never.com.ru",
@@ -113980,7 +113986,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-05T23:30:09+03:00",
+        "last_modified": "2026-05-06T18:34:47+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -115544,12 +115550,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 20005,
+          "domain": 20011,
           "file_path": 286,
           "ipv4": 78,
           "url": 68
         },
-        "total": 20437
+        "total": 20443
       }
     },
     "KUN3": {
