@@ -7670,6 +7670,7 @@
           "folkmusicstreams.com",
           "font.jiangsuhost.com",
           "frameworksupport.net",
+          "fswhardtools.com",
           "fusionjunction.link",
           "gallery.play-protect.com",
           "gandharaart.org",
@@ -7958,6 +7959,7 @@
           "vividworld.net",
           "viyoappmapper.com",
           "vizylstatpro.com",
+          "vpn146318720.softether.net",
           "vzgmbwva.mediumblog.online",
           "w32infinitisupports.net",
           "w32timeslicesvc.net",
@@ -8223,7 +8225,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-04-30T23:28:39+03:00",
+        "last_modified": "2026-05-06T13:02:07+03:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -8807,17 +8809,18 @@
           "https://www.virustotal.com/gui/file/c151a8861d4f75c09803efa677322193d04c4ec4e5b9d8eadcc6cbea69069b57/detection",
           "https://www.virustotal.com/gui/file/84f2b3cde61895fbe28c3660d5f8d796f6eac6a969838eb340283a50a2c3de09/detection",
           "https://x.com/RexorVc0/status/2049740014875967766",
-          "https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247508516&idx=1&sn=a869f67294b5777615ad597c3730105e&chksm=f9c1912dceb6183b4f7f359de87814c613d58b671245307a99857eb03847a0860743516e7fae&scene=178&cur_album_id=1955835290309230595&search_click_id"
+          "https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247508516&idx=1&sn=a869f67294b5777615ad597c3730105e&chksm=f9c1912dceb6183b4f7f359de87814c613d58b671245307a99857eb03847a0860743516e7fae&scene=178&cur_album_id=1955835290309230595&search_click_id",
+          "https://x.com/blackorbird/status/2051892318203175106"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 462,
+          "domain": 464,
           "file_path": 82,
           "ipv4": 77,
           "url": 19
         },
-        "total": 640
+        "total": 642
       }
     },
     "BLACKGEAR": {
@@ -120626,6 +120629,7 @@
           "198.135.55.67:1224",
           "198.180.198.6:443",
           "201.77.179.66:8082",
+          "202.155.11.141:3000",
           "202.163.147.124:1248",
           "203.161.52.90:3000",
           "203.161.52.90:4000",
@@ -121115,7 +121119,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-05-05T19:37:02+03:00",
+        "last_modified": "2026-05-06T13:08:40+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -122348,10 +122352,10 @@
         "by_type": {
           "domain": 3606,
           "file_path": 478,
-          "ipv4": 655,
+          "ipv4": 656,
           "url": 115
         },
-        "total": 4854
+        "total": 4855
       }
     },
     "LAZYSCRIPTER": {
@@ -129810,6 +129814,7 @@
           "hu51.b-cdn.net",
           "huanetdw.c-cdn77.com",
           "huashan.info",
+          "hubbuchpfada.com",
           "iceandfire.xyz",
           "icreativez.org",
           "igcontest.xyz",
@@ -130428,7 +130433,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2026-05-03T14:24:22+03:00",
+        "last_modified": "2026-05-06T13:11:24+03:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -130869,12 +130874,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 664,
+          "domain": 665,
           "file_path": 83,
           "ipv4": 57,
           "url": 43
         },
-        "total": 847
+        "total": 848
       }
     },
     "PEEPINGTITLE": {
@@ -155961,6 +155966,7 @@
           "aineurogenesis.com",
           "aineuroloop.com",
           "aineuronspark.com",
+          "ainewlevelwealth.com",
           "ainexorasystem.com",
           "ainexusgear.com",
           "ainexuspoint.com",
@@ -156008,6 +156014,7 @@
           "aismartpod.com",
           "aisolutioncore.com",
           "aisolvenet.com",
+          "aispeechroute.com",
           "aisvectorflowen.com",
           "aisynapseboost.com",
           "aisynapseecho.com",
@@ -156083,6 +156090,7 @@
           "astronexus.pro",
           "atlantaitsolutions.com",
           "atomlcwallet.us",
+          "atxauction.com",
           "audioassisten.com",
           "auroragutters.com",
           "autocarsvehicles.live",
@@ -156104,6 +156112,7 @@
           "beekeeperstudio.softwarep2p.com",
           "beekeeperstudio.space",
           "beekeeperstudio.tech",
+          "bennyshvac.com",
           "best-mine-site.website",
           "bestcasinoroom.com",
           "blariba.com",
@@ -156212,6 +156221,7 @@
           "datovenza.com",
           "dawnsparknever.com",
           "db-proxy-9b2.daniel-foster.workers.dev",
+          "dbeaver-architect-hub.com",
           "dbeaver-ce.com",
           "dbeaver-center.com",
           "dbeaver-connect.com",
@@ -156227,6 +156237,7 @@
           "dbeaver-datamesh.com",
           "dbeaver-dataops.com",
           "dbeaver-db.com",
+          "dbeaver-failover.com",
           "dbeaver-join.com",
           "dbeaver-munster.com",
           "dbeaver-project.com",
@@ -156403,6 +156414,7 @@
           "floral-paper-8eb1.pihara4672.workers.dev",
           "florovex.com",
           "fluxiroz.com",
+          "flywerd.it.com",
           "fokuspyna.com",
           "fokussperk.com",
           "fortcampbellausa.com",
@@ -156439,6 +156451,7 @@
           "gijeqiko.de",
           "glavonix.info",
           "glaxtonia.info",
+          "gleization-leptospiroses.website",
           "glidepilotjp.com",
           "global-games-ltd.website",
           "global-iptv-china.live",
@@ -156796,6 +156809,7 @@
           "playzones-hub.com",
           "plexatrim.info",
           "plubgbstore.com",
+          "plumosity-gammoned.website",
           "plzzaiolo.shop",
           "pms-manage.us",
           "pms-setup.us",
@@ -156975,6 +156989,7 @@
           "s3brawser.com",
           "s3brovser.com",
           "s3brovvser.com",
+          "s3browserenterprise.app",
           "s3browserenterprize.app",
           "sailvatore.icu",
           "sailvatore.shop",
@@ -157259,8 +157274,10 @@
           "vmware-rvtools.tech",
           "vmware-rvtools.us",
           "vmware-vsphere.com",
+          "vmwareenterprize.app",
           "vmwarevelocity.com",
           "vmwarevsphere.com",
+          "vmwenterprise.app",
           "volksreport.com",
           "vrfuckablegirls.live",
           "vrfuckdolls.live",
@@ -157313,7 +157330,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-05-05T14:15:44+03:00",
+        "last_modified": "2026-05-06T13:44:17+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -157332,9 +157349,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1483
+          "domain": 1495
         },
-        "total": 1483
+        "total": 1495
       }
     },
     "UNC2529": {
