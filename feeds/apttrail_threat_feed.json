@@ -118608,6 +118608,7 @@
           "pre-screen.online",
           "pre-zoom.us",
           "precisioncoderss.com",
+          "precommit.vercel.app",
           "preconnection.online",
           "prehighiq.com",
           "prehireiq.com",
@@ -121125,7 +121126,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-05-06T13:08:40+03:00",
+        "last_modified": "2026-05-06T22:23:15+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -122351,17 +122352,18 @@
           "https://www.reversinglabs.com/blog/claude-promptmink-malware-crypto",
           "https://www.virustotal.com/gui/file/96f79c766d045e4c0733eda16fc9c5fd3a9ac567e0c5d61c4976de874c20ee30/detection",
           "https://www.virustotal.com/gui/file/aef28d1fb239269b74b85903ddeb62feb75e3dd2f037b6a72ad57e0d065c8a31/detection",
-          "https://x.com/banthisguy9349/status/2051667828928086143"
+          "https://x.com/banthisguy9349/status/2051667828928086143",
+          "https://opensourcemalware.com/blog/dprk-git-hooks-malware"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3606,
+          "domain": 3607,
           "file_path": 478,
           "ipv4": 656,
           "url": 115
         },
-        "total": 4855
+        "total": 4856
       }
     },
     "LAZYSCRIPTER": {
