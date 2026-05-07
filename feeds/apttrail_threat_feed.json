@@ -100090,6 +100090,7 @@
           "invoice.regenterprisedoc.dynv6.net",
           "invoice.rep32-tax.dns.army",
           "invoice.securitymid.com",
+          "invoice.ssltest1.dynv6.net",
           "invoice.supportipsinvoice.mydns.bz",
           "invoice.supportnpdisp.mydns.bz",
           "invoice.targetblogrecord.dns.army",
@@ -105408,6 +105409,7 @@
           "nhsdomainspf.mydns.bz",
           "nhsdonate.mydns.vc",
           "nhseco.store",
+          "nhsinsur4s.dynuddns.net",
           "nhskr.online",
           "nhskr.space",
           "nhskr.store",
@@ -107278,6 +107280,7 @@
           "noporado.p-e.kr",
           "noramdis.o-r.kr",
           "noreplyer.ink",
+          "noreplymybox.xyz",
           "noreplynaver.xyz",
           "normalblog.o-r.kr",
           "normer.xyz",
@@ -107512,6 +107515,7 @@
           "nps-views.store",
           "nps.p-e.kr",
           "nps.server-on.net",
+          "nps.ssltest1.dynv6.net",
           "npsalert.site",
           "npsauth.site",
           "npscare.site",
@@ -111120,6 +111124,7 @@
           "sslserver.work",
           "sslsol.nmailonlineserverhost.store",
           "sslsvc.navmontin.store",
+          "ssltest1.dynv6.net",
           "ssltop.work",
           "ssnv.cloud",
           "sso.viewdocument2785.dns.army",
@@ -114156,7 +114161,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-07T14:27:34+03:00",
+        "last_modified": "2026-05-07T18:10:44+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -115721,12 +115726,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 20174,
+          "domain": 20179,
           "file_path": 286,
           "ipv4": 78,
           "url": 68
         },
-        "total": 20606
+        "total": 20611
       }
     },
     "KUN3": {
