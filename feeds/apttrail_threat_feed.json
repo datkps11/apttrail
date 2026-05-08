@@ -156128,6 +156128,7 @@
           "ailayergrid.com",
           "ailearnstack.com",
           "ailogiccanvas.com",
+          "ailogicfetch.com",
           "ailogicframe.com",
           "ailogicmatrix.com",
           "ailogicmesh.com",
@@ -156375,6 +156376,7 @@
           "chvent.com",
           "cinchona-congruence.site",
           "cinematographymastery.com",
+          "cipherlix.com",
           "claysoultrue.pro",
           "climasubito.com",
           "cloudsurferway.com",
@@ -156477,10 +156479,12 @@
           "devolutions-rdm.online",
           "devolutions-stack.com",
           "devolutions-subnetlab.com",
+          "devolutions-sysarch.com",
           "devolutions.rd-manager.com",
           "devolutions.space",
           "devolutions.workgridlab.com",
           "devolutionscontrolroom.com",
+          "dexelora.com",
           "dexscreeners.cloud",
           "dexscreeners.ink",
           "dexscreeners.life",
@@ -156630,6 +156634,7 @@
           "fuzoyesos.de",
           "gadgman.ink",
           "game-city-ltd.site",
+          "gammoned-dopier.website",
           "gamorz.com",
           "gates-olympus.live",
           "gauleteres.de",
@@ -156778,6 +156783,7 @@
           "jokerlandia.pro",
           "jokers-club-app.online",
           "jongbloedwheels.com",
+          "joubert.icu",
           "jpbluesalter.top",
           "jponeclean.icu",
           "juegosocialhub.net",
@@ -156836,6 +156842,7 @@
           "lumensavesolar.com",
           "lumverse.shop",
           "lunarwhisper.world",
+          "lunatrixo.com",
           "lunettes-selection-de.com",
           "lurnexpulse.com",
           "lusthack.com",
@@ -156970,6 +156977,7 @@
           "panotarypublic.com",
           "panpacs.com",
           "pathvera.org",
+          "pawrobot.com",
           "paycrenta.com",
           "paylumon.shop",
           "payservicespro.com",
@@ -157013,6 +157021,7 @@
           "plexatrim.info",
           "plubgbstore.com",
           "plumosity-gammoned.website",
+          "plyzorva.com",
           "plzzaiolo.shop",
           "pms-manage.us",
           "pms-setup.us",
@@ -157057,6 +157066,7 @@
           "quietgroveover.com",
           "quilzaven.icu",
           "quixamora.info",
+          "quorynex.com",
           "racedeepseek.pro",
           "racertrickwill.com",
           "radio-portugal.live",
@@ -157327,6 +157337,7 @@
           "starrfy.com",
           "statryxo.com",
           "stellar-concept.site",
+          "stickman-farcers.com",
           "stimme-wirkung.de",
           "store-mauchs.com",
           "stores-fine23.com",
@@ -157461,6 +157472,7 @@
           "vibesurgeclay.com",
           "vicarageartfully.pics",
           "vip-play-center.website",
+          "vireloraq.com",
           "visitpandys.com",
           "visualstorycraft.com",
           "vivanotizie.com",
@@ -157486,6 +157498,7 @@
           "vmwarevsphere.com",
           "vmwenterprise.app",
           "volksreport.com",
+          "vorlentra.com",
           "vrfuckablegirls.live",
           "vrfuckdolls.live",
           "vsphere-client.com",
@@ -157516,6 +157529,7 @@
           "worldseafishing.org",
           "wuckeet.shop",
           "wysoria.com",
+          "xenoluxa.com",
           "xonilqup.de",
           "xtream-tv.live",
           "youfreedomspinws.com",
@@ -157528,7 +157542,9 @@
           "zestplay.pro",
           "zolunqer.de",
           "zowimcode.com",
-          "zyntricaz.com"
+          "zylariq.com",
+          "zyntricaz.com",
+          "zyphentra.com"
         ]
       },
       "metadata": {
@@ -157537,7 +157553,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-05-07T14:41:55+03:00",
+        "last_modified": "2026-05-08T18:55:00+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -157556,9 +157572,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1505
+          "domain": 1521
         },
-        "total": 1505
+        "total": 1521
       }
     },
     "UNC2529": {
