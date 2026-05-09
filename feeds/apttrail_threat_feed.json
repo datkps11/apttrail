@@ -103169,6 +103169,7 @@
           "natesec-page.ml",
           "natesign.site",
           "natesupport.com",
+          "natevns.onthewifi.com",
           "natexuf.myvnc.com",
           "natezlx.myvnc.com",
           "national-news.site",
@@ -105690,6 +105691,7 @@
           "nid-naverhpv.servehalflife.com",
           "nid-naveridh.onthewifi.com",
           "nid-naverifk.ddnsking.com",
+          "nid-naveripq.servehalflife.com",
           "nid-naveripw.ddnsking.com",
           "nid-naverirl.servegame.com",
           "nid-naveriro.onthewifi.com",
@@ -105708,6 +105710,7 @@
           "nid-naverkga.servemp3.com",
           "nid-naverkhc.serveftp.com",
           "nid-naverkhd.onthewifi.com",
+          "nid-naverkkr.onthewifi.com",
           "nid-naverkmv.onthewifi.com",
           "nid-naverkne.serveftp.com",
           "nid-naverkrl.servequake.com",
@@ -105815,6 +105818,7 @@
           "nid-naveruva.3utilities.com",
           "nid-naveruvp.servegame.com",
           "nid-naveruyy.serveftp.com",
+          "nid-naveruzt.servequake.com",
           "nid-naveruzz.servegame.com",
           "nid-navervak.3utilities.com",
           "nid-navervan.onthewifi.com",
@@ -114307,6 +114311,7 @@
           "http://27.102.137.180",
           "http://27.102.137.181",
           "http://27.102.137.183",
+          "http://27.102.137.185",
           "http://27.102.137.212",
           "http://27.102.137.214",
           "http://27.102.137.226",
@@ -114360,7 +114365,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-09T18:18:34+03:00",
+        "last_modified": "2026-05-09T22:22:48+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -115922,17 +115927,18 @@
           "https://x.com/skocherhan/status/2051727363067539880",
           "https://x.com/skocherhan/status/2052098015180317058",
           "https://x.com/skocherhan/status/2052818521093034401",
-          "https://www.virustotal.com/gui/ip-address/27.102.138.125/relations"
+          "https://www.virustotal.com/gui/ip-address/27.102.138.125/relations",
+          "https://www.virustotal.com/gui/ip-address/27.102.137.185/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 20377,
+          "domain": 20381,
           "file_path": 286,
           "ipv4": 78,
-          "url": 69
+          "url": 70
         },
-        "total": 20810
+        "total": 20815
       }
     },
     "KUN3": {
