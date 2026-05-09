@@ -5496,8 +5496,8 @@ alert dns any any -> any any (msg:"APT UNC4990 - Malicious Domain Activity"; dns
 # UNC5174 - Domain Indicators (24 domains)
 alert dns any any -> any any (msg:"APT UNC5174 - Malicious Domain Activity"; dns.query; pcre:"/^(apib\.googlespays\.com|bootstrapcdn\.fun|btt\.evil\.gooogleasia\.com|c1oudf1are\.com|chmobank\.com|googlespays\.com|https\.sex666vr\.com|huionepay\.me|javaw\.virustotal\.xyz|ks\.evil\.gooogleasia\.com|l1\.topayapp\.org|lin\.c1oudf1are\.com|lin\.huionepay\.me|lin\.telegrams\.icu|mcafeecdn\.xyz|mtls\.sex666vr\.com|samsungcdn\.com|start\.bootstrapcdn\.fun|telegrams\.icu|topayapp\.org|virustotal\.xyz|vs\.gooogleasia\.com|w1\.topayapp\.org|wg\.gooogleasia\.com)$/i"; classtype:trojan-activity; sid:9002924; rev:1; metadata:apt_group UNC5174, chunk 1;)
 
-# UNC5174 - IPv4 Indicators (2 IPs)
-alert ip any any -> [124.221.120.25,84.32.22.130] any (msg:"APT UNC5174 - Traffic to Malicious IPs"; threshold:type limit, track by_src, count 1, seconds 3600; classtype:trojan-activity; sid:9002925; rev:1; metadata:apt_group UNC5174, chunk 1;)
+# UNC5174 - IPv4 Indicators (3 IPs)
+alert ip any any -> [124.221.120.25,84.32.22.130,84.32.22.130] any (msg:"APT UNC5174 - Traffic to Malicious IPs"; threshold:type limit, track by_src, count 1, seconds 3600; classtype:trojan-activity; sid:9002925; rev:1; metadata:apt_group UNC5174, chunk 1;)
 
 # ==================================================
 # APT Group: UNC5221

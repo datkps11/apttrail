@@ -13334,6 +13334,7 @@ rule APT_UNC5174
         $domain23 = "wg\.gooogleasia\.com" ascii wide nocase
         $ip24 = "124.221.120.25" ascii wide
         $ip25 = "84.32.22.130" ascii wide
+        $ip26 = "84.32.22.130" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)

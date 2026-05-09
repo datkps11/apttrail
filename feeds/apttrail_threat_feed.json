@@ -159175,6 +159175,7 @@
         ],
         "ipv4": [
           "124.221.120.25:2222",
+          "84.32.22.130:65512",
           "84.32.22.130:8848"
         ]
       },
@@ -159185,22 +159186,24 @@
         ],
         "apt_group": "UNC5174",
         "filename": "apt_unc5174.txt",
-        "last_modified": "2026-04-06T11:04:36+03:00",
+        "last_modified": "2026-05-09T21:24:24+03:00",
         "references": [
           "https://x.com/malwrhunterteam/status/1925919454099054740",
           "https://sysdig.com/blog/unc5174-chinese-threat-actor-vshell/",
           "https://www.virustotal.com/gui/file/7cbcf84de28d4bc3b21773babe730c8cc57e91dfd8b561d0dc338ea7f6f0423f/detection",
           "https://x.com/nahamike01/status/2041035954950230099",
           "https://www.virustotal.com/gui/file/44c3885cb5ae32059e201fd3f5b87738d5e88706d1fbcf30798883c3498f9eb1/detection",
-          "https://www.virustotal.com/gui/file/8225ced200725fcce20ce365c4bafc391df92eaf9476b5fe7c0c11c76c83866f/detection"
+          "https://www.virustotal.com/gui/file/8225ced200725fcce20ce365c4bafc391df92eaf9476b5fe7c0c11c76c83866f/detection",
+          "https://x.com/smica83/status/2052693305176015087",
+          "https://www.virustotal.com/gui/file/a78188a50f25e9b28f52c297dc4137c81f8da60d1a1422735378f1416a36bc92/detection"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 24,
-          "ipv4": 2
+          "ipv4": 3
         },
-        "total": 26
+        "total": 27
       }
     },
     "UNC5221": {
