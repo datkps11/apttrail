@@ -156114,6 +156114,7 @@
           "aideepreasoning.com",
           "aideepspark.com",
           "aidigitalmesh.com",
+          "aiepochepixels.com",
           "aievolvelogic.com",
           "aifuturewave.com",
           "aigainforge.com",
@@ -156379,6 +156380,7 @@
           "cipherlix.com",
           "claysoultrue.pro",
           "climasubito.com",
+          "cloudbillers.com",
           "cloudsurferway.com",
           "cloudwhispercheep.com",
           "club-play-grand.website",
@@ -156394,6 +156396,7 @@
           "controle-universal.fit",
           "crafteddreams.net",
           "craftycuddle.com",
+          "crankous-plumosity.website",
           "crazy-app.best",
           "crazy-app.ink",
           "creativewritingretreats.com",
@@ -156485,6 +156488,8 @@
           "devolutions.workgridlab.com",
           "devolutionscontrolroom.com",
           "dexelora.com",
+          "dexentraq.com",
+          "dexovanta.com",
           "dexscreeners.cloud",
           "dexscreeners.ink",
           "dexscreeners.life",
@@ -156784,6 +156789,7 @@
           "jokers-club-app.online",
           "jongbloedwheels.com",
           "joubert.icu",
+          "jourjan.icu",
           "jpbluesalter.top",
           "jponeclean.icu",
           "juegosocialhub.net",
@@ -156811,6 +156817,8 @@
           "knoweriq.com",
           "knowledgejumps.com",
           "kosquex.fit",
+          "krylentra.com",
+          "kryptrona.com",
           "landioverday.com",
           "landloverday.com",
           "lchmeler.shop",
@@ -156823,6 +156831,7 @@
           "legacydate.com",
           "lernkompass-de.com",
           "lestrangelondon.work",
+          "letreton.icu",
           "letssignjapan.com",
           "liberolavoro.com",
           "libracontrol.com",
@@ -156946,6 +156955,7 @@
           "norvaxiss.com",
           "novaryns.org",
           "novexagroups.com",
+          "noviqora.com",
           "nymcu-us.com",
           "nymcu-usa.com",
           "oceaneyedpray.com",
@@ -156984,6 +156994,7 @@
           "payshopp.net",
           "payvoltize.shop",
           "pdf-fuel.fit",
+          "pdfdocred.digital",
           "pensionikesk.life",
           "pensionikeskus.life",
           "perceptiveasi.com",
@@ -157142,6 +157153,7 @@
           "rvtools-kernelops.com",
           "rvtools-kit.com",
           "rvtools-official.com",
+          "rvtools-optimization.com",
           "rvtools-pipeline.com",
           "rvtools-reference.com",
           "rvtools-registry.com",
@@ -157377,6 +157389,7 @@
           "thesexmart.com",
           "thewrightlegal.com",
           "thfarmrsdog.com",
+          "thibaalt.icu",
           "thinkstrac.de",
           "thirtysixstore.work",
           "thisthingofours.org",
@@ -157530,6 +157543,7 @@
           "wuckeet.shop",
           "wysoria.com",
           "xenoluxa.com",
+          "xentriqa.com",
           "xonilqup.de",
           "xtream-tv.live",
           "youfreedomspinws.com",
@@ -157538,11 +157552,13 @@
           "za.rvtoolvm.com",
           "zdravljes.digital",
           "zeemann.shop",
+          "zelontra.com",
           "zen-iptv.live",
           "zestplay.pro",
           "zolunqer.de",
           "zowimcode.com",
           "zylariq.com",
+          "zynelith.com",
           "zyntricaz.com",
           "zyphentra.com"
         ]
@@ -157553,7 +157569,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-05-08T18:55:00+03:00",
+        "last_modified": "2026-05-09T16:51:35+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -157572,9 +157588,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1521
+          "domain": 1537
         },
-        "total": 1521
+        "total": 1537
       }
     },
     "UNC2529": {
