@@ -95656,6 +95656,7 @@
           "cert-login.n-e.kr",
           "cert.abrdns.com",
           "cert.p-e.kr",
+          "cert.smartbtc.dynv6.net",
           "certificate.medis.navers.store",
           "certificateapp.n-e.kr",
           "certify.n-e.kr",
@@ -111121,6 +111122,7 @@
           "smart-bill-korea.cyou",
           "smart.com-coffee.click",
           "smart.de-bat.click",
+          "smartbtc.dynv6.net",
           "smartcert.store",
           "smartmailbox.online",
           "smartmemill.click",
@@ -114365,7 +114367,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-09T22:22:48+03:00",
+        "last_modified": "2026-05-10T20:43:47+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -115928,17 +115930,19 @@
           "https://x.com/skocherhan/status/2052098015180317058",
           "https://x.com/skocherhan/status/2052818521093034401",
           "https://www.virustotal.com/gui/ip-address/27.102.138.125/relations",
-          "https://www.virustotal.com/gui/ip-address/27.102.137.185/relations"
+          "https://www.virustotal.com/gui/ip-address/27.102.137.185/relations",
+          "https://x.com/skocherhan/status/2053188893726437695",
+          "https://www.virustotal.com/gui/ip-address/51.79.185.184/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 20381,
+          "domain": 20383,
           "file_path": 286,
           "ipv4": 78,
           "url": 70
         },
-        "total": 20815
+        "total": 20817
       }
     },
     "KUN3": {
