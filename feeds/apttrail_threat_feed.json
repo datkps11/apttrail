@@ -156558,6 +156558,7 @@
           "carrierbrokeragreements.us",
           "casino-vitoria.ink",
           "casinobonusranking.com",
+          "casnellano.icu",
           "casualjuegosportal.net",
           "cdn-ae.azureedge.net",
           "cdn-app-server.vewojo9572.workers.dev",
@@ -156681,6 +156682,7 @@
           "devolutions-adminops.com",
           "devolutions-center.com",
           "devolutions-endpoint.com",
+          "devolutions-fieldcraft.com",
           "devolutions-governance.com",
           "devolutions-itdesk.com",
           "devolutions-manager.com",
@@ -156830,6 +156832,7 @@
           "floral-grass-3c6f.cowivat156.workers.dev",
           "floral-paper-8eb1.pihara4672.workers.dev",
           "florovex.com",
+          "fluxiqa.com",
           "fluxiroz.com",
           "flywerd.it.com",
           "fokuspyna.com",
@@ -157062,6 +157065,7 @@
           "lunettes-selection-de.com",
           "lurnexpulse.com",
           "lusthack.com",
+          "macchetti.icu",
           "macejkovic.shop",
           "maisondu-bois.com",
           "majimaya.org",
@@ -157317,6 +157321,7 @@
           "royalts-app.com",
           "royalts-console.com",
           "royalts-remoteops.com",
+          "rrenier.icu",
           "runolfsfon.shop",
           "ruqwazen.de",
           "rustore.rvtouls.com",
@@ -157541,6 +157546,7 @@
           "soluciones-yas.com",
           "somerestlike.com",
           "sonnyanglusa.com",
+          "southwestchevy.com",
           "speakingmastershool.com",
           "spin-vault.com",
           "spraygraund.com",
@@ -157635,6 +157641,7 @@
           "top-play-studio.site",
           "top-tuning.org",
           "topaz-belive.site",
+          "toretti.icu",
           "totalists-syndrome.website",
           "toyo-sasaki.info",
           "tradingview-app.com",
@@ -157684,6 +157691,7 @@
           "vedic-uk.com",
           "velmorahubs.com",
           "velmoraqq.com",
+          "velqonix.com",
           "velvetstrikehipe.com",
           "veresen.com",
           "vexinakyn.com",
@@ -157693,6 +157701,7 @@
           "vicarageartfully.pics",
           "vip-play-center.website",
           "vireloraq.com",
+          "viretrix.com",
           "visitpandys.com",
           "visualstorycraft.com",
           "vivanotizie.com",
@@ -157760,6 +157769,7 @@
           "zdravljes.digital",
           "zeemann.shop",
           "zelontra.com",
+          "zelovanta.com",
           "zen-iptv.live",
           "zestplay.pro",
           "zolunqer.de",
@@ -157776,7 +157786,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-05-09T16:51:35+03:00",
+        "last_modified": "2026-05-10T15:33:03+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -157795,9 +157805,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1537
+          "domain": 1547
         },
-        "total": 1537
+        "total": 1547
       }
     },
     "UNC2529": {
