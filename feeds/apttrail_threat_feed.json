@@ -116581,7 +116581,6 @@
           "1688dsj.com",
           "172-86-114-141.dal.priv.octovpn.net",
           "172-86-114-170.dal.priv.octovpn.net",
-          "198.135.50.70L1224",
           "1drvmicrosoft.com",
           "1winfans.com",
           "247l.net",
@@ -121024,6 +121023,7 @@
           "196.38.48.121",
           "197.211.212.59:7443",
           "198.105.127.210:443",
+          "198.135.50.70:1224",
           "198.135.55.119:1224",
           "198.135.55.67:1224",
           "198.180.198.6:443",
@@ -121520,7 +121520,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-05-11T08:08:30+03:00",
+        "last_modified": "2026-05-11T10:43:22+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -122752,9 +122752,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3609,
+          "domain": 3608,
           "file_path": 478,
-          "ipv4": 661,
+          "ipv4": 662,
           "url": 115
         },
         "total": 4863
@@ -156607,6 +156607,7 @@
           "cognopix.com",
           "compassgrowpat.com",
           "computerservicesource.com",
+          "connecticutcre.com",
           "contorion-uk.com",
           "controle-universal.fit",
           "crafteddreams.net",
@@ -157035,6 +157036,7 @@
           "knowledgejumps.com",
           "kosquex.fit",
           "krylentra.com",
+          "krypkryphora.com",
           "kryptrona.com",
           "landioverday.com",
           "landloverday.com",
@@ -157074,6 +157076,7 @@
           "lusthack.com",
           "macchetti.icu",
           "macejkovic.shop",
+          "magiciansd.com",
           "maisondu-bois.com",
           "majimaya.org",
           "manabi-michi.com",
@@ -157793,7 +157796,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-05-10T15:33:03+03:00",
+        "last_modified": "2026-05-11T11:38:14+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -157812,9 +157815,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1547
+          "domain": 1550
         },
-        "total": 1547
+        "total": 1550
       }
     },
     "UNC2529": {
