@@ -93721,6 +93721,8 @@
           "44179d6df22c56f339bf.blogspot.com",
           "441929450c2er.duckdns.org",
           "44nservercc.cfd",
+          "45billmatedoc.mydns.bz",
+          "45nhistargetlink.cloud-ip.cc",
           "45nservercc.cfd",
           "46nservercc.cfd",
           "47nservercc.cfd",
@@ -100514,6 +100516,7 @@
           "k-info.userinfoblg.o-r.kr",
           "k-invoice.v6.navy",
           "k-main.kro.kr",
+          "k1dash.treeslinks.com",
           "kacka.kro.kr",
           "kadaomal.site",
           "kaist-ac.xyz",
@@ -104829,6 +104832,7 @@
           "ndocpass.dns.army",
           "ndocppass.dns.army",
           "ndocpverify.dns.army",
+          "ndocs-asend.dynv6.net",
           "ndocs-nsend.dynv6.net",
           "ndocs-verify.dns.army",
           "ndocs.an.ntsotp.dns.army",
@@ -104847,7 +104851,10 @@
           "ndocs2mai1.dns.army",
           "ndocs3link.dns.army",
           "ndocs3send.dynv6.net",
+          "ndocs5link.dns.army",
           "ndocs5mai1.dns.army",
+          "ndocs5send.dns.army",
+          "ndocs8send.dns.army",
           "ndocsverify.dns.army",
           "ndocverify.dns.army",
           "ndomainservsec.store",
@@ -114324,6 +114331,7 @@
           "http://27.102.138.125",
           "http://27.102.138.136",
           "http://27.102.138.144",
+          "http://27.102.138.146",
           "http://27.102.138.150",
           "http://27.102.138.152",
           "http://27.102.138.157",
@@ -114367,7 +114375,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-10T20:43:47+03:00",
+        "last_modified": "2026-05-11T15:43:06+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -115932,17 +115940,19 @@
           "https://www.virustotal.com/gui/ip-address/27.102.138.125/relations",
           "https://www.virustotal.com/gui/ip-address/27.102.137.185/relations",
           "https://x.com/skocherhan/status/2053188893726437695",
-          "https://www.virustotal.com/gui/ip-address/51.79.185.184/relations"
+          "https://www.virustotal.com/gui/ip-address/51.79.185.184/relations",
+          "https://x.com/skocherhan/status/2053592079918330349",
+          "https://x.com/skocherhan/status/2053529359244271800"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 20383,
+          "domain": 20390,
           "file_path": 286,
           "ipv4": 78,
-          "url": 70
+          "url": 71
         },
-        "total": 20817
+        "total": 20825
       }
     },
     "KUN3": {
