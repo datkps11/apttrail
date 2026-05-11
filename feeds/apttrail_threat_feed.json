@@ -116581,6 +116581,7 @@
           "1688dsj.com",
           "172-86-114-141.dal.priv.octovpn.net",
           "172-86-114-170.dal.priv.octovpn.net",
+          "198.135.50.70L1224",
           "1drvmicrosoft.com",
           "1winfans.com",
           "247l.net",
@@ -121519,7 +121520,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-05-10T22:42:20+03:00",
+        "last_modified": "2026-05-11T08:08:30+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -122751,12 +122752,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3608,
+          "domain": 3609,
           "file_path": 478,
           "ipv4": 661,
           "url": 115
         },
-        "total": 4862
+        "total": 4863
       }
     },
     "LAZYSCRIPTER": {
