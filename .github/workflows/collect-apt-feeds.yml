@@ -54,7 +54,7 @@ jobs:
 
     - name: Collect APT indicators
       run: |
-        python apttrail_threat_feed_collector.py --output-dir feeds --chunk-size 200
+        python apttrail_threat_feed_collector.py --output-dir feeds --chunk-size 150
 
     - name: Commit and push if changed
       run: |
