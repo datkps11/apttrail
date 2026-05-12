@@ -103970,6 +103970,7 @@
           "naveroriae.eu",
           "naverorteam.online",
           "naveroscope.tech",
+          "naverose.onthewifi.com",
           "naverosteam.site",
           "naveroteam.online",
           "naveroteam.site",
@@ -114375,7 +114376,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-11T15:43:06+03:00",
+        "last_modified": "2026-05-12T10:41:32+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -115947,12 +115948,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 20390,
+          "domain": 20391,
           "file_path": 286,
           "ipv4": 78,
           "url": 71
         },
-        "total": 20825
+        "total": 20826
       }
     },
     "KUN3": {
