@@ -97220,6 +97220,7 @@
           "e-info.userinfoblg.o-r.kr",
           "e-securedrive.assembly.mtomtech.co.kr",
           "e-securedrive.assembly.twoon.co.kr",
+          "e-zpassiags-april.dynv6.net",
           "e10a9e5.libfoobar.com",
           "e1ia92c90tz.entrydns.org",
           "eabtaa.store",
@@ -98060,6 +98061,9 @@
           "etifcem.click",
           "etismacoup.site",
           "etockmid.site",
+          "etoll-blling-ezpssiags.mysynology.net",
+          "etoll-ezpass-notify.bumbleshrimp.com",
+          "etoll-ezpssiags.dynuddns.com",
           "etraedtrr434grfd.cfd",
           "etrcompug0nar.online",
           "eu89q.dns.army",
@@ -98121,6 +98125,9 @@
           "eyeziguxgcufdnok.cfd",
           "eyhaboktjrer.n-e.kr",
           "ezmail.ntsnews.online",
+          "ezpassiags-march.dynv6.net",
+          "ezpssiags-bill.1cooldns.com",
+          "ezpssiags-etoll-02.dynv6.net",
           "ezwebsites.com",
           "f-info.userinfoblg.o-r.kr",
           "f23few.az62lmb01g.dynv6.net",
@@ -100369,6 +100376,7 @@
           "jaistockp.top",
           "janejahan.shop",
           "janeman.one",
+          "jangenam.ooguy.com",
           "janskinmn.lol",
           "japanmofa.co",
           "jaylose.store",
@@ -101997,6 +102005,7 @@
           "mem.mcgnu.kro.kr",
           "memavers.pics",
           "member-apples.info",
+          "member-area-netfilx.dynv6.net",
           "member-authorize.com",
           "member-daum-regist.hol.es",
           "member-info.net",
@@ -102449,6 +102458,7 @@
           "mxndu.r-e.kr",
           "mxopl.site",
           "mxportal.p-e.kr",
+          "my-etoll-service.vineluxe.store",
           "my-homework.890m.com",
           "my-kics-info.dns.army",
           "my.accourt.p-e.kr",
@@ -105124,6 +105134,9 @@
           "nete.p-e.kr",
           "netedoc.npaprildoc.dynv6.net",
           "netelecviews33.dynv6.net",
+          "netfilx-account.dynv6.net",
+          "netfilx-membership.dynv6.net",
+          "netfilx-rejoin.dynv6.net",
           "netfray.store",
           "netgood.click",
           "netimeline.site",
@@ -112189,6 +112202,7 @@
           "updates.o-r.kr",
           "updates.paloaltonetworks.r-e.kr",
           "updateservercom.cfd",
+          "updatesubs-netfilx.dynv6.net",
           "updatix.digital",
           "upgradesrv.890m.com",
           "upload.bigfile.hol.es",
@@ -114376,7 +114390,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-12T10:41:32+03:00",
+        "last_modified": "2026-05-12T11:39:09+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -115943,17 +115957,18 @@
           "https://x.com/skocherhan/status/2053188893726437695",
           "https://www.virustotal.com/gui/ip-address/51.79.185.184/relations",
           "https://x.com/skocherhan/status/2053592079918330349",
-          "https://x.com/skocherhan/status/2053529359244271800"
+          "https://x.com/skocherhan/status/2053529359244271800",
+          "https://x.com/skocherhan/status/2053905532377833708"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 20391,
+          "domain": 20405,
           "file_path": 286,
           "ipv4": 78,
           "url": 71
         },
-        "total": 20826
+        "total": 20840
       }
     },
     "KUN3": {
@@ -159185,21 +159200,27 @@
     "UNC5174": {
       "indicators": {
         "domain": [
+          "9oogle.net",
           "apib.googlespays.com",
           "bootstrapcdn.fun",
           "btt.evil.gooogleasia.com",
           "c1oudf1are.com",
           "chmobank.com",
+          "goo9le.net",
           "googlespays.com",
+          "goole-app.com",
           "https.sex666vr.com",
           "huionepay.me",
+          "jajal.goo9le.net",
           "javaw.virustotal.xyz",
           "ks.evil.gooogleasia.com",
+          "l1.mo1vip.org",
           "l1.topayapp.org",
           "lin.c1oudf1are.com",
           "lin.huionepay.me",
           "lin.telegrams.icu",
           "mcafeecdn.xyz",
+          "mo1vip.org",
           "mtls.sex666vr.com",
           "samsungcdn.com",
           "start.bootstrapcdn.fun",
@@ -159208,12 +159229,24 @@
           "virustotal.xyz",
           "vs.gooogleasia.com",
           "w1.topayapp.org",
-          "wg.gooogleasia.com"
+          "wg.gooogleasia.com",
+          "ws.9oogle.net",
+          "ws.goo9le.net",
+          "ws.goole-app.com",
+          "ws.mo1vip.org",
+          "ws.z2s.us",
+          "z2s.us"
         ],
         "ipv4": [
           "124.221.120.25:2222",
+          "5.199.166.4:8080",
+          "5.199.166.4:8443",
+          "5.199.166.4:8880",
           "84.32.22.130:65512",
           "84.32.22.130:8848"
+        ],
+        "url": [
+          "http://5.199.166.4"
         ]
       },
       "metadata": {
@@ -159223,7 +159256,7 @@
         ],
         "apt_group": "UNC5174",
         "filename": "apt_unc5174.txt",
-        "last_modified": "2026-05-09T21:24:24+03:00",
+        "last_modified": "2026-05-12T13:07:01+03:00",
         "references": [
           "https://x.com/malwrhunterteam/status/1925919454099054740",
           "https://sysdig.com/blog/unc5174-chinese-threat-actor-vshell/",
@@ -159232,15 +159265,17 @@
           "https://www.virustotal.com/gui/file/44c3885cb5ae32059e201fd3f5b87738d5e88706d1fbcf30798883c3498f9eb1/detection",
           "https://www.virustotal.com/gui/file/8225ced200725fcce20ce365c4bafc391df92eaf9476b5fe7c0c11c76c83866f/detection",
           "https://x.com/smica83/status/2052693305176015087",
-          "https://www.virustotal.com/gui/file/a78188a50f25e9b28f52c297dc4137c81f8da60d1a1422735378f1416a36bc92/detection"
+          "https://www.virustotal.com/gui/file/a78188a50f25e9b28f52c297dc4137c81f8da60d1a1422735378f1416a36bc92/detection",
+          "https://x.com/nahamike01/status/2054046181211426947"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 24,
-          "ipv4": 3
+          "domain": 36,
+          "ipv4": 6,
+          "url": 1
         },
-        "total": 27
+        "total": 43
       }
     },
     "UNC5221": {
