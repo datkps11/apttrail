@@ -104604,6 +104604,7 @@
           "ncafe-viewarticle.com",
           "ncafearticle-read.com",
           "ncafearticles-viewer.com",
+          "ncafepost-view.com",
           "ncafptary.store",
           "ncallservaeiwoq.store",
           "ncallserveiqnxme.store",
@@ -105419,6 +105420,7 @@
           "nhnarticle-cafe.com",
           "nhncafe-article.com",
           "nhncafe-articlesviewer.com",
+          "nhncafe-articleview.com",
           "nhncafe-articleviewer.com",
           "nhncafe-read.com",
           "nhncafe-view.com",
@@ -106952,6 +106954,7 @@
           "nk7aoeiqoqia.cfd",
           "nk8eiqoaidjia.cfd",
           "nk9aoaicyuaoize.cfd",
+          "nkagtncqah.v6.navy",
           "nkcbtrpzwyawk.kro.kr",
           "nkdmlzhrjqwtvsa.p-e.kr",
           "nkdoc-hometax.mydns.bz",
@@ -114390,7 +114393,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-12T11:39:09+03:00",
+        "last_modified": "2026-05-12T14:24:05+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -115963,12 +115966,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 20405,
+          "domain": 20408,
           "file_path": 286,
           "ipv4": 78,
           "url": 71
         },
-        "total": 20840
+        "total": 20843
       }
     },
     "KUN3": {
@@ -156360,6 +156363,7 @@
           "aigainforge.com",
           "aigenorbit.com",
           "aigripe.com",
+          "aihyperepoch.com",
           "aihyperpulse.com",
           "aiimageflux.com",
           "aiimagelayer.com",
@@ -156538,6 +156542,7 @@
           "automotiveblog.club",
           "autophorie.blog",
           "autovehicles.live",
+          "axonesubrogation.quest",
           "baltimorepsychic.com",
           "bapiyat727.workers.dev",
           "barnecnoble.com",
@@ -156993,6 +156998,7 @@
           "ibispaint.ink",
           "icelap.com",
           "identity-svc-9mz.workers.dev",
+          "ideogramy.com",
           "ideyakraaft.com",
           "illinoismerchantservices.com",
           "immovablenesses-wishfulnesses.website",
@@ -157209,6 +157215,7 @@
           "ocoeeflooring.com",
           "octorate.homes",
           "offensive-microphylls.website",
+          "oililychoreas.quest",
           "okcbusinessbrokers.com",
           "oma-kanta.info",
           "omakanta.today",
@@ -157286,6 +157293,7 @@
           "pochstudio.info",
           "poeritosanik.icu",
           "pofelal314.workers.dev",
+          "poiiier.icu",
           "polemicized-godlessnesses.website",
           "polyvids.com",
           "porezna-technology.digital",
@@ -157735,6 +157743,7 @@
           "vexnatira.com",
           "vibesurgeclay.com",
           "vicarageartfully.pics",
+          "viguor.com",
           "vip-play-center.website",
           "vireloraq.com",
           "viretrix.com",
@@ -157764,6 +157773,7 @@
           "vmwenterprise.app",
           "volksreport.com",
           "vorlentra.com",
+          "vortiqra.com",
           "vrfuckablegirls.live",
           "vrfuckdolls.live",
           "vsphere-client.com",
@@ -157782,6 +157792,7 @@
           "webapp.scan-engine-a2d.workers.dev",
           "wildemberborn.com",
           "wildfireheart.com",
+          "wildview18.top",
           "windcarveolive.com",
           "winstonsofyork.world",
           "wizardmerge.com",
@@ -157822,7 +157833,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-05-11T11:38:14+03:00",
+        "last_modified": "2026-05-12T15:59:10+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -157841,9 +157852,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1550
+          "domain": 1558
         },
-        "total": 1550
+        "total": 1558
       }
     },
     "UNC2529": {
