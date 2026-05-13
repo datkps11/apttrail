@@ -4786,11 +4786,12 @@ rule APT_GAMAREDON_1
         $domain47 = "1002834610\.kurapat\.ru" ascii wide nocase
         $domain48 = "1002928871\.makasd\.ru" ascii wide nocase
         $domain49 = "1003576324\.kurapat\.ru" ascii wide nocase
-        $ip50 = "141.8.192.151" ascii wide
-        $ip51 = "141.8.197.42" ascii wide
-        $ip52 = "159.89.205.135" ascii wide
-        $ip53 = "206.189.188.38" ascii wide
-        $ip54 = "5.252.178.181" ascii wide
+        $ip50 = "107.189.25.145" ascii wide
+        $ip51 = "141.8.192.151" ascii wide
+        $ip52 = "141.8.197.42" ascii wide
+        $ip53 = "159.89.205.135" ascii wide
+        $ip54 = "206.189.188.38" ascii wide
+        $ip55 = "5.252.178.181" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
@@ -7682,22 +7683,22 @@ rule APT_MUDDYWATER
         $domain31 = "bing-google-soft\.com" ascii wide nocase
         $domain32 = "blazingketo\.com" ascii wide nocase
         $domain33 = "cairoairport\.egnyte\.com" ascii wide nocase
-        $domain34 = "ciscoupdate2019\.gotdns\.ch" ascii wide nocase
-        $domain35 = "cloud-233f9\.firebaseapp\.com" ascii wide nocase
-        $domain36 = "cloud-233f9\.web\.app" ascii wide nocase
-        $domain37 = "cloud-ed980\.web\.app" ascii wide nocase
-        $domain38 = "cms\.qa" ascii wide nocase
-        $domain39 = "cnsmportal\.egnyte\.com" ascii wide nocase
-        $domain40 = "d25btwd9wax8gu\.cloudfront\.net" ascii wide nocase
-        $domain41 = "domainsoftcloud\.com" ascii wide nocase
-        $domain42 = "downloadfile\.egnyte\.com" ascii wide nocase
-        $domain43 = "elvenforest\.s3\.us-east-005\.backblazeb2\.com" ascii wide nocase
-        $domain44 = "enreji\.gov\.tr" ascii wide nocase
-        $domain45 = "fbcsoft\.egnyte\.com" ascii wide nocase
-        $domain46 = "fileuploadcloud\.egnyte\.com" ascii wide nocase
-        $domain47 = "gcare\.egnyte\.com" ascii wide nocase
-        $domain48 = "getgooogle\.hopto\.org" ascii wide nocase
-        $domain49 = "ghostrider\.serveirc\.com" ascii wide nocase
+        $domain34 = "cdn\.bgpweb\.com" ascii wide nocase
+        $domain35 = "ciscoupdate2019\.gotdns\.ch" ascii wide nocase
+        $domain36 = "cloud-233f9\.firebaseapp\.com" ascii wide nocase
+        $domain37 = "cloud-233f9\.web\.app" ascii wide nocase
+        $domain38 = "cloud-ed980\.web\.app" ascii wide nocase
+        $domain39 = "cms\.qa" ascii wide nocase
+        $domain40 = "cnsmportal\.egnyte\.com" ascii wide nocase
+        $domain41 = "d25btwd9wax8gu\.cloudfront\.net" ascii wide nocase
+        $domain42 = "domainsoftcloud\.com" ascii wide nocase
+        $domain43 = "downloadfile\.egnyte\.com" ascii wide nocase
+        $domain44 = "elvenforest\.s3\.us-east-005\.backblazeb2\.com" ascii wide nocase
+        $domain45 = "enreji\.gov\.tr" ascii wide nocase
+        $domain46 = "fbcsoft\.egnyte\.com" ascii wide nocase
+        $domain47 = "fileuploadcloud\.egnyte\.com" ascii wide nocase
+        $domain48 = "gcare\.egnyte\.com" ascii wide nocase
+        $domain49 = "getgooogle\.hopto\.org" ascii wide nocase
         $ip50 = "103.27.108.14" ascii wide
         $ip51 = "103.27.108.14" ascii wide
         $ip52 = "103.27.109.206" ascii wide
