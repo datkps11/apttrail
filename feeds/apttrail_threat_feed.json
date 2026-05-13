@@ -105856,6 +105856,7 @@
           "nid-naverwhf.3utilities.com",
           "nid-naverwml.servequake.com",
           "nid-naverwoe.myvnc.com",
+          "nid-naverwql.servegame.com",
           "nid-naverwrg.ddnsking.com",
           "nid-naverwrn.serveftp.com",
           "nid-naverwza.servecounterstrike.com",
@@ -114393,7 +114394,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-12T14:24:05+03:00",
+        "last_modified": "2026-05-13T10:16:23+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -115966,12 +115967,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 20408,
+          "domain": 20409,
           "file_path": 286,
           "ipv4": 78,
           "url": 71
         },
-        "total": 20843
+        "total": 20844
       }
     },
     "KUN3": {
@@ -157166,6 +157167,7 @@
           "moretti-menswear.com",
           "mornava.com",
           "motorverso.org",
+          "movobility.com",
           "moxabazco.info",
           "moxabrain.info",
           "moxantria.cyou",
@@ -157710,6 +157712,7 @@
           "tuser-vicio.com",
           "tv-aio.live",
           "tv-navegador.live",
+          "tweehandwork.quest",
           "tylarlink.com",
           "tylioners.com",
           "tylorvex.de",
@@ -157833,7 +157836,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-05-12T15:59:10+03:00",
+        "last_modified": "2026-05-13T10:29:14+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -157852,9 +157855,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1558
+          "domain": 1560
         },
-        "total": 1558
+        "total": 1560
       }
     },
     "UNC2529": {
