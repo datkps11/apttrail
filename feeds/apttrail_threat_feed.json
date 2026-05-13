@@ -23848,6 +23848,7 @@
           "rtsafetech.com",
           "rtsoftcorp.com",
           "rtwebmaster.com",
+          "sentinelonepro.com",
           "services.officesanalytics.com",
           "shinas.global.ssl.fastly.net",
           "soffice.officesanalytics.com",
@@ -23857,6 +23858,7 @@
           "trhammer.com",
           "update.sysupdates.org",
           "video.farstream.org",
+          "virusblocker.it.com",
           "vpn114240349.softether.net",
           "vpn305783366.softether.net",
           "vpn487875652.softether.net",
@@ -23882,7 +23884,7 @@
         ],
         "apt_group": "EARTHESTRIES",
         "filename": "apt_earthestries.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-05-13T22:51:13+03:00",
         "references": [
           "https://www.trendmicro.com/en_us/research/23/h/earth-estries-targets-government-tech-for-cyberespionage.html",
           "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/23/h/earth-estries-targets-government-tech-for-cyberespionage/IOCs-earth-estries-targets-government-tech-for-cyberespionage.txt",
@@ -23891,16 +23893,17 @@
           "https://khonggianmang.vn/uploads/1_20241120_CV_APT_EARTHESTRIES_ce3a8ed572.PDF",
           "https://www.synacktiv.com/publications/krustyloader-rust-malware-linked-to-ivanti-connectsecure-compromises",
           "https://github.com/synacktiv/krustyloader-analysis",
-          "https://www.security.com/threat-intelligence/toolshell-china-zingdoor"
+          "https://www.security.com/threat-intelligence/toolshell-china-zingdoor",
+          "https://businessinsights.bitdefender.com/famoussparrow-apt-targets-azerbaijani-oil-gas-industry"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 76,
+          "domain": 78,
           "ipv4": 1,
           "url": 1
         },
-        "total": 78
+        "total": 80
       }
     },
     "EARTHHUNDUN": {
@@ -99976,7 +99979,9 @@
           "htmzzvip-svip.xyz",
           "htp-out.wetax-pay.online",
           "htr19ies.dynuddns.com",
+          "htr33ies.dynuddns.com",
           "htr6ies.dynv6.net",
+          "htr7edc.dynv6.net",
           "htresourcedoc.mydns.bz",
           "htsseh.store",
           "http-accounts.fixcool.net",
@@ -100758,6 +100763,8 @@
           "its.jbnu.ml",
           "itstech.diskstation.me",
           "itx26ps.dns.army",
+          "itx4ps.dns.army",
+          "itx6ps.dns.army",
           "itx8ps.dns.army",
           "itxa16ns.dns.army",
           "ityoiurnfo.mydns.bz",
@@ -106156,6 +106163,7 @@
           "nid-log.kro.kr",
           "nid-login.ekivotos.gr",
           "nid-login.htdcos.dns.army",
+          "nid-login.htr7edc.dynv6.net",
           "nid-login.ipscorped.dns.navy",
           "nid-login.ipscorped.dynv6.net",
           "nid-login.ipstecs.dns.navy",
@@ -106170,6 +106178,7 @@
           "nid-login.navorscorpes.dns.navy",
           "nid-login.navorscorpes.dynv6.net",
           "nid-login.ntdinvocie.dns.army",
+          "nid-login.ntpo14ke.dynv6.net",
           "nid-login.nts-alert.dns.navy",
           "nid-login.nts-edoced.dns.army",
           "nid-login.ntx25sp.dns.army",
@@ -106849,6 +106858,7 @@
           "nida.ntsdocs.dns.army",
           "nida.ntx24sp.dns.army",
           "nida.nvc-cps.dns.army",
+          "nida.opt36ntesx.dns.army",
           "nida.service-relay.dedyn.io",
           "nida.strdocs.dns.army",
           "nida.themgc.net",
@@ -107216,6 +107226,7 @@
           "nids.sendletters.site",
           "nids.themgc.net",
           "nids.tois5ex.dynv6.net",
+          "nids.tpx2ee.dns.army",
           "nids.trx16nts.dns.army",
           "nids.vipsdocs.dns.army",
           "nids0.dynv6.net",
@@ -107266,11 +107277,13 @@
           "nidservers.bamapos.com",
           "nidservers.degradingmcgill.ca",
           "nidservers.edocsnavp.dynv6.net",
+          "nidservers.htr33ies.dynuddns.com",
           "nidservers.htsdocs.dns.army",
           "nidservers.ipscorped.dns.navy",
           "nidservers.ipscorped.dynv6.net",
           "nidservers.ipsedx.dns.army",
           "nidservers.ipstecs.dns.navy",
+          "nidservers.itx6ps.dns.army",
           "nidservers.midsdoc.dns.army",
           "nidservers.mps-navors.dns.army",
           "nidservers.mscure.dns.army",
@@ -107280,9 +107293,12 @@
           "nidservers.navorscorps.x10.network",
           "nidservers.ntdecs.dns.army",
           "nidservers.ntdinvocie.dns.army",
+          "nidservers.ntpo13ke.dynv6.net",
           "nidservers.nts-alert.dns.navy",
           "nidservers.nts-edoced.dns.army",
           "nidservers.nvc-cps.dns.army",
+          "nidservers.opt38ntesx.dns.army",
+          "nidservers.opt39ntesx.dns.army",
           "nidservers.strdocs.dns.army",
           "nidservers.themgc.net",
           "nidservers.unts-corp.dynv6.net",
@@ -108684,6 +108700,8 @@
           "ntplnk6s.dynv6.net",
           "ntplnk7s.dynv6.net",
           "ntplnk8s.dynv6.net",
+          "ntpo13ke.dynv6.net",
+          "ntpo14ke.dynv6.net",
           "ntprefdoc.mydns.bz",
           "ntpservice.kro.kr",
           "ntreanservicesec.store",
@@ -110022,6 +110040,9 @@
           "opsld.site",
           "opsscos.site",
           "opt17ntesx.dns.army",
+          "opt36ntesx.dns.army",
+          "opt38ntesx.dns.army",
+          "opt39ntesx.dns.army",
           "opt5ntesx.dns.army",
           "option.nsites.kro.kr",
           "option.r-e.kr",
@@ -110069,6 +110090,8 @@
           "otp.r-e.kr",
           "otpsystem.p-e.kr",
           "ottcloud.n-e.kr",
+          "otx19ntp.dns.army",
+          "otx3ntp.dns.army",
           "ouioasan.site",
           "ouracge.click",
           "ourcalendarupdate.cfd",
@@ -112690,6 +112713,7 @@
           "tpe5ie.dynv6.net",
           "tpf.viewdocument2785.dns.army",
           "tpx11sdoc.dns.army",
+          "tpx2ee.dns.army",
           "traceasa.click",
           "trachub.xyz",
           "trachubs.xyz",
@@ -115298,7 +115322,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-13T14:51:18+03:00",
+        "last_modified": "2026-05-13T22:43:54+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -116870,17 +116894,18 @@
           "https://x.com/skocherhan/status/2054269866534953072",
           "https://x.com/blackorbird/status/2054518266958320099",
           "https://mp.weixin.qq.com/s/Ibz3FeA7twg-VCujA3cV_g",
-          "https://www.virustotal.com/gui/ip-address/112.216.9.171/relations"
+          "https://www.virustotal.com/gui/ip-address/112.216.9.171/relations",
+          "https://x.com/skocherhan/status/2054631705630359914"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 21172,
+          "domain": 21193,
           "file_path": 286,
           "ipv4": 78,
           "url": 71
         },
-        "total": 21607
+        "total": 21628
       }
     },
     "KUN3": {

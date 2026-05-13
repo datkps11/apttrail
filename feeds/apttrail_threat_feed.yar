@@ -3959,7 +3959,7 @@ rule APT_EARTHESTRIES
         author = "APTtrail Automated Collection"
         apt_group = "EARTHESTRIES"
         aliases = "hemigate, krustyloader, trillclient"
-        reference = "https://github.com/synacktiv/krustyloader-analysis"
+        reference = "https://businessinsights.bitdefender.com/famoussparrow-apt-targets-azerbaijani-oil-gas-industry"
         severity = "high"
         tlp = "white"
 
