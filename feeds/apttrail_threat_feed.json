@@ -137847,6 +137847,7 @@
           "24170-40494.bacloud.info",
           "2aeb306b-4c5f-4cc6-a7a2-6fcd96612b9d.us-east-1.cloud.genez.io",
           "2let.org",
+          "2r.nrtcpk-net.com",
           "38273409.mail-defence-lk-loging-horde.pages.dev",
           "3nxyc.pmreco.xyz",
           "423743f1-53d2-41bf-9dba-e1e0b7c8f460.pmreco.xyz",
@@ -138263,6 +138264,7 @@
           "chughtai.medicallab.site",
           "ciamat.info",
           "circular-financegov.servehalflife.com",
+          "circular.nrtcpk-net.com",
           "circulars.ntcpk.co",
           "cirt-gov-bd.org-liv.net",
           "cirt-gov-mm.fia-gov.net",
@@ -138307,6 +138309,7 @@
           "cloud.desktopserver.top",
           "cloud.moe.gov.cn.81-cn.info",
           "cloud.nitc.gavnp.org",
+          "cloudforme.top",
           "cloudmails.live",
           "cloudplatfromservice.one",
           "cloudpmo.top",
@@ -138558,6 +138561,7 @@
           "doc-downlod.com",
           "doc-ye9wbezc.b4a.run",
           "docs.apl-com.icu",
+          "docs.files-windows.top",
           "docs.mofa-services-server.top",
           "docum.store",
           "document-viewer.info",
@@ -138714,6 +138718,7 @@
           "erd.gov.lk.mofa-govbd.com",
           "erd.gov.lk.pk-mail.org",
           "ereribe.tech",
+          "erty.nrtcpk-net.com",
           "eservice-ptclnetpk.servehttp.com",
           "estabiishment.gov.ministry-gov.org",
           "estabiishment.gov.pk-mailgov.com",
@@ -138791,6 +138796,7 @@
           "filenest.live",
           "filenesthub.org",
           "files-ci.com",
+          "files-windows.top",
           "files.pdf-download.live",
           "fileserve.work",
           "fileserver.81-cn.info",
@@ -140288,6 +140294,7 @@
           "nrtc-com-pk.pages.dev",
           "nrtc-supporl2.com",
           "nrtc-support.com",
+          "nrtcpk-net.com",
           "ns.seiffenn.nohost.me",
           "ns1.army-lk.org",
           "ns1.news-bd.com",
@@ -140301,6 +140308,7 @@
           "nslow.pmreco.xyz",
           "nsvay8faydj3f79dje9djr02j101c4a583c3acdd2a06ca2fb183cf995.pages.dev",
           "ntc-06gd0upz.b4a.run",
+          "ntc-firewall.safeurl-content.online",
           "ntc-gov.com",
           "ntc-govpk.serveftp.com",
           "ntc-govpk.servehalflife.com",
@@ -140443,6 +140451,7 @@
           "pakgovt.site",
           "pakistan-gov-pk.workers.dev",
           "pakistan-mofa.cloud",
+          "pakistan-server-auth0.cloudforme.top",
           "pakistanarmslicense.com",
           "pakistanarmy.xyz",
           "pakistangov.com",
@@ -140834,6 +140843,7 @@
           "s3-network-pakistan.online",
           "saarc-sec-org.snagdrive.com",
           "safecityctd.com",
+          "safeurl-content.online",
           "saffsdf-fgjhhgj-fhfgjrt65df-tfgy54hgf.netlify.app",
           "salary-cutting.session-out.com",
           "salary-cuxxing.session-out.com",
@@ -141491,7 +141501,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-05-02T16:49:59+03:00",
+        "last_modified": "2026-05-14T12:18:46+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -142554,17 +142564,24 @@
           "https://x.com/volrant136/status/2048431910871875851",
           "https://x.com/Cyberteam008/status/2048596656141340906",
           "https://www.virustotal.com/gui/file/e032080c5afeb99bd8bd87e3f68d2b655162a90a78d1207ec12bc0e81563a077/detection",
-          "https://www.virustotal.com/gui/file/159c47db6c9a162c47167ff4d9ebb892e44acf946c95aaad0ec49935627844fc/detection"
+          "https://www.virustotal.com/gui/file/159c47db6c9a162c47167ff4d9ebb892e44acf946c95aaad0ec49935627844fc/detection",
+          "https://x.com/__0XYC__/status/2054792675887382660",
+          "https://x.com/__0XYC__/status/2054793748106657829",
+          "https://www.virustotal.com/gui/file/b9a5a187f850885bf7e9de5c1f957469bb16a65d51b08e2da79202e13e069010/detection",
+          "https://x.com/malwrhunterteam/status/2054831494347063755",
+          "https://www.virustotal.com/gui/file/34074546f23b48d31d368b2b1c0c3f475dbc15689853a91d113038eb1cd8d8bb/detection",
+          "https://www.virustotal.com/gui/file/9ae756a44c87dde511f11b521c7643b80b330c87f6cf78db5410278c1dc61996/detection",
+          "https://www.virustotal.com/gui/file/d163ef058710925ef5ea2be66df52d837880d1ec18e6575395cab2cd441404a0/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3551,
+          "domain": 3561,
           "file_path": 16,
           "ipv4": 48,
           "url": 29
         },
-        "total": 3644
+        "total": 3654
       }
     },
     "SILENCE": {
@@ -157274,6 +157291,9 @@
       "indicators": {
         "domain": [
           "08f0.proxy-edge-c5f.workers.dev",
+          "1v.rvtoollsa.com",
+          "22.rvtoolsik.com",
+          "27.rvtoolsax.com",
           "45perhour.org",
           "7stories.sbs",
           "91movs.com",
@@ -157498,6 +157518,7 @@
           "alpine-quest.live",
           "ancora-shop.com",
           "angelliost.com",
+          "angryenterprise.app",
           "angryipa.com",
           "angryipac.com",
           "angryipac.net",
@@ -157659,6 +157680,7 @@
           "cryptazal.icu",
           "cryptofinance.com.de",
           "csdob.com",
+          "cullendersbarnacles.quest",
           "cyberrec.shop",
           "cybershield-academy.net",
           "d-extrax.com",
@@ -157775,6 +157797,7 @@
           "drexano.de",
           "driftpixelmonster.com",
           "duskblazeworld.com",
+          "dy.hornetseculty.com",
           "e-gradanis.info",
           "e-hzz.info",
           "e-hzz.world",
@@ -157892,6 +157915,7 @@
           "fuleroidos.de",
           "fuzionssolens.it.com",
           "fuzoyesos.de",
+          "g.rv-tools.info",
           "gadgman.ink",
           "game-city-ltd.site",
           "gammoned-dopier.website",
@@ -158191,6 +158215,7 @@
           "nelmods.com",
           "neonwhisperbay.com",
           "neonwrathnice.com",
+          "neorev.it.com",
           "neosolage.shop",
           "nepensens.org",
           "net-optimizer.ink",
@@ -158223,6 +158248,7 @@
           "octorate.homes",
           "offensive-microphylls.website",
           "oililychoreas.quest",
+          "oililyideologized.quest",
           "okcbusinessbrokers.com",
           "oma-kanta.info",
           "omakanta.today",
@@ -158442,6 +158468,7 @@
           "rvtoolsgo.com",
           "rvtoolshq.com",
           "rvtoolsi.info",
+          "rvtoolsik.com",
           "rvtoolsio.com",
           "rvtoolsit.com",
           "rvtoolsl.com",
@@ -158644,6 +158671,7 @@
           "techrecory.shop",
           "techvoltpad.shop",
           "test-runner-4b7.workers.dev",
+          "testmindset.com",
           "thafarmrsdog.com",
           "the-digital-news.com",
           "thefarmorsdog.com",
@@ -158762,6 +158790,7 @@
           "vmback.com",
           "vmbacku.com",
           "vmbackups.com",
+          "vmrentertrise.com",
           "vmsbackup.com",
           "vmware-programs.com",
           "vmware-remote-console.com",
@@ -158841,7 +158870,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-05-13T10:29:14+03:00",
+        "last_modified": "2026-05-14T10:54:42+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -158860,9 +158889,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1560
+          "domain": 1572
         },
-        "total": 1560
+        "total": 1572
       }
     },
     "UNC2529": {
