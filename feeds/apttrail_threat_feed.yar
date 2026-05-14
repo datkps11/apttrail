@@ -4792,6 +4792,7 @@ rule APT_GAMAREDON_1
         $ip53 = "159.89.205.135" ascii wide
         $ip54 = "206.189.188.38" ascii wide
         $ip55 = "5.252.178.181" ascii wide
+        $ip56 = "89.124.79.33" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
