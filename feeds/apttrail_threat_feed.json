@@ -120270,6 +120270,7 @@
           "smartdrvupdate.online",
           "smarthiretop.online",
           "smartmanagerex.com",
+          "smartonboardingportal.com",
           "smartscreenfilter.com",
           "smartvideoassess.com",
           "smartvideohire.com",
@@ -121983,6 +121984,9 @@
           "195.201.194.107:8010",
           "195.250.29.94:1337",
           "195.250.29.94:3001",
+          "195.35.23.88:8080",
+          "195.35.23.88:8081",
+          "195.35.23.88:8443",
           "196.38.48.121",
           "197.211.212.59:7443",
           "198.105.127.210:443",
@@ -122483,7 +122487,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-05-11T10:43:22+03:00",
+        "last_modified": "2026-05-14T10:34:10+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -123715,12 +123719,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3608,
+          "domain": 3609,
           "file_path": 478,
-          "ipv4": 662,
+          "ipv4": 665,
           "url": 115
         },
-        "total": 4863
+        "total": 4867
       }
     },
     "LAZYSCRIPTER": {

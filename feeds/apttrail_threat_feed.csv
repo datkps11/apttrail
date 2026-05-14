@@ -107883,6 +107883,7 @@ LAZARUS,domain,smartdriverfixer.com
 LAZARUS,domain,smartdrvupdate.online
 LAZARUS,domain,smarthiretop.online
 LAZARUS,domain,smartmanagerex.com
+LAZARUS,domain,smartonboardingportal.com
 LAZARUS,domain,smartscreenfilter.com
 LAZARUS,domain,smartvideoassess.com
 LAZARUS,domain,smartvideohire.com
@@ -109592,6 +109593,9 @@ LAZARUS,ipv4,195.201.104.53:6939
 LAZARUS,ipv4,195.201.194.107:8010
 LAZARUS,ipv4,195.250.29.94:1337
 LAZARUS,ipv4,195.250.29.94:3001
+LAZARUS,ipv4,195.35.23.88:8080
+LAZARUS,ipv4,195.35.23.88:8081
+LAZARUS,ipv4,195.35.23.88:8443
 LAZARUS,ipv4,196.38.48.121
 LAZARUS,ipv4,197.211.212.59:7443
 LAZARUS,ipv4,198.105.127.210:443
