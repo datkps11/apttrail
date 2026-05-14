@@ -105137,6 +105137,7 @@
           "ncafe-viewarticle.com",
           "ncafearticle-read.com",
           "ncafearticles-viewer.com",
+          "ncafepost-read.com",
           "ncafepost-view.com",
           "ncafptary.store",
           "ncallservaeiwoq.store",
@@ -115322,7 +115323,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-13T22:43:54+03:00",
+        "last_modified": "2026-05-14T13:33:25+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -116900,12 +116901,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 21193,
+          "domain": 21194,
           "file_path": 286,
           "ipv4": 78,
           "url": 71
         },
-        "total": 21628
+        "total": 21629
       }
     },
     "KUN3": {
@@ -156159,6 +156160,8 @@
           "agelessinvesting.xyz",
           "ais-gos.top",
           "akademia-mil.space",
+          "alexavegas.icu",
+          "algsat.icu",
           "all-ukraine.top",
           "alls-gos.top",
           "americandeliriumsociety.shop",
@@ -156166,6 +156169,7 @@
           "ao-opros.top",
           "api.passport-yandex.ru",
           "aplikacje.ron-mil.space",
+          "attachment-storage-asset-static.needbinding.icu",
           "authorization-inbox.site",
           "awa-opros.top",
           "aws-opros.top",
@@ -156175,6 +156179,7 @@
           "belaru-opros.top",
           "bell-gos.club",
           "besh-opros.top",
+          "best-seller.lavanille.buzz",
           "bezpieczenstwo-danych.website",
           "bezpieczenstwo.wp-pl.eu",
           "bhwbehb.wecwe.com",
@@ -156187,6 +156192,7 @@
           "blic-opros.top",
           "bokinteria.pl-kontrola-bezpieczenstwa.space",
           "bokinteria.weryfikacja-konta.pw",
+          "book-happy.needbinding.icu",
           "boom-gos.club",
           "bourns.space",
           "bryndonovan.shop",
@@ -156250,6 +156256,7 @@
           "dzial-bezpieczenstwa.space",
           "e.mail.ru.net-accounts-mail.ru",
           "eartheclipse.shop",
+          "easiestnewsfromourpointofview.algsat.icu",
           "ec-compensation.xyz",
           "edopomogaonline.yolasite.com",
           "email-verify.top",
@@ -156305,6 +156312,7 @@
           "gst-canada-gov.com",
           "hardingtwominuterule.com",
           "helpzzfound.site",
+          "hinesafar.sardk.icu",
           "hssenglish.pw",
           "i-ua.ml",
           "i-ua.space",
@@ -156320,6 +156328,7 @@
           "id.verify-mail.space",
           "identyfikacja-uzytkownika.link",
           "idsso.ukroboronprom-com.site",
+          "ifo-jupyter.natter.icu",
           "ikitas.shop",
           "ili-gos.top",
           "inbox-admin.site",
@@ -156374,6 +156383,7 @@
           "kurioworld.gq",
           "lansdownecentre.shop",
           "lauramcinerney.shop",
+          "lavanille.buzz",
           "lin-gos.top",
           "lnk.ukr-compens.xyz",
           "login-inbox.online",
@@ -156406,6 +156416,7 @@
           "meta-ua.online",
           "meta-ua.space",
           "meta-ua.top",
+          "mickeymousegamesdealer.alexavegas.icu",
           "microsoft.com-account.website",
           "microsoftonline.email-verify.top",
           "mil-gov.space",
@@ -156420,6 +156431,10 @@
           "moonlightmixes.shop",
           "mygraphbook.com",
           "myua-compensations.xyz",
+          "nama-belakang.nebao.icu",
+          "natter.icu",
+          "nebao.icu",
+          "needbinding.icu",
           "nes-gos.top",
           "net-account.online",
           "net-account.space",
@@ -156544,6 +156559,7 @@
           "safe-mail.space",
           "safe-onet.online",
           "safe-onet.space",
+          "sardk.icu",
           "sciencealert.shop",
           "sdfavavvvv.site",
           "secure-firewall.site",
@@ -156558,6 +156574,7 @@
           "semanticscholar.shop",
           "serure-email.online",
           "service.kontrola-poczty.space",
+          "shinesafar.sardk.icu",
           "shpsale.ukroboronprom.online",
           "sign-in-inbox.site",
           "signin-telekom.online",
@@ -156734,11 +156751,13 @@
           "UAC-0057",
           "UAC-0100",
           "WhiteLynx",
-          "Storm-0257"
+          "Storm-0257",
+          "PUSHCHA",
+          "picassoloader"
         ],
         "apt_group": "UNC1151",
         "filename": "apt_unc1151.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-05-14T15:24:55+03:00",
         "references": [
           "https://content.fireeye.com/web-assets/rpt-unc1151-ghostwriter-update",
           "https://www.fireeye.com/blog/threat-research/2021/04/espionage-group-unc1151-likely-conducts-ghostwriter-influence-activity.html",
@@ -156819,16 +156838,20 @@
           "https://x.com/malwrhunterteam/status/1909235735850279070",
           "https://x.com/malwrhunterteam/status/1909280553821741451",
           "https://www.virustotal.com/gui/file/146df172a08f3b8bec4d5e2f3ac552af28ac2e17f682712f135e7c94c28263c8/detection",
-          "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-12-08-White-Lynx-uses-CAPTCHA-macros.txt"
+          "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-12-08-White-Lynx-uses-CAPTCHA-macros.txt",
+          "https://x.com/smica83/status/2054518692298273011",
+          "https://x.com/malwrhunterteam/status/2054858213439250469",
+          "https://www.welivesecurity.com/en/eset-research/frostyneighbor-fresh-mischief-digital-shenanigans/",
+          "https://tria.ge/260513-m7anjahw5v/behavioral1"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 581,
+          "domain": 597,
           "ipv4": 5,
           "url": 4
         },
-        "total": 590
+        "total": 606
       }
     },
     "UNC215": {
