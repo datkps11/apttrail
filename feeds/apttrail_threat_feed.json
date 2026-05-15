@@ -96613,6 +96613,7 @@
           "creamguide.com",
           "creamsna.click",
           "creativepalace.click",
+          "creativetera.org",
           "creditvid.click",
           "credtmail.site",
           "credworm.click",
@@ -98199,6 +98200,7 @@
           "encrypttonei.click",
           "encsv.cloud",
           "encziuoi.site",
+          "endava.online",
           "endlesspools.site",
           "endoc.kaznets.com",
           "endocument-home.mydns.bz",
@@ -112725,6 +112727,10 @@
           "taikolabs.top",
           "takorea.dscloud.biz",
           "talayotegrpserver.dyndns.info",
+          "talert.online",
+          "talert.site",
+          "talert.space",
+          "talert.store",
           "talktalk.emailservice.email",
           "tam24.site",
           "tamarob.click",
@@ -113000,6 +113006,11 @@
           "traffic-police24.v6.rocks",
           "traffic.safe-travel.v6.rocks",
           "traffice-safe.dns.navy",
+          "tralert.app",
+          "tralert.online",
+          "tralert.site",
+          "tralert.store",
+          "tralert7.com",
           "trandingveiws.com",
           "trandnjob.site",
           "traningviews.com",
@@ -113029,6 +113040,7 @@
           "trueserver.art",
           "trueserver.today",
           "truieresource.click",
+          "trumpalert.store",
           "trumpmemecoin.app",
           "trumpmemecoin.net",
           "trumpmemecoin.org",
@@ -115465,6 +115477,7 @@
           "156.224.22.247:443",
           "158.247.238.155:443",
           "159.100.6.137:993",
+          "161.97.113.34:3001",
           "162.216.114.133:53",
           "162.245.188.225:53",
           "172.93.201.248:52390",
@@ -115621,7 +115634,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-15T12:10:56+03:00",
+        "last_modified": "2026-05-15T15:44:37+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -117197,17 +117210,20 @@
           "https://x.com/skocherhan/status/2054631705630359914",
           "https://x.com/hypen1117/status/2054890343041319144",
           "https://securelist.com/kimsuky-appleseed-pebbledash-campaigns/119785/",
-          "https://x.com/skocherhan/status/2055029645125296604"
+          "https://x.com/skocherhan/status/2055029645125296604",
+          "https://x.com/malwrhunterteam/status/2033509348396212689",
+          "https://x.com/lazarusholic/status/2055249391662084191",
+          "https://hybrid-analysis.blogspot.com/2026/05/velvet-chollima-infostealer-campaign.html"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 21484,
+          "domain": 21496,
           "file_path": 289,
-          "ipv4": 78,
+          "ipv4": 79,
           "url": 71
         },
-        "total": 21922
+        "total": 21935
       }
     },
     "KUN3": {
