@@ -100206,8 +100206,10 @@
           "i.ujm.kro.kr",
           "i.wanblibang.com.cn",
           "i.zms.kro.kr",
+          "i0bdvsseci.v6.army",
           "i14o6.dns.army",
           "i2fh7k.sqpo7udsee0.v6.navy",
+          "i6u25s.i0bdvsseci.v6.army",
           "ia3lp.v6.rocks",
           "iamsam.asuscomm.com",
           "iasoiexci.site",
@@ -105502,6 +105504,7 @@
           "ndilogin.apollo-page.r-e.kr",
           "ndoc-auth.ydns.eu",
           "ndoc-deliver.dynv6.net",
+          "ndoc-deliver.i6u25s.i0bdvsseci.v6.army",
           "ndoc-hometax.mydns.bz",
           "ndoc-kr.host",
           "ndoc-kr.info",
@@ -105511,6 +105514,7 @@
           "ndoc-mail.n-e.kr",
           "ndoc-nid.mydns.jp",
           "ndoc-pass.dns.army",
+          "ndoc-stoke.accesscam.org",
           "ndoc-tax.dynv6.net",
           "ndoc-verify.dns.army",
           "ndoc.digital",
@@ -106175,6 +106179,7 @@
           "nhn.insides.r-e.kr",
           "nhn.nsuites.ga",
           "nhnarticle-cafe.com",
+          "nhnarticle.cafe",
           "nhncafe-article.com",
           "nhncafe-articlesviewer.com",
           "nhncafe-articleview.com",
@@ -108958,6 +108963,7 @@
           "nts-doc.store",
           "nts-doc.uno",
           "nts-doc.website",
+          "nts-doc.xn73zj.vea4cc4pbgk.dns.army",
           "nts-docs.cfd",
           "nts-docs.icu",
           "nts-docs.site",
@@ -113687,6 +113693,7 @@
           "vcljs.com",
           "vcvcmn.website",
           "ve.kimyy.p-e.kr",
+          "vea4cc4pbgk.dns.army",
           "vectorfinance.tech",
           "vectorfinance.top",
           "vefication-type.o-r.kr",
@@ -114877,6 +114884,7 @@
           "xn--zb0bjsl3wqkbsx1b.xn--oi2b61z32a.xn--3e0b707e",
           "xn--zb0bt79a34ew5j.xn--h32bi4v.xn--3e0b707e",
           "xn--zj4b17e9vcn8n.xn--hu5b25b77nvwc.xn--3e0b707e",
+          "xn73zj.vea4cc4pbgk.dns.army",
           "xnate.kro.kr",
           "xnfueisew.site",
           "xno.elecdocs.dynv6.net",
@@ -115638,7 +115646,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-15T15:44:37+03:00",
+        "last_modified": "2026-05-16T23:14:33+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -117222,12 +117230,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 21496,
+          "domain": 21504,
           "file_path": 289,
           "ipv4": 79,
           "url": 71
         },
-        "total": 21935
+        "total": 21943
       }
     },
     "KUN3": {
@@ -157647,14 +157655,18 @@
       "indicators": {
         "domain": [
           "08f0.proxy-edge-c5f.workers.dev",
+          "1s.rvtoolsai.com",
           "1v.rvtoollsa.com",
           "1yeralti.com",
           "20.rvtoolsaq.com",
+          "20.rvtoolse.info",
           "22.rvtoolsik.com",
+          "24.rvtoolis.info",
           "27.rvtoolsax.com",
           "3g.s3brovvser.com",
           "3p.workbenche.com",
           "45perhour.org",
+          "5b.rvtoolsbox.com",
           "7stories.sbs",
           "91movs.com",
           "9xstream.live",
@@ -158427,6 +158439,7 @@
           "iterm2.fabsaintsimons.org",
           "itmurrieta.com",
           "ivms-4200.com",
+          "iwervoex.icu",
           "japanesale.icu",
           "jaskolski.shop",
           "jeeplandgrow.pro",
@@ -158504,6 +158517,7 @@
           "lunettes-selection-de.com",
           "lurnexpulse.com",
           "lusthack.com",
+          "luxebilliards.com",
           "macchetti.icu",
           "macejkovic.shop",
           "magiciansd.com",
@@ -158585,6 +158599,7 @@
           "neonwrathnice.com",
           "neorev.it.com",
           "neosolage.shop",
+          "neowernest.icu",
           "nepensens.org",
           "net-optimizer.ink",
           "nettoyaget.com",
@@ -158714,6 +158729,7 @@
           "prime-city-games.site",
           "prime-game-zone.website",
           "prime-gaming-app.website",
+          "prnhub.top",
           "pro-neustart.com",
           "promo-links.com",
           "propelwisemedia.com",
@@ -158723,6 +158739,7 @@
           "prosolis.shop",
           "proxy-edge-c5f.workers.dev",
           "ptns-sp.org",
+          "pulsynex.com",
           "purecanopywong.com",
           "putty-info.com",
           "qa-testing-academy.com",
@@ -159132,10 +159149,12 @@
           "unionclothing.fit",
           "unitv-ca.live",
           "universalupdcode.com",
+          "unwerpad.icu",
           "update.rvtouls.com",
           "update.rvvtools.com",
           "urban-play-city.site",
           "urbanindustry.org",
+          "utahposters.com",
           "vault-proxy-5d3.workers.dev",
           "vaultopsacademy.com",
           "vchekac.com",
@@ -159223,7 +159242,9 @@
           "young-tooth-5980.deram71445.workers.dev",
           "yudokoro.com",
           "z6.rvtoolsl.com",
+          "z9.rvtoolso.com",
           "za.rvtoolvm.com",
+          "zd.rvtoolss.com",
           "zdravljes.digital",
           "zeemann.shop",
           "zelontra.com",
@@ -159232,6 +159253,7 @@
           "zestplay.pro",
           "zolunqer.de",
           "zowimcode.com",
+          "zt.s3brawser.com",
           "zylariq.com",
           "zynelith.com",
           "zyntricaz.com",
@@ -159244,7 +159266,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-05-15T11:56:46+03:00",
+        "last_modified": "2026-05-16T22:36:01+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -159263,9 +159285,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1590
+          "domain": 1604
         },
-        "total": 1590
+        "total": 1604
       }
     },
     "UNC2529": {
