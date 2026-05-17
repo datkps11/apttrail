@@ -99501,6 +99501,7 @@
           "gov.sa.prttcol.world",
           "gov.sa.waps.bio",
           "gov.taxsevices.online",
+          "gov.ydns.eu",
           "gov24-kr.site",
           "gov5nikisa.kro.kr",
           "govalert.dynv6.net",
@@ -108219,6 +108220,7 @@
           "nopdoc99load.dynv6.net",
           "noporado.p-e.kr",
           "noramdis.o-r.kr",
+          "noreply.gov.ydns.eu",
           "noreplyer.ink",
           "noreplymybox.xyz",
           "noreplynaver.xyz",
@@ -115694,7 +115696,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-17T02:03:54+03:00",
+        "last_modified": "2026-05-17T15:08:53+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -117273,17 +117275,19 @@
           "https://x.com/skocherhan/status/2055029645125296604",
           "https://x.com/malwrhunterteam/status/2033509348396212689",
           "https://x.com/lazarusholic/status/2055249391662084191",
-          "https://hybrid-analysis.blogspot.com/2026/05/velvet-chollima-infostealer-campaign.html"
+          "https://hybrid-analysis.blogspot.com/2026/05/velvet-chollima-infostealer-campaign.html",
+          "https://x.com/skocherhan/status/2055709288539050134",
+          "https://www.virustotal.com/gui/ip-address/118.194.249.36/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 21552,
+          "domain": 21554,
           "file_path": 289,
           "ipv4": 79,
           "url": 71
         },
-        "total": 21991
+        "total": 21993
       }
     },
     "KUN3": {
