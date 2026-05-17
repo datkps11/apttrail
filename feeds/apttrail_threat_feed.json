@@ -118468,6 +118468,7 @@
           "bitfinex.internal-meeting.online",
           "bitfinex.video-meet.online",
           "bitfiniex.org",
+          "bitgesell.finance",
           "bitgo.talentelevate360.com",
           "bitmart.hiremodozone.com",
           "bitscrunch.co",
@@ -119749,6 +119750,7 @@
           "logn.noreplya.website",
           "logoeye.net",
           "logosports.net",
+          "logs-bin.com",
           "long.waitingfor.cfd",
           "longhash.general-meet.site",
           "longhash.video-meets.online",
@@ -122869,7 +122871,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-05-14T10:34:10+03:00",
+        "last_modified": "2026-05-17T18:44:10+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -124096,17 +124098,22 @@
           "https://www.virustotal.com/gui/file/96f79c766d045e4c0733eda16fc9c5fd3a9ac567e0c5d61c4976de874c20ee30/detection",
           "https://www.virustotal.com/gui/file/aef28d1fb239269b74b85903ddeb62feb75e3dd2f037b6a72ad57e0d065c8a31/detection",
           "https://x.com/banthisguy9349/status/2051667828928086143",
-          "https://opensourcemalware.com/blog/dprk-git-hooks-malware"
+          "https://opensourcemalware.com/blog/dprk-git-hooks-malware",
+          "https://x.com/meow_mfer/status/2055981353674654105",
+          "https://x.com/TekDefense/status/2056022823592702452",
+          "https://sandyclaw.permiso.io/shared/9cC7Jc0sJawMbpikB3ONEehU5aoK91bFu65CtaRUwzU",
+          "https://www.virustotal.com/gui/file/e58864cc22cd8ec17ae35dd810455d604aadab7c3f145b6c53b3c261855a4bb1/detection",
+          "https://x.com/meow_mfer/status/1954866701897805865"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3609,
+          "domain": 3611,
           "file_path": 478,
           "ipv4": 665,
           "url": 115
         },
-        "total": 4867
+        "total": 4869
       }
     },
     "LAZYSCRIPTER": {
