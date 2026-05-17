@@ -8607,7 +8607,7 @@ rule APT_PAPERWEREWOLF
         description = "Detects IOCs associated with APT PAPERWEREWOLF"
         author = "APTtrail Automated Collection"
         apt_group = "PAPERWEREWOLF"
-        aliases = "goffee"
+        aliases = "echogather, goffee"
         reference = "https://bi.zone/eng/expertise/blog/kamen-nozhnitsy-bumaga-novyy-instrumentariy-v-atakakh-klastera-paper-werewolf/"
         severity = "high"
         tlp = "white"
