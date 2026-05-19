@@ -142098,6 +142098,7 @@
           "interior-ministry.com",
           "interior-pk.org",
           "interior.gov.pk-mailgov.com",
+          "interiorgovpk.life",
           "interiorgovpk.site",
           "interiorgovt.com",
           "interiorministrygov.site",
@@ -144439,7 +144440,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-05-19T17:37:47+03:00",
+        "last_modified": "2026-05-19T20:43:57+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -145305,6 +145306,7 @@
           "https://x.com/volrant136/status/1938601633123868683",
           "https://x.com/volrant136/status/1938850528672313834",
           "https://x.com/volrant136/status/1938848055022833806",
+          "https://x.com/volrant136/status/2056766835962323257",
           "https://x.com/volrant136/status/1939225148021784776",
           "https://x.com/volrant136/status/1939737733024415965",
           "https://x.com/volrant136/status/1939739683023421890",
@@ -145520,12 +145522,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3575,
+          "domain": 3576,
           "file_path": 16,
           "ipv4": 48,
           "url": 29
         },
-        "total": 3668
+        "total": 3669
       }
     },
     "SILENCE": {
@@ -160269,6 +160271,7 @@
           "27.rvtoolsax.com",
           "2a.rvtoolso.info",
           "2j.rvtoolsup.com",
+          "2w.s3abrowser.com",
           "3g.s3brovvser.com",
           "3p.workbenche.com",
           "45perhour.org",
@@ -160291,6 +160294,7 @@
           "adrilex.digital",
           "aexnp.com",
           "afeherbopenuk.com",
+          "agora-mesmo.com",
           "agronomywork.info",
           "aiadvancedreasoning.com",
           "aialgocamp.com",
@@ -160495,6 +160499,7 @@
           "albertaservice.net",
           "albertaservices.org",
           "alert-router-b3a.workers.dev",
+          "alfrog.com",
           "alldocreader.ink",
           "alpine-quest.live",
           "ancora-shop.com",
@@ -160883,6 +160888,7 @@
           "flairfootballs.com",
           "flameechosaber.com",
           "fleksskell.ink",
+          "flexiblemoeglichkeiten.com",
           "flightradar-canada.com",
           "floral-grass-3c6f.cowivat156.workers.dev",
           "floral-paper-8eb1.pihara4672.workers.dev",
@@ -161505,6 +161511,7 @@
           "rvtouls.com",
           "rvvtools.com",
           "s.workbanch.com",
+          "s3abrowser.com",
           "s3bravser.com",
           "s3brawser.com",
           "s3brovser.com",
@@ -161606,6 +161613,7 @@
           "skyshiftnever.com",
           "slash-agency.org",
           "slayvortexdays.com",
+          "slgnal.online",
           "smartdent-lab.com",
           "smartgpuai.com",
           "smartgrowx.com",
@@ -161846,6 +161854,7 @@
           "wizardmerge.com",
           "work-server-1.picalob750.workers.dev",
           "workbecn.com",
+          "workbenc.com",
           "workbenche.com",
           "workbencn.com",
           "workbenech.com",
@@ -161860,6 +161869,7 @@
           "xtream-tv.live",
           "y.workbeneh.com",
           "y0.workbecn.com",
+          "y0.workbenc.com",
           "yoforge.com",
           "youfreedomspinws.com",
           "young-tooth-5980.deram71445.workers.dev",
@@ -161890,7 +161900,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-05-18T16:07:38+03:00",
+        "last_modified": "2026-05-19T20:40:07+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -161909,9 +161919,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1626
+          "domain": 1634
         },
-        "total": 1626
+        "total": 1634
       }
     },
     "UNC2529": {
