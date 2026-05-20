@@ -101134,6 +101134,7 @@
           "k-main.kro.kr",
           "k.edc.kro.kr",
           "k.ujm.kro.kr",
+          "k1be.yu95pzwvz84.dns.navy",
           "k1dash.treeslinks.com",
           "k6d1cwxcvc.v6.rocks",
           "kacka.kro.kr",
@@ -105708,6 +105709,7 @@
           "ndocs5mai1.dns.army",
           "ndocs5send.dns.army",
           "ndocs8send.dns.army",
+          "ndocsuppport.dns.army",
           "ndocsverify.dns.army",
           "ndocverify.dns.army",
           "ndomainservsec.store",
@@ -106543,6 +106545,7 @@
           "nid-naverdct.myvnc.com",
           "nid-naverdff.3utilities.com",
           "nid-naverdgl.onthewifi.com",
+          "nid-naverdlc.servequake.com",
           "nid-naverdlm.servegame.co",
           "nid-naverdlm.servegame.com",
           "nid-naverdmv.servehalflife.com",
@@ -107066,6 +107069,7 @@
           "nid.ndeliver-d73s.dynv6.net",
           "nid.ndocaqverify.dynv6.net",
           "nid.ndocazverify.dynv6.net",
+          "nid.ndocsuppport.dns.army",
           "nid.neaply.naver-active.online",
           "nid.neddocs.x10.network",
           "nid.nercms-53load.dynv6.net",
@@ -107570,6 +107574,7 @@
           "nidscorp.site",
           "nidscorp.website",
           "nidsec-notice.mydns.bz",
+          "nidsec.dns.army",
           "nidseccenter.host",
           "nidsecnav.servegame.com",
           "nidsecure.o-r.kr",
@@ -107611,6 +107616,7 @@
           "nidservers.unts-corp.dynv6.net",
           "nidsess.ncookieclear.homes",
           "nidsign.info",
+          "nidsign.k1be.yu95pzwvz84.dns.navy",
           "nidsignin.online",
           "nidsigns.info",
           "nidsim.nmailserveronlinehosting.store",
@@ -108307,6 +108313,7 @@
           "nopdoc97load.dynv6.net",
           "nopdoc99load.dynv6.net",
           "noporado.p-e.kr",
+          "nopts.xubi.org",
           "noramdis.o-r.kr",
           "noreply.gov.ydns.eu",
           "noreplyer.ink",
@@ -110375,7 +110382,10 @@
           "openinfo.n-e.kr",
           "opensg-dt.diskstation.me",
           "opentickcorp.icu",
+          "openuasermdoc19s.dns.army",
           "openuasermdoc1s.xubi.org",
+          "openuasermdoc21s.dns.army",
+          "openuasermdoc34s.dns.army",
           "openuasermdoc4s.xubi.org",
           "openwde.click",
           "operaele.click",
@@ -115184,6 +115194,7 @@
           "ytrytyierdtrtyi.cfd",
           "ytube23comk.website",
           "ytytdown.shop",
+          "yu95pzwvz84.dns.navy",
           "yuanbvgtseyrutiyuo-ulgfdvhjhkjljhgf.vercel.app",
           "yuirj.n-e.kr",
           "yulsohnyonsei.atwebpages.com",
@@ -115809,7 +115820,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-19T23:43:23+03:00",
+        "last_modified": "2026-05-20T16:00:06+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -117401,12 +117412,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 21662,
+          "domain": 21673,
           "file_path": 294,
           "ipv4": 79,
           "url": 71
         },
-        "total": 22106
+        "total": 22117
       }
     },
     "KUN3": {
