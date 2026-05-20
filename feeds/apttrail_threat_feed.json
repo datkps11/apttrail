@@ -160327,7 +160327,9 @@
           "2w.s3abrowser.com",
           "3g.s3brovvser.com",
           "3p.workbenche.com",
+          "40.workbencse.com",
           "45perhour.org",
+          "4l.rvtoolslab.com",
           "4t.rvtoolsacs.com",
           "54.rvtoolsone.com",
           "58.rvtoolsmax.com",
@@ -160946,6 +160948,7 @@
           "floral-grass-3c6f.cowivat156.workers.dev",
           "floral-paper-8eb1.pihara4672.workers.dev",
           "florovex.com",
+          "fluxelyx.com",
           "fluxiqa.com",
           "fluxiroz.com",
           "flywerd.it.com",
@@ -161314,6 +161317,7 @@
           "omniscaryahaven.com",
           "omnivolt.shop",
           "orca-spa.click",
+          "orlandoapt.com",
           "orthonormal-versos.site",
           "osinsii.shop",
           "otp-performance.info",
@@ -161563,6 +161567,7 @@
           "rvtootsad.com",
           "rvtouls.com",
           "rvvtools.com",
+          "rychlereseni.com",
           "s.workbanch.com",
           "s3abrowser.com",
           "s3bravser.com",
@@ -161717,6 +161722,7 @@
           "studylexz.com",
           "studysinsight.com",
           "studyviax.com",
+          "subito-fatto.com",
           "sunset.vault-proxy-5d3.workers.dev",
           "sunsetkissed.com",
           "sunshinesnotes.com",
@@ -161845,6 +161851,7 @@
           "velqonix.com",
           "velvetstrikehipe.com",
           "veresen.com",
+          "vert-feu.com",
           "vexinakyn.com",
           "vexlanix.com",
           "vexnatira.com",
@@ -161910,6 +161917,7 @@
           "workbenc.com",
           "workbenche.com",
           "workbencn.com",
+          "workbencse.com",
           "workbenech.com",
           "workbeneh.com",
           "works-forge.com",
@@ -161928,6 +161936,7 @@
           "young-tooth-5980.deram71445.workers.dev",
           "yr.rvtoolc.info",
           "yudokoro.com",
+          "yx.rvtooli.info",
           "z6.rvtoolsl.com",
           "z9.rvtoolso.com",
           "za.rvtoolvm.com",
@@ -161953,7 +161962,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-05-19T20:40:07+03:00",
+        "last_modified": "2026-05-20T14:40:15+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -161972,9 +161981,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1634
+          "domain": 1643
         },
-        "total": 1634
+        "total": 1643
       }
     },
     "UNC2529": {
