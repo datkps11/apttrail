@@ -3956,6 +3956,7 @@
           "ymvh8w5.xyz",
           "youtubedownloading.com",
           "yunchat.ddns.net",
+          "yxwasec.com",
           "zalofilescdn.com",
           "zhydromet.com",
           "zitanlodge.com",
@@ -4127,12 +4128,14 @@
           "103.244.148.80:443",
           "103.254.75.140:443",
           "103.255.176.176:28992",
+          "103.27.108.207:8080",
           "103.27.108.20:443",
           "103.27.109.182:443",
           "103.27.109.72:443",
           "103.27.111.247:443",
           "103.43.19.239:443",
           "103.51.110.5:443",
+          "103.56.16.173:443",
           "103.56.19.113:443",
           "103.56.19.157:443",
           "103.56.19.158:993",
@@ -4637,6 +4640,7 @@
           "120.79.8.23:443",
           "121.162.13.25:21",
           "121.162.13.25:8022",
+          "121.201.109.98:443",
           "121.201.64.100:38002",
           "121.229.58.86:3306",
           "121.32.27.111:8002",
@@ -6742,6 +6746,7 @@
           "http://103.214.173.55",
           "http://103.255.118.149",
           "http://103.255.118.150",
+          "http://103.27.108.146",
           "http://103.27.111.247",
           "http://103.51.110.5",
           "http://103.56.55.153",
@@ -6962,7 +6967,7 @@
         ],
         "apt_group": "BARIUM",
         "filename": "apt_barium.txt",
-        "last_modified": "2026-03-03T22:48:25+02:00",
+        "last_modified": "2026-05-21T15:31:02+03:00",
         "references": [
           "https://securelist.com/operation-shadowhammer/89992/",
           "https://twitter.com/ydklijnsma/status/1110220766778286080",
@@ -7143,17 +7148,21 @@
           "https://app.validin.com/detail?find=https%3A%2F%2Fkaspersky.com%2Fads.txt&type=raw&ref_id=a73a038fe6c#tab=host_pairs (# 2025-02-09)",
           "https://threatfox.abuse.ch/browse/malware/win.shadowpad/ (# 2026-02-09)",
           "https://x.com/_CPResearch_/status/2028888546438766707",
-          "https://research.checkpoint.com/2026/silver-dragon-targets-organizations-in-southeast-asia-and-europe/"
+          "https://research.checkpoint.com/2026/silver-dragon-targets-organizations-in-southeast-asia-and-europe/",
+          "https://x.com/StrikeReadyLabs/status/1845881714607792250",
+          "https://x.com/AptXXhunter/status/2057431332041506967",
+          "https://fortifiedhealthsecurity.com/threat-bulletin/lightspy-deepdata/",
+          "https://www.virustotal.com/gui/file/92d71e5e265fd266036881767a83093838004130be44b448f033cc3f7195172e/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 527,
+          "domain": 528,
           "file_path": 1,
-          "ipv4": 2768,
-          "url": 199
+          "ipv4": 2771,
+          "url": 200
         },
-        "total": 3495
+        "total": 3500
       }
     },
     "BATSHADOW": {
