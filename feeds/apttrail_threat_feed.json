@@ -118523,6 +118523,7 @@
           "auditprovidre.store",
           "aumentarelevisite.com",
           "aurevian.cloud",
+          "auth-drive-google.vercel.app",
           "auth.dropfile.online",
           "authenticate.azure-drive.com",
           "authnsecuresystems.com",
@@ -119514,6 +119515,7 @@
           "git-hub.me",
           "git.luckyguys.cloud",
           "git.luckyguys.site",
+          "gitcheck-commit.vercel.app",
           "githero-dev7uf163-gimenetes-projects.vercel.app",
           "github.expublic.linkpc.net",
           "gkins2p3i.naveicoiph.online",
@@ -123051,7 +123053,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-05-20T22:37:42+03:00",
+        "last_modified": "2026-05-21T22:11:29+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -124284,17 +124286,21 @@
           "https://sandyclaw.permiso.io/shared/9cC7Jc0sJawMbpikB3ONEehU5aoK91bFu65CtaRUwzU",
           "https://www.virustotal.com/gui/file/e58864cc22cd8ec17ae35dd810455d604aadab7c3f145b6c53b3c261855a4bb1/detection",
           "https://x.com/meow_mfer/status/1954866701897805865",
-          "https://redasgard.com/blog/hunting-lazarus-part5-eleven-hours-on-his-disk"
+          "https://redasgard.com/blog/hunting-lazarus-part5-eleven-hours-on-his-disk",
+          "https://x.com/JamfThreatLabs/status/2057495360235245881",
+          "https://www.virustotal.com/gui/file/78deace2e76fe8678d65018b1f136965f4ebad5e8d92568e5e2d2335e292146b/detection",
+          "https://www.virustotal.com/gui/file/347d6886aa799d5db7068367d3873fec699b5224d292b7eeec9afa079adb5d07/detection",
+          "https://www.virustotal.com/gui/file/628d0ebf940db13e740382c3b34d69d44f7bdcf5f7787f02be4249a8f1e0a8eb/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3611,
+          "domain": 3613,
           "file_path": 478,
           "ipv4": 672,
           "url": 115
         },
-        "total": 4876
+        "total": 4878
       }
     },
     "LAZYSCRIPTER": {
@@ -160413,6 +160419,7 @@
           "admin.rvtoolacs.online",
           "adrilex.digital",
           "aexnp.com",
+          "afd-esign.info",
           "afeherbopenuk.com",
           "agora-mesmo.com",
           "agronomywork.info",
@@ -162038,7 +162045,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-05-21T12:13:26+03:00",
+        "last_modified": "2026-05-21T21:24:25+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -162057,9 +162064,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1656
+          "domain": 1657
         },
-        "total": 1656
+        "total": 1657
       }
     },
     "UNC2529": {

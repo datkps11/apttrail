@@ -12592,17 +12592,17 @@ rule APT_UNC2465
         $domain36 = "admin\.rvtoolacs\.online" ascii wide nocase
         $domain37 = "adrilex\.digital" ascii wide nocase
         $domain38 = "aexnp\.com" ascii wide nocase
-        $domain39 = "afeherbopenuk\.com" ascii wide nocase
-        $domain40 = "agora-mesmo\.com" ascii wide nocase
-        $domain41 = "agronomywork\.info" ascii wide nocase
-        $domain42 = "aiadvancedreasoning\.com" ascii wide nocase
-        $domain43 = "aialgocamp\.com" ascii wide nocase
-        $domain44 = "aialgocore\.com" ascii wide nocase
-        $domain45 = "aialgodrive\.com" ascii wide nocase
-        $domain46 = "aialgoflow\.com" ascii wide nocase
-        $domain47 = "aialgofusion\.com" ascii wide nocase
-        $domain48 = "aialgohash\.com" ascii wide nocase
-        $domain49 = "aialgorithmforge\.com" ascii wide nocase
+        $domain39 = "afd-esign\.info" ascii wide nocase
+        $domain40 = "afeherbopenuk\.com" ascii wide nocase
+        $domain41 = "agora-mesmo\.com" ascii wide nocase
+        $domain42 = "agronomywork\.info" ascii wide nocase
+        $domain43 = "aiadvancedreasoning\.com" ascii wide nocase
+        $domain44 = "aialgocamp\.com" ascii wide nocase
+        $domain45 = "aialgocore\.com" ascii wide nocase
+        $domain46 = "aialgodrive\.com" ascii wide nocase
+        $domain47 = "aialgoflow\.com" ascii wide nocase
+        $domain48 = "aialgofusion\.com" ascii wide nocase
+        $domain49 = "aialgohash\.com" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)
