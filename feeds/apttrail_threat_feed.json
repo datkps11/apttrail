@@ -106545,6 +106545,7 @@
           "nid-navercbys.servegame.com",
           "nid-navercdt.serveftp.com",
           "nid-naverchr.serveftp.com",
+          "nid-naverclz.servecounterstrike.com",
           "nid-navercorp.myvnc.com",
           "nid-navercsv.servehalflife.com",
           "nid-naverctl.ddnsking.com",
@@ -106590,15 +106591,18 @@
           "nid-navergyk.serveftp.com",
           "nid-naverhcf.servemp3.com",
           "nid-naverhem.3utilities.com",
+          "nid-naverhjk.servehalflife.com",
           "nid-naverhko.serveftp.com",
           "nid-naverhmt.servequake.com",
           "nid-naverhoc.onthewifi.com",
+          "nid-naverhow.servequake.com",
           "nid-naverhpk.onthewifi.com",
           "nid-naverhpv.servehalflife.com",
           "nid-naveridh.onthewifi.com",
           "nid-naverifk.ddnsking.com",
           "nid-naveripq.servehalflife.com",
           "nid-naveripw.ddnsking.com",
+          "nid-naveriqy.servepics.com",
           "nid-naverirl.servegame.com",
           "nid-naveriro.onthewifi.com",
           "nid-naverirv.servehalflife.com",
@@ -106607,12 +106611,14 @@
           "nid-naverjdq.3utilities.com",
           "nid-naverjkf.onthewifi.com",
           "nid-naverjlm.ddnsking.com",
+          "nid-naverjog.servemp3.com",
           "nid-naverjoj.3utilities.com",
           "nid-naverjpd.servequake.com",
           "nid-naverjqs.serveftp.com",
           "nid-naverjxt.3utilities.com",
           "nid-naverjzc.servehalflife.com",
           "nid-naverkae.servecounterstrike.com",
+          "nid-naverkdq.serveftp.com",
           "nid-naverkga.servemp3.com",
           "nid-naverkhc.serveftp.com",
           "nid-naverkhd.onthewifi.com",
@@ -106691,6 +106697,7 @@
           "nid-naversno.servecounterstrike.com",
           "nid-naversqt.ddnsking.com",
           "nid-naversrk.serveftp.com",
+          "nid-naversrl.servehalflife.com",
           "nid-naversry.serveftp.com",
           "nid-naverssp.servehalflife.com",
           "nid-naversti.servepics.com",
@@ -106734,8 +106741,10 @@
           "nid-navervtw.serveftp.com",
           "nid-navervwa.servehalflife.com",
           "nid-navervxu.servecounterstrike.com",
+          "nid-navervyu.servequake.com",
           "nid-naverway.ddnsking.com",
           "nid-naverwhf.3utilities.com",
+          "nid-naverwjx.onthewifi.com",
           "nid-naverwml.servequake.com",
           "nid-naverwoe.myvnc.com",
           "nid-naverwql.servegame.com",
@@ -115843,7 +115852,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-20T23:57:54+03:00",
+        "last_modified": "2026-05-21T11:11:55+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -117431,17 +117440,18 @@
           "https://logpresso.com/ko/blog/2026-05-15-1Q-Kimsuky-report",
           "https://x.com/skocherhan/status/2056808020622090594",
           "https://www.virustotal.com/gui/ip-address/152.32.139.126/relations",
-          "https://x.com/skocherhan/status/2057172575889789202"
+          "https://x.com/skocherhan/status/2057172575889789202",
+          "https://x.com/skocherhan/status/2057180776865874178"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 21696,
+          "domain": 21705,
           "file_path": 294,
           "ipv4": 79,
           "url": 71
         },
-        "total": 22140
+        "total": 22149
       }
     },
     "KUN3": {
@@ -144468,6 +144478,8 @@
           "5.230.71.148:443",
           "5.230.74.96:443",
           "5.230.77.142:443",
+          "5.252.178.27:443",
+          "5.252.178.27:9889",
           "62.171.172.199:443",
           "62.171.172.199:81",
           "62.171.172.199:88",
@@ -144531,7 +144543,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-05-19T20:43:57+03:00",
+        "last_modified": "2026-05-21T13:08:55+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -145608,17 +145620,21 @@
           "https://www.virustotal.com/gui/file/3003f4084df2f5ef9cdd896abc099f0a3b84dafd05c8d405beb3b276d6348d5b/detection",
           "https://www.virustotal.com/gui/file/a03677e263bad0c2ea6ae319c1b0b925b1f3a2f851ed24141d74a65abaf7e70c/detection",
           "https://x.com/volrant136/status/2056744757330665683",
-          "https://www.virustotal.com/gui/ip-address/83.243.121.239/relations"
+          "https://www.virustotal.com/gui/ip-address/83.243.121.239/relations",
+          "https://www.linkedin.com/posts/smica83_sidewinder-rattlesnake-macedonia-share-7463160755161526273-N2hU",
+          "https://www.virustotal.com/gui/file/04016d3ac1b30375de773a8fd63a4d7f60aa36ab5679b1714e2d98ac88979505/detection",
+          "https://www.virustotal.com/gui/file/3b294866be0b9d298121df7fbb2709ceb3dba700526aba68f07871e8005b7891/detection",
+          "https://www.virustotal.com/gui/file/e9f44c4e4239b676c8c9afd05edf7cdbb0b1fd95e1be67e021bb40702d045d72/detection"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 3576,
           "file_path": 16,
-          "ipv4": 48,
+          "ipv4": 50,
           "url": 29
         },
-        "total": 3669
+        "total": 3671
       }
     },
     "SILENCE": {
@@ -160350,6 +160366,7 @@
       "indicators": {
         "domain": [
           "08f0.proxy-edge-c5f.workers.dev",
+          "12.workbencn.com",
           "1s.rvtoolsai.com",
           "1v.rvtoollsa.com",
           "1v.rvtootsad.com",
@@ -160361,6 +160378,7 @@
           "24.rvtoolis.info",
           "27.rvtoolsax.com",
           "2a.rvtoolso.info",
+          "2b.rvtoolsit.com",
           "2j.rvtoolsup.com",
           "2w.s3abrowser.com",
           "3g.s3brovvser.com",
@@ -160598,6 +160616,7 @@
           "ancora-shop.com",
           "angelliost.com",
           "angryenterprise.app",
+          "angryip.cloud",
           "angryipa.com",
           "angryipac.com",
           "angryipac.net",
@@ -160629,6 +160648,7 @@
           "appcraft-academy.com",
           "aquazdroj.club",
           "aquilenthes.info",
+          "arcfetch.com",
           "arcparse.com",
           "arizonastables.com",
           "armada-club-top.website",
@@ -160651,6 +160671,7 @@
           "autophorie.blog",
           "autovehicles.live",
           "axonesubrogation.quest",
+          "ay.hornetsecuty.com",
           "baltimorepsychic.com",
           "bapiyat727.workers.dev",
           "barnecnoble.com",
@@ -160924,6 +160945,7 @@
           "elasticsa.com",
           "elasticse.com",
           "elasticso.com",
+          "electdev.com",
           "electricshop.org",
           "elena-morales.workers.dev",
           "eletrue.com",
@@ -160987,6 +161009,7 @@
           "floral-paper-8eb1.pihara4672.workers.dev",
           "florovex.com",
           "fluxelyx.com",
+          "fluxileir.com",
           "fluxiqa.com",
           "fluxiroz.com",
           "flywerd.it.com",
@@ -161102,6 +161125,7 @@
           "hootsuite.promo-links.com",
           "hopeplayeaux.com",
           "horizon-client-download.com",
+          "horizonenterprise.app",
           "hornetsecuety.com",
           "hornetseculty.com",
           "hornetsecurety.com",
@@ -161372,6 +161396,7 @@
           "pacs4less.com",
           "panotarypublic.com",
           "panpacs.com",
+          "paprastas-sprendimas.com",
           "pathvera.org",
           "pawrobot.com",
           "paycrenta.com",
@@ -161462,6 +161487,7 @@
           "qa-testing-academy.com",
           "qintelai.com",
           "qualborex.info",
+          "quantafys.com",
           "quanteroza.com",
           "qubahar.com",
           "quelamira.info",
@@ -161823,6 +161849,7 @@
           "tokacarameis.com",
           "tokaikisen.club",
           "tokcu.top",
+          "tokfi.top",
           "tokrwards.com",
           "tons-kohl.site",
           "toolstoreuk.live",
@@ -161874,6 +161901,7 @@
           "unitv-ca.live",
           "universalupdcode.com",
           "unwerpad.icu",
+          "update.rvtoolsl.com",
           "update.rvtouls.com",
           "update.rvvtools.com",
           "urban-play-city.site",
@@ -161934,6 +161962,7 @@
           "vurmafied.cyou",
           "vuxtamira.icu",
           "vynqore.com",
+          "w5.rvtooks.com",
           "walletcounselor.com",
           "wanderlust-journeys.org",
           "watch-aio.live",
@@ -162000,7 +162029,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-05-20T14:40:15+03:00",
+        "last_modified": "2026-05-21T12:13:26+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -162019,9 +162048,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1643
+          "domain": 1656
         },
-        "total": 1643
+        "total": 1656
       }
     },
     "UNC2529": {
