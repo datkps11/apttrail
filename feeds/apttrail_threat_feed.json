@@ -94603,6 +94603,8 @@
           "akf4tvrbmg.blogspot.com",
           "akites.site",
           "akvozngpvjiaitnm.site",
+          "al22nhs.dns.navy",
+          "al4nhs.dns.navy",
           "alal.online",
           "alamosoftware.com",
           "alamosoftware.net",
@@ -105476,6 +105478,7 @@
           "ncodccpass.dynv6.net",
           "ncodcepass.dynv6.net",
           "ncodclcheck.dns.navy",
+          "ncog10ks.dns.navy",
           "ncomails.store",
           "ncomonline.store",
           "ncomorgan.store",
@@ -106463,6 +106466,7 @@
           "nid-check.nts-kr.live-on.net",
           "nid-check.nts-nid.mydns.vc",
           "nid-check.ntskr.server-on.net",
+          "nid-check.o-r.kr",
           "nid-htl.duckdns.org",
           "nid-info.checkmyblog.kro.kr",
           "nid-invoice.ips-auth.mydns.vc",
@@ -106858,6 +106862,7 @@
           "nid-tax.dynuddns.net",
           "nid-token.tkho.mareqsutxn.v6.navy",
           "nid-traffic.v6.rocks",
+          "nid-user.al22nhs.dns.navy",
           "nid-user.asntml.dynv6.net",
           "nid-user.edoc-nts.mydns.bz",
           "nid-user.govalert.dynv6.net",
@@ -107107,6 +107112,7 @@
           "nid.newaltercm17s.roxa.org",
           "nid.nhncert.p-e.kr",
           "nid.nhnlogin.minecraftnoob.com",
+          "nid.nid-check.o-r.kr",
           "nid.nid-logins.dynv6.net",
           "nid.nidanaver.tech",
           "nid.nidauthsvc.p-e.kr",
@@ -108478,6 +108484,7 @@
           "npdocrequires.mydns.bz",
           "nphostinvoice.mydns.bz",
           "nphostmydns.bz",
+          "npigoji2sv.dns.army",
           "npinformationid.mydns.vc",
           "npinvoicesecurity.mydns.vc",
           "npiramid00grps.xyz",
@@ -108625,6 +108632,7 @@
           "npsnews.website",
           "npsnote.site",
           "npsnotice.site",
+          "npspartyapp49sv.dns.army",
           "npsposter.site",
           "npsposter.space",
           "npsreview.site",
@@ -115871,7 +115879,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-22T02:26:43+03:00",
+        "last_modified": "2026-05-22T15:55:55+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -117466,12 +117474,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 21707,
+          "domain": 21715,
           "file_path": 294,
           "ipv4": 87,
           "url": 71
         },
-        "total": 22159
+        "total": 22167
       }
     },
     "KUN3": {
