@@ -121556,6 +121556,7 @@
           "vscode-portfolio.vercel.app",
           "vscode-production-setting.vercel.app",
           "vscode-project-setting.vercel.app",
+          "vscode-settings-0511.vercel.app",
           "vscode-settings-bootstrap.vercel.app",
           "vscode-settings-config-md.vercel.app",
           "vscode-settings-config.vercel.app",
@@ -123169,7 +123170,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-05-21T22:11:29+03:00",
+        "last_modified": "2026-05-24T02:53:34+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -124406,17 +124407,18 @@
           "https://x.com/JamfThreatLabs/status/2057495360235245881",
           "https://www.virustotal.com/gui/file/78deace2e76fe8678d65018b1f136965f4ebad5e8d92568e5e2d2335e292146b/detection",
           "https://www.virustotal.com/gui/file/347d6886aa799d5db7068367d3873fec699b5224d292b7eeec9afa079adb5d07/detection",
-          "https://www.virustotal.com/gui/file/628d0ebf940db13e740382c3b34d69d44f7bdcf5f7787f02be4249a8f1e0a8eb/detection"
+          "https://www.virustotal.com/gui/file/628d0ebf940db13e740382c3b34d69d44f7bdcf5f7787f02be4249a8f1e0a8eb/detection",
+          "https://x.com/Reelix/status/2058168545758851184"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3613,
+          "domain": 3614,
           "file_path": 478,
           "ipv4": 672,
           "url": 115
         },
-        "total": 4878
+        "total": 4879
       }
     },
     "LAZYSCRIPTER": {
