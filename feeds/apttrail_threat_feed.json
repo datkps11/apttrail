@@ -94007,6 +94007,7 @@
           "5jeqr9bf89.dns.navy",
           "5jzttrmpkf.dynv6.net",
           "5m2ub.jlej4dom3m.dynv6.net",
+          "5pj699tmhd.dynv6.net",
           "5w9y60z9yy.dynv6.net",
           "60nservercc.cfd",
           "61nservercc.cfd",
@@ -94987,6 +94988,7 @@
           "aqolsmcps.website",
           "aqozaasdfjvazcv.site",
           "ar.kostin.p-e.kr",
+          "ar2aqxha855.dns.navy",
           "arabia.reviews",
           "arakte.click",
           "arakyaly.eu",
@@ -100040,6 +100042,7 @@
           "hiyumyum.com",
           "hkc.elecdocs.dynv6.net",
           "hkn1a.il0qjijik3.v6.army",
+          "hkt77mguo03.dns.navy",
           "hktaxdoc.mydns.vc",
           "hlbr31s20w.v6.army",
           "hldsl.dynv6.net",
@@ -110985,6 +110988,7 @@
           "origininvoice.mydns.bz",
           "orignauth.lol",
           "orijin.myds.me",
+          "orizsuaeo-jp.icu",
           "orkmojoknowle.click",
           "orsiu.online",
           "ortusgames.asuscomm.com",
@@ -112289,6 +112293,7 @@
           "s1x5lf.vitheq17yl.dynv6.net",
           "s3l.r-e.kr",
           "s5zdoqueyaoizmdiqowoaiwse.buzz",
+          "s62zzsmd7cq.dns.navy",
           "s7rc7llnw9.v6.navy",
           "s7ycn.dns.army",
           "s8liln.4nu00ypt6u.dynv6.net",
@@ -113693,6 +113698,7 @@
           "thrutfe.click",
           "thsdhearder.store",
           "thu8cl13up.v6.rocks",
+          "thuide.bumbleshrimp.com",
           "thus.navers.com-checking.link",
           "tiablaa.click",
           "tiang.server-on.net",
@@ -114489,6 +114495,7 @@
           "uvtiwwmlrl.dns.army",
           "uweoihbgqpinsdve.cfd",
           "uxqpyxnvxvf.r-e.kr",
+          "uykqg44ikx.v6.army",
           "uyxkqkpxijbvwjpx.cfd",
           "v-info.userinfoblg.o-r.kr",
           "v1jbv.mp1bchmkf3.dynv6.net",
@@ -115068,6 +115075,7 @@
           "wbtcdao.com",
           "wbtcfi.com",
           "wbtcprotocol.com",
+          "wcatc7r8701.dns.navy",
           "wclsvcuiusgkdlao.cfd",
           "wdoutgkdnmeurwvj.cfd",
           "we-tax.site",
@@ -116574,7 +116582,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-25T12:25:27+03:00",
+        "last_modified": "2026-05-25T15:08:46+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -118172,17 +118180,18 @@
           "https://x.com/skocherhan/status/2058661946719654013",
           "https://www.virustotal.com/gui/ip-address/118.193.69.44/relations",
           "https://x.com/skocherhan/status/2058662939301904825",
-          "https://x.com/skocherhan/status/2058672128015106427"
+          "https://x.com/skocherhan/status/2058672128015106427",
+          "https://x.com/skocherhan/status/2058608475404382446"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 22384,
+          "domain": 22392,
           "file_path": 294,
           "ipv4": 87,
           "url": 71
         },
-        "total": 22836
+        "total": 22844
       }
     },
     "KUN3": {
@@ -123268,6 +123277,7 @@
           "195.201.104.53:6939",
           "195.201.194.107:3000",
           "195.201.194.107:8000",
+          "195.201.194.107:801",
           "195.201.194.107:8010",
           "195.201.194.107:9000",
           "195.250.29.94:1337",
@@ -123776,7 +123786,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-05-24T02:53:34+03:00",
+        "last_modified": "2026-05-25T14:45:30+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -124997,6 +125007,7 @@
           "https://x.com/nextronresearch/status/2049775774027124938",
           "https://www.virustotal.com/gui/file/5fc61384dd6f15e6bb510e0421000c1301a40d7acf05cedbeb6bc789c0a99d00/detection",
           "https://x.com/abh1sek/status/2044260573324685605",
+          "https://x.com/safedepio/status/2058848260845076651",
           "https://www.virustotal.com/gui/ip-address/195.201.194.107/relations",
           "https://socket.dev/blog/new-pypi-malware-exfiltrates-ethereum-private-keys",
           "https://www.reversinglabs.com/blog/claude-promptmink-malware-crypto",
@@ -125021,10 +125032,10 @@
         "by_type": {
           "domain": 3614,
           "file_path": 478,
-          "ipv4": 672,
+          "ipv4": 673,
           "url": 115
         },
-        "total": 4879
+        "total": 4880
       }
     },
     "LAZYSCRIPTER": {
@@ -161459,9 +161470,11 @@
           "burnout-pravention.com",
           "buycanclear.com",
           "buymolle.com",
+          "bytonrian.com",
           "caffedigitale.com",
           "calm-haze-cdae.test-runner-4b7.workers.dev",
           "calmgroves.com",
+          "camarillotowing.com",
           "cameranextpro.com",
           "cantharides-obscene.website",
           "carereroom.pro",
@@ -162521,6 +162534,7 @@
           "sonnyanglusa.com",
           "southwestchevy.com",
           "spacepile.com",
+          "sparklingsenior.com",
           "speakingmastershool.com",
           "spin-vault.com",
           "spraygraund.com",
@@ -162613,6 +162627,7 @@
           "tokcu.top",
           "tokfi.top",
           "tokgo.top",
+          "tokhu.top",
           "tokrwards.com",
           "tons-kohl.site",
           "toolstoreuk.live",
@@ -162670,6 +162685,7 @@
           "update.rvvtools.com",
           "urban-play-city.site",
           "urbanindustry.org",
+          "usbouldering.com",
           "utahposters.com",
           "vault-proxy-5d3.workers.dev",
           "vaultopsacademy.com",
@@ -162795,7 +162811,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-05-24T23:43:57+03:00",
+        "last_modified": "2026-05-25T16:58:51+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -162814,9 +162830,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1683
+          "domain": 1688
         },
-        "total": 1683
+        "total": 1688
       }
     },
     "UNC2529": {
