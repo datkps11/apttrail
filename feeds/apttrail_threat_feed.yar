@@ -6615,7 +6615,7 @@ rule APT_LAZARUS
         $domain46 = "additionalpublic\.work\.gd" ascii wide nocase
         $domain47 = "addrcheck\.corecheckmailsrv\.com" ascii wide nocase
         $domain48 = "ade\.dropfile\.online" ascii wide nocase
-        $domain49 = "admin-8jy8o7jbg\.vercel\.sh" ascii wide nocase
+        $domain49 = "admescolassystemf\.com" ascii wide nocase
         $ip50 = "100.51.175.254" ascii wide
         $ip51 = "103.106.67.63" ascii wide
         $ip52 = "103.106.67.63" ascii wide
