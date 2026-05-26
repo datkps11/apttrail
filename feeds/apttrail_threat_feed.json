@@ -97128,6 +97128,7 @@
           "dev.userscheck.info",
           "dev1.daliajobs.com",
           "dev3.daliajobs.com",
+          "developedindia.ink",
           "development.news-portal.site",
           "develtfie.click",
           "devf.n-e.kr",
@@ -99007,6 +99008,7 @@
           "filer2.1apps.com",
           "files.cloud-nts.o-r.kr",
           "files.delivrto.me",
+          "files.developedindia.ink",
           "files.hopediary.myds.me",
           "files.khu.rf.gd",
           "fileworks.o-r.kr",
@@ -114645,6 +114647,7 @@
           "verify.authenticateudoc.1cooldns.com",
           "verify.changepaymentoption.kro.kr",
           "verify.controlbloginfo.mydns.bz",
+          "verify.developedindia.ink",
           "verify.docempower.giize.com",
           "verify.docreferal.kozow.com",
           "verify.docreflink.mydns.bz",
@@ -116613,7 +116616,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-26T17:35:26+03:00",
+        "last_modified": "2026-05-27T00:46:41+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -118213,17 +118216,19 @@
           "https://x.com/skocherhan/status/2058662939301904825",
           "https://x.com/skocherhan/status/2058672128015106427",
           "https://x.com/skocherhan/status/2058608475404382446",
-          "https://x.com/skocherhan/status/2058977098442670300"
+          "https://x.com/skocherhan/status/2058977098442670300",
+          "https://x.com/malwrhunterteam/status/2059385553569644592",
+          "https://www.virustotal.com/gui/file/63fbcd476ac21c3eddc6e450e9fd7c7397f801b32b9e8269f0a42dc88328f0d6/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 22423,
+          "domain": 22426,
           "file_path": 294,
           "ipv4": 87,
           "url": 71
         },
-        "total": 22875
+        "total": 22878
       }
     },
     "KUN3": {
@@ -120274,6 +120279,7 @@
           "getstockprice.com",
           "getstockprice.info",
           "gfinanzen.net",
+          "gglab-poker.netlify.app",
           "ghostraper.top",
           "giantblock.org",
           "git-hub.me",
@@ -121900,6 +121906,7 @@
           "tales.dliklone.online",
           "talesseries.com",
           "task-hrec.vercel.app",
+          "taskhandler-taupe.vercel.app",
           "tasksettingsnew.vercel.app",
           "tazmim.com",
           "tdlgzoom.com",
@@ -123833,7 +123840,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-05-26T23:49:55+03:00",
+        "last_modified": "2026-05-27T00:11:25+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -125075,17 +125082,18 @@
           "https://x.com/Reelix/status/2058168545758851184",
           "https://x.com/2eroHunter/status/2059205570393997429",
           "https://www.virustotal.com/gui/file/163e4a72cbe392c073eddc60aee69dc1cf87ce492c375af74e923d75d8084683/detection",
-          "https://x.com/vedovelli74/status/2059340087696273828"
+          "https://x.com/vedovelli74/status/2059340087696273828",
+          "https://x.com/vedovelli74/status/2059341681216905519"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3625,
+          "domain": 3627,
           "file_path": 478,
           "ipv4": 677,
           "url": 115
         },
-        "total": 4895
+        "total": 4897
       }
     },
     "LAZYSCRIPTER": {
