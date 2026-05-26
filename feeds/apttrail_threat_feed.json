@@ -121236,6 +121236,7 @@
           "pay.aihealthchains.com",
           "pay.resumegenie.us",
           "paycount.webbs-information.login.udaviemayas.com",
+          "payload-beta-lemon.vercel.app",
           "payloadrpc.com",
           "pd.linkpc.net",
           "pdf-candy.com",
@@ -123832,7 +123833,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-05-26T16:49:28+03:00",
+        "last_modified": "2026-05-26T23:49:55+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -125073,17 +125074,18 @@
           "https://www.virustotal.com/gui/file/628d0ebf940db13e740382c3b34d69d44f7bdcf5f7787f02be4249a8f1e0a8eb/detection",
           "https://x.com/Reelix/status/2058168545758851184",
           "https://x.com/2eroHunter/status/2059205570393997429",
-          "https://www.virustotal.com/gui/file/163e4a72cbe392c073eddc60aee69dc1cf87ce492c375af74e923d75d8084683/detection"
+          "https://www.virustotal.com/gui/file/163e4a72cbe392c073eddc60aee69dc1cf87ce492c375af74e923d75d8084683/detection",
+          "https://x.com/vedovelli74/status/2059340087696273828"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3624,
+          "domain": 3625,
           "file_path": 478,
           "ipv4": 677,
           "url": 115
         },
-        "total": 4894
+        "total": 4895
       }
     },
     "LAZYSCRIPTER": {
