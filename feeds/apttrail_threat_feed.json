@@ -120343,6 +120343,7 @@
           "gsheetshare.org",
           "gsoftcompany.com",
           "gsuiteshare.com",
+          "guildsmartchainpulse.com",
           "gumi-cryptos.group-meeting.online",
           "gumi-cryptos.group-meeting.team",
           "gumi-cryptos.loan",
@@ -123574,6 +123575,9 @@
           "72.60.117.70:3000",
           "72.60.173.32:3000",
           "72.60.174.178:3000",
+          "72.60.77.221:3000",
+          "72.60.77.221:4000",
+          "72.60.77.221:8080",
           "72.61.123.154:3000",
           "72.61.123.154:5173",
           "72.61.123.154:8000",
@@ -123840,7 +123844,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-05-27T00:11:25+03:00",
+        "last_modified": "2026-05-27T10:08:30+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -125088,12 +125092,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3627,
+          "domain": 3628,
           "file_path": 478,
-          "ipv4": 677,
+          "ipv4": 680,
           "url": 115
         },
-        "total": 4897
+        "total": 4901
       }
     },
     "LAZYSCRIPTER": {
@@ -159986,6 +159990,8 @@
     "UNC1151": {
       "indicators": {
         "domain": [
+          "a1si.icu",
+          "a3ufz.xsjdsb.icu",
           "account-inbox.online",
           "account-login.top",
           "account-noreply.space",
@@ -160016,10 +160022,13 @@
           "acount-pasport.site",
           "acount-passport.site",
           "acounts.net-verification.online",
+          "advancedaisolutionsforeveryone.a1si.icu",
           "aff-gos.top",
           "agelessinvesting.xyz",
           "ais-gos.top",
           "akademia-mil.space",
+          "alertapp.icu",
+          "alerteddatalistsclients.alertapp.icu",
           "alexavegas.icu",
           "algsat.icu",
           "all-ukraine.top",
@@ -160060,6 +160069,7 @@
           "canada-deposit-gst.com",
           "canada-gst-deposit.com",
           "carpetmarker.pw",
+          "cgdirector.icu",
           "chaptercheats.shop",
           "cheap-gos.club",
           "chis-gos.top",
@@ -160394,6 +160404,7 @@
           "potwierdzenie.konto-onet.site",
           "potwierdzenie.wp-pl.eu",
           "pro-gos.top",
+          "productionsamplesoftheyear.cgdirector.icu",
           "profiles-login.top",
           "promo-opros.top",
           "pub-gos.top",
@@ -160576,6 +160587,7 @@
           "ws-gos.top",
           "wuzhenfestival.site",
           "xbeta.online",
+          "xsjdsb.icu",
           "yandex.ru-passport.online",
           "ye-gos.top",
           "yes-uah.top",
@@ -160613,11 +160625,14 @@
           "WhiteLynx",
           "Storm-0257",
           "PUSHCHA",
-          "picassoloader"
+          "picassoloader",
+          "oysterblues",
+          "oysterfresh",
+          "oystershuck"
         ],
         "apt_group": "UNC1151",
         "filename": "apt_unc1151.txt",
-        "last_modified": "2026-05-14T15:24:55+03:00",
+        "last_modified": "2026-05-27T12:05:05+03:00",
         "references": [
           "https://content.fireeye.com/web-assets/rpt-unc1151-ghostwriter-update",
           "https://www.fireeye.com/blog/threat-research/2021/04/espionage-group-unc1151-likely-conducts-ghostwriter-influence-activity.html",
@@ -160702,16 +160717,17 @@
           "https://x.com/smica83/status/2054518692298273011",
           "https://x.com/malwrhunterteam/status/2054858213439250469",
           "https://www.welivesecurity.com/en/eset-research/frostyneighbor-fresh-mischief-digital-shenanigans/",
-          "https://tria.ge/260513-m7anjahw5v/behavioral1"
+          "https://tria.ge/260513-m7anjahw5v/behavioral1",
+          "https://cert.gov.ua/article/6315762"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 597,
+          "domain": 605,
           "ipv4": 5,
           "url": 4
         },
-        "total": 606
+        "total": 614
       }
     },
     "UNC215": {
