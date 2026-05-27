@@ -99363,6 +99363,7 @@
           "gdiver.store",
           "gdiver.website",
           "gduasgdkabad.top",
+          "ge-kr.txau1.top",
           "geimrich.click",
           "gemevog.com",
           "gemini.ns01.info",
@@ -114004,6 +114005,7 @@
           "tworld-store.kro.kr",
           "twpbekxqsxpoqzr4txpvdu1uyzu.blogspot.com",
           "tx-reply.server-on.net",
+          "txau1.top",
           "txis3eo.dynv6.net",
           "txlozah984.dynv6.net",
           "txproblem.1d0h72.777vfumk8a0.dns.army",
@@ -116616,7 +116618,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-27T00:46:41+03:00",
+        "last_modified": "2026-05-27T17:14:00+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -118223,12 +118225,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 22426,
+          "domain": 22428,
           "file_path": 294,
           "ipv4": 87,
           "url": 71
         },
-        "total": 22878
+        "total": 22880
       }
     },
     "KUN3": {
@@ -118945,6 +118947,7 @@
           "aionedev.best",
           "aixstore.info",
           "ajileuowl.dliklone.online",
+          "akamaicloud.com",
           "akamaitechnologies.online",
           "akaunting25709.hostkey.in",
           "alahbabgroup.com",
@@ -119246,6 +119249,7 @@
           "apply.waventic.com",
           "applylens.com",
           "apps.gappeo.us",
+          "appsnabia.org",
           "aptitudespro.com",
           "arbor.companydetail.online",
           "arcashop.org",
@@ -119505,6 +119509,7 @@
           "bs-production.up.railway.app",
           "bsc-dash.us",
           "btcblender.live",
+          "btfns.co",
           "bu-zoom.us",
           "buckfast-zucht.de",
           "buiweggajhqwj.naveicoipg.online",
@@ -119871,6 +119876,7 @@
           "development-server.aduresi.com",
           "devguardmap.org",
           "devicefixer.online",
+          "devicelinkintel.com",
           "devprocloud.com",
           "diamondhilllaw.com",
           "digiboxes.us",
@@ -120492,6 +120498,7 @@
           "inst.shconstmarket.com",
           "instant-patch.online",
           "instant-preview-site-9w675nmgg.vercel.sh",
+          "intelcloudinsights.com",
           "inter.quickskill-review.com",
           "inter.vid-crypto-assess.com",
           "internal-engineering-documentation-site-mrj1hhs06.vercel.sh",
@@ -120723,6 +120730,7 @@
           "macamhelp.online",
           "magmow.sourljsourhs.cfd",
           "mail-roundcube.site",
+          "mail.aes-secure.net",
           "mail.anifintech.xyz",
           "mail.archblock.careerscreeners.com",
           "mail.big-typl.online",
@@ -120740,6 +120748,7 @@
           "mail.massmedia24.com",
           "mail.naveradmina.tech",
           "mail.navercomf.link",
+          "mail.newson-6.com",
           "mail.privymeet.com",
           "mail.support-ledger.net",
           "mail.tesolraria6.admescolassystemf.com",
@@ -120876,6 +120885,7 @@
           "moxtern.com",
           "ms.msteam.biz",
           "ms.onlineshares.cloud",
+          "msdeliverycontent.com",
           "mse.theworkpc.com",
           "msftoffice.com",
           "msg.luckyguys.cloud",
@@ -121055,6 +121065,7 @@
           "newcoming.cfd",
           "newfromjune.xyz",
           "newsbtctech.com",
+          "newson-6.com",
           "next-master-pwg93975l-now-examples.vercel.app",
           "nextera.capital",
           "nextjs-conf-2024-jwokq4e6s.vercel.sh",
@@ -121985,10 +121996,12 @@
           "tpddata.com",
           "tptf.cloud",
           "tptf.ltd",
+          "track.trandytics.com",
           "tracking.toptiercrew.com",
           "tradeboard.mefound.com",
           "tradeinsight360.com",
           "trailads.net",
+          "trandytics.com",
           "transactions.publicvm.com",
           "transferwiser.io",
           "transplugin.io",
@@ -123840,11 +123853,13 @@
           "scoringmathtea",
           "sectora01",
           "stoatwaffle",
-          "promptmink"
+          "promptmink",
+          "remotepeloader",
+          "remoteperat"
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-05-27T10:08:30+03:00",
+        "last_modified": "2026-05-27T17:11:24+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -124897,6 +124912,7 @@
           "https://app.validin.com/detail?find=IT%20Company%20Website&type=raw#tab=host_pairs (# 2025-08-26)",
           "https://www.ctfiot.com/267223.html",
           "https://blog.fox-it.com/2025/09/01/three-lazarus-rats-coming-for-your-cheese/",
+          "https://blog.fox-it.com/2026/05/22/remotepe-the-lazarus-rat-that-lives-in-memory/",
           "https://www.virustotal.com/gui/file/d8de31bcaf5b9ebb99bef36244b0ab3c21367821947a789dff69c33d49aaffc9/detection",
           "https://www.virustotal.com/gui/ip-address/82.29.157.117/relations",
           "https://app.validin.com/detail?find=%3A%3A%3A%22keywords%22%3A%22hiring%20platform%2C%20recruitment%20software%2C%20candidate%20screening%2C%20talent%20evaluation%2C%20skills-based%20hiring%2C%20interview%20tools%2C%20tech%20hiring%2C%20remote%20hiring%2C%20hiring%20automation%2C%20team%20building%22&type=raw#tab=host_pairs (# 2025-09-08)",
@@ -125087,17 +125103,19 @@
           "https://x.com/2eroHunter/status/2059205570393997429",
           "https://www.virustotal.com/gui/file/163e4a72cbe392c073eddc60aee69dc1cf87ce492c375af74e923d75d8084683/detection",
           "https://x.com/vedovelli74/status/2059340087696273828",
-          "https://x.com/vedovelli74/status/2059341681216905519"
+          "https://x.com/vedovelli74/status/2059341681216905519",
+          "https://x.com/superducktoes/status/2059302288552812818",
+          "https://nkinternet.com/2026/05/26/dprk-captive-portal-infrastructure-found-in-testing/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3628,
+          "domain": 3639,
           "file_path": 478,
           "ipv4": 680,
           "url": 115
         },
-        "total": 4901
+        "total": 4912
       }
     },
     "LAZYSCRIPTER": {
@@ -161440,6 +161458,7 @@
           "albertaservices.org",
           "alert-router-b3a.workers.dev",
           "alfrog.com",
+          "allbestselling.com",
           "alldocreader.ink",
           "alpine-quest.live",
           "ancora-shop.com",
@@ -161504,6 +161523,7 @@
           "ay.hornetsecuty.com",
           "baltimorepsychic.com",
           "bapiyat727.workers.dev",
+          "bargainlenders.com",
           "barnecnoble.com",
           "bayleaf.icu",
           "bayleafkits.top",
@@ -161587,6 +161607,7 @@
           "cinematographymastery.com",
           "cipheriumforge.com",
           "cipherlix.com",
+          "cipherquantix.com",
           "claysoultrue.pro",
           "climasubito.com",
           "cloudbillers.com",
@@ -161834,6 +161855,7 @@
           "fiotidasorte2025.com",
           "firstbaze.com",
           "fisheryguide.org",
+          "fishingguidesmiami.com",
           "fiveback.xyz",
           "fivebackgift.io",
           "fivebackgiftus.com",
@@ -161852,6 +161874,7 @@
           "fluxiqa.com",
           "fluxiroz.com",
           "fluxoderia.com",
+          "fluxontra.com",
           "fluxoriumlabs.com",
           "flywerd.it.com",
           "fokuspyna.com",
@@ -161877,6 +161900,7 @@
           "gcrda.com",
           "geliopetry.de",
           "gersolaoe.de",
+          "getetenos.com",
           "getreceived.com",
           "getting-keepass.com",
           "gfilimtonkas.de",
@@ -162090,6 +162114,7 @@
           "logpayset.pro",
           "ltngworth.icu",
           "lucky-portal.com",
+          "lufkintowing.com",
           "lumensavesolar.com",
           "lumverse.shop",
           "lunarwhisper.world",
@@ -162291,10 +162316,12 @@
           "pizzapilzza.top",
           "pizzaplza.top",
           "plainscops.it.com",
+          "play-best-games.website",
           "playstillway.com",
           "playzones-hub.com",
           "plexatrim.info",
           "plubgbstore.com",
+          "plumbingservicestucson.com",
           "plumosity-gammoned.website",
           "plyzorva.com",
           "plzzaiolo.shop",
@@ -162569,6 +162596,7 @@
           "shlop.app",
           "sholpay.com",
           "shopapp.cc",
+          "shopayse.app",
           "shopeay.com",
           "shoppau.com",
           "shopperapp.net",
@@ -162892,7 +162920,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-05-26T18:25:01+03:00",
+        "last_modified": "2026-05-27T17:50:02+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -162911,9 +162939,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1695
+          "domain": 1705
         },
-        "total": 1695
+        "total": 1705
       }
     },
     "UNC2529": {
