@@ -119095,6 +119095,7 @@
           "amytanathorn.com",
           "analytic.dropfile.online",
           "analytics-script-git-main.vercel.sh",
+          "analyzicai.com",
           "anchoragedigitalhireflow.com",
           "anchoragehireflow.com",
           "anchoragehiring.com",
@@ -121208,6 +121209,7 @@
           "noreplya.xyz",
           "noreplyb.xyz",
           "notaiospuglisi.com",
+          "novachainhub.com",
           "now-examples-3ok9tvp04.zeit.sh",
           "now-examples-5onkajpkx.zeit.sh",
           "now-examples-6pn2lr1ir.zeit.sh",
@@ -121765,6 +121767,7 @@
           "softsquashers.pro",
           "soladify.fun",
           "solana.validator.blog",
+          "solidicai.com",
           "solulab.hiremodozone.com",
           "solutions-subdomains-auth.vercel.sh",
           "song.th",
@@ -122204,6 +122207,7 @@
           "usncet.org",
           "usweb-zoom.us",
           "usweb02.us",
+          "uxicai.com",
           "uzzmuqwv.naveicoipa.tech",
           "uzzmuqwv.naveicoipc.tech",
           "v0-frame-render-engine-4vo9x0236.vercel.sh",
@@ -122422,6 +122426,7 @@
           "web3talentmint.com",
           "web3talentreview.com",
           "web3tradinghub.com",
+          "web3web4.com",
           "webbs-information.login.udaviemayas.com",
           "webcamdrivers.cloud",
           "webcamfix.cloud",
@@ -123180,10 +123185,12 @@
           "135.181.123.177:8081",
           "135.181.123.177:9000",
           "135.181.123.177:9001",
+          "136.243.22.62:1224",
           "137.139.135.151:64694",
           "137.184.15.189:22",
           "138.201.125.58:1224",
           "138.201.125.58:1245",
+          "138.201.128.169:1224",
           "138.201.199.46:1224",
           "138.201.223.115:4801",
           "138.201.248.205:49498",
@@ -123980,7 +123987,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-05-27T17:11:24+03:00",
+        "last_modified": "2026-05-29T20:48:23+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -125226,17 +125233,18 @@
           "https://x.com/vedovelli74/status/2059340087696273828",
           "https://x.com/vedovelli74/status/2059341681216905519",
           "https://x.com/superducktoes/status/2059302288552812818",
-          "https://nkinternet.com/2026/05/26/dprk-captive-portal-infrastructure-found-in-testing/"
+          "https://nkinternet.com/2026/05/26/dprk-captive-portal-infrastructure-found-in-testing/",
+          "https://adelnz.com/writing/npm-install-is-dangerous/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3639,
+          "domain": 3644,
           "file_path": 478,
-          "ipv4": 680,
+          "ipv4": 682,
           "url": 115
         },
-        "total": 4912
+        "total": 4919
       }
     },
     "LAZYSCRIPTER": {
