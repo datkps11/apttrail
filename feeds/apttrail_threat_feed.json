@@ -94235,6 +94235,7 @@
           "accdaum.login.mail.pl",
           "access.cdaumauth.cf",
           "access.daurninfo.ml",
+          "access.edoc.korea-app.dns.army",
           "access.ips-nifty.dns.navy",
           "access.mois-gokr.dns.navy",
           "access.usercorpsetting.kro.kr",
@@ -96738,6 +96739,7 @@
           "countrysvc.p-e.kr",
           "countrysvc.pe.kr",
           "coununda.click",
+          "coupang.dns.navy",
           "couparng.site",
           "couragsi.click",
           "coutescea.click",
@@ -96748,6 +96750,7 @@
           "coway1004.site",
           "cox7y4ipua.dns.navy",
           "coyrdgevcaopeinvesebe.forum",
+          "cp10523.epost-kr.dns.army",
           "cpanel.custom-center.nl",
           "cpanel.havercorps.site",
           "cpanel.havercorpteam.site",
@@ -97258,6 +97261,7 @@
           "dmain.kro.kr",
           "dmarc.edoc-kr.online",
           "dmcut.xyz",
+          "dmf.ips-cert.dns.army",
           "dmfdmstradfgdomes.forum",
           "dmnew.cf",
           "dmnscorp.xyz",
@@ -97988,6 +97992,7 @@
           "edoc.ipsessioncheck.giize.com",
           "edoc.ipsinvoicegoji.mydns.bz",
           "edoc.ipvinvoicelist.mydns.bz",
+          "edoc.korea-app.dns.army",
           "edoc.linknprecord.mydns.bz",
           "edoc.linkpc.net",
           "edoc.logindevice.o-r.kr",
@@ -101161,6 +101166,7 @@
           "ips-nidlog.mydns.vc",
           "ips-nidservice.mydns.vc",
           "ips-nidstore.mydns.bz",
+          "ips-nifty.dns.army",
           "ips-nifty.dns.navy",
           "ips-notice.mydns.bz",
           "ips-notice.mydns.vc",
@@ -101311,6 +101317,7 @@
           "jfhhgjgfhdh.shop",
           "jfjdetwzwdespfoy.cfd",
           "jfp9wd3hht.v6.army",
+          "jfzb.coupang.dns.navy",
           "jgfryyhugytcrhuyvtreteyrtufyiguhilh.vercel.app",
           "jghs63qw5w.v6.army",
           "jgl.diskstation.me",
@@ -101870,6 +101877,7 @@
           "korbklineducat9.tech",
           "korbookgrpsio.website",
           "kordom2userna.website",
+          "korea-app.dns.army",
           "korea-sign.kro.kr",
           "korea-traffic.dns.army",
           "korea.getenjoyment.net",
@@ -101927,6 +101935,7 @@
           "kpxkeugpi6.dynv6.net",
           "kqtc.uc78hw71gb.dynv6.net",
           "kr-angry.click",
+          "kr-edoc.xubi.org",
           "kr-gov24.site",
           "kr-infos.com",
           "kr-me.click",
@@ -107383,6 +107392,7 @@
           "nid.invoiceercm.kro.kr",
           "nid.ipsgtt.dns.army",
           "nid.ipsnoticed.dns.army",
+          "nid.kr-edoc.xubi.org",
           "nid.kwac.p-e.kr",
           "nid.liferod.com",
           "nid.linkdeposits.o-r.kr",
@@ -114835,6 +114845,7 @@
           "view.g-service.online",
           "view.g-service.shop",
           "view.htxpost.site",
+          "view.ips-nifty.dns.army",
           "view.mexcs.shop",
           "view.mngkr.cloud",
           "view.mngkr.fun",
@@ -115953,6 +115964,7 @@
           "xonate.o-r.kr",
           "xpibeh.click",
           "xpmcau.nipadd97load.dynv6.net",
+          "xpo.coupang.dns.navy",
           "xpp162.softether.net",
           "xpp163.softether.net",
           "xrf070.iptime.org",
@@ -116736,7 +116748,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-29T10:44:02+03:00",
+        "last_modified": "2026-05-30T01:15:47+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -118341,17 +118353,18 @@
           "https://www.virustotal.com/gui/file/63fbcd476ac21c3eddc6e450e9fd7c7397f801b32b9e8269f0a42dc88328f0d6/detection",
           "https://x.com/skocherhan/status/2059706390990483908",
           "https://www.enki.co.kr/en/media-center/blog/kimsuky-s-advanced-attack-techniques-jsonping-webex-spoofing-and-a-new-httpspy-variant",
-          "https://x.com/skocherhan/status/2060069310840844770"
+          "https://x.com/skocherhan/status/2060069310840844770",
+          "https://x.com/skocherhan/status/2060432300375150977"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 22546,
+          "domain": 22558,
           "file_path": 294,
           "ipv4": 87,
           "url": 71
         },
-        "total": 22998
+        "total": 23010
       }
     },
     "KUN3": {
