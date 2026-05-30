@@ -20791,6 +20791,7 @@
           "car.drivethrough.top",
           "cardlogical.info",
           "carefile.icu",
+          "certific-activation.info",
           "chandhor.top",
           "chartsbezorgd.info",
           "chat.zaqxswcdevfrbgtnhymjukilop.online",
@@ -20913,6 +20914,7 @@
           "forestertop.online",
           "forum.winidowtech.info",
           "frontcheck.buzz",
+          "ftp.videoinnovationsdaily.com",
           "full.newcontest.xyz",
           "furnish.spacequery.live",
           "fwo-com.tk",
@@ -20941,6 +20943,7 @@
           "googlemail-com.gq",
           "grapehister.buzz",
           "greatly.buzz",
+          "greezupdto.info",
           "greydeimsirty.com",
           "ground.domainoutlet.site",
           "guide.domainoutlet.site",
@@ -21048,6 +21051,7 @@
           "mail-updates-systems.ga",
           "mail-yahoo-com.tk",
           "mail-yahoo-task.tk",
+          "mail.videoinnovationsdaily.com",
           "mailco.xyz",
           "mailerdaemon.me",
           "mailservicess.com",
@@ -21113,6 +21117,7 @@
           "newpoolinwes.site",
           "nextgent.top",
           "nextra.buzz",
+          "nikkimstudiosllc.info",
           "notedupdatez.info",
           "nucleusvision.sytes.net",
           "oceansurvey.club",
@@ -21380,6 +21385,7 @@
           "verify-identity-service.best",
           "verifychecking.com",
           "verisign.monster",
+          "videoinnovationsdaily.com",
           "view-control-page.club",
           "view-control-support.club",
           "view-external-page.best",
@@ -21759,7 +21765,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2026-05-07T13:53:36+03:00",
+        "last_modified": "2026-05-30T13:41:55+03:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -22418,17 +22424,19 @@
           "https://www.virustotal.com/gui/ip-address/45.61.136.27/relations",
           "https://x.com/RedDrip7/status/2052313849278394621",
           "https://www.virustotal.com/gui/file/b793c39e3c9e06a310968ba18e73f0853b4e651bbc4bd8d82b6062c46b5c9dea/detection",
-          "https://www.virustotal.com/gui/file/fdd0b4f6550dd7be13cb46ec0e09090476b601670720c4e30f01b3bf17c6abe0/detection"
+          "https://www.virustotal.com/gui/file/fdd0b4f6550dd7be13cb46ec0e09090476b601670720c4e30f01b3bf17c6abe0/detection",
+          "https://x.com/suyog41/status/2060337183874302019",
+          "https://www.virustotal.com/gui/file/4e6add88feff408b96f01d15917540dbb3ee3819c37020c4e03708410026192e/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 739,
+          "domain": 745,
           "file_path": 252,
           "ipv4": 47,
           "url": 4
         },
-        "total": 1042
+        "total": 1048
       }
     },
     "DOWNEX": {
