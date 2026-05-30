@@ -161664,6 +161664,7 @@
           "atomlcwallet.us",
           "atxauction.com",
           "audioassisten.com",
+          "auroraagencies.com",
           "auroragutters.com",
           "austinbariatrics.com",
           "autocarsvehicles.live",
@@ -161991,6 +161992,7 @@
           "feleasot.com",
           "felenasofts.com",
           "felenasoftse.com",
+          "fenceidaho.com",
           "fenlira.de",
           "fileseekslay.pro",
           "filezilla-app.com",
@@ -162171,6 +162173,7 @@
           "imputation-daddled.website",
           "imputation-regretful.website",
           "independentuknews.com",
+          "indianatowingservice.com",
           "infomediabeen.top",
           "infusiya.com",
           "ingress-ctrl-7c9.workers.dev",
@@ -162207,6 +162210,7 @@
           "joubert.icu",
           "jourjan.icu",
           "jpbluesalter.top",
+          "jpmdswap.com",
           "jponeclean.icu",
           "juegosocialhub.net",
           "juisekingd.com",
@@ -162303,6 +162307,7 @@
           "methodunit.fun",
           "metric-harbor.com",
           "miamiposters.com",
+          "michigansecurityguard.com",
           "midnightridergrey.com",
           "mikoflow.org",
           "mim-iptv.live",
@@ -162329,6 +162334,7 @@
           "mobilescoding.de",
           "model-engineer.family",
           "molassist.com",
+          "moltsavvy.com",
           "monbonvivant.com",
           "moneyfinla.com",
           "moneyresor.com",
@@ -162340,6 +162346,7 @@
           "moretti-menswear.com",
           "mornava.com",
           "motorverso.org",
+          "moverssocal.com",
           "movobility.com",
           "moxabazco.info",
           "moxabrain.info",
@@ -162698,6 +162705,7 @@
           "salvattore.icu",
           "salvattore.shop",
           "salvattores.top",
+          "sandboxfinancialpartners.com",
           "sapceagent.com",
           "satoricraftbox.com",
           "saxo.promo-links.com",
@@ -162910,6 +162918,7 @@
           "trainloftz.com",
           "trainnestz.com",
           "trainyxa.com",
+          "travelfountain.com",
           "treeshadowmonster.com",
           "trendorabhs.com",
           "trendorabnko.com",
@@ -163077,7 +163086,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-05-28T09:51:07+03:00",
+        "last_modified": "2026-05-30T17:04:20+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -163096,9 +163105,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1712
+          "domain": 1721
         },
-        "total": 1712
+        "total": 1721
       }
     },
     "UNC2529": {
