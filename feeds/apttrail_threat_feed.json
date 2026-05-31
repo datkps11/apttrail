@@ -96545,6 +96545,7 @@
           "com-cbw.fun",
           "com-ces.keyword-on.net",
           "com-change.info",
+          "com-check.dns.army",
           "com-checking.link",
           "com-claim.mydns.bz",
           "com-coffee.click",
@@ -96596,6 +96597,7 @@
           "com-second.click",
           "com-seoul.website",
           "com-share.click",
+          "com-signin.dynv6.net",
           "com-signin.live-on.net",
           "com-silver.site",
           "com-smt.click",
@@ -97170,6 +97172,7 @@
           "dev-crh.daliajobs.com",
           "dev-dashboard.daliajobs.com",
           "dev-elwood-staffing.daliajobs.com",
+          "dev-forms.daliajobs.com",
           "dev.contras.site",
           "dev.form.zz.am",
           "dev.infonavera.com",
@@ -101336,6 +101339,7 @@
           "jbnu.info",
           "jbnu.ml",
           "jbulshyofqhhqdk.n-e.kr",
+          "jc4si.txmfeidfzs.dns.navy",
           "jccoffice.duckdns.org",
           "jcucvipqvaewpfzd.cfd",
           "jdtlwcuprq.dynv6.net",
@@ -101534,12 +101538,14 @@
           "kakao.chickenkiller.com",
           "kakao.cloudfiles.epizy.com",
           "kakao.com-account.dns.army",
+          "kakao.com-check.dns.army",
           "kakao.com-info.kro.kr",
           "kakao.com-info.server-on.net",
           "kakao.com-login.dns.army",
           "kakao.com-login.kro.kr",
           "kakao.com-login.live-on.net",
           "kakao.com-nts.dns.army",
+          "kakao.com-signin.dynv6.net",
           "kakao.com-user.pw",
           "kakao.com.cm",
           "kakao.com.co",
@@ -103419,6 +103425,7 @@
           "moi.gov.sa.waps.bio",
           "moie1oc.dynu.org",
           "mois-auth-nid.gm2gx.8lxzbzbtoh.dns.navy",
+          "mois-auth-nid.jc4si.txmfeidfzs.dns.navy",
           "mois-com.site",
           "mois-daot.site",
           "mois-doc.cloud-ip.cc",
@@ -114204,6 +114211,7 @@
           "txau1.top",
           "txis3eo.dynv6.net",
           "txlozah984.dynv6.net",
+          "txmfeidfzs.dns.navy",
           "txproblem.1d0h72.777vfumk8a0.dns.army",
           "txstorage.dynv6.net",
           "txticec.click",
@@ -116836,7 +116844,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-05-30T18:27:15+03:00",
+        "last_modified": "2026-05-31T13:38:11+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -118447,12 +118455,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 22638,
+          "domain": 22646,
           "file_path": 294,
           "ipv4": 87,
           "url": 71
         },
-        "total": 23090
+        "total": 23098
       }
     },
     "KUN3": {
@@ -163041,6 +163049,7 @@
           "urbanindustry.org",
           "usbouldering.com",
           "utahposters.com",
+          "valiantwealthmanagement.com",
           "vault-proxy-5d3.workers.dev",
           "vaultopsacademy.com",
           "vchekac.com",
@@ -163166,7 +163175,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-05-30T17:04:20+03:00",
+        "last_modified": "2026-05-31T13:47:04+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -163185,9 +163194,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1721
+          "domain": 1722
         },
-        "total": 1721
+        "total": 1722
       }
     },
     "UNC2529": {
