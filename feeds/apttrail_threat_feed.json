@@ -97233,6 +97233,7 @@
           "dev-dashboard.daliajobs.com",
           "dev-elwood-staffing.daliajobs.com",
           "dev-forms.daliajobs.com",
+          "dev-tshc.daliajobs.com",
           "dev.contras.site",
           "dev.form.zz.am",
           "dev.infonavera.com",
@@ -101314,6 +101315,7 @@
           "ipsdepinvoice.mydns.bz",
           "ipsdesc.x10.network",
           "ipsdoc-auth.mydns.vc",
+          "ipsdoc.groups.id",
           "ipsedocs.dns.navy",
           "ipsedx.dns.army",
           "ipseno10s.dns.army",
@@ -106014,6 +106016,7 @@
           "ncloud.host",
           "ncloud.julgiya.com",
           "ncloud.uno",
+          "ncloud.yyuyy.com",
           "ncloud2usernet.tech",
           "nclouddocs.bumbleshrimp.com",
           "ncmails.store",
@@ -109488,6 +109491,7 @@
           "nseccenterpress.store",
           "nsechelpteam.store",
           "nseclnk.mydns.bz",
+          "nsecload.ncloud.yyuyy.com",
           "nsecmail.store",
           "nsecman.store",
           "nseconlines.store",
@@ -114012,6 +114016,7 @@
           "tax-guide.f29pvq.v5f6rd4lwz.dynv6.net",
           "tax-guide.hazgs.rqs2t5hbzf.dynv6.net",
           "tax-guide.ttl2.rqs2t5hbzf.dynv6.net",
+          "tax-guide.unids.com",
           "tax-guide.zl0s4v.75bx4qm42u.dynv6.net",
           "tax-invoice.dns.army",
           "tax-kor.mytunnel.org",
@@ -114213,6 +114218,7 @@
           "tmms.iptime.org",
           "tndlife.duckdns.org",
           "tnt-home.site",
+          "tnt62bh2xgz.dns.navy",
           "tnuhrfhruhjkklkldd.cfd",
           "tnzcallsig.site",
           "toauthman.biz",
@@ -117125,7 +117131,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-06-01T12:55:39+03:00",
+        "last_modified": "2026-06-01T20:07:44+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -118737,12 +118743,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 22927,
+          "domain": 22933,
           "file_path": 294,
           "ipv4": 87,
           "url": 71
         },
-        "total": 23379
+        "total": 23385
       }
     },
     "KUN3": {
