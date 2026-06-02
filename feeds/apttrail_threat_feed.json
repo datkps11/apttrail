@@ -82460,6 +82460,7 @@
           "bnana.ru",
           "bnxaz24270.workers.dev",
           "boborak.ru",
+          "bold.zsjtn41091.workers.dev",
           "bolonna.ru",
           "boobasword.ru",
           "books-drunk-typical-indirect.trycloudflare.com",
@@ -86790,6 +86791,7 @@
           "qu776.nsdbzy1t.workers.dev",
           "quados.ru",
           "quiapour.ru",
+          "quitethepastry.ru",
           "quizzical.ru",
           "qunbmrmbjbg.ludoida.ru",
           "qxjmxpd8dfr.workers.dev",
@@ -88756,6 +88758,7 @@
           "zohrabgo.ru",
           "zpldiopenastextstream28.acaenaso.ru",
           "zqm0ohac1uy.mmrbjh5aksr8xcod3.moolin.ru",
+          "zsjtn41091.workers.dev",
           "zsq7cmi9.workers.dev",
           "zuberipa.ru",
           "zyakigo.ru",
@@ -89329,7 +89332,7 @@
         ],
         "apt_group": "GAMAREDON-1",
         "filename": "apt_gamaredon-1.txt",
-        "last_modified": "2026-05-16T19:21:46+03:00",
+        "last_modified": "2026-06-02T16:28:15+03:00",
         "references": [
           "https://www.virustotal.com/gui/ip-address/168.100.10.184/relations",
           "https://www.virustotal.com/gui/ip-address/162.33.178.84/relations",
@@ -90644,17 +90647,18 @@
           "https://x.com/smica83/status/2055647354485690522",
           "https://www.virustotal.com/gui/file/836db26f88b8124828629f1bcf5e12fe521b56850a4a60b76b350813498c6056/detection",
           "https://www.virustotal.com/gui/file/ccbe75cdcf65ee66e44c09e33d99a2236168fc6bea85787284397ae7ce553d1b/detection",
-          "https://www.virustotal.com/gui/file/0ac035b3695c933dda913b1a0037d40c1031523b30b4172fbd7c0b8c5264da63/detection"
+          "https://www.virustotal.com/gui/file/0ac035b3695c933dda913b1a0037d40c1031523b30b4172fbd7c0b8c5264da63/detection",
+          "https://blog.sekoia.io/fsbs-matryoshka-1-3-gamaredons-gifts-that-keeps-unpacking-gammaphish-and-gammaworm/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 10175,
+          "domain": 10178,
           "file_path": 353,
           "ipv4": 8,
           "url": 186
         },
-        "total": 10722
+        "total": 10725
       }
     },
     "GAZA": {
@@ -162131,6 +162135,7 @@
           "aquilenthes.info",
           "arcfetch.com",
           "arcparse.com",
+          "arcylianquanta.com",
           "arizonastables.com",
           "armada-club-top.website",
           "armada-games-app.website",
@@ -162149,6 +162154,7 @@
           "auroraagencies.com",
           "auroragutters.com",
           "austinbariatrics.com",
+          "austinportapotty.com",
           "autocarsvehicles.live",
           "autoglasguercam.com",
           "automotiveblog.club",
@@ -162394,6 +162400,7 @@
           "dreamrupturevice.com",
           "dreamspinhub.com",
           "dreamweavegrey.com",
+          "drenslio.it.com",
           "drexano.de",
           "driftpixelmonster.com",
           "duskblazeworld.com",
@@ -162876,6 +162883,7 @@
           "nmap-scanner.com",
           "nmap.softwarep2p.com",
           "nmap.space",
+          "nodevarianlabs.com",
           "nordicfriendly.com",
           "noroho5002.workers.dev",
           "norvaxiss.com",
@@ -163575,7 +163583,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-06-01T12:10:13+03:00",
+        "last_modified": "2026-06-02T13:52:36+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -163594,9 +163602,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1728
+          "domain": 1732
         },
-        "total": 1728
+        "total": 1732
       }
     },
     "UNC2529": {
