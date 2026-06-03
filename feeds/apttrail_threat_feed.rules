@@ -3614,7 +3614,7 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT MUDCARP - HTTP Request t
 
 # ==================================================
 # APT Group: MUDDYWATER
-# Aliases: BoggySerpens, TEMP.Zagros, Static Kitten, Seedworm, MERCURY, COBALT ULSTER (# https://malpedia.caad.fkie.fraunhofer.de/actor/muddywater), TA450, Toneshell, lightphoenix, unc3313, unc5667, kalim
+# Aliases: BoggySerpens, TEMP.Zagros, Static Kitten, Seedworm, MERCURY, COBALT ULSTER (# https://malpedia.caad.fkie.fraunhofer.de/actor/muddywater), TA450, Toneshell, lightphoenix, unc3313, unc5667, kalim, UDPGangster
 # ==================================================
 
 # MUDDYWATER - Domain Indicators (2626 domains)

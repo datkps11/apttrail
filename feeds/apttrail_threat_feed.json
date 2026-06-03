@@ -132405,11 +132405,12 @@
           "lightphoenix",
           "unc3313",
           "unc5667",
-          "kalim"
+          "kalim",
+          "UDPGangster"
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2026-05-18T17:51:57+03:00",
+        "last_modified": "2026-06-03T22:02:21+03:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
