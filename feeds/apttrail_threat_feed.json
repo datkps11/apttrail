@@ -21293,6 +21293,7 @@
           "sloganstory.com",
           "slowcute.digital",
           "solotrricks.info",
+          "solutionlogz.info",
           "solutionpelle.info",
           "solutionsroof.xyz",
           "soundedge.live",
@@ -21765,7 +21766,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2026-05-30T13:41:55+03:00",
+        "last_modified": "2026-06-04T08:08:09+03:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -22431,12 +22432,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 745,
+          "domain": 746,
           "file_path": 252,
           "ipv4": 47,
           "url": 4
         },
-        "total": 1048
+        "total": 1049
       }
     },
     "DOWNEX": {
@@ -98072,6 +98073,8 @@
           "edoc-manc.dns.navy",
           "edoc-mand.dns.army",
           "edoc-mane.dns.army",
+          "edoc-mane.dns.navy",
+          "edoc-mew.dynv6.net",
           "edoc-nts.mydns.bz",
           "edoc-one.dns.army",
           "edoc-one.dns.navy",
@@ -100339,6 +100342,7 @@
           "homestax.info",
           "homestaxs.info",
           "homestex.info",
+          "hometa16x.dns.army",
           "hometax-post.site",
           "hometax.dns.navy",
           "hometax.ntsdocsvc.r-e.kr",
@@ -100911,6 +100915,8 @@
           "info.edoc-manc.dns.navy",
           "info.edoc-mand.dns.army",
           "info.edoc-mane.dns.army",
+          "info.edoc-mane.dns.navy",
+          "info.edoc-mew.dynv6.net",
           "info.edoc-one.dns.army",
           "info.edoc-one.dns.navy",
           "info.ercmtargetid.mydns.vc",
@@ -104036,6 +104042,7 @@
           "n-cloud.noticeips-nid.mydns.bz",
           "n-cloud.noticekr-ips.mydns.bz",
           "n-cloud.nstnvd.dns.army",
+          "n-cloud.ntr26edc.dynv6.net",
           "n-cloud.nts-auth.mydns.bz",
           "n-cloud.nts-authdoc.mydns.vc",
           "n-cloud.nts-dns.mydns.vc",
@@ -105107,6 +105114,7 @@
           "naver.serverpit.com",
           "naver.spottt.com",
           "naver.srl",
+          "naver.subsoniclabs.com",
           "naver.taxagent.site",
           "naver.taxhome.world",
           "naver.techartsserver.com",
@@ -106089,6 +106097,7 @@
           "ncodbvpass.dynv6.net",
           "ncodbvverify.dynv6.net",
           "ncodbypass.dynv6.net",
+          "ncodbyverify.dynv6.net",
           "ncodbzcheck.dynv6.net",
           "ncodbzpass.dynv6.net",
           "ncodcapass.dynv6.net",
@@ -106096,6 +106105,7 @@
           "ncodcbpass.dynv6.net",
           "ncodccpass.dynv6.net",
           "ncodcepass.dynv6.net",
+          "ncodcgpass.dynv6.net",
           "ncodcjpass.dns.army",
           "ncodckpass.dns.navy",
           "ncodclcheck.dns.navy",
@@ -106342,6 +106352,7 @@
           "ndocbfpass.v6.army",
           "ndocbgpass.v6.army",
           "ndocbpass.dns.army",
+          "ndocbqcheck.dynv6.net",
           "ndocbverify.dns.army",
           "ndoccverify.dns.army",
           "ndocepass.dns.army",
@@ -107274,6 +107285,7 @@
           "nid-naverdsf.servecounterstrike.com",
           "nid-naverdsm.servecounterstrike.com",
           "nid-naverduq.servegame.com",
+          "nid-naverdvl.servequake.com",
           "nid-naverecj.ddnsking.com",
           "nid-naveredh.servecounterstrike.com",
           "nid-naverefo.serveftp.com",
@@ -107281,6 +107293,7 @@
           "nid-navereqp.servegame.com",
           "nid-navereut.servecounterstrike.com",
           "nid-naverewb.servequake.com",
+          "nid-naverewj.serveftp.com",
           "nid-navereyc.onthewifi.com",
           "nid-naverezx.servecounterstrike.com",
           "nid-naverfaf.myvnc.com",
@@ -107335,6 +107348,7 @@
           "nid-naverkmv.onthewifi.com",
           "nid-naverkne.serveftp.com",
           "nid-naverkrl.servequake.com",
+          "nid-naverkuf.servehalflife.com",
           "nid-naverkze.onthewifi.com",
           "nid-naverlnm.ddnsking.com",
           "nid-naverlpd.onthewifi.com",
@@ -107400,6 +107414,7 @@
           "nid-naverset.ddnsking.com",
           "nid-naversgg.ddnsking.com",
           "nid-naversiq.servequake.com",
+          "nid-naversis.servepics.com",
           "nid-naverslf.servegame.com",
           "nid-naversll.myvnc.com",
           "nid-naversne.servecounterstrike.com",
@@ -107755,6 +107770,7 @@
           "nid.naver.seclogistic.com",
           "nid.naver.serverpit.com",
           "nid.naver.spottt.com",
+          "nid.naver.subsoniclabs.com",
           "nid.naver.techartsserver.com",
           "nid.naver.technoreform.com",
           "nid.naver.twilightparadox.com",
@@ -108299,6 +108315,7 @@
           "nids.navsold.site",
           "nids.nblog4krs.dynu.org",
           "nids.ncookieclear.homes",
+          "nids.ndocbqcheck.dynv6.net",
           "nids.nedotps.dns.navy",
           "nids.netserviceml.sbs",
           "nids.ntc18xt.dns.navy",
@@ -108396,6 +108413,7 @@
           "nidservers.opt39ntesx.dns.army",
           "nidservers.strdocs.dns.army",
           "nidservers.themgc.net",
+          "nidservers.tpox17er.dns.army",
           "nidservers.unts-corp.dynv6.net",
           "nidsess.ncookieclear.homes",
           "nidsign.772g.vsjlpbrey1d.v6.navy",
@@ -109558,6 +109576,7 @@
           "ns4dioaieapzpodoaer.cfd",
           "ns5dizozodifuiaoisdfa.cfd",
           "ns6aoepqoerpoaskosdf.cfd",
+          "ns6docs.dynv6.net",
           "ns7ajiaisodier.cfd",
           "ns8doapeopqkopkeaer.cfd",
           "ns9diaoeia.cfd",
@@ -109978,6 +109997,7 @@
           "ntpx13ee.dns.army",
           "ntpx15ee.dns.army",
           "ntpx5ee.dns.army",
+          "ntr26edc.dynv6.net",
           "ntreanservicesec.store",
           "ntredirectinvoice.mydns.bz",
           "ntreferdoc.mydns.vc",
@@ -114402,6 +114422,7 @@
           "tp1966.duckdns.org",
           "tpe5ie.dynv6.net",
           "tpf.viewdocument2785.dns.army",
+          "tpox17er.dns.army",
           "tprecord23id.dynv6.net",
           "tprecord24id.dynv6.net",
           "tprecord25id.dynv6.net",
@@ -117262,7 +117283,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-06-03T10:44:17+03:00",
+        "last_modified": "2026-06-04T10:15:00+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -118874,12 +118895,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 23048,
+          "domain": 23068,
           "file_path": 294,
           "ipv4": 87,
           "url": 71
         },
-        "total": 23500
+        "total": 23520
       }
     },
     "KUN3": {
@@ -162232,7 +162253,9 @@
           "braxitrade.info",
           "braynebays.com",
           "breitenbern.shop",
+          "breonros.it.com",
           "bridgenexis.com",
+          "bridgetontowing.com",
           "brightenforge.com",
           "brightflowz.org",
           "brightlabsz.com",
@@ -162772,6 +162795,7 @@
           "krylentra.com",
           "krypkryphora.com",
           "kryptrona.com",
+          "lairatech.it.com",
           "landioverday.com",
           "landloverday.com",
           "lchmeler.shop",
@@ -162949,6 +162973,7 @@
           "orca-spa.click",
           "oregonpianos.com",
           "orlandoapt.com",
+          "orlandoweddingfilms.com",
           "orthonormal-versos.site",
           "osinsii.shop",
           "otp-performance.info",
@@ -163078,6 +163103,7 @@
           "rangermeow.com",
           "rapid.data-pipeline-9e4.workers.dev",
           "rapidonline.org",
+          "reader-doc.digital",
           "readera-ebook.info",
           "rebgale.com",
           "rebgalenews.com",
@@ -163291,6 +163317,7 @@
           "shintralearno.com",
           "shjopay.com",
           "shlop.app",
+          "shoepay.io",
           "sholpay.com",
           "shopapp.cc",
           "shopayse.app",
@@ -163301,6 +163328,7 @@
           "shrink-say.pics",
           "shrseninjas.com",
           "sibstarpro.com",
+          "sign-mess.digital",
           "signal-online.digital",
           "signalonline.digital",
           "signalprivat.digital",
@@ -163621,7 +163649,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-06-03T11:03:18+03:00",
+        "last_modified": "2026-06-04T10:11:25+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -163640,9 +163668,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1736
+          "domain": 1743
         },
-        "total": 1736
+        "total": 1743
       }
     },
     "UNC2529": {
