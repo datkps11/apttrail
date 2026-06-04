@@ -103882,6 +103882,7 @@
           "mybox.com-cool.mydns.bz",
           "mybox.com-password.link",
           "mybox.mailcorp.eu",
+          "mybox.nid.ydns.eu",
           "mybox.onlinedoc.p-e.kr",
           "mybox.p-e.kr",
           "mybox.website",
@@ -104923,6 +104924,7 @@
           "naver-markets.com",
           "naver-master.center",
           "naver-master.com",
+          "naver-me.dynv6.net",
           "naver-mxcheck.com",
           "naver-nflea.com",
           "naver-noreply.com",
@@ -107919,6 +107921,7 @@
           "nid.vulpes.pub",
           "nid.workcenter.p-e.kr",
           "nid.worksheets.tk",
+          "nid.ydns.eu",
           "nid1-naver.servehttp.com",
           "nid1ogin.p-e.kr",
           "nid2-naver-com.medianewsonline.com",
@@ -111501,6 +111504,7 @@
           "opedromos1.r-e.kr",
           "open-ai.website",
           "open-auth.work",
+          "openinfo.dynv6.net",
           "openinfo.n-e.kr",
           "opensg-dt.diskstation.me",
           "opentickcorp.icu",
@@ -113425,6 +113429,7 @@
           "signin.mid-naver.com",
           "signin.nates.kro.kr",
           "signin.server-on.net",
+          "signin.ydns.eu",
           "signinfo.bloger.niduser.info.check-user.o-r.kr",
           "signinfo.dns.niduser.info.www.verify-user.o-r.kr",
           "signinfo.niduser.info.check-user.o-r.kr",
@@ -114830,6 +114835,7 @@
           "up.nunu6.tv",
           "upbit-kr.com",
           "upbit-service.pe.kr",
+          "upbit.signin.ydns.eu",
           "upbit2024.re.kr",
           "upbitmain.online",
           "upbits.site",
@@ -117283,7 +117289,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-06-04T10:15:00+03:00",
+        "last_modified": "2026-06-04T17:09:20+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -118890,17 +118896,18 @@
           "https://www.enki.co.kr/en/media-center/blog/kimsuky-s-advanced-attack-techniques-jsonping-webex-spoofing-and-a-new-httpspy-variant",
           "https://x.com/skocherhan/status/2060069310840844770",
           "https://x.com/skocherhan/status/2060432300375150977",
-          "https://x.com/skocherhan/status/2061152537529528508"
+          "https://x.com/skocherhan/status/2061152537529528508",
+          "https://x.com/skocherhan/status/2062235639362265177"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 23068,
+          "domain": 23074,
           "file_path": 294,
           "ipv4": 87,
           "url": 71
         },
-        "total": 23520
+        "total": 23526
       }
     },
     "KUN3": {
