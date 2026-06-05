@@ -101618,6 +101618,7 @@
           "jpstgmdw.top",
           "jpstgmhse.top",
           "jpstmnb.xyz",
+          "jptower.dns.army",
           "jquerylabs.zone",
           "jquerystack.zone",
           "jquerystacks.info",
@@ -102523,6 +102524,7 @@
           "lkjhg.site",
           "lldoc-hometax.mydns.jp",
           "lldocument-home.mydns.jp",
+          "lloizou.dynv6.net",
           "llopsmi.cloud",
           "lmdi1dia.libfoobar.com",
           "lmdoc-hometax.mydns.bz",
@@ -103359,6 +103361,7 @@
           "meta.ua.userscheck.info",
           "metacui.fortiddns.com",
           "metaplatform.site",
+          "metapola.dns.army",
           "methdao.xyz",
           "mether.top",
           "methers.top",
@@ -107504,6 +107507,7 @@
           "nid-naverwql.servegame.com",
           "nid-naverwrg.ddnsking.com",
           "nid-naverwrn.serveftp.com",
+          "nid-naverwuk.servecounterstrike.com",
           "nid-naverwza.servecounterstrike.com",
           "nid-naverxeu.serveftp.com",
           "nid-naverxft.onthewifi.com",
@@ -113030,6 +113034,7 @@
           "scenaeco.click",
           "scenv.cloud",
           "scheculetx.1cooldns.com",
+          "schet.dns.army",
           "schoolth.click",
           "schulen-horw.com",
           "science.aidu.kr",
@@ -113408,6 +113413,7 @@
           "shtlink.online",
           "shymh.lol",
           "si.ntsvc-edoc.cloud",
+          "si1901.dynv6.net",
           "si63k8gmso.v6.army",
           "sibnwuglggqfqk.xn--hk3b17f.xn--3e0b707e",
           "sicetite.click",
@@ -113998,12 +114004,17 @@
           "store-ipscorp.dynv6.net",
           "store.auction.dynv6.net",
           "store.farted.net",
+          "store.jptower.dns.army",
+          "store.lloizou.dynv6.net",
+          "store.metapola.dns.army",
           "store.navemid.host",
           "store.notici.as",
           "store.nps-from.site",
           "store.nps-top.site",
           "store.ntspost.space",
           "store.online-kt.dynv6.net",
+          "store.si1901.dynv6.net",
+          "store.unikoreamc.dynv6.net",
           "storeer.chickenkiller.com",
           "stormcod.click",
           "storodi.click",
@@ -114783,6 +114794,7 @@
           "uniforpe.click",
           "uniirank.click",
           "unikorea.go.ci",
+          "unikoreamc.dynv6.net",
           "unilird.click",
           "uningclubb.click",
           "unisock.org",
@@ -115231,6 +115243,7 @@
           "value-domain-com.site",
           "valvequotationandrequest.vercel.app",
           "vamboo.n-e.kr",
+          "vaml.schet.dns.army",
           "variylelocation.site",
           "vascroutep.store",
           "vbfgrtyhn.website",
@@ -117334,7 +117347,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-06-05T11:48:50+03:00",
+        "last_modified": "2026-06-05T17:25:01+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -118946,17 +118959,18 @@
           "https://x.com/skocherhan/status/2062611489358532731",
           "https://x.com/byrne_emmy12099/status/2062502763880390851",
           "https://www.virustotal.com/gui/file/9be8f2be7ad882e8423c269a0540b7c73d6470311ddfcfcd318ff9d1983e2935/detection",
-          "https://x.com/skocherhan/status/2062633445843489195"
+          "https://x.com/skocherhan/status/2062633445843489195",
+          "https://x.com/skocherhan/status/2062632228509946089"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 23119,
+          "domain": 23132,
           "file_path": 294,
           "ipv4": 87,
           "url": 71
         },
-        "total": 23571
+        "total": 23584
       }
     },
     "KUN3": {
