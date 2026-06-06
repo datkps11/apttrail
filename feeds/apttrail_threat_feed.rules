@@ -5769,11 +5769,11 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT UNC5174 - HTTP Request t
 
 # ==================================================
 # APT Group: UNC5221
-# Aliases: uta0178
+# Aliases: uta0178, verdantbamboo, warppanda
 # ==================================================
 
-# UNC5221 - Domain Indicators (24 domains)
-alert dns any any -> any any (msg:"APT UNC5221 - Malicious Domain Activity"; dns.query; pcre:"/^(abbeglasses\.s3\.amazonaws\.com|abode-dashboard-media\.s3\.ap-south-1\.amazonaws\.com|api\.d-n-s\.name|archivevalley-media\.s3\.amazonaws\.com|blooming\.s3\.amazonaws\.com|catcher\.requestcatcher\.com|clickcom\.click|clicko\.click|duorhytm\.fun|fconnect\.s3\.amazonaws\.com|gpoaccess\.com|line-api\.com|openrbf\.s3\.amazonaws\.com|psecure\.pro|safe\.rocks|secure-cama\.com|shapefiles\.fews\.net\.s3\.amazonaws\.com|symantke\.com|telemetry\.psecure\.pro|the-mentor\.s3\.amazonaws\.com|tkshopqd\.s3\.amazonaws\.com|tnegadge\.s3\.amazonaws\.com|trkbucket\.s3\.amazonaws\.com|webb-institute\.com)$/i"; classtype:trojan-activity; sid:9003182; rev:1; metadata:apt_group UNC5221, chunk 1;)
+# UNC5221 - Domain Indicators (39 domains)
+alert dns any any -> any any (msg:"APT UNC5221 - Malicious Domain Activity"; dns.query; pcre:"/^(172-235-56-113\.plesk\.page|abbeglasses\.s3\.amazonaws\.com|abode-dashboard-media\.s3\.ap-south-1\.amazonaws\.com|api\.d-n-s\.name|archivevalley-media\.s3\.amazonaws\.com|azdatastore\.workers\.dev|barannclinic\.com|bititer\.org|blooming\.s3\.amazonaws\.com|calixcloudinfo\.com|catcher\.requestcatcher\.com|clickcom\.click|clicko\.click|devs\.calixcloudinfo\.com|duorhytm\.fun|faoith\.com|fconnect\.s3\.amazonaws\.com|fiveworkscorp\.com|gpoaccess\.com|kitfloor\.org|line-api\.com|msazure\.azdatastore\.workers\.dev|natsupport\.net|openrbf\.s3\.amazonaws\.com|performanceviewtools\.com|psecure\.pro|safe\.rocks|secure-cama\.com|service\.systemsvcs\.com|shapefiles\.fews\.net\.s3\.amazonaws\.com|symantke\.com|systemsvcs\.com|telemetry\.psecure\.pro|the-mentor\.s3\.amazonaws\.com|tkshopqd\.s3\.amazonaws\.com|tnegadge\.s3\.amazonaws\.com|trkbucket\.s3\.amazonaws\.com|webb-institute\.com|winfoacacorp\.com)$/i"; classtype:trojan-activity; sid:9003182; rev:1; metadata:apt_group UNC5221, chunk 1;)
 
 # UNC5221 - IPv4 Indicators (6 IPs)
 alert ip any any -> [146.0.228.66,146.0.228.66,45.227.255.213,66.42.68.120,8.137.112.245,81.2.216.78] any (msg:"APT UNC5221 - Traffic to Malicious IPs"; threshold:type limit, track by_src, count 1, seconds 3600; classtype:trojan-activity; sid:9003183; rev:1; metadata:apt_group UNC5221, chunk 1;)

@@ -165186,30 +165186,45 @@
     "UNC5221": {
       "indicators": {
         "domain": [
+          "172-235-56-113.plesk.page",
           "abbeglasses.s3.amazonaws.com",
           "abode-dashboard-media.s3.ap-south-1.amazonaws.com",
           "api.d-n-s.name",
           "archivevalley-media.s3.amazonaws.com",
+          "azdatastore.workers.dev",
+          "barannclinic.com",
+          "bititer.org",
           "blooming.s3.amazonaws.com",
+          "calixcloudinfo.com",
           "catcher.requestcatcher.com",
           "clickcom.click",
           "clicko.click",
+          "devs.calixcloudinfo.com",
           "duorhytm.fun",
+          "faoith.com",
           "fconnect.s3.amazonaws.com",
+          "fiveworkscorp.com",
           "gpoaccess.com",
+          "kitfloor.org",
           "line-api.com",
+          "msazure.azdatastore.workers.dev",
+          "natsupport.net",
           "openrbf.s3.amazonaws.com",
+          "performanceviewtools.com",
           "psecure.pro",
           "safe.rocks",
           "secure-cama.com",
+          "service.systemsvcs.com",
           "shapefiles.fews.net.s3.amazonaws.com",
           "symantke.com",
+          "systemsvcs.com",
           "telemetry.psecure.pro",
           "the-mentor.s3.amazonaws.com",
           "tkshopqd.s3.amazonaws.com",
           "tnegadge.s3.amazonaws.com",
           "trkbucket.s3.amazonaws.com",
-          "webb-institute.com"
+          "webb-institute.com",
+          "winfoacacorp.com"
         ],
         "file_path": [
           "/T7cNxSSK4d/upd.sh",
@@ -165255,11 +165270,13 @@
       },
       "metadata": {
         "aliases": [
-          "uta0178"
+          "uta0178",
+          "verdantbamboo",
+          "warppanda"
         ],
         "apt_group": "UNC5221",
         "filename": "apt_unc5221.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-06-06T01:22:43+03:00",
         "references": [
           "https://www.volexity.com/blog/2024/01/10/active-exploitation-of-two-zero-day-vulnerabilities-in-ivanti-connect-secure-vpn/",
           "https://www.mandiant.com/resources/blog/suspected-apt-targets-ivanti-zero-day",
@@ -165278,17 +165295,20 @@
           "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ivanti-zero-day-exploitation/",
           "https://github.com/HarfangLab/iocs/blob/main/iv_lastauthserverused_js/20240122_lastauthserverused_js.txt",
           "https://x.com/WhichbufferArda/status/1925210805793955889",
-          "https://blog.eclecticiq.com/china-nexus-threat-actor-actively-exploiting-ivanti-endpoint-manager-mobile-cve-2025-4428-vulnerability"
+          "https://blog.eclecticiq.com/china-nexus-threat-actor-actively-exploiting-ivanti-endpoint-manager-mobile-cve-2025-4428-vulnerability",
+          "https://x.com/blackorbird/status/2062934926392275391",
+          "https://www.volexity.com/blog/2026/06/04/verdantbamboo-just-another-brickstorm-in-the-firewall/",
+          "https://github.com/volexity/threat-intel/blob/main/2026/2026-06-04%20VerdantBamboo/iocs.csv"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 24,
+          "domain": 39,
           "file_path": 10,
           "ipv4": 6,
           "url": 19
         },
-        "total": 59
+        "total": 74
       }
     },
     "UNC5537": {
