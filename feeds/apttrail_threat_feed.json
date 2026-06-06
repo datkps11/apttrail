@@ -98199,6 +98199,7 @@
           "edocbindsvc.dynv6.net",
           "edocesnavs.dynv6.net",
           "edocinvoices.o-r.kr",
+          "edocnlist90in.dynv6.net",
           "edocs-all.site",
           "edocs-center.site",
           "edocs-high.site",
@@ -104246,6 +104247,7 @@
           "n-store.ntstore.mydns.vc",
           "n-store.ntx-nav.dynv6.net",
           "n-store.nversg.mydns.jp",
+          "n-store.plice31osp.dns.army",
           "n-store.reloguser2.dynv6.net",
           "n-store.store-ipscorp.dynv6.net",
           "n-store.tax-auth.dynv6.net",
@@ -105819,6 +105821,7 @@
           "navs.dn.nhisann.dns.navy",
           "navs.dn.nioipsde.dns.army",
           "navs.dn.ntxals.dns.army",
+          "navs.edocnlist90in.dynv6.net",
           "navs.en.ntopeds.dns.army",
           "navs.en.ntspiu.dynv6.net",
           "navs.ipsgtt.dns.army",
@@ -106145,6 +106148,7 @@
           "ncodcnverify.dns.navy",
           "ncodcoverify.dns.navy",
           "ncodcpcheck.dns.navy",
+          "ncodcqpass.dns.navy",
           "ncodcqverify.dns.navy",
           "ncodctcheck.dns.navy",
           "ncodcuverify.dns.navy",
@@ -111943,6 +111947,7 @@
           "plefkre.site",
           "plesk.rorichblog.co.kr",
           "plex.wangjumeok.duckdns.org",
+          "plice31osp.dns.army",
           "plicynaver.com",
           "pload.accesscam.org",
           "plocafenav0tinar.online",
@@ -117347,7 +117352,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-06-05T17:25:01+03:00",
+        "last_modified": "2026-06-06T11:42:25+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -118965,12 +118970,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 23132,
+          "domain": 23137,
           "file_path": 294,
           "ipv4": 87,
           "url": 71
         },
-        "total": 23584
+        "total": 23589
       }
     },
     "KUN3": {
@@ -162214,6 +162219,7 @@
           "aivisionpoint.com",
           "aivoicehash.com",
           "aiwealthfirstmain.com",
+          "akaccessories.com",
           "aksecurityandlocksmith.org",
           "albertaservice.net",
           "albertaservices.org",
@@ -162236,6 +162242,7 @@
           "apaliieo.com",
           "apallieo.com",
           "apexorix.com",
+          "apexvideoproduction.com",
           "api-gateway-a3f.workers.dev",
           "api.rvtoolacs.online",
           "aplicado24tv.stream",
@@ -162468,6 +162475,7 @@
           "dealsauctions.com",
           "dede1000x.com",
           "deep-mine-app.site",
+          "deepcipherquanta.com",
           "deguercuernavaca.mx",
           "delvonax.cyou",
           "demapas.com",
@@ -162602,6 +162610,7 @@
           "evolutionblends.com",
           "evolutionpestcontrol.com",
           "evolyraz.com",
+          "exomegene.com",
           "expatpower.com",
           "expresss-fin.com",
           "ezdravlj.info",
@@ -162829,6 +162838,7 @@
           "japanesale.icu",
           "jaskolski.shop",
           "jeeplandgrow.pro",
+          "jensenprinting.com",
           "jeremywray.com",
           "jogar-cassino.live",
           "joinmorteseek.com",
@@ -162940,6 +162950,7 @@
           "miamiposters.com",
           "michigansecurityguard.com",
           "midnightridergrey.com",
+          "mikestonegoldcard.com",
           "mikoflow.org",
           "mim-iptv.live",
           "mindaicademia.com",
@@ -163008,6 +163019,7 @@
           "nevadaslp.com",
           "newhopechiro.com",
           "newmexicomartialarts.com",
+          "nexasforges.it.com",
           "nexiqora.com",
           "nexiratrack.com",
           "nexityz.com",
@@ -163063,6 +163075,7 @@
           "overgirds-stalwart.website",
           "ox-fanzine.org",
           "oyunlar.fun",
+          "pablackcar.com",
           "pacote-premium.pics",
           "pacs4less.com",
           "panotarypublic.com",
@@ -163088,6 +163101,7 @@
           "personal-tv.live",
           "personaltv.live",
           "phantomtuning.org",
+          "phoenixpigeonremoval.com",
           "photo2-app.fun",
           "pizaiolo.icu",
           "pizaiolo.shop",
@@ -163129,6 +163143,7 @@
           "poeritosanik.icu",
           "pofelal314.workers.dev",
           "poiiier.icu",
+          "polarscres.it.com",
           "polemicized-godlessnesses.website",
           "polyvids.com",
           "porezna-technology.digital",
@@ -163143,6 +163158,7 @@
           "powerfulbrain-hub.com",
           "pravontix.info",
           "praxcloud.icu",
+          "preschoolorlando.com",
           "pressurewashingalabama.com",
           "presta-facil-cr.com",
           "prime-city-games.site",
@@ -163160,6 +163176,7 @@
           "proxy-edge-c5f.workers.dev",
           "ptns-sp.org",
           "pulsexor.com",
+          "pulsirox.com",
           "pulsynex.com",
           "purecanopywong.com",
           "putty-info.com",
@@ -163185,6 +163202,7 @@
           "readera-ebook.info",
           "rebgale.com",
           "rebgalenews.com",
+          "reco-deet.online",
           "redlinetuning.org",
           "reelsqueen.com",
           "reise-mobiltechnik.com",
@@ -163350,6 +163368,7 @@
           "schema-harbor.com",
           "scorespend.com",
           "scuolaoperator.com",
+          "seattlebathtub.com",
           "secrid-de.com",
           "securecrt-app.com",
           "securecrt-configledger.com",
@@ -163592,6 +163611,7 @@
           "uni-tv.live",
           "unionclothing.fit",
           "unitv-ca.live",
+          "universaleduet.com",
           "universalupdcode.com",
           "unwerpad.icu",
           "update.rvtoolsl.com",
@@ -163685,6 +163705,7 @@
           "workbeneh.com",
           "works-forge.com",
           "worldseafishing.org",
+          "wristbandalarm.com",
           "wuckeet.shop",
           "wysoria.com",
           "xenoluxa.com",
@@ -163727,7 +163748,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-06-05T12:39:35+03:00",
+        "last_modified": "2026-06-06T11:39:52+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -163746,9 +163767,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1751
+          "domain": 1767
         },
-        "total": 1751
+        "total": 1767
       }
     },
     "UNC2529": {
