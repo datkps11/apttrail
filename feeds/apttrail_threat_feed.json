@@ -9363,6 +9363,7 @@
           "abiesvc.info",
           "abiesvc.jp.net",
           "account-googlemeet.com",
+          "addressstore.space",
           "adiclas-nft.quest",
           "admin.unitpowergeneration.top",
           "aidpartners.org",
@@ -9382,6 +9383,7 @@
           "anobaka.info",
           "anobaka.jp",
           "antcapital.us",
+          "api.addressstore.space",
           "api.betterfun.space",
           "api.clearit.sbs",
           "api.flashstore.sbs",
@@ -11065,7 +11067,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-05-07T15:07:23+03:00",
+        "last_modified": "2026-06-07T21:31:51+03:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -11234,12 +11236,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1680,
+          "domain": 1682,
           "file_path": 1,
           "ipv4": 27,
           "url": 4
         },
-        "total": 1712
+        "total": 1714
       }
     },
     "BLUEPRINT": {
@@ -162295,6 +162297,7 @@
         "domain": [
           "08f0.proxy-edge-c5f.workers.dev",
           "12.workbencn.com",
+          "178.159.43.206.sslip.io",
           "1r.rvtoolsed.com",
           "1s.rvtoolsai.com",
           "1v.rvtoollsa.com",
@@ -162570,6 +162573,7 @@
           "app-cdn.celixi6266.workers.dev",
           "app-grand-win.website",
           "app-hypeliquid.xyz",
+          "app-server.comof72509.workers.dev",
           "app.alldocreader.ink",
           "app.iptv24.live",
           "app.mediahubtv.live",
@@ -162684,10 +162688,14 @@
           "casualjuegosportal.net",
           "cdn-ae.azureedge.net",
           "cdn-app-server.vewojo9572.workers.dev",
+          "cdn-app-software-3425.tech",
+          "cdn-app-software-67423.store",
           "cdn-app-web.piniyi9484.workers.dev",
           "cdn-server-1.xiren77418.workers.dev",
           "cdn-server-2.wesoc40288.workers.dev",
           "cdn-server-full.taros12579.workers.dev",
+          "cdn-web-app-10.site",
+          "cdn-web-app-10.tech",
           "cdn-web-server1.techserver01.workers.dev",
           "cdn1.cowivat156.workers.dev",
           "cdn1.poyag17470.workers.dev",
@@ -162725,6 +162733,7 @@
           "cocuscompany.com",
           "code-wallets-de.com",
           "cognopix.com",
+          "comof72509.workers.dev",
           "compassgrowpat.com",
           "computerservicesource.com",
           "connecticutcre.com",
@@ -162755,6 +162764,7 @@
           "danrodphotos.com",
           "dark-bar-d282.nina-alvarez.workers.dev",
           "dash-server.servertech03.workers.dev",
+          "dash-server2.servertech02.workers.dev",
           "data-pipeline-9e4.workers.dev",
           "database-dbeaver.com",
           "database-heidisql.com",
@@ -162829,6 +162839,7 @@
           "devolutions.space",
           "devolutions.workgridlab.com",
           "devolutionscontrolroom.com",
+          "devopstechnologies.site",
           "dexelora.com",
           "dexentraq.com",
           "dexontra.com",
@@ -163190,6 +163201,7 @@
           "kelulurn.com",
           "keston-carcare.com",
           "keystore-explorer.com",
+          "keystore-explorer.site",
           "kibanal.com",
           "kievstar.digital",
           "kikuchikara-jp.com",
@@ -163309,6 +163321,9 @@
           "monstergrowdeep.pro",
           "moonwhisperhaze.com",
           "moonwhisperlake.com",
+          "moorabanco-ad.com",
+          "moraabanco-ad.com",
+          "morabanco-ad.com",
           "moretti-menswear.com",
           "mornava.com",
           "motorverso.org",
@@ -163701,6 +163716,7 @@
           "securecrt-terminalops.com",
           "securecrt.session-ops.com",
           "securecrtrunbook.com",
+          "sejilod7488888.workers.dev",
           "sellvarions.com",
           "sendpap.com",
           "sensational-slots.ink",
@@ -163727,6 +163743,7 @@
           "server-web-cdn.yevobod379.workers.dev",
           "server-web-cdn1.gekod80409.workers.dev",
           "server-web.sasex59966.workers.dev",
+          "servertech02.workers.dev",
           "servicesml.com",
           "session-center.com",
           "session-ops.com",
@@ -163777,7 +163794,10 @@
           "snuxtrade.info",
           "social-ventures.it.com",
           "soft-base-01.ginigiy117.workers.dev",
+          "soft-dns-999.tech",
+          "soft-dns-999001.store",
           "soft-dns.sejilod748.workers.dev",
+          "soft-dns.sejilod7488888.workers.dev",
           "softwarep2p.com",
           "sogal69343.workers.dev",
           "solboundlandys.com",
@@ -163827,6 +163847,7 @@
           "synaxopath.de",
           "sync-engine-d8b.workers.dev",
           "synrecipum.shop",
+          "sys-log-7qw.workers.dev",
           "tagesechode.com",
           "taiwan-interviewers.com",
           "talentsmomentum.com",
@@ -163974,6 +163995,7 @@
           "visualstorycraft.com",
           "vivanotizie.com",
           "vivantestudio.com",
+          "vm5042999.1nvme.had.wf",
           "vmback.com",
           "vmbacku.com",
           "vmbackups.com",
@@ -164016,6 +164038,7 @@
           "web-app.larij21770.workers.dev",
           "webapp.ingress-ctrl-7c9.workers.dev",
           "webapp.scan-engine-a2d.workers.dev",
+          "white-salad-4c7f.sys-log-7qw.workers.dev",
           "wildemberborn.com",
           "wildfireheart.com",
           "wildview18.top",
@@ -164051,6 +164074,7 @@
           "yx.rvtooli.info",
           "z6.rvtoolsl.com",
           "z9.rvtoolso.com",
+          "za-serverhub.online",
           "za.rvtoolvm.com",
           "zd.rvtoolss.com",
           "zdravljes.digital",
@@ -164075,7 +164099,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-06-07T16:07:07+03:00",
+        "last_modified": "2026-06-07T20:51:59+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -164094,9 +164118,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1774
+          "domain": 1796
         },
-        "total": 1774
+        "total": 1796
       }
     },
     "UNC2529": {
