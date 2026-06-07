@@ -97304,6 +97304,7 @@
           "dev.userscheck.info",
           "dev1.daliajobs.com",
           "dev3.daliajobs.com",
+          "dev4.daliajobs.com",
           "developedindia.ink",
           "development.news-portal.site",
           "develtfie.click",
@@ -99435,6 +99436,7 @@
           "form.zz.am",
           "formaga.click",
           "formalyci.click",
+          "forms.dev4.daliajobs.com",
           "forms.evils.in",
           "forms.govt.hu",
           "formulpri.click",
@@ -108145,6 +108147,7 @@
           "nida.strdocs.dns.army",
           "nida.themgc.net",
           "nida.tpx11sdoc.dns.army",
+          "nida.trxs32es.dns.navy",
           "nida.unts-corp.dynv6.net",
           "nidalo.memavers.pics",
           "nidanaver.tech",
@@ -108539,6 +108542,7 @@
           "nids.tois5ex.dynv6.net",
           "nids.tpx2ee.dns.army",
           "nids.trx16nts.dns.army",
+          "nids.trxs34es.dns.navy",
           "nids.vipsdocs.dns.army",
           "nids0.dynv6.net",
           "nids10.dynv6.net",
@@ -108616,6 +108620,7 @@
           "nidservers.strdocs.dns.army",
           "nidservers.themgc.net",
           "nidservers.tpox17er.dns.army",
+          "nidservers.trxs4es.dns.navy",
           "nidservers.unts-corp.dynv6.net",
           "nidsess.ncookieclear.homes",
           "nidsign.772g.vsjlpbrey1d.v6.navy",
@@ -114898,6 +114903,9 @@
           "trumpmemetoken.xyz",
           "trusteer.ink",
           "trx16nts.dns.army",
+          "trxs32es.dns.navy",
+          "trxs34es.dns.navy",
+          "trxs4es.dns.navy",
           "try45s.dynv6.net",
           "trygfhgf.website",
           "tryweeklye.click",
@@ -117661,7 +117669,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-06-07T14:05:26+03:00",
+        "last_modified": "2026-06-07T16:41:29+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -119282,12 +119290,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 23446,
+          "domain": 23454,
           "file_path": 294,
           "ipv4": 87,
           "url": 71
         },
-        "total": 23898
+        "total": 23906
       }
     },
     "KUN3": {
@@ -162664,10 +162672,12 @@
           "camarillotowing.com",
           "cameranextpro.com",
           "cantharides-obscene.website",
+          "capitalrios.com",
           "carereroom.pro",
           "carlifeyamato.com",
           "carnieal.com",
           "carrierbrokeragreements.us",
+          "cashlatvia.com",
           "casino-vitoria.ink",
           "casinobonusranking.com",
           "casnellano.icu",
@@ -162822,6 +162832,7 @@
           "dexelora.com",
           "dexentraq.com",
           "dexontra.com",
+          "dexorith.com",
           "dexovanta.com",
           "dexscreeners.cloud",
           "dexscreeners.ink",
@@ -163167,6 +163178,7 @@
           "junexley.digital",
           "kaatzer.shop",
           "kaizenflowtrade.com",
+          "kalosintelligence.com",
           "kalosrobotics.com",
           "kamerakunstakademie.com",
           "kaneko-optical.info",
@@ -163335,6 +163347,7 @@
           "nexiqora.com",
           "nexiratrack.com",
           "nexityz.com",
+          "nexovryn.com",
           "nextrollen.com",
           "nick.hostupdate.site",
           "nightgleamclays.com",
@@ -163772,6 +163785,7 @@
           "solscaner.app",
           "soluciones-yas.com",
           "soluzionerapide.com",
+          "solventas360.com",
           "somerestlike.com",
           "sonnyanglusa.com",
           "southwestchevy.com",
@@ -163932,6 +163946,7 @@
           "urban-play-city.site",
           "urbanindustry.org",
           "usbouldering.com",
+          "utahpoolsandspas.com",
           "utahposters.com",
           "valiantwealthmanagement.com",
           "vault-proxy-5d3.workers.dev",
@@ -164060,7 +164075,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-06-06T11:39:52+03:00",
+        "last_modified": "2026-06-07T16:07:07+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -164079,9 +164094,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1767
+          "domain": 1774
         },
-        "total": 1767
+        "total": 1774
       }
     },
     "UNC2529": {
