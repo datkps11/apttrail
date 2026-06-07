@@ -101091,6 +101091,7 @@
           "infwlog.mydns.bz",
           "infwlog.server-on.net",
           "inglife.kro.kr",
+          "inini.kesug.com",
           "injefasc.click",
           "inkimpalace.click",
           "inklmo.click",
@@ -117660,7 +117661,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-06-06T23:32:30+03:00",
+        "last_modified": "2026-06-07T14:05:26+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -119274,17 +119275,19 @@
           "https://www.virustotal.com/gui/file/9be8f2be7ad882e8423c269a0540b7c73d6470311ddfcfcd318ff9d1983e2935/detection",
           "https://x.com/skocherhan/status/2062633445843489195",
           "https://x.com/skocherhan/status/2062632228509946089",
-          "https://x.com/_IMalihi_/status/2062916327182893501"
+          "https://x.com/_IMalihi_/status/2062916327182893501",
+          "https://x.com/smica83/status/2063496293092110394",
+          "https://tria.ge/260607-gcfy6shv2z/behavioral1"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 23445,
+          "domain": 23446,
           "file_path": 294,
           "ipv4": 87,
           "url": 71
         },
-        "total": 23897
+        "total": 23898
       }
     },
     "KUN3": {
