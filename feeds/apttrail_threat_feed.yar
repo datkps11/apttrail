@@ -4730,7 +4730,7 @@ rule APT_GAMAREDON_1
         description = "Detects IOCs associated with APT GAMAREDON-1"
         author = "APTtrail Automated Collection"
         apt_group = "GAMAREDON-1"
-        aliases = "gamaload, gamawiper, litterdrifter"
+        aliases = "gamaload, gamawiper, gammasteel"
         reference = "https://app.validin.com/axon?find=31.129.22.48"
         severity = "high"
         tlp = "white"
@@ -4790,10 +4790,11 @@ rule APT_GAMAREDON_1
         $ip51 = "141.8.192.151" ascii wide
         $ip52 = "141.8.197.42" ascii wide
         $ip53 = "159.89.205.135" ascii wide
-        $ip54 = "206.189.188.38" ascii wide
-        $ip55 = "5.252.178.181" ascii wide
-        $ip56 = "89.124.79.33" ascii wide
-        $ip57 = "89.124.88.211" ascii wide
+        $ip54 = "165.22.170.129" ascii wide
+        $ip55 = "206.189.188.38" ascii wide
+        $ip56 = "5.252.178.181" ascii wide
+        $ip57 = "89.124.79.33" ascii wide
+        $ip58 = "89.124.88.211" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
