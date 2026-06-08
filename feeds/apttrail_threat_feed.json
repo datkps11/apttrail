@@ -107310,6 +107310,7 @@
           "nicorps.website",
           "nid-account.store",
           "nid-alert.com",
+          "nid-app.security.pakasak.com",
           "nid-auth-invoice.64rp5.kl1j9dkiy7.dynv6.net",
           "nid-auth-tax.9jhf95.i3idbzcf7m.dynv6.net",
           "nid-auth.infocheck.abrdns.com",
@@ -110205,6 +110206,7 @@
           "ntlogodoc92s.dynv6.net",
           "ntlogodoc95s.dynv6.net",
           "ntlshte.dynv6.net",
+          "ntltax38in.dynv6.net",
           "ntmaindoc12th.dns.army",
           "ntmobileuser.mydns.bz",
           "ntndoc.abrdns.com",
@@ -113458,6 +113460,7 @@
           "security.accountuquery.kro.kr",
           "security.google-policy.com",
           "security.p-e.kr",
+          "security.pakasak.com",
           "security.servepics.com",
           "security.token-manage.o-r.kr",
           "security.useraccountveriafy.kro.kr",
@@ -117671,7 +117674,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-06-07T16:41:29+03:00",
+        "last_modified": "2026-06-08T10:25:06+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -119292,12 +119295,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 23454,
+          "domain": 23457,
           "file_path": 294,
           "ipv4": 87,
           "url": 71
         },
-        "total": 23906
+        "total": 23909
       }
     },
     "KUN3": {
@@ -162945,6 +162948,7 @@
           "evolutionpestcontrol.com",
           "evolyraz.com",
           "exomegene.com",
+          "exosomegene.com",
           "expatpower.com",
           "expresss-fin.com",
           "ezdravlj.info",
@@ -162969,6 +162973,7 @@
           "filmoperatorschule.com",
           "filodarte.net",
           "finanseller.com",
+          "finanziahubs.com",
           "findoffering.com",
           "finex-pert.com",
           "fingrowe.com",
@@ -163278,6 +163283,7 @@
           "mentoxapath.com",
           "meridiasolution.it.com",
           "meritkings.org",
+          "meshoramor.com",
           "meshoverian.com",
           "meshquantumlab.com",
           "mesitunel.it.com",
@@ -163376,6 +163382,7 @@
           "nodevarianlabs.com",
           "nordicfriendly.com",
           "noroho5002.workers.dev",
+          "norseware.com",
           "norvaxiss.com",
           "novaryns.org",
           "novexagroups.com",
@@ -164099,7 +164106,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-06-07T20:51:59+03:00",
+        "last_modified": "2026-06-08T10:39:32+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -164118,9 +164125,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1796
+          "domain": 1800
         },
-        "total": 1796
+        "total": 1800
       }
     },
     "UNC2529": {
