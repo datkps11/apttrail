@@ -117222,6 +117222,7 @@
           "/adm/mail/img/poll/auto_n.php",
           "/ajemzneij/team.php?suseeid=",
           "/anlab/d.php?newpa=",
+          "/anti-box/jang/main/povjrg.pdf",
           "/asdqe1312sadgasdasbasdsaxsa.rar",
           "/bbs/data/bbs15/context.php",
           "/bbs/data/bbs15/inquire.php",
@@ -117683,7 +117684,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-06-09T10:28:43+03:00",
+        "last_modified": "2026-06-09T17:22:41+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -119299,17 +119300,19 @@
           "https://x.com/skocherhan/status/2062632228509946089",
           "https://x.com/_IMalihi_/status/2062916327182893501",
           "https://x.com/smica83/status/2063496293092110394",
-          "https://tria.ge/260607-gcfy6shv2z/behavioral1"
+          "https://tria.ge/260607-gcfy6shv2z/behavioral1",
+          "https://x.com/v0lundr_/status/2063925757542277397",
+          "https://www.virustotal.com/gui/file/e291ee630a58c405f86ca83d9364bfc3dbf13aecff9000cca4f2602158dac845/detection"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 23461,
-          "file_path": 294,
+          "file_path": 295,
           "ipv4": 87,
           "url": 71
         },
-        "total": 23913
+        "total": 23914
       }
     },
     "KUN3": {
