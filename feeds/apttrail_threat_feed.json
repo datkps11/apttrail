@@ -144640,6 +144640,7 @@
           "mail-na-gov-pk.na-gov-pk.workers.dev",
           "mail-navy-lk-4326er48fdu49fgu49fgj549fj349fdj3490fdjk390df.pages.dev",
           "mail-navy-lk-43897fyi78945tr78945uio89045iuort89045prt054k.pages.dev",
+          "mail-navy-lk-login.pages.dev",
           "mail-navy-mil-bd-modern-email-inbox-messages.webmailarmy.com",
           "mail-nba-gov-pk.pakistan-gov-pk.workers.dev",
           "mail-ncporgnp.hopto.org",
@@ -146715,7 +146716,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-06-10T19:08:06+03:00",
+        "last_modified": "2026-06-10T21:39:25+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -147802,12 +147803,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3588,
+          "domain": 3589,
           "file_path": 16,
           "ipv4": 50,
           "url": 29
         },
-        "total": 3683
+        "total": 3684
       }
     },
     "SILENCE": {
