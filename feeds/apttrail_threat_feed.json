@@ -100299,6 +100299,7 @@
           "herisnenalseocstore.store",
           "heros.sbs",
           "hestianw.online",
+          "hets12ex.dns.army",
           "hets22ex.dns.army",
           "heungkukfire.p-e.kr",
           "hflax.ylhej608mk.dynv6.net",
@@ -106270,6 +106271,7 @@
           "ncodckverify.dns.navy",
           "ncodclcheck.dns.navy",
           "ncodclpass.dns.navy",
+          "ncodcmcheck.dns.navy",
           "ncodcmverify.dns.navy",
           "ncodcncheck.dns.navy",
           "ncodcnpass.dns.navy",
@@ -112245,6 +112247,7 @@
           "polarisoffice.site",
           "polarisoffice.store",
           "pold13kr.dynv6.net",
+          "poldoc3osp.dns.army",
           "poled20s.dns.army",
           "poled2s.dns.army",
           "polercm-19v.dynv6.net",
@@ -117684,7 +117687,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-06-09T17:22:41+03:00",
+        "last_modified": "2026-06-10T11:35:10+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -119307,12 +119310,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 23461,
+          "domain": 23464,
           "file_path": 295,
           "ipv4": 87,
           "url": 71
         },
-        "total": 23914
+        "total": 23917
       }
     },
     "KUN3": {
@@ -120003,6 +120006,7 @@
           "admin.luckyguys.site",
           "admin.meeting-central.online",
           "admin.meeting-zone.online",
+          "admin.rohapowers.com",
           "admin.support.general-meet.site",
           "adnoc.sbs",
           "aduresi.com",
@@ -120047,6 +120051,7 @@
           "alpcoin.anomgaming.online",
           "alpha.preconnection.online",
           "alphanonega.org",
+          "alqaflah.com",
           "alticgo.com",
           "alwayswait.online",
           "alwayswait.site",
@@ -125038,7 +125043,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-06-09T22:52:30+03:00",
+        "last_modified": "2026-06-10T10:41:58+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -126300,12 +126305,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3706,
+          "domain": 3708,
           "file_path": 479,
           "ipv4": 704,
           "url": 119
         },
-        "total": 5008
+        "total": 5010
       }
     },
     "LAZYSCRIPTER": {
@@ -145602,6 +145607,7 @@
           "pitb.gov-pkgov.workers.dev",
           "pitb.zapto.org",
           "pk-cam.online",
+          "pk-cc.com",
           "pk-co.info",
           "pk-ev.online",
           "pk-go.net",
@@ -145621,6 +145627,7 @@
           "pk-mailgov.com",
           "pk-o.xyz",
           "pk-post.top",
+          "pk-qrs.online",
           "pk-soft.online",
           "pk.1.modp-pk.org",
           "pk.2let.org",
@@ -146221,6 +146228,7 @@
           "visa.nadra.gov-pak.com",
           "visa.nadra.gov-pk.info",
           "visa.nadra.gov.pk-cam.online",
+          "visa.nadra.gov.pk-cc.com",
           "visa.nadra.gov.pk-ev.online",
           "visa.nadra.gov.pk-o.xyz",
           "visa.nadra.gov.pk.com-e-visa.online",
@@ -146564,7 +146572,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-05-21T13:08:55+03:00",
+        "last_modified": "2026-06-10T10:44:10+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -147650,12 +147658,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3576,
+          "domain": 3579,
           "file_path": 16,
           "ipv4": 50,
           "url": 29
         },
-        "total": 3671
+        "total": 3674
       }
     },
     "SILENCE": {
