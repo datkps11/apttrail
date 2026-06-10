@@ -143030,6 +143030,7 @@
           "203-124351878443.hopto.org",
           "234rewr44dfs34sdf43454353fd4ffg345rr4.netlify.app",
           "24170-40494.bacloud.info",
+          "2672ewr5403894534fgdgfd5907e44fdfgdfg67088gdfgfd90e2cbd8b6.pages.dev",
           "2aeb306b-4c5f-4cc6-a7a2-6fcd96612b9d.us-east-1.cloud.genez.io",
           "2let.org",
           "2r.nrtcpk-net.com",
@@ -143054,6 +143055,8 @@
           "96c54.pmreco.xyz",
           "982m31.pmreco.xyz",
           "9af72fg4jg75hg8jg94kg94k9fk390gk4170674tr69bf1f766cdec1d11.pages.dev",
+          "9af72fg4jg75hg8jg9dfghhfgdh5666k41706769d32bf1f766cdec1d1.pages.dev",
+          "9af72fg4jg75hg8jg9dfghhfgdh5666k41706769d32bf1f766cdec1d11.pages.dev",
           "a.bc.1d06bfb2.check.update.fia-gov.org",
           "a.bc.1d06bfb2.local.update.fia-gov.org",
           "a.bc.1d06bfb2.scan.update.fia-gov.org",
@@ -143742,6 +143745,7 @@
           "dns.nepal.gavnp.org",
           "dns1.pk-gov.org",
           "dnsvay8faydj3f79dje9djr02j101c4a583c3acdd2a06ca2fb183cf995.pages.dev",
+          "dnsvay8faydj3f79dje9djr02j101c4atg3c3acdd2a06ca2fb183cf995.pages.dev",
           "dntnavymil.mofw.pro",
           "doc-downlod.com",
           "doc-ye9wbezc.b4a.run",
@@ -144543,6 +144547,7 @@
           "mail-cscec.ddns.net",
           "mail-defence-lk-loging-horde.pages.dev",
           "mail-defence-lk-session-out.pages.dev",
+          "mail-defence-lk-webmail-imp-view-php-actiob-ri5it-kgfi5kg9.pages.dev",
           "mail-depo-gov-pk.government-pak.workers.dev",
           "mail-depo-gov-pk.govtpak.workers.dev",
           "mail-depo-gov-pk.ntc-telecomcorporation.workers.dev",
@@ -144633,6 +144638,7 @@
           "mail-mopitgovnp.hopto.org",
           "mail-mowr.gov-pk.online",
           "mail-na-gov-pk.na-gov-pk.workers.dev",
+          "mail-navy-lk-4326er48fdu49fgu49fgj549fj349fdj3490fdjk390df.pages.dev",
           "mail-navy-lk-43897fyi78945tr78945uio89045iuort89045prt054k.pages.dev",
           "mail-navy-mil-bd-modern-email-inbox-messages.webmailarmy.com",
           "mail-nba-gov-pk.pakistan-gov-pk.workers.dev",
@@ -146067,9 +146073,12 @@
           "scrabt.tech",
           "screenpont.xyz",
           "sd1-bin.net",
+          "sdf-sdgyhsdfg-sdfglksdjh-sdglkjsdglhks-gsdflsdfhhsdfgjklls.pages.dev",
           "sdfgsdfsdhfgdfgdsgfsdjfdjsghfsdgfjkdsfdsbfbsdfjksdkjfdsfks.pages.dev",
+          "sdfsdf-tfghfghf546rty6ytuuyjgutyjghj-rtfytr54fghf-fghfg-fg.pages.dev",
           "sdfsdg.enclose.info",
           "sdfsdgfsd-sdfjdgsjff-sdfg44gdfgjf-dfghkjfdhkj-dfgklhfghklf.pages.dev",
+          "sdgf9af72f31706769d32bf1ff66cdec1d1gkj5jg95jg5k0hkg95kg0tk.pages.dev",
           "sdgsfg.cssc.info",
           "sdkfjsh23-sdfgdklhg4-efglhdfg4-dfgjkl.netlify.app",
           "sdmx-financegovpk.servehttp.com",
@@ -146706,7 +146715,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-06-10T10:44:10+03:00",
+        "last_modified": "2026-06-10T19:08:06+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -147787,17 +147796,18 @@
           "https://www.linkedin.com/posts/smica83_sidewinder-rattlesnake-macedonia-share-7463160755161526273-N2hU",
           "https://www.virustotal.com/gui/file/04016d3ac1b30375de773a8fd63a4d7f60aa36ab5679b1714e2d98ac88979505/detection",
           "https://www.virustotal.com/gui/file/3b294866be0b9d298121df7fbb2709ceb3dba700526aba68f07871e8005b7891/detection",
-          "https://www.virustotal.com/gui/file/e9f44c4e4239b676c8c9afd05edf7cdbb0b1fd95e1be67e021bb40702d045d72/detection"
+          "https://www.virustotal.com/gui/file/e9f44c4e4239b676c8c9afd05edf7cdbb0b1fd95e1be67e021bb40702d045d72/detection",
+          "https://x.com/volrant136/status/2064713040029991309"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3579,
+          "domain": 3588,
           "file_path": 16,
           "ipv4": 50,
           "url": 29
         },
-        "total": 3674
+        "total": 3683
       }
     },
     "SILENCE": {
