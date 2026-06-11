@@ -122490,6 +122490,7 @@
           "ourhome.o-r.kr",
           "ovcloud.online",
           "ownemail.me",
+          "oxdo.xyz",
           "palgong-cc.co.kr",
           "pancakeswap.studio",
           "panda.ourhome.o-r.kr",
@@ -125177,7 +125178,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-06-10T10:41:58+03:00",
+        "last_modified": "2026-06-11T10:21:57+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -126439,12 +126440,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3708,
+          "domain": 3709,
           "file_path": 479,
           "ipv4": 704,
           "url": 119
         },
-        "total": 5010
+        "total": 5011
       }
     },
     "LAZYSCRIPTER": {
