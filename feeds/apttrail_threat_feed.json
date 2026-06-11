@@ -7650,6 +7650,7 @@
           "dnldsalecraze.com",
           "domainnamevalidator.com",
           "domainregistationcheck.com",
+          "downloadclouddata.com",
           "dracjohnsupport.com",
           "drogbachelsea.com",
           "dtzappaccount.com",
@@ -8124,6 +8125,7 @@
           "162.252.172.67:443",
           "162.252.175.131:6969",
           "162.252.175.131:8246",
+          "163.245.220.108:8442",
           "167.88.15.93:61920",
           "185.106.123.198:40269",
           "185.117.72.87:10923",
@@ -8234,7 +8236,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-05-06T13:02:07+03:00",
+        "last_modified": "2026-06-11T15:00:32+03:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -8819,17 +8821,19 @@
           "https://www.virustotal.com/gui/file/84f2b3cde61895fbe28c3660d5f8d796f6eac6a969838eb340283a50a2c3de09/detection",
           "https://x.com/RexorVc0/status/2049740014875967766",
           "https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247508516&idx=1&sn=a869f67294b5777615ad597c3730105e&chksm=f9c1912dceb6183b4f7f359de87814c613d58b671245307a99857eb03847a0860743516e7fae&scene=178&cur_album_id=1955835290309230595&search_click_id",
-          "https://x.com/blackorbird/status/2051892318203175106"
+          "https://x.com/blackorbird/status/2051892318203175106",
+          "https://x.com/blackorbird/status/2064727597435752846",
+          "https://mp.weixin.qq.com/s/jH60_sYtZjJZWtVc5d277g"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 464,
+          "domain": 465,
           "file_path": 82,
-          "ipv4": 77,
+          "ipv4": 78,
           "url": 19
         },
-        "total": 642
+        "total": 644
       }
     },
     "BLACKGEAR": {
@@ -120888,6 +120892,7 @@
           "cloud.optvers.net",
           "cloud.prosec.ink",
           "cloud.smbcgroup.uk",
+          "cloudflare1.vercel.app",
           "cloudflarefirewall.vercel.app",
           "cloudflareinsights.vercel.app",
           "cloudflaresecurity.vercel.app",
@@ -121063,6 +121068,7 @@
           "data-kappa.vercel.app",
           "database.retrots.net",
           "datacentre.center",
+          "datasecure-service.vercel.app",
           "datasend.linkpc.net",
           "dataxo.net",
           "davhub88.vercel.app",
@@ -123512,6 +123518,8 @@
           "vscode-helper-132.vercel.app",
           "vscode-helper171-ruby.vercel.app",
           "vscode-helper171.vercel.app",
+          "vscode-ip-address-checking.vercel.app",
+          "vscode-ip-checking-nine.vercel.app",
           "vscode-lnc.vercel.app",
           "vscode-load-config.vercel.app",
           "vscode-load.onrender.com",
@@ -125178,7 +125186,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-06-11T10:21:57+03:00",
+        "last_modified": "2026-06-11T14:52:57+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -126382,6 +126390,7 @@
           "https://jp.security.ntt/tech_blog/en-waterplum-ottercookie",
           "https://opensourcemalware.com/blog/tasksjacker-blog-post",
           "https://x.com/abh1sek/status/2039637787742507381",
+          "https://x.com/KirkDerpca/status/2065027462761787802",
           "https://panther.com/blog/tracking-an-ottercookie-infostealer-campaign-across-npm",
           "https://www.team-cymru.com/post/dprk-fake-it-worker-cyber-threat-actors-infrastructure",
           "https://www.trendmicro.com/en_us/research/26/d/void-dokkaebi-uses-fake-job-interview-lure-to-spread-malware-via-code-repositories.html",
@@ -126440,12 +126449,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3709,
+          "domain": 3713,
           "file_path": 479,
           "ipv4": 704,
           "url": 119
         },
-        "total": 5011
+        "total": 5015
       }
     },
     "LAZYSCRIPTER": {

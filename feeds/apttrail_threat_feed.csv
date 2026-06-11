@@ -5996,6 +5996,7 @@ BITTER,domain,diyefosterfeeds.com
 BITTER,domain,dnldsalecraze.com
 BITTER,domain,domainnamevalidator.com
 BITTER,domain,domainregistationcheck.com
+BITTER,domain,downloadclouddata.com
 BITTER,domain,dracjohnsupport.com
 BITTER,domain,drogbachelsea.com
 BITTER,domain,dtzappaccount.com
@@ -6466,6 +6467,7 @@ BITTER,ipv4,162.0.216.229:8888
 BITTER,ipv4,162.252.172.67:443
 BITTER,ipv4,162.252.175.131:6969
 BITTER,ipv4,162.252.175.131:8246
+BITTER,ipv4,163.245.220.108:8442
 BITTER,ipv4,167.88.15.93:61920
 BITTER,ipv4,185.106.123.198:40269
 BITTER,ipv4,185.117.72.87:10923
@@ -108435,6 +108437,7 @@ LAZARUS,domain,cloud.mufg.tokyo
 LAZARUS,domain,cloud.optvers.net
 LAZARUS,domain,cloud.prosec.ink
 LAZARUS,domain,cloud.smbcgroup.uk
+LAZARUS,domain,cloudflare1.vercel.app
 LAZARUS,domain,cloudflarefirewall.vercel.app
 LAZARUS,domain,cloudflareinsights.vercel.app
 LAZARUS,domain,cloudflaresecurity.vercel.app
@@ -108610,6 +108613,7 @@ LAZARUS,domain,daniel-ayala.netlify.app
 LAZARUS,domain,data-kappa.vercel.app
 LAZARUS,domain,database.retrots.net
 LAZARUS,domain,datacentre.center
+LAZARUS,domain,datasecure-service.vercel.app
 LAZARUS,domain,datasend.linkpc.net
 LAZARUS,domain,dataxo.net
 LAZARUS,domain,davhub88.vercel.app
@@ -111059,6 +111063,8 @@ LAZARUS,domain,vscode-extensions-bootstrap.vercel.app
 LAZARUS,domain,vscode-helper-132.vercel.app
 LAZARUS,domain,vscode-helper171-ruby.vercel.app
 LAZARUS,domain,vscode-helper171.vercel.app
+LAZARUS,domain,vscode-ip-address-checking.vercel.app
+LAZARUS,domain,vscode-ip-checking-nine.vercel.app
 LAZARUS,domain,vscode-lnc.vercel.app
 LAZARUS,domain,vscode-load-config.vercel.app
 LAZARUS,domain,vscode-load.onrender.com
