@@ -96201,6 +96201,7 @@
           "cert.abrdns.com",
           "cert.p-e.kr",
           "cert.smartbtc.dynv6.net",
+          "cert.tomlee.dns.army",
           "certificate.medis.navers.store",
           "certificateapp.n-e.kr",
           "certify.n-e.kr",
@@ -97542,6 +97543,7 @@
           "do-can.click",
           "doanthi.myvnc.com",
           "doc-auth.check.nid-user.kro.kr",
+          "doc-check.dynv6.net",
           "doc-deliver-sign.pics",
           "doc-deliver.kinyz.v6.navy",
           "doc-hometax.mydns.bz",
@@ -114885,6 +114887,7 @@
           "tololo.p-e.kr",
           "tolpa.shop",
           "tomcendetp.store",
+          "tomlee.dns.army",
           "tomprestp.store",
           "tongdiff.click",
           "tongsoju.n-e.kr",
@@ -117833,7 +117836,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-06-12T11:55:05+03:00",
+        "last_modified": "2026-06-12T21:32:28+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -119453,17 +119456,18 @@
           "https://x.com/v0lundr_/status/2063925757542277397",
           "https://www.virustotal.com/gui/file/e291ee630a58c405f86ca83d9364bfc3dbf13aecff9000cca4f2602158dac845/detection",
           "https://x.com/skocherhan/status/2064418614216622388",
-          "https://x.com/skocherhan/status/2064423269063704732"
+          "https://x.com/skocherhan/status/2064423269063704732",
+          "https://x.com/_IMalihi_/status/2065448396836495551"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 23606,
+          "domain": 23609,
           "file_path": 295,
           "ipv4": 87,
           "url": 71
         },
-        "total": 24059
+        "total": 24062
       }
     },
     "KUN3": {
