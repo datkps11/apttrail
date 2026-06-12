@@ -112086,6 +112086,9 @@ LAZARUS,ipv4,165.140.86.183:1245
 LAZARUS,ipv4,165.140.86.183:2246
 LAZARUS,ipv4,165.140.86.227:1244
 LAZARUS,ipv4,166.88.132.114:8000
+LAZARUS,ipv4,166.88.54.158:27107
+LAZARUS,ipv4,166.88.54.158:443
+LAZARUS,ipv4,166.88.54.158:8888
 LAZARUS,ipv4,167.88.168.152:1224
 LAZARUS,ipv4,167.88.39.141:5000
 LAZARUS,ipv4,167.88.39.55:3000
@@ -112572,6 +112575,7 @@ LAZARUS,url,http://156.245.16.55/admin/admin.asp
 LAZARUS,url,http://158.69.57.135
 LAZARUS,url,http://159.100.18.177
 LAZARUS,url,http://163.245.219.19
+LAZARUS,url,http://166.88.54.158
 LAZARUS,url,http://172.86.109.49
 LAZARUS,url,http://172.86.113.12
 LAZARUS,url,http://172.86.114.141
@@ -119317,6 +119321,7 @@ OCEANLOTUS,domain,cloud.reneark.com
 OCEANLOTUS,domain,cloud.sicaogler.com
 OCEANLOTUS,domain,clouds.onthewifi.com
 OCEANLOTUS,domain,cnn.befmann.com
+OCEANLOTUS,domain,coachcybersecurity.com
 OCEANLOTUS,domain,coco.cechire.com
 OCEANLOTUS,domain,colingrovesjama.com
 OCEANLOTUS,domain,confusion-cerulean-samba.glitch.me
@@ -119369,6 +119374,7 @@ OCEANLOTUS,domain,fbcn.enantor.com
 OCEANLOTUS,domain,feeder.blogdns.com
 OCEANLOTUS,domain,feieraagsbend.com
 OCEANLOTUS,domain,file.log4jv.info
+OCEANLOTUS,domain,financemachinelearning.com
 OCEANLOTUS,domain,fontloading.com
 OCEANLOTUS,domain,food.letsmiles.org
 OCEANLOTUS,domain,fox.ailloux.com
@@ -119378,6 +119384,7 @@ OCEANLOTUS,domain,gacha.knowsitall.info
 OCEANLOTUS,domain,game2015.net
 OCEANLOTUS,domain,gameandroid.taiphanmemfacebookmoi.info
 OCEANLOTUS,domain,gap-facebook.com
+OCEANLOTUS,domain,gatewayrvcenter.com
 OCEANLOTUS,domain,get.dupbleanalytics.net
 OCEANLOTUS,domain,get.freelicenses.net
 OCEANLOTUS,domain,gifted-boulder-transport.glitch.me
@@ -119449,6 +119456,7 @@ OCEANLOTUS,domain,laotiantimes.com
 OCEANLOTUS,domain,laudiaouc.com
 OCEANLOTUS,domain,lauradesnoyers.com
 OCEANLOTUS,domain,lbertussbau.com
+OCEANLOTUS,domain,leadingfilipinoteams.com
 OCEANLOTUS,domain,ledanvietnam.org
 OCEANLOTUS,domain,letsme.gotdns.com
 OCEANLOTUS,domain,lginstree.com
@@ -119486,6 +119494,7 @@ OCEANLOTUS,domain,msoffice-templates.info
 OCEANLOTUS,domain,msofficecloud.org
 OCEANLOTUS,domain,msteamsapi.com
 OCEANLOTUS,domain,mtk.baimind.com
+OCEANLOTUS,domain,mxprodesign.com
 OCEANLOTUS,domain,myaccount.philtimes.org
 OCEANLOTUS,domain,mykessef.com
 OCEANLOTUS,domain,myolton.com
