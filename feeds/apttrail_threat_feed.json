@@ -98840,6 +98840,7 @@
           "ercm-uinvoice90s.dynv6.net",
           "ercm-uinvoice92s.dynv6.net",
           "ercmbasedoc.mydns.bz",
+          "ercmload15nd.dynv6.net",
           "ercmnvid.mydns.bz",
           "ercmpola21s.dynv6.net",
           "ercmpola41s.dynv6.net",
@@ -101493,7 +101494,9 @@
           "ipsdesc.x10.network",
           "ipsdoc-auth.mydns.vc",
           "ipsdoc.groups.id",
+          "ipsedcis.dynu.org",
           "ipsedocs.dns.navy",
+          "ipsedois.dynu.org",
           "ipsedx.dns.army",
           "ipseno10s.dns.army",
           "ipseno15s.dns.army",
@@ -103972,6 +103975,7 @@
           "mxd.dest.kro.kr",
           "mxndu.r-e.kr",
           "mxopl.site",
+          "mxot35us.dns.navy",
           "mxportal.p-e.kr",
           "my-epost-order.dns.navy",
           "my-etoll-service.vineluxe.store",
@@ -107591,6 +107595,7 @@
           "nid-naverlnm.ddnsking.com",
           "nid-naverlpd.onthewifi.com",
           "nid-naverlqd.servecounterstrike.com",
+          "nid-naverlvb.servepics.com",
           "nid-navermail.servepics.com",
           "nid-navermails.servegame.com",
           "nid-navermbi.servemp3.com",
@@ -107701,6 +107706,7 @@
           "nid-navervei.serveftp.com",
           "nid-navervfr.ddnsking.com",
           "nid-navervjb.myvnc.com",
+          "nid-navervmt.servemp3.com",
           "nid-navervtw.serveftp.com",
           "nid-navervwa.servehalflife.com",
           "nid-navervxu.servecounterstrike.com",
@@ -107731,6 +107737,7 @@
           "nid-naverzch.servegame.com",
           "nid-naverzcr.myvnc.com",
           "nid-naverzis.servequake.com",
+          "nid-naverzlx.servegame.com",
           "nid-naverzmyc.ddnsking.com",
           "nid-naverzsq.ddnsking.com",
           "nid-naverztm.ddns.net",
@@ -109426,6 +109433,7 @@
           "nopts.xubi.org",
           "noramdis.o-r.kr",
           "noreply.gov.ydns.eu",
+          "noreplyaccou.dynv6.net",
           "noreplyer.ink",
           "noreplymybox.xyz",
           "noreplynaver.xyz",
@@ -113511,6 +113519,7 @@
           "sec-line.work",
           "sec-live.com",
           "sec-naver.com",
+          "sec-passe.dynv6.net",
           "sec-portal.nl",
           "sec.information.www.check-self.o-r.kr",
           "secacc-google.ddnsking.com",
@@ -117266,6 +117275,7 @@
           "znznloey.online",
           "zobkoreanck320fernst.website",
           "zoicopinum.store",
+          "zonetaxload92nd.dynv6.net",
           "zonezid.click",
           "zoom-meeting.kro.kr",
           "zoom.colla.n-e.kr",
@@ -117823,7 +117833,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-06-10T15:50:23+03:00",
+        "last_modified": "2026-06-12T11:55:05+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -119448,12 +119458,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 23596,
+          "domain": 23606,
           "file_path": 295,
           "ipv4": 87,
           "url": 71
         },
-        "total": 24049
+        "total": 24059
       }
     },
     "KUN3": {
