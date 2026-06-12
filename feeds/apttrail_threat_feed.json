@@ -95519,6 +95519,7 @@
           "benze.atwebpages.com",
           "beplay787.com",
           "beratosv.n-e.kr",
+          "berginiya.n-e.kr",
           "bermates.n-e.kr",
           "berysu.site",
           "bestelipite.click",
@@ -100354,6 +100355,7 @@
           "hironu.site",
           "histarnaverlogin.vercel.app",
           "histessicietese.click",
+          "history.berginiya.n-e.kr",
           "historycredit.homes",
           "histstudiosa.click",
           "hiwi.o-r.kr",
@@ -116934,6 +116936,7 @@
           "xn--4y2bl5s.imvoice.o-r.kr",
           "xn--4y2bl5s.nids.o-r.kr",
           "xn--910b050bu5a.xn--oi2b61z32a.xn--3e0b707e",
+          "xn--910b562a6sdnpb.xn--9i1b01onwqqzd.xn--3e0b707e",
           "xn--910b562a8pe.xn--oi2b61z32a.xn--3e0b707e",
           "xn--910bj06aw1bm2f.xn--h32bi4v.xn--3e0b707e",
           "xn--910bs4k2b903c.xn--oi2b61z32a.xn--3e0b707e",
@@ -116943,6 +116946,7 @@
           "xn--950bt9sumh.xn--hk3b17f.xn--3e0b707e",
           "xn--950bt9sumh.xn--oi2b61z32a.xn--3e0b707e",
           "xn--989amm089aqzk.xn--9i1b01onwqqzd.xn--3e0b707e",
+          "xn--9i1b01onwqqzd.xn--3e0b707e",
           "xn--9i1b52g1q7a.xn--2i0b10rqve.xn--3e0b707e",
           "xn--c79ak52c.xn--hk3b17f.xn--3e0b707e",
           "xn--c79ao69ad3e0kc.xn--9i1b01onwqqzd.xn--3e0b707e",
@@ -117008,6 +117012,7 @@
           "xn--vf0bp3hv1sl8m.xn--hk3b17f.xn--3e0b707e",
           "xn--vf4b150a.xn--hu5b25b77nvwc.xn--3e0b707e",
           "xn--vn4b27hka971hbue.kr",
+          "xn--xj2b562c.xn--9i1b01onwqqzd.xn--3e0b707e",
           "xn--yq5b.xn--3e0b707e",
           "xn--z92bt5aizg97e.xn--hk3b17f.xn--3e0b707e",
           "xn--zb0b93v.xn--hu5b25b77nvwc.xn--3e0b707e",
@@ -117836,7 +117841,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-06-12T21:32:28+03:00",
+        "last_modified": "2026-06-12T22:26:33+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -119457,17 +119462,18 @@
           "https://www.virustotal.com/gui/file/e291ee630a58c405f86ca83d9364bfc3dbf13aecff9000cca4f2602158dac845/detection",
           "https://x.com/skocherhan/status/2064418614216622388",
           "https://x.com/skocherhan/status/2064423269063704732",
-          "https://x.com/_IMalihi_/status/2065448396836495551"
+          "https://x.com/_IMalihi_/status/2065448396836495551",
+          "https://x.com/skocherhan/status/2064784809990234184"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 23609,
+          "domain": 23614,
           "file_path": 295,
           "ipv4": 87,
           "url": 71
         },
-        "total": 24062
+        "total": 24067
       }
     },
     "KUN3": {
