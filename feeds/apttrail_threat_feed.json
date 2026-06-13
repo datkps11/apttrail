@@ -101487,6 +101487,7 @@
           "ips-work.abrdns.com",
           "ips.dynuddns.net",
           "ips.petfoodkorea.kr",
+          "ipsados.dynuddns.net",
           "ipscode.dns.army",
           "ipscorped.dns.navy",
           "ipscorped.dynv6.net",
@@ -103406,6 +103407,7 @@
           "meekickslab.xyz",
           "meetings.kro.kr",
           "meexperti.click",
+          "mega2d.xyz",
           "megadown.store",
           "megaipark.click",
           "meganz.p-e.kr",
@@ -103767,6 +103769,7 @@
           "moisalap.dns.navy",
           "moiscorped.dns.army",
           "moisdocdeposit.dynv6.net",
+          "moisedois.dynu.org",
           "moisesd.dns.army",
           "moisguide.g4gr.eb0bw7j0sr.v6.army",
           "moishlwkt.site",
@@ -106344,6 +106347,9 @@
           "ncodcwpass.dns.navy",
           "ncodcypass.v6.army",
           "ncoddbverify.v6.army",
+          "ncodencheck.v6.army",
+          "ncodenpass.v6.army",
+          "ncodeopass.dynu.org",
           "ncog10ks.dns.navy",
           "ncog30ks.dns.navy",
           "ncog3ks.dns.navy",
@@ -107320,6 +107326,7 @@
           "nhpolercm98v.dynv6.net",
           "nhpurumy.mireene.com",
           "nhs.blog-authority.o-r.kr",
+          "nhschis.dynu.org",
           "nhsdoc.crabdance.com",
           "nhsdoc.networkoutpost.com",
           "nhsdomainspf.mydns.bz",
@@ -107338,6 +107345,7 @@
           "nhskr.space",
           "nhskr.store",
           "nhsmobiles.mydns.bz",
+          "nhsnhis.dynu.org",
           "nhsreports74s.dynv6.net",
           "nhstp.dns.army",
           "nhtgfr.online",
@@ -108398,6 +108406,8 @@
           "nidlogins.ncodcipass.dns.army",
           "nidlogins.ncodcnverify.dns.navy",
           "nidlogins.ncodcppass.dns.navy",
+          "nidlogins.ncodencheck.v6.army",
+          "nidlogins.ncodenpass.v6.army",
           "nidlogins.ndocatverify.dynv6.net",
           "nidlogins.nids-logins.dns.navy",
           "nidlogins.npsesdocs.dns.army",
@@ -110026,6 +110036,7 @@
           "nstaticorg67th.dynv6.net",
           "nstaticorg70th.dynv6.net",
           "nstaticorg83th.dynv6.net",
+          "nstcodensg.dynu.org",
           "nsteam.store",
           "nsteamanger.store",
           "nstk.nid-tax.dynuddns.net",
@@ -117841,7 +117852,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-06-12T22:26:33+03:00",
+        "last_modified": "2026-06-13T14:10:11+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -119468,12 +119479,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 23614,
+          "domain": 23625,
           "file_path": 295,
           "ipv4": 87,
           "url": 71
         },
-        "total": 24067
+        "total": 24078
       }
     },
     "KUN3": {
