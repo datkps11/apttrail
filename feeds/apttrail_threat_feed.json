@@ -121286,6 +121286,7 @@
           "drivercamhub.cloud",
           "drivercams.cloud",
           "drivercamsupport.com",
+          "driverhubpro.net",
           "driverpool.online",
           "driverservices.store",
           "driversnap.cloud",
@@ -124916,6 +124917,7 @@
           "45.8.22.52:9000",
           "45.81.243.71:8080",
           "45.83.140.55:1244",
+          "45.95.186.237:8000",
           "46.17.98.55:1244",
           "47.206.4.145:59067",
           "5.135.5.48:1244",
@@ -125138,6 +125140,7 @@
           "http://45.8.146.93",
           "http://45.84.226.239",
           "http://45.89.53.54",
+          "http://45.95.186.237",
           "http://47.91.56.21/verify.php",
           "http://5.230.251.49",
           "http://5.230.252.157",
@@ -125244,7 +125247,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-06-12T14:31:39+03:00",
+        "last_modified": "2026-06-15T22:29:37+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -126504,17 +126507,20 @@
           "https://www.virustotal.com/gui/file/322b2eb4e4d61ec6a746e3da421e8fd9c62ce4f919f03aed373f663de539b2ba/detection",
           "https://www.virustotal.com/gui/file/068505fab1dc1b784ddc845c9eeeba8e04da512383ecd55a7a3d076879656393/detection",
           "https://x.com/tuckner/status/2065140621497561236",
-          "https://gist.github.com/danslo/1778c3bf30d65967db2d680727cbc89d"
+          "https://gist.github.com/danslo/1778c3bf30d65967db2d680727cbc89d",
+          "https://x.com/L0Psec/status/2066540844006375831",
+          "https://www.virustotal.com/gui/file/95fdd6fe3c222a51a8038d8340e43338b7655d477da6f7eaede7925cf22f0106/detection",
+          "https://www.virustotal.com/gui/file/1a3146e3df64507fd9ab933f7ca395fe9355843e108dde346e806808b2c79001/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3713,
+          "domain": 3714,
           "file_path": 479,
-          "ipv4": 707,
-          "url": 120
+          "ipv4": 708,
+          "url": 121
         },
-        "total": 5019
+        "total": 5022
       }
     },
     "LAZYSCRIPTER": {
