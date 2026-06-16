@@ -131380,6 +131380,7 @@
           "linestro.digital",
           "linkupdate.org",
           "lirposa.sbs",
+          "live.meet-837878474985876594.safelinks-microsoftonline.com",
           "ljubljanastrike.sa.com",
           "loadzone88.ru.com",
           "localpeak399.mypi.co",
@@ -131467,6 +131468,7 @@
           "mealwharf.life",
           "measurz.shop",
           "mechflora.digital",
+          "meet-837878474985876594.safelinks-microsoftonline.com",
           "megakiosk.mypi.co",
           "megamake.mypi.co",
           "megaozone.mypi.co",
@@ -132325,6 +132327,7 @@
           "tcreat.life",
           "tealfind.mypi.co",
           "tealspace147.mypi.co",
+          "teams.live.meet-837878474985876594.safelinks-microsoftonline.com",
           "techfluxis.digital",
           "techvortex.digital",
           "techwhirl.click",
@@ -133146,7 +133149,7 @@
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2026-06-03T22:02:21+03:00",
+        "last_modified": "2026-06-16T11:12:16+03:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
@@ -133383,12 +133386,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 2626,
+          "domain": 2629,
           "file_path": 187,
           "ipv4": 107,
           "url": 112
         },
-        "total": 3032
+        "total": 3035
       }
     },
     "MURENSHARK": {
@@ -173763,6 +173766,7 @@
           "bctnra.zapto.org",
           "beddass.no-ip.biz",
           "bible-uncle-turkish-elderly.trycloudflare.com",
+          "bigslotjp.top",
           "bilallchefa.zapto.org",
           "bitter-hall-1c0c.ochiplus.workers.dev",
           "bj.whtjz.com",
@@ -173998,6 +174002,7 @@
           "ftp.makeup.dynamic-dns.net",
           "ftp.yurtumawat.wwwhost.us",
           "funnerhere.com",
+          "futuread.site",
           "fwg.ammopak.site",
           "g119847.hostde20.fornex.host",
           "g1sw.telemetry.geoinfocdn.com",
@@ -174248,6 +174253,7 @@
           "lost-olympic.tokyo",
           "lov3black.no-ip.biz",
           "lragir.org",
+          "lucky86-game-cloud.top",
           "lulzpedia.ddns.net",
           "lxo.ammopak.site",
           "m.goudie.in",
@@ -174357,6 +174363,7 @@
           "ncoc-update.app.link",
           "nctc.go.kr",
           "nefal.mobi",
+          "nefeshhope.com",
           "nehabe.mobi",
           "nejoja.mobi",
           "nemzetivalasztas.com",
@@ -174446,6 +174453,7 @@
           "personlog.in",
           "photogram.ga",
           "pilutce.com",
+          "pipelinebuilder.top",
           "pita1.sportsontheweb.net",
           "platform-appses.appspot.com",
           "pokemonisrael.yolasite.com",
@@ -174643,6 +174651,7 @@
           "t-mobile-sq.com",
           "t1.handprintscariness.ru",
           "t1bank.xyz",
+          "t3ch.tech",
           "takeusall.online",
           "tamor.mobi",
           "taneketevo.online",
@@ -174727,6 +174736,7 @@
           "update.86wts86a8j.com",
           "update.wonderbackup.com",
           "updateeset.com",
+          "updatetxmc.top",
           "urdnz.cf",
           "urler.site",
           "us-ledger.com",
@@ -174946,6 +174956,7 @@
           "138.68.56.176:445",
           "143.110.189.141:443",
           "146.70.161.78:443",
+          "146.70.233.83:443",
           "147.78.46.40:37662",
           "147.78.46.40:43891",
           "150.241.97.10:443",
@@ -175019,8 +175030,13 @@
           "213.171.212.212:443",
           "213.87.14.102:443",
           "3.106.196.145:4433",
+          "31.172.87.20:22",
+          "31.172.87.20:8080",
           "31.192.237.207:2515",
           "4.232.170.137:443",
+          "45.77.242.76:443",
+          "45.77.242.76:8000",
+          "45.77.242.76:8090",
           "46.160.189.123:443",
           "46.160.189.124:443",
           "46.249.49.109:21",
@@ -175028,6 +175044,8 @@
           "46.29.163.222:9999",
           "47.121.202.148:443",
           "5.133.12.224:333",
+          "5.255.127.55:8020",
+          "5.255.127.55:8087",
           "51.68.33.34:8787",
           "61.14.210.72:7117",
           "64.34.205.178:443",
@@ -175068,6 +175086,7 @@
           "http://144.202.19.31",
           "http://146.185.233.101",
           "http://146.70.161.78",
+          "http://146.70.233.83",
           "http://150.241.97.10",
           "http://154.90.47.77",
           "http://155.248.164.32",
@@ -175126,7 +175145,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2026-06-02T21:35:00+03:00",
+        "last_modified": "2026-06-16T13:01:20+03:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -175596,17 +175615,20 @@
           "https://x.com/smica83/status/2043078916508708895",
           "https://www.virustotal.com/gui/file/b54371228b9a9657abe03b118247942d5b61370b36bbdd6027abc178b8a09e35/detection",
           "https://x.com/nahamike01/status/2052583412217881081",
-          "https://x.com/nahamike01/status/2052583416709984661"
+          "https://x.com/nahamike01/status/2052583416709984661",
+          "https://x.com/ElementalX2/status/2066778907521724688",
+          "https://www.virustotal.com/gui/file/cc27de5f39ce95714f6252947dbde8333ad73d0102875814c11d03e943ca3fe1/detection",
+          "https://hunt.io/blog/ababil-of-minab-iranian-hackers-exposed-la-metro-breach-open-directory"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1218,
+          "domain": 1225,
           "file_path": 77,
-          "ipv4": 134,
-          "url": 62
+          "ipv4": 142,
+          "url": 63
         },
-        "total": 1491
+        "total": 1507
       }
     },
     "USH": {

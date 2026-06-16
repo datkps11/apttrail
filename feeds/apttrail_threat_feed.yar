@@ -13869,12 +13869,12 @@ rule APT_UNCLASSIFIED
         $ip71 = "138.68.56.176" ascii wide
         $ip72 = "143.110.189.141" ascii wide
         $ip73 = "146.70.161.78" ascii wide
-        $ip74 = "147.78.46.40" ascii wide
+        $ip74 = "146.70.233.83" ascii wide
         $ip75 = "147.78.46.40" ascii wide
-        $ip76 = "150.241.97.10" ascii wide
-        $ip77 = "154.82.92.160" ascii wide
-        $ip78 = "158.160.5.218" ascii wide
-        $ip79 = "161.97.167.88" ascii wide
+        $ip76 = "147.78.46.40" ascii wide
+        $ip77 = "150.241.97.10" ascii wide
+        $ip78 = "154.82.92.160" ascii wide
+        $ip79 = "158.160.5.218" ascii wide
         $url80 = "/admin/get\.php" ascii wide nocase
         $url81 = "/login/process\.php" ascii wide nocase
         $url82 = "/news\.php" ascii wide nocase
