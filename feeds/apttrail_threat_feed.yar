@@ -12607,7 +12607,7 @@ rule APT_UNC2465
         $domain46 = "agora-mesmo\.com" ascii wide nocase
         $domain47 = "agronomywork\.info" ascii wide nocase
         $domain48 = "aiadvancedreasoning\.com" ascii wide nocase
-        $domain49 = "aialgocamp\.com" ascii wide nocase
+        $domain49 = "aiagentledger\.com" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)
