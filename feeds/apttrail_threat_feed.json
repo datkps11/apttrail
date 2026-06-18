@@ -136451,6 +136451,7 @@
           "chatit.club",
           "chaton.life",
           "chaton.live",
+          "chinagreenenergy.org",
           "chinastrat.com",
           "chinastrats.com",
           "chirrups-download.ml",
@@ -136572,6 +136573,8 @@
           "fusionnook.info",
           "fyicompsol.xyz",
           "gallopingroses.com",
+          "gcl-cn.org",
+          "gcl-power.org",
           "geochebrew.org",
           "ghshijie.com",
           "giamon.breatlee.org",
@@ -137235,7 +137238,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2026-05-06T13:11:24+03:00",
+        "last_modified": "2026-06-18T22:01:07+03:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -137671,17 +137674,19 @@
           "https://www.virustotal.com/gui/file/0c69637c2f54822a2f6c796a7800192474742d6f309b3d6aa82ecb10690a7097/detection",
           "https://x.com/malwrhunterteam/status/2047237436065894594",
           "https://www.virustotal.com/gui/file/9b2637b8fefeedf8dca8a0ace491de05b6d937ea7463b48562cd1a0f25abb9f5/detection",
-          "https://www.virustotal.com/gui/file/9d7e12eae6b593e582d8b2c3af3154a989977309dcffc7a85aedf0e047d4ca0b/detection"
+          "https://www.virustotal.com/gui/file/9d7e12eae6b593e582d8b2c3af3154a989977309dcffc7a85aedf0e047d4ca0b/detection",
+          "https://www.rapid7.com/blog/post/tr-malware-tracking-dropping-elephant-tradecraft-china-themed-loader-chain/",
+          "https://github.com/rapid7/Rapid7-Labs/blob/main/IOCs/Dropping%20Elephant/dropping-elephant-iocs.md"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 665,
+          "domain": 668,
           "file_path": 83,
           "ipv4": 57,
           "url": 43
         },
-        "total": 848
+        "total": 851
       }
     },
     "PEEPINGTITLE": {
@@ -161429,6 +161434,7 @@
           "134.209.222.206:15363",
           "154.53.42.194:8062",
           "185.126.255.132:443",
+          "45.64.186.26:443",
           "85.222.235.156:8000"
         ],
         "url": [
@@ -161462,7 +161468,7 @@
         ],
         "apt_group": "TURLA",
         "filename": "apt_turla.txt",
-        "last_modified": "2026-01-14T15:24:32+02:00",
+        "last_modified": "2026-06-18T21:36:27+03:00",
         "references": [
           "https://github.com/eset/malware-ioc/blob/master/turla/README.adoc",
           "https://www.welivesecurity.com/2018/01/09/turlas-backdoor-laced-flash-player-installer/",
@@ -161536,17 +161542,18 @@
           "https://github.com/eset/malware-ioc/tree/master/turla#gamaredon-x-turla-collab-indicators-of-compromise",
           "https://www.virustotal.com/gui/file/3ecb09e659bcb500f9f40d022579a09acb11aec3a92c03e7d3fd2e56982d9eea/detection",
           "https://x.com/TheEnergyStory/status/2011407237038620751",
-          "https://r136a1.dev/2026/01/14/command-and-evade-turlas-kazuar-v3-loader/"
+          "https://r136a1.dev/2026/01/14/command-and-evade-turlas-kazuar-v3-loader/",
+          "https://x.com/phatomcandle/status/2067668684664119330"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 203,
           "file_path": 52,
-          "ipv4": 4,
+          "ipv4": 5,
           "url": 9
         },
-        "total": 268
+        "total": 269
       }
     },
     "TVRMS": {
