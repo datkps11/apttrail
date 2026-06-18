@@ -120179,6 +120179,7 @@
           "zyxhlh.com"
         ],
         "ipv4": [
+          "137.220.140.4:13578",
           "156.251.17.147:45",
           "45.204.207.244:7747"
         ],
@@ -120192,7 +120193,7 @@
         ],
         "apt_group": "KUN3",
         "filename": "apt_kun3.txt",
-        "last_modified": "2026-04-17T17:29:25+03:00",
+        "last_modified": "2026-06-18T12:56:35+03:00",
         "references": [
           "https://x.com/Des00464472/status/1833089486307344766",
           "https://mp-weixin-qq-com.translate.goog/s/Z-MBBlwGZ7pvylA3Mad03A?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=wapp",
@@ -120207,16 +120208,18 @@
           "https://github.com/hagezi/dns-blocklists/issues/9482",
           "https://x.com/p3bt3b/status/2045121619039863092",
           "https://www.esentire.com/blog/multi-stage-seo-poisoning-campaign-targets-chinese-speaking-developers-with-kong-rat",
-          "https://github.com/eSentire/iocs/blob/main/KONG%20RAT/Kong-RAT-IoCs-04-16-2026.txt"
+          "https://github.com/eSentire/iocs/blob/main/KONG%20RAT/Kong-RAT-IoCs-04-16-2026.txt",
+          "https://x.com/smica83/status/2067518339073692136",
+          "https://www.virustotal.com/gui/file/6eb2e17cb56ed391fc76e9b289c2ef6a451aa02c3eddb268d2514f3aabcbdbeb/detection"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 576,
-          "ipv4": 2,
+          "ipv4": 3,
           "url": 1
         },
-        "total": 579
+        "total": 580
       }
     },
     "LAZARUS": {
