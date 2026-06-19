@@ -2269,8 +2269,15 @@
     "48": {
       "indicators": {
         "domain": [
+          "efb.recume.ink",
+          "klp.recume.ink",
+          "mnb.recume.ink",
           "panbaiclu.com",
+          "recume.ink",
           "vpn616865750.softether.net"
+        ],
+        "ipv4": [
+          "185.243.112.142:443"
         ]
       },
       "metadata": {
@@ -2279,18 +2286,21 @@
         ],
         "apt_group": "48",
         "filename": "apt_48.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-06-19T13:57:49+03:00",
         "references": [
           "https://x.com/blackorbird/status/1861348202156564993",
           "https://mp.weixin.qq.com/s/Xb8bEZMV3FHC1O6lWt-4pg",
-          "https://app.validin.com/detail?find=b0caff7b71c1e189a304b3420d6315c34af4476777845cfc95fde03f9a5b1d1a&type=hash&ref_id=316ceb33ab1#tab=host_pairs"
+          "https://app.validin.com/detail?find=b0caff7b71c1e189a304b3420d6315c34af4476777845cfc95fde03f9a5b1d1a&type=hash&ref_id=316ceb33ab1#tab=host_pairs",
+          "https://x.com/blackorbird/status/2067395589197951117",
+          "https://mp.weixin.qq.com/s/0aCqF4Qvi8sb8d6W3yxWbg"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 2
+          "domain": 6,
+          "ipv4": 1
         },
-        "total": 2
+        "total": 7
       }
     },
     "5": {
@@ -166764,6 +166774,7 @@
           "10b4d.sod777.com",
           "10e07.sod777.com",
           "10e24.sod777.com",
+          "10faf712fc11.com",
           "10ff3.xjhvsgg.xyz",
           "110f.sod777.com",
           "1124e.ryvjugi.com",
@@ -166784,6 +166795,7 @@
           "127b4.sod777.com",
           "12819992.7ac1c.sod777.com",
           "1299432afc0.sod777.com",
+          "129a9128e070.org",
           "12a24.sod777.com",
           "12b01.sod777.com",
           "12be0.sod777.com",
@@ -166823,6 +166835,7 @@
           "14af3.oqpxppl.cc",
           "14bea.sod777.com",
           "14ecc.sod777.com",
+          "14f23cd23e09.top",
           "151.lfhbtowr.xyz",
           "15157683649978.sod777.com",
           "1523fa9.sod777.com",
@@ -167029,6 +167042,7 @@
           "23d54.sod777.com",
           "23hs16uua03wc37.xyz",
           "24013.sod777.com",
+          "241d784b1009.info",
           "2422.sod777.com",
           "2434314773b5aa.sod777.com",
           "24347772022cb.sod777.com",
@@ -167050,6 +167064,7 @@
           "256888608.377125217b713.sod777.com",
           "257fa.sod777.com",
           "25fd.sod777.com",
+          "2604d96b8350.info",
           "26303.sod777.com",
           "264835537.419d1.sod777.com",
           "264aed4.sod777.com",
@@ -167420,6 +167435,7 @@
           "419d1.sod777.com",
           "419f4.sod777.com",
           "419f926f31.top",
+          "41a390a122e2.org",
           "41c.gbwwng.com",
           "41eb79.ootcv5.com",
           "420889891670c8.sod777.com",
@@ -167723,6 +167739,7 @@
           "57c5.heppmpuz.org",
           "57d77.sod777.com",
           "57e38.sod777.com",
+          "57x4l709amkhwbq.icu",
           "5813hmmm3smt0rf3g.lol",
           "581903362879c8.sod777.com",
           "582d.qtpvylc.xyz",
@@ -167788,10 +167805,12 @@
           "5ee6.sod777.com",
           "5ef51.sod777.com",
           "5f0bf.sod777.com",
+          "5f1c003b980d.top",
           "5f1ef.sod777.com",
           "5f3.uclvpxtg.com",
           "5f4a.sod777.com",
           "5f883.jkhvfia.com",
+          "5f9b61c9cca3.net",
           "5fa4f.sod777.com",
           "5fc13.sod777.com",
           "5fe67.sod777.com",
@@ -168003,6 +168022,7 @@
           "7636a.kjtwhgda.tips",
           "76aa4.tcympesj.xyz",
           "76d.sod777.com",
+          "76d55b1beab9.com",
           "77009911.3af31.sod777.com",
           "7743ae8997.top",
           "7744.ootcv5.com",
@@ -168116,6 +168136,7 @@
           "835.tcympesj.xyz",
           "837238df.sod777.com",
           "839.sod777.com",
+          "8419032a15ac.com",
           "842d352.sod777.com",
           "851a688.xlgxyf.net",
           "8550.fxexebji.org",
@@ -168189,6 +168210,7 @@
           "8d4e2.sod777.com",
           "8d6.vxhbijn.com",
           "8d7d45078e.top",
+          "8d8809140475.top",
           "8db8.kjtwhgda.tips",
           "8dd9.s83zv9.com",
           "8e5b514fd8.top",
@@ -168205,6 +168227,7 @@
           "8k5a06tag3daemo.xyz",
           "8p.best-service.vip",
           "8sie.cc",
+          "8sl68y28nsstvby.icu",
           "8y1tx.jtzzxsog.cc",
           "9015.sod777.com",
           "9085743256555.sod777.com",
@@ -168282,6 +168305,7 @@
           "9f0.ncjqeyid.com",
           "9f1d.vxhbijn.com",
           "9f46.rzfpqbmh.cc",
+          "9f5180af0314.com",
           "9pzx64gxoro0o8t.xyz",
           "a.7gsz.com",
           "a.hchat.cc",
@@ -168563,6 +168587,7 @@
           "axuosza.com",
           "axxtrfp.com",
           "aygd82dymm4kpw4.xyz",
+          "aygjqdr4l2s88zi.icu",
           "ayvljuf.com",
           "ayxfaga.com",
           "az5.xyz",
@@ -168597,6 +168622,7 @@
           "b4d9.sod777.com",
           "b4n3p.com",
           "b563.sod777.com",
+          "b5a5175ae942.top",
           "b5d.link",
           "b5v.link",
           "b643.de83c8f74.net",
@@ -168605,6 +168631,7 @@
           "b6m.link",
           "b6x.link",
           "b6y.link",
+          "b769f7920722.com",
           "b7a.link",
           "b7n2v.com",
           "b7q.link",
@@ -168647,6 +168674,7 @@
           "bc6.link",
           "bc753.xtikbxvv.top",
           "bc9.link",
+          "bca76de295aa.com",
           "bcbvcpl.com",
           "bcczlrd.com",
           "bcktlkt.com",
@@ -169104,6 +169132,7 @@
           "cdstlbp.com",
           "cduminm.com",
           "cdwgdro.com",
+          "ce17d17eb491.com",
           "cea04d349e.top",
           "ceacrln.com",
           "cefeazu.com",
@@ -169113,6 +169142,7 @@
           "cexir.xyz",
           "ceyovqv.com",
           "cf.huiyuanswift.com",
+          "cf244af44f99.xyz",
           "cf6.link",
           "cfcxqpq.com",
           "cfgfnrt.com",
@@ -169203,6 +169233,7 @@
           "cptuelj.com",
           "cq.huiyuanswift.com",
           "cq48.vip",
+          "cqm2y5s723ojwov.icu",
           "cqsalox.com",
           "crfbbarx.com",
           "crfywye.com",
@@ -169556,6 +169587,7 @@
           "e.5deb7.sod777.com",
           "e05de.ryvjugi.com",
           "e080d.vdrywdi.xyz",
+          "e161385881c1.net",
           "e17d8.epwjvmj.com",
           "e18.sod777.com",
           "e182.xtikbxvv.top",
@@ -173019,6 +173051,7 @@
           "v4kq2.com",
           "v5.ajerdsg.top",
           "v5.esqifis.com",
+          "v56ql967iuj8h8t.icu",
           "v5t2b.com",
           "v6b3q.com",
           "v6p.icu",
@@ -173910,7 +173943,7 @@
         ],
         "apt_group": "UNC6691",
         "filename": "apt_unc6691.txt",
-        "last_modified": "2026-06-18T16:29:07+03:00",
+        "last_modified": "2026-06-19T10:10:17+03:00",
         "references": [
           "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit",
           "https://iverify.io/blog/coruna-inside-the-nation-state-grade-ios-exploit-kit-we-ve-been-tracking",
@@ -173920,11 +173953,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 7205,
+          "domain": 7228,
           "file_path": 1,
           "ipv4": 5
         },
-        "total": 7211
+        "total": 7234
       }
     },
     "UNC6692": {

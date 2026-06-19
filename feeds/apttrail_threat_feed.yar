@@ -539,11 +539,16 @@ rule APT_48
         tlp = "white"
 
     strings:
-        $domain0 = "panbaiclu\.com" ascii wide nocase
-        $domain1 = "vpn616865750\.softether\.net" ascii wide nocase
+        $domain0 = "efb\.recume\.ink" ascii wide nocase
+        $domain1 = "klp\.recume\.ink" ascii wide nocase
+        $domain2 = "mnb\.recume\.ink" ascii wide nocase
+        $domain3 = "panbaiclu\.com" ascii wide nocase
+        $domain4 = "recume\.ink" ascii wide nocase
+        $domain5 = "vpn616865750\.softether\.net" ascii wide nocase
+        $ip6 = "185.243.112.142" ascii wide
 
     condition:
-        any of ($domain*, $ip*, $url*)
+        2 of ($domain*, $ip*, $url*)
 }
 
 rule APT_5
