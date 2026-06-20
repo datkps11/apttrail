@@ -163057,6 +163057,7 @@
           "aio18app.live",
           "aioptimizecore.com",
           "aiparadigmmodel.com",
+          "aipathstoday.com",
           "aipatternscan.com",
           "aipixelepoch.com",
           "aipixelflow.com",
@@ -163169,6 +163170,7 @@
           "app.watch-aio.live",
           "appalleo.com",
           "appcraft-academy.com",
+          "apps-and-grid-play.com",
           "aquazdroj.club",
           "aquilenthes.info",
           "arcfetch.com",
@@ -163255,6 +163257,7 @@
           "buycanclear.com",
           "buyitallnow.com",
           "buymolle.com",
+          "bytevaranlabs.com",
           "bytonrian.com",
           "bytorianforge.com",
           "caffedigitale.com",
@@ -163402,6 +163405,7 @@
           "deep-mine-app.site",
           "deepcipherquanta.com",
           "deepfluxorian.com",
+          "deeporiumforge.com",
           "deguercuernavaca.mx",
           "delvonax.cyou",
           "demapas.com",
@@ -163661,6 +163665,7 @@
           "gq.harnetsecurlty.com",
           "gradani.digital",
           "graphicin.com",
+          "gridmellow.com",
           "grok-assistente.live",
           "groover.workers.dev",
           "grubfoaub.com",
@@ -164721,7 +164726,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-06-19T09:48:44+03:00",
+        "last_modified": "2026-06-20T20:51:07+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -164740,9 +164745,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1838
+          "domain": 1843
         },
-        "total": 1838
+        "total": 1843
       }
     },
     "UNC2529": {
