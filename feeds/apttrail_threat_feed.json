@@ -120345,6 +120345,7 @@
           "ai.coinhouse360.com",
           "aiagentnow.online",
           "aideck.net",
+          "aigtech.dev",
           "aihealthchains.com",
           "aionedev.best",
           "aixstore.info",
@@ -125392,7 +125393,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-06-19T16:30:16+03:00",
+        "last_modified": "2026-06-21T02:31:27+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -126660,17 +126661,18 @@
           "https://roman.pt/posts/linkedin-backdoor/",
           "https://x.com/smica83/status/2067587696134889943",
           "https://www.virustotal.com/gui/file/7dc3082d2fb8f7fadf4de5155405fbadda2b402e0210f982fa313b99f2b29a11/detection",
-          "https://www.virustotal.com/gui/file/d78e925950df009a753f9eb193c8536551d38f84b9fe15de0c457c1441e9276d/detection"
+          "https://www.virustotal.com/gui/file/d78e925950df009a753f9eb193c8536551d38f84b9fe15de0c457c1441e9276d/detection",
+          "https://x.com/v0lundr_/status/2065375317682696560"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3741,
+          "domain": 3742,
           "file_path": 479,
           "ipv4": 708,
           "url": 121
         },
-        "total": 5049
+        "total": 5050
       }
     },
     "LAZYSCRIPTER": {
@@ -161234,6 +161236,7 @@
           "adgf.am",
           "adstore.twilightparadox.com",
           "agony.compress.to",
+          "api.softwareupdatenews.com",
           "archive-articles.linkpc.net",
           "arctic-zone.bbsindex.com",
           "arinas.tk",
@@ -161256,6 +161259,7 @@
           "caduff-sa.chjeepcarlease.com",
           "carleasingguru.com",
           "cars-online.zapto.org",
+          "cdn.datacenterate.com",
           "celestyna.tk",
           "ceremon.2waky.com",
           "cheapflights.etowns.net",
@@ -161271,6 +161275,7 @@
           "cyberazov.tk",
           "d3hdbjtb1686tn.cloudfront.net",
           "da.anythinktech.com",
+          "datacenterate.com",
           "davilta.tk",
           "dellservice.publicvm.com",
           "deme.ml",
@@ -161281,11 +161286,13 @@
           "dsme.info",
           "dubaiexpo2020.cf",
           "duke6.tk",
+          "dzerl.com",
           "easport-news.publicvm.com",
           "easports.3d-game.com",
           "ebay-global.publicvm.com",
           "ekrn.ydns.eu",
           "elizabi.tk",
+          "en.footballcharge.us",
           "eset.ydns.eu",
           "esetcloud.com",
           "ethdns.mywire.org",
@@ -161299,6 +161306,7 @@
           "fifa-rules.25u.com",
           "fleetwood.tk",
           "foods.jkub.com",
+          "footballcharge.us",
           "forum.4dq.com",
           "forum.acmetoy.com",
           "forum.sytes.net",
@@ -161340,6 +161348,7 @@
           "mediahistory.linkpc.net",
           "mentionedthedarktower.av.master.dns-cloud.net",
           "microsoft.updatemeltdownkb7234.com",
+          "minkstore.vip",
           "misters.ml",
           "moscow.stransgroup.com",
           "music-world.servemp3.com",
@@ -161348,14 +161357,17 @@
           "newforum.chickenkiller.com",
           "newgame.2waky.com",
           "news-bbc.podzone.org",
+          "newscloud.mn",
           "newshealthsport.com",
           "newutils.3utilities.com",
           "nhl-blog.servegame.com",
           "nightday.comxa.com",
           "nightstreet.toh.info",
           "north-area.bbsindex.com",
+          "ns.minkstore.vip",
           "officebuild.4irc.com",
           "olympik-blog.4dq.com",
+          "onekey-host.com",
           "onlineshop.sellclassics.com",
           "orl05511cn.temp.swtest.ru",
           "papperbell.effers.com",
@@ -161384,12 +161396,14 @@
           "smallcloud.ga",
           "softprog.freeoda.com",
           "softstream.strangled.net",
+          "softwareupdatenews.com",
           "soheylistore.ir",
           "sportacademy.my03.com",
           "sportmusic.servemp3.com",
           "sportnewspaper.strangled.net",
           "stockholm-blog.hopto.org",
           "stopwar.pro",
+          "studiokaspersky.com",
           "sumefu.gq",
           "supercar.ignorelist.com",
           "supernews.instanthq.com",
@@ -161413,13 +161427,16 @@
           "treesofter.mooo.com",
           "trytowin.ignorelist.com",
           "umefu.gq",
+          "update.studiokaspersky.com",
           "updatenodes.site",
           "vefogy.cf",
           "vision2030.cf",
           "vision2030.tk",
           "vylys.com",
           "wargame.ignorelist.com",
+          "waterwinterend.com",
           "weather-online.hopto.org",
+          "webfurina.com",
           "wekanda.tk",
           "winter.site11.com",
           "wintersport.mrbasic.com",
@@ -161487,10 +161504,22 @@
           "zycie-chotomowa.pl/wp-content/languages/index.php"
         ],
         "ipv4": [
+          "103.136.43.65:443",
+          "103.143.40.60:443",
+          "103.143.40.91:443",
+          "103.30.76.194:443",
+          "104.167.16.42:443",
           "134.209.222.206:15363",
           "154.53.42.194:8062",
           "185.126.255.132:443",
+          "185.253.116.122:443",
+          "194.36.190.17:443",
+          "205.186.64.197:443",
+          "38.180.173.194:443",
           "45.64.186.26:443",
+          "45.89.107.77:443",
+          "46.17.45.93:443",
+          "5.252.176.22:443",
           "85.222.235.156:8000"
         ],
         "url": [
@@ -161524,7 +161553,7 @@
         ],
         "apt_group": "TURLA",
         "filename": "apt_turla.txt",
-        "last_modified": "2026-06-18T21:36:27+03:00",
+        "last_modified": "2026-06-21T02:23:09+03:00",
         "references": [
           "https://github.com/eset/malware-ioc/blob/master/turla/README.adoc",
           "https://www.welivesecurity.com/2018/01/09/turlas-backdoor-laced-flash-player-installer/",
@@ -161599,17 +161628,18 @@
           "https://www.virustotal.com/gui/file/3ecb09e659bcb500f9f40d022579a09acb11aec3a92c03e7d3fd2e56982d9eea/detection",
           "https://x.com/TheEnergyStory/status/2011407237038620751",
           "https://r136a1.dev/2026/01/14/command-and-evade-turlas-kazuar-v3-loader/",
-          "https://x.com/phatomcandle/status/2067668684664119330"
+          "https://x.com/phatomcandle/status/2067668684664119330",
+          "https://x.com/_IMalihi_/status/2068422081855836300"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 203,
+          "domain": 218,
           "file_path": 52,
-          "ipv4": 5,
+          "ipv4": 17,
           "url": 9
         },
-        "total": 269
+        "total": 296
       }
     },
     "TVRMS": {
@@ -166688,21 +166718,31 @@
       "indicators": {
         "domain": [
           "afewminago.site",
+          "cartned.sheexcell.ink",
           "cdn.cdncounter.net",
           "cdn.uacounter.com",
           "cdncounter.net",
           "count.cdncounter.net",
           "downdown.online",
+          "duflaro.com",
           "escofiringbijou.com",
+          "inventorepkrje.sheexcell.ink",
+          "iokert.com",
+          "lifechangerai.site",
+          "link.sheexcell.ink",
+          "mxloft.sheexcell.ink",
           "nuceciwa138.xyz",
           "rhdcnwjnwf.site",
+          "sheexcell.ink",
           "shkaacloud.ink",
           "siekeltd.com",
           "sqwas.shapelie.com",
           "static.cdncounter.net",
+          "t.sheexcell.ink",
           "touch-n-go.online",
           "uacounter.com",
-          "world-news.site"
+          "world-news.site",
+          "wwteam.space"
         ]
       },
       "metadata": {
@@ -166711,20 +166751,21 @@
         ],
         "apt_group": "UNC6353",
         "filename": "apt_unc6353.txt",
-        "last_modified": "2026-03-28T12:08:40+02:00",
+        "last_modified": "2026-06-21T02:29:06+03:00",
         "references": [
           "https://www.lookout.com/threat-intelligence/article/darksword",
           "https://x.com/felixaime/status/2034580922742235351",
           "https://x.com/MalforsHQ/status/2037293707351765450",
           "https://x.com/threatinsight/status/2037563799142858899",
-          "https://www.virustotal.com/gui/file/b7ef4985662625c45955db295d949e04fd0a9fd5c8ce0c6a3bcb68e4a06c16e4/detection"
+          "https://www.virustotal.com/gui/file/b7ef4985662625c45955db295d949e04fd0a9fd5c8ce0c6a3bcb68e4a06c16e4/detection",
+          "https://x.com/_IMalihi_/status/2067948568401395880"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 16
+          "domain": 26
         },
-        "total": 16
+        "total": 26
       }
     },
     "UNC6691": {
