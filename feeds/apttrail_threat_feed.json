@@ -158211,6 +158211,7 @@
           "redzoneelite24.com",
           "redzonepicks25.com",
           "refreshdiles.com",
+          "rehmandakait-37356.portmap.host",
           "rehmatfoundation.org",
           "reinirass.com",
           "rellersoul.com",
@@ -160287,7 +160288,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-06-15T10:09:50+03:00",
+        "last_modified": "2026-06-24T13:14:55+03:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -161406,17 +161407,19 @@
           "https://x.com/Cyberteam008/status/2051871665496412608",
           "https://x.com/goldenjackel12/status/2064679226838806667",
           "https://www.virustotal.com/gui/file/abfac8026d1974220871568caf9344cbffed19a184ff098c0912ffbb4f1e42d5/detection",
-          "https://x.com/skocherhan/status/2066130507427983633"
+          "https://x.com/skocherhan/status/2066130507427983633",
+          "https://x.com/joe4security/status/2069716918634782724",
+          "https://www.joesandbox.com/joereverser/analysis/download/636e7243-a9e1-4494-ab16-d2999b2b153d"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 6179,
+          "domain": 6180,
           "file_path": 40,
           "ipv4": 848,
           "url": 125
         },
-        "total": 7192
+        "total": 7193
       }
     },
     "TRIANGULATION": {
