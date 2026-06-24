@@ -124885,6 +124885,9 @@
           "165.140.86.183:2246",
           "165.140.86.227:1244",
           "166.88.132.114:8000",
+          "166.88.134.62:10000",
+          "166.88.134.62:2000",
+          "166.88.134.62:443",
           "166.88.54.158:27107",
           "166.88.54.158:443",
           "166.88.54.158:8888",
@@ -125370,6 +125373,7 @@
           "http://152.89.247.236",
           "http://152.89.61.240",
           "http://152.89.61.96",
+          "http://154.91.0.196",
           "http://155.94.208.209",
           "http://155.94.210.11",
           "http://156.236.76.9",
@@ -125377,6 +125381,7 @@
           "http://158.69.57.135",
           "http://159.100.18.177",
           "http://163.245.219.19",
+          "http://166.88.134.62",
           "http://166.88.54.158",
           "http://172.86.109.49",
           "http://172.86.113.12",
@@ -125399,6 +125404,7 @@
           "http://195.201.104.53",
           "http://195.201.53.165",
           "http://195.250.29.94",
+          "http://198.105.127.210",
           "http://206.71.148.38",
           "http://209.182.224.49",
           "http://213.180.180.154",
@@ -125542,7 +125548,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-06-24T15:46:37+03:00",
+        "last_modified": "2026-06-24T19:28:08+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -126751,6 +126757,7 @@
           "https://www.team-cymru.com/post/dprk-fake-it-worker-cyber-threat-actors-infrastructure",
           "https://www.trendmicro.com/en_us/research/26/d/void-dokkaebi-uses-fake-job-interview-lure-to-spread-malware-via-code-repositories.html",
           "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/26/d/void-dokkaebi/Void-Dokkaebi-Uses-Fake-Job-Interview-Lure-to-Spread-Malware-via-Code-Repositories-IoCs.txt",
+          "https://research.jfrog.com/post/hijacked-npm-vscode-tasks-blockchain/",
           "https://x.com/npm_malware/status/2048749068051247429",
           "https://socket.dev/npm/package/ozonex-sdk/files/1.0.5/postinstall.js",
           "https://www.aikido.dev/blog/fast-draft-open-vsx-bloktrooper",
@@ -126824,10 +126831,10 @@
         "by_type": {
           "domain": 3750,
           "file_path": 479,
-          "ipv4": 711,
-          "url": 121
+          "ipv4": 714,
+          "url": 124
         },
-        "total": 5061
+        "total": 5067
       }
     },
     "LAZYSCRIPTER": {
