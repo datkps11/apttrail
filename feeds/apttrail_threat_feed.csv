@@ -109403,6 +109403,7 @@ LAZARUS,domain,git-hub.me
 LAZARUS,domain,git.luckyguys.cloud
 LAZARUS,domain,git.luckyguys.site
 LAZARUS,domain,gitcheck-commit.vercel.app
+LAZARUS,domain,githelper.store
 LAZARUS,domain,githero-dev7uf163-gimenetes-projects.vercel.app
 LAZARUS,domain,github.expublic.linkpc.net
 LAZARUS,domain,gkins2p3i.naveicoiph.online
@@ -112178,6 +112179,9 @@ LAZARUS,ipv4,104.168.203.159:443
 LAZARUS,ipv4,104.192.42.117:3000
 LAZARUS,ipv4,104.194.133.88:1224
 LAZARUS,ipv4,104.194.133.88:1245
+LAZARUS,ipv4,104.194.153.144:8085
+LAZARUS,ipv4,104.194.153.144:8086
+LAZARUS,ipv4,104.194.153.144:8087
 LAZARUS,ipv4,104.217.163.61:443
 LAZARUS,ipv4,104.232.71.7:443
 LAZARUS,ipv4,107.172.197.175:443

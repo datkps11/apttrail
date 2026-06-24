@@ -6652,9 +6652,9 @@ rule APT_LAZARUS
         $ip74 = "104.192.42.117" ascii wide
         $ip75 = "104.194.133.88" ascii wide
         $ip76 = "104.194.133.88" ascii wide
-        $ip77 = "104.217.163.61" ascii wide
-        $ip78 = "104.232.71.7" ascii wide
-        $ip79 = "107.172.197.175" ascii wide
+        $ip77 = "104.194.153.144" ascii wide
+        $ip78 = "104.194.153.144" ascii wide
+        $ip79 = "104.194.153.144" ascii wide
         $url80 = "/admin/verify\.php" ascii wide nocase
         $url81 = "/ServiceDeskPlus/products\.do" ascii wide nocase
         $url82 = "/ServiceDeskPlus/products\.do" ascii wide nocase
