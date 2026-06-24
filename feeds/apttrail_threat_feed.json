@@ -135593,6 +135593,8 @@
           "154.93.37.106:443",
           "160.86.38.21:443",
           "178.255.220.115:443",
+          "185.161.208.105:8080",
+          "185.161.208.105:8888",
           "185.198.57.184:8888",
           "185.225.19.100:443",
           "185.43.220.188:8888",
@@ -135638,7 +135640,7 @@
         ],
         "apt_group": "OCEANLOTUS",
         "filename": "apt_oceanlotus.txt",
-        "last_modified": "2026-06-12T13:38:37+03:00",
+        "last_modified": "2026-06-24T21:48:18+03:00",
         "references": [
           "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
           "https://github.com/eset/malware-ioc/tree/master/oceanlotus",
@@ -135826,17 +135828,18 @@
           "https://www.virustotal.com/gui/file/88a67b1b0875495b30e93ec925908ed2fade26005f5d50f59f8c45f51e2fc01b/detection",
           "https://x.com/RedDrip7/status/2044239571370815802",
           "https://www.virustotal.com/gui/file/31e812704e41e7e779d96a553500d45409d4b46c7f1007af2ba042407d562b1d/detection",
-          "https://www.welivesecurity.com/en/eset-research/oceanlotus-external-espionage-domestic-targeting/"
+          "https://www.welivesecurity.com/en/eset-research/oceanlotus-external-espionage-domestic-targeting/",
+          "https://x.com/phatomcandle/status/2069843016844738849"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 496,
           "file_path": 4,
-          "ipv4": 25,
+          "ipv4": 27,
           "url": 13
         },
-        "total": 538
+        "total": 540
       }
     },
     "OILALPHA": {

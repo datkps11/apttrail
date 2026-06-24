@@ -8333,21 +8333,23 @@ rule APT_OCEANLOTUS
         $ip57 = "154.93.37.106" ascii wide
         $ip58 = "160.86.38.21" ascii wide
         $ip59 = "178.255.220.115" ascii wide
-        $ip60 = "185.198.57.184" ascii wide
-        $ip61 = "185.225.19.100" ascii wide
-        $ip62 = "185.43.220.188" ascii wide
-        $ip63 = "185.82.126.4" ascii wide
-        $ip64 = "190.211.254.203" ascii wide
-        $ip65 = "193.138.195.192" ascii wide
-        $ip66 = "195.12.50.172" ascii wide
-        $ip67 = "202.59.10.170" ascii wide
-        $ip68 = "221.219.213.178" ascii wide
-        $ip69 = "43.254.132.117" ascii wide
-        $ip70 = "43.254.132.212" ascii wide
-        $ip71 = "45.41.204.15" ascii wide
-        $ip72 = "45.41.204.18" ascii wide
-        $ip73 = "45.61.139.211" ascii wide
-        $ip74 = "45.63.123.237" ascii wide
+        $ip60 = "185.161.208.105" ascii wide
+        $ip61 = "185.161.208.105" ascii wide
+        $ip62 = "185.198.57.184" ascii wide
+        $ip63 = "185.225.19.100" ascii wide
+        $ip64 = "185.43.220.188" ascii wide
+        $ip65 = "185.82.126.4" ascii wide
+        $ip66 = "190.211.254.203" ascii wide
+        $ip67 = "193.138.195.192" ascii wide
+        $ip68 = "195.12.50.172" ascii wide
+        $ip69 = "202.59.10.170" ascii wide
+        $ip70 = "221.219.213.178" ascii wide
+        $ip71 = "43.254.132.117" ascii wide
+        $ip72 = "43.254.132.212" ascii wide
+        $ip73 = "45.41.204.15" ascii wide
+        $ip74 = "45.41.204.18" ascii wide
+        $ip75 = "45.61.139.211" ascii wide
+        $ip76 = "45.63.123.237" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
