@@ -127030,6 +127030,7 @@
           "fgub-vniir.space",
           "fidelfloris.eu",
           "fidelfloris.nl",
+          "flytechaviationgroup.com",
           "forukrainians.eu",
           "frontend.fr.po21.net",
           "ftfinancial.nl",
@@ -127163,6 +127164,7 @@
           "seniorenorkestamstelland.nl",
           "shinemarketing.nl",
           "skidusoleil.com",
+          "skynexaviation.com",
           "smulthuis.nl",
           "snijderstotaalonderhoud.nl",
           "sonnenberg-bpo.nl",
@@ -127253,7 +127255,7 @@
         ],
         "apt_group": "LIBRARIANGHOULS",
         "filename": "apt_librarianghouls.txt",
-        "last_modified": "2026-06-25T13:30:24+03:00",
+        "last_modified": "2026-06-25T14:12:10+03:00",
         "references": [
           "https://www.kaspersky.ru/blog/malicious-mailout-scr-attachment/37823/",
           "https://www.kaspersky.ru/blog/librarian-ghouls-cad-formats/38199/",
@@ -127271,10 +127273,10 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 308,
+          "domain": 310,
           "ipv4": 1
         },
-        "total": 309
+        "total": 311
       }
     },
     "LONGHORN": {
