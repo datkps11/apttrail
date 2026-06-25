@@ -175052,6 +175052,7 @@
           "ads.teleryanhart.com",
           "adstelemetry.com",
           "aetye.ml",
+          "affiser.xyz",
           "aghkf.ml",
           "agpt.ajb.shaanxigas.com",
           "ahalteke-gov.ru",
@@ -176512,7 +176513,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2026-06-16T13:01:20+03:00",
+        "last_modified": "2026-06-25T18:21:17+03:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -176990,12 +176991,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1225,
+          "domain": 1226,
           "file_path": 77,
           "ipv4": 142,
           "url": 63
         },
-        "total": 1507
+        "total": 1508
       }
     },
     "USH": {
