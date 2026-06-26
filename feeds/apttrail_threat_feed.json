@@ -161641,6 +161641,7 @@
           "bug.ignorelist.com",
           "buy-new-car.com",
           "caduff-sa.chjeepcarlease.com",
+          "canal1zac1a.onrender.com",
           "carleasingguru.com",
           "cars-online.zapto.org",
           "cdn.datacenterate.com",
@@ -161666,6 +161667,7 @@
           "developarea.mooo.com",
           "dixito.ml",
           "downtown.crabdance.com",
+          "driverx86-adobe.onrender.com",
           "dropbox12.com",
           "dsme.info",
           "dubaiexpo2020.cf",
@@ -161699,6 +161701,7 @@
           "freeutils.3utilities.com",
           "gallop.mefound.com",
           "goldenroade.strangled.net",
+          "google-ai-labs-it.onrender.com",
           "greateplan.ocry.com",
           "greece-travel.servepics.com",
           "hanagram.jpthefinetreats.com",
@@ -161820,12 +161823,14 @@
           "wargame.ignorelist.com",
           "waterwinterend.com",
           "weather-online.hopto.org",
+          "weatherdataai.theworkpc.com",
           "webfurina.com",
           "wekanda.tk",
           "winter.site11.com",
           "wintersport.mrbasic.com",
           "wintersport.sytes.net",
           "wkoinfo.webredirect.org",
+          "wool-basalt-clock.glitch.me",
           "wordlisten.mooo.com",
           "world-weather.zapto.org",
           "worldlist.linkpc.net",
@@ -161851,6 +161856,7 @@
           "brannenburger-nagelfluh.de/wp-includes/style-engine/css/index.php",
           "caduff-sa.ch/wordpress/wp-includes/rss.old.php",
           "chagiocaxuanson.esy.es/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ngglegacy/admin/templates/manage_gallery/gallery_preview_page_field.old.php",
+          "circoloesteri.elezioni.idnet.it/admin-election/riepilogo.php",
           "daybreakhealthcare.co.uk/wp-includes/themees.php",
           "dyskurs.com.ua/wp-admin/includes/map-menu.php",
           "giadinhvabe.net/wp-content/themes/viettemp/out/css/class.php",
@@ -161933,11 +161939,12 @@
           "wraith",
           "atg26",
           "waterbug",
-          "kazuar"
+          "kazuar",
+          "stockstay"
         ],
         "apt_group": "TURLA",
         "filename": "apt_turla.txt",
-        "last_modified": "2026-06-21T02:23:09+03:00",
+        "last_modified": "2026-06-26T18:31:21+03:00",
         "references": [
           "https://github.com/eset/malware-ioc/blob/master/turla/README.adoc",
           "https://www.welivesecurity.com/2018/01/09/turlas-backdoor-laced-flash-player-installer/",
@@ -162013,17 +162020,18 @@
           "https://x.com/TheEnergyStory/status/2011407237038620751",
           "https://r136a1.dev/2026/01/14/command-and-evade-turlas-kazuar-v3-loader/",
           "https://x.com/phatomcandle/status/2067668684664119330",
-          "https://x.com/_IMalihi_/status/2068422081855836300"
+          "https://x.com/_IMalihi_/status/2068422081855836300",
+          "https://cloud.google.com/blog/topics/threat-intelligence/stockstay-turla-intelligence-gathering"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 218,
-          "file_path": 52,
+          "domain": 223,
+          "file_path": 53,
           "ipv4": 17,
           "url": 9
         },
-        "total": 296
+        "total": 302
       }
     },
     "TVRMS": {
