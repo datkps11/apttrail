@@ -3158,8 +3158,13 @@
           "crawloofle.com",
           "cyroonline.com",
           "datahost.click",
+          "dev-demo.click",
           "devicesupport-rnicrosoft.com",
+          "docreader.icu",
+          "doctor-reader.icu",
           "domforworld.com",
+          "dservices.space",
+          "dsharedservices.xyz",
           "electrobric.com",
           "everification-session-load.com",
           "fastfiterzone.com",
@@ -3211,6 +3216,7 @@
           "mail.techsprouts.com",
           "mailinfo-bh.com",
           "mamoonchat.com",
+          "marketing-bmut.icu",
           "me-yahoo.com",
           "medieczema.com",
           "memoadvicr.com",
@@ -3235,7 +3241,11 @@
           "orgyes2khalistanis.com",
           "out-look-mail-bh.com",
           "oyesterclub.info",
+          "painel.dev-demo.click",
+          "painel.marketing-bmut.icu",
+          "painel.smspro.click",
           "passwordsaverr.com",
+          "pdfreader.help",
           "play-store-secure-safechat.usmimedia.com",
           "poiusavid.com",
           "portal549.com",
@@ -3261,6 +3271,7 @@
           "sikhforjustice.org",
           "sikhforjustice.orgsimilerwork.netstring2me.com",
           "similerwork.net",
+          "smspro.click",
           "srv.psyberia.org",
           "string2me.com",
           "sync-tokens.com",
@@ -3335,7 +3346,7 @@
         "aliases": [],
         "apt_group": "BAHAMUT",
         "filename": "apt_bahamut.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-06-26T15:58:13+03:00",
         "references": [
           "https://blog.talosintelligence.com/2018/07/Mobile-Malware-Campaign-uses-Malicious-MDM-Part2.html",
           "https://www.blackberry.com/us/en/pdfviewer?file=/content/dam/blackberry-com/asset/enterprise/pdf/direct/report-spark-bahamut.pdf",
@@ -3390,17 +3401,20 @@
           "https://threatfox.abuse.ch/browse/malware/apk.bahamut/",
           "https://x.com/malwrhunterteam/status/1826580072645431357",
           "https://www.virustotal.com/gui/file/701016a39ff5656b6a7e6cf17a6ae0e7c3442b65c2f9b1d609c78b483b5cfe26/detection",
-          "https://www.virustotal.com/gui/file/b8e797526a4d22ddfe0d9cf97a24264c305f5c09aa5cf63b56b067d92a1ad66e/detection"
+          "https://www.virustotal.com/gui/file/b8e797526a4d22ddfe0d9cf97a24264c305f5c09aa5cf63b56b067d92a1ad66e/detection",
+          "https://x.com/malwrhunterteam/status/2070466586591313950",
+          "https://tria.ge/260626-nf8lxsax8v/behavioral1",
+          "https://www.virustotal.com/gui/file/833eb2907cbf002c325356a4025a572e84fcc01504708f6328d154dd57c3b42f/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 175,
+          "domain": 186,
           "file_path": 6,
           "ipv4": 14,
           "url": 1
         },
-        "total": 196
+        "total": 207
       }
     },
     "BANISHEDKITTEN": {
@@ -7967,6 +7981,7 @@
           "tulipnetworks.net",
           "turkeyapi.bio",
           "tvnservereventlog.net",
+          "ultraflavors.com",
           "umsmssvc.com",
           "unr0wddj.mediumblog.online",
           "updateschedulers.com",
@@ -8253,7 +8268,7 @@
         ],
         "apt_group": "BITTER",
         "filename": "apt_bitter.txt",
-        "last_modified": "2026-06-11T15:00:32+03:00",
+        "last_modified": "2026-06-26T15:15:09+03:00",
         "references": [
           "https://github.com/pan-unit42/iocs/blob/master/bitter/iocs.csv",
           "https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups/ (Chinese)",
@@ -8840,17 +8855,19 @@
           "https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247508516&idx=1&sn=a869f67294b5777615ad597c3730105e&chksm=f9c1912dceb6183b4f7f359de87814c613d58b671245307a99857eb03847a0860743516e7fae&scene=178&cur_album_id=1955835290309230595&search_click_id",
           "https://x.com/blackorbird/status/2051892318203175106",
           "https://x.com/blackorbird/status/2064727597435752846",
-          "https://mp.weixin.qq.com/s/jH60_sYtZjJZWtVc5d277g"
+          "https://mp.weixin.qq.com/s/jH60_sYtZjJZWtVc5d277g",
+          "https://x.com/nextronresearch/status/2070473326372291037",
+          "https://www.virustotal.com/gui/file/d0ee008d3c480d5f9f75332851ae94373158c13541f3c88be63465b975334e0a/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 465,
+          "domain": 466,
           "file_path": 82,
           "ipv4": 78,
           "url": 19
         },
-        "total": 644
+        "total": 645
       }
     },
     "BLACKGEAR": {
