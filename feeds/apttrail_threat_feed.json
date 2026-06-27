@@ -115234,6 +115234,7 @@
           "tolpa.shop",
           "tomcendetp.store",
           "tomlee.dns.army",
+          "tommy-v.lol",
           "tomprestp.store",
           "tongdiff.click",
           "tongsoju.n-e.kr",
@@ -118196,7 +118197,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-06-25T12:50:53+03:00",
+        "last_modified": "2026-06-27T16:30:34+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -119818,17 +119819,19 @@
           "https://x.com/skocherhan/status/2064418614216622388",
           "https://x.com/skocherhan/status/2064423269063704732",
           "https://x.com/_IMalihi_/status/2065448396836495551",
-          "https://x.com/skocherhan/status/2064784809990234184"
+          "https://x.com/skocherhan/status/2064784809990234184",
+          "https://x.com/byrne_emmy12099/status/2070441663668039825",
+          "https://www.virustotal.com/gui/file/254d585ad9e536457987fe575c35552884fd94260e562909c7b30835d8c99e1c/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 23854,
+          "domain": 23855,
           "file_path": 295,
           "ipv4": 89,
           "url": 71
         },
-        "total": 24309
+        "total": 24310
       }
     },
     "KUN3": {
