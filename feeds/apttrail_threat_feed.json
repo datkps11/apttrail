@@ -103650,6 +103650,7 @@
           "menco.myds.me",
           "mencoz.myds.me",
           "menews.o-r.kr",
+          "menhs.dynu.org",
           "menoks.online",
           "meoslpx.online",
           "meratics1.r-e.kr",
@@ -107893,6 +107894,7 @@
           "nid-naverlvb.servepics.com",
           "nid-navermail.servepics.com",
           "nid-navermails.servegame.com",
+          "nid-navermar.servegame.com",
           "nid-navermbi.servemp3.com",
           "nid-navermdh.ddnsking.com",
           "nid-navermdh.servegame.com",
@@ -107949,6 +107951,7 @@
           "nid-naverqxz.serveftp.com",
           "nid-naverrez.serveftp.com",
           "nid-naverrfi.onthewifi.com",
+          "nid-naverrgc.servequake.com",
           "nid-naverrtc.myvnc.com",
           "nid-naverscn.svcma.com",
           "nid-naversea.servequake.com",
@@ -118229,7 +118232,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-06-27T18:45:54+03:00",
+        "last_modified": "2026-06-27T22:11:52+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -119858,12 +119861,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 23887,
+          "domain": 23890,
           "file_path": 295,
           "ipv4": 89,
           "url": 71
         },
-        "total": 24342
+        "total": 24345
       }
     },
     "KUN3": {
