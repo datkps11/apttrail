@@ -9823,6 +9823,7 @@
           "googlefiledrive.com",
           "googlefileshare.com",
           "googlemeet-account.com",
+          "googlemeet.syncn.cfd",
           "googlemeett.com",
           "googleservice.icu",
           "googleservice.xyz",
@@ -10116,6 +10117,7 @@
           "olafsven.xyz",
           "oneasu.com",
           "onedrive.ms-live.com",
+          "onedrive.syncn.cfd",
           "onedrivecloud.store",
           "onedriveglobal.com",
           "onedrivems.online",
@@ -10317,6 +10319,7 @@
           "supportzm.com",
           "suweb05.us",
           "svr04.faqserv.com",
+          "syncn.cfd",
           "system-update.cloud",
           "system-update.xyz",
           "systemupdate.cloud",
@@ -10617,6 +10620,7 @@
           "us06web-zoom.online",
           "us06web-zoom.org",
           "us06web-zoom.space",
+          "us06web-zoom.syncn.cfd",
           "us06web-zoom.xyz",
           "us06web.zoomconnector.com",
           "us06webs.us",
@@ -10624,6 +10628,7 @@
           "us06webzoom.us",
           "us06www-zoom.com",
           "us06www-zoom.us",
+          "us06zoom.syncn.cfd",
           "us07-web.us",
           "us07.sbs",
           "us07biz-zoom.us",
@@ -11105,7 +11110,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-06-07T21:31:51+03:00",
+        "last_modified": "2026-06-27T12:33:24+03:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -11269,17 +11274,18 @@
           "https://www.microsoft.com/en-us/security/blog/2026/04/16/dissecting-sapphire-sleets-macos-intrusion-from-lure-to-compromise/",
           "https://any.run/cybersecurity-blog/lazarus-macos-malware-mach-o-man/",
           "https://x.com/L0Psec/status/2052143672204906568",
-          "https://www.virustotal.com/gui/file/d235741256f05ad8ceb44c469f4471f17c6a669dbf192e9ccf8d11d99a6800ef/detection"
+          "https://www.virustotal.com/gui/file/d235741256f05ad8ceb44c469f4471f17c6a669dbf192e9ccf8d11d99a6800ef/detection",
+          "https://x.com/malwrhunterteam/status/2070495990524621096"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 1682,
+          "domain": 1687,
           "file_path": 1,
           "ipv4": 27,
           "url": 4
         },
-        "total": 1714
+        "total": 1719
       }
     },
     "BLUEPRINT": {
