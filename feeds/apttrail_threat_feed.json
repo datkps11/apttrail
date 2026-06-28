@@ -123215,6 +123215,7 @@
           "sammy.uefa-meeting.com",
           "sandwich-factory.buzz",
           "sap.misapor.ch",
+          "savannahpos.co.ke",
           "sbackservice.com",
           "scoret.net",
           "screenquestion.com",
@@ -125659,7 +125660,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-06-26T10:47:00+03:00",
+        "last_modified": "2026-06-28T12:47:17+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -126940,12 +126941,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3750,
+          "domain": 3751,
           "file_path": 479,
           "ipv4": 719,
           "url": 124
         },
-        "total": 5072
+        "total": 5073
       }
     },
     "LAZYSCRIPTER": {
