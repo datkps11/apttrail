@@ -2161,6 +2161,7 @@ BARIUM,domain,64-176-59-232.ipv4.staticdns3.io
 BARIUM,domain,64.176.35.214.sslip.io
 BARIUM,domain,64.176.65.49.sslip.io
 BARIUM,domain,6ed123bf7c014f8597b97c1e88c9d7e1.ddns.gcloud.gg
+BARIUM,domain,7f4d5b4d9b3b4474a46824c3ae43d06a.ddns.gcloud.gg
 BARIUM,domain,91newai.com
 BARIUM,domain,a.linuxupdate.info
 BARIUM,domain,accounts.longmusic.com
@@ -2187,6 +2188,7 @@ BARIUM,domain,ampolice.org
 BARIUM,domain,andropwn.xyz
 BARIUM,domain,aone.ddns.net
 BARIUM,domain,ap.philancourts.com
+BARIUM,domain,api-v2.cloud
 BARIUM,domain,api.emazemedia.com
 BARIUM,domain,api.googleauthenticatoronline.com
 BARIUM,domain,api.sourcedata.kuwannba.com
@@ -2223,6 +2225,7 @@ BARIUM,domain,caba.superdasqe.me
 BARIUM,domain,cargobussi.org
 BARIUM,domain,carruthersfredericklawyers.com
 BARIUM,domain,carruthersfredericklegals.com
+BARIUM,domain,cashmicrosoft.com
 BARIUM,domain,cdn.google-au.ga
 BARIUM,domain,cdn.ns.time12.cf
 BARIUM,domain,cdn.withrental.com
@@ -2318,6 +2321,7 @@ BARIUM,domain,google.org.im
 BARIUM,domain,google.pythonpplus.org
 BARIUM,domain,googleaccount.org
 BARIUM,domain,googleauthenticatoronline.com
+BARIUM,domain,googledrivecloud.com
 BARIUM,domain,googlelivenews.com
 BARIUM,domain,googleminigames.com
 BARIUM,domain,gov.jmjejij.otzo.com
@@ -2530,6 +2534,7 @@ BARIUM,domain,quickmicrosoft.com
 BARIUM,domain,qw05.liaoqazqq.com
 BARIUM,domain,railway.sytes.net
 BARIUM,domain,railways.hopto.org
+BARIUM,domain,rallyracingglobal.com
 BARIUM,domain,rambiler.com
 BARIUM,domain,random.netbill.pk
 BARIUM,domain,randzalo.com
@@ -2657,6 +2662,7 @@ BARIUM,domain,websencl.com
 BARIUM,domain,wikipedla.blog
 BARIUM,domain,win10micros0ft.com
 BARIUM,domain,win7update.net
+BARIUM,domain,windowsupdate.cyou
 BARIUM,domain,winsproxy.com
 BARIUM,domain,word.msapp.workers.dev
 BARIUM,domain,wordpresss-data.s3.me-south-1.amazonaws.com
@@ -2813,6 +2819,8 @@ BARIUM,ipv4,103.133.139.23:443
 BARIUM,ipv4,103.133.139.29:443
 BARIUM,ipv4,103.138.82.202:443
 BARIUM,ipv4,103.138.82.215:443
+BARIUM,ipv4,103.140.186.81:443
+BARIUM,ipv4,103.140.187.9:443
 BARIUM,ipv4,103.143.73.116:443
 BARIUM,ipv4,103.146.230.130:443
 BARIUM,ipv4,103.146.230.153:443
@@ -2878,6 +2886,7 @@ BARIUM,ipv4,104.194.129.178:53
 BARIUM,ipv4,104.208.73.38:53
 BARIUM,ipv4,104.233.161.173:53
 BARIUM,ipv4,104.233.161.173:8080
+BARIUM,ipv4,104.238.148.158:443
 BARIUM,ipv4,104.37.175.64:443
 BARIUM,ipv4,106.14.196.21:8000
 BARIUM,ipv4,106.14.196.21:8001
@@ -4355,6 +4364,7 @@ BARIUM,ipv4,139.159.236.31:8005
 BARIUM,ipv4,139.159.236.31:8006
 BARIUM,ipv4,139.159.236.31:8007
 BARIUM,ipv4,139.180.129.136:443
+BARIUM,ipv4,139.180.137.3:443
 BARIUM,ipv4,139.180.138.226:8000
 BARIUM,ipv4,139.180.145.193:443
 BARIUM,ipv4,139.180.153.109:443
@@ -4365,6 +4375,7 @@ BARIUM,ipv4,139.180.193.182:443
 BARIUM,ipv4,139.180.193.182:8080
 BARIUM,ipv4,139.180.205.23:443
 BARIUM,ipv4,139.180.208.107:443
+BARIUM,ipv4,139.180.211.117:443
 BARIUM,ipv4,139.180.211.30:443
 BARIUM,ipv4,139.180.213.58:443
 BARIUM,ipv4,139.180.217.229:443
@@ -4760,6 +4771,7 @@ BARIUM,ipv4,193.239.191.95:443
 BARIUM,ipv4,193.36.117.21:443
 BARIUM,ipv4,193.37.59.246:443
 BARIUM,ipv4,193.56.255.142:443
+BARIUM,ipv4,193.56.255.178:443
 BARIUM,ipv4,193.56.255.214:443
 BARIUM,ipv4,194.116.191.150:443
 BARIUM,ipv4,194.116.191.150:8080
@@ -4779,6 +4791,7 @@ BARIUM,ipv4,195.123.242.120:443
 BARIUM,ipv4,195.123.245.79:443
 BARIUM,ipv4,195.133.5.224:443
 BARIUM,ipv4,195.85.250.254:443
+BARIUM,ipv4,195.86.120.2:443
 BARIUM,ipv4,198.13.39.189:443
 BARIUM,ipv4,198.13.40.130:2222
 BARIUM,ipv4,198.13.51.5:443
@@ -5089,12 +5102,14 @@ BARIUM,ipv4,38.60.196.212:443
 BARIUM,ipv4,38.60.199.119:443
 BARIUM,ipv4,38.60.199.60:443
 BARIUM,ipv4,38.60.208.184:443
+BARIUM,ipv4,38.60.208.77:443
 BARIUM,ipv4,38.60.211.116:443
 BARIUM,ipv4,38.60.217.161:443
 BARIUM,ipv4,38.60.217.198:443
 BARIUM,ipv4,38.60.221.150:443
 BARIUM,ipv4,38.60.250.74:443
 BARIUM,ipv4,38.60.250.74:8443
+BARIUM,ipv4,38.60.255.134:443
 BARIUM,ipv4,39.106.32.186:443
 BARIUM,ipv4,39.96.58.23:8084
 BARIUM,ipv4,39.96.58.23:8883
@@ -5328,16 +5343,19 @@ BARIUM,ipv4,64.190.113.165:443
 BARIUM,ipv4,64.227.185.216:443
 BARIUM,ipv4,64.44.184.105:21
 BARIUM,ipv4,65.20.66.77:443
+BARIUM,ipv4,65.20.67.90:443
 BARIUM,ipv4,65.20.69.6:443
 BARIUM,ipv4,65.20.70.52:443
 BARIUM,ipv4,65.20.75.136:443
 BARIUM,ipv4,65.20.76.134:443
+BARIUM,ipv4,65.20.76.151:443
 BARIUM,ipv4,65.20.78.130:443
 BARIUM,ipv4,65.20.78.204:443
 BARIUM,ipv4,65.20.78.223:443
 BARIUM,ipv4,65.20.79.14:443
 BARIUM,ipv4,65.20.79.156:443
 BARIUM,ipv4,65.20.84.44:443
+BARIUM,ipv4,65.20.97.249:443
 BARIUM,ipv4,65.20.98.31:443
 BARIUM,ipv4,65.21.57.12:443
 BARIUM,ipv4,66.42.37.139:443
