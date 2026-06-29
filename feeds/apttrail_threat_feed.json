@@ -121352,6 +121352,7 @@
           "cloud.optvers.net",
           "cloud.prosec.ink",
           "cloud.smbcgroup.uk",
+          "cloudflare-prevention.vercel.app",
           "cloudflare1.vercel.app",
           "cloudflarefirewall.vercel.app",
           "cloudflareinsights.vercel.app",
@@ -125731,7 +125732,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-06-29T19:10:04+03:00",
+        "last_modified": "2026-06-29T20:44:10+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -127014,12 +127015,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3751,
+          "domain": 3752,
           "file_path": 479,
           "ipv4": 725,
           "url": 153
         },
-        "total": 5108
+        "total": 5109
       }
     },
     "LAZYSCRIPTER": {
