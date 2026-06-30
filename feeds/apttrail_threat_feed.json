@@ -125754,7 +125754,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-06-29T20:44:10+03:00",
+        "last_modified": "2026-06-30T17:35:48+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -127032,7 +127032,8 @@
           "https://x.com/v0lundr_/status/2065375317682696560",
           "https://opensourcemalware.com/blog/latest-contagious-interview-malware-campaign-abuses-microsoft-vscode-tasks",
           "https://x.com/veryseriouseng/status/2071525899313283528",
-          "https://x.com/veryseriouseng/status/2071518552910151726"
+          "https://x.com/veryseriouseng/status/2071518552910151726",
+          "https://research.jfrog.com/post/rollup-polyfill-masquerading/"
         ]
       },
       "statistics": {
@@ -157761,6 +157762,8 @@
           "mod.gov.in.reportedcases.info",
           "mod.gov.in.reportscases.info",
           "modapkterbuka.com",
+          "modbdwindtgt.shop",
+          "modbdwindtgt.website",
           "modcybercell.info",
           "modgov.in.casesreport.info",
           "modgovin.onthewifi.com",
@@ -159640,6 +159643,7 @@
           "141.148.199.227:8443",
           "141.98.11.95:5000",
           "142.105.157.110:8181",
+          "142.161.71.95:8443",
           "144.126.143.138:8080",
           "144.126.143.138:9813",
           "144.126.154.84:8080",
@@ -159662,6 +159666,7 @@
           "146.19.173.167:8080",
           "146.19.173.32:8621",
           "146.19.173.57:14500",
+          "146.19.173.74:8080",
           "146.56.50.80:443",
           "146.56.50.80:8443",
           "147.93.155.118:8080",
@@ -160148,6 +160153,7 @@
           "45.13.225.22:443",
           "45.138.172.222:3691",
           "45.14.194.253:10243",
+          "45.141.58.166:8080",
           "45.141.58.199:3389",
           "45.141.58.199:4000",
           "45.141.59.44:8080",
@@ -160178,6 +160184,9 @@
           "5.149.252.227:26358",
           "5.161.159.119:8951",
           "5.178.0.29:8080",
+          "5.181.1.128:8080",
+          "5.181.1.181:8080",
+          "5.181.1.249:8080",
           "5.189.134.216:12538",
           "5.189.134.216:5156",
           "5.189.134.216:7218",
@@ -160579,7 +160588,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-06-25T22:45:03+03:00",
+        "last_modified": "2026-06-30T18:18:38+03:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -161703,17 +161712,20 @@
           "https://www.joesandbox.com/joereverser/analysis/download/636e7243-a9e1-4494-ab16-d2999b2b153d",
           "https://x.com/blackorbird/status/2070109236651270193",
           "https://mp.weixin.qq.com/s/jXkbq0oWxu4D5yH46TQybg",
-          "https://www.virustotal.com/gui/file/07aa8da4294a8dc934a6b2d04b3d0d44173db9e7a19339ff5fa88feb9adb969e/detection"
+          "https://www.virustotal.com/gui/file/07aa8da4294a8dc934a6b2d04b3d0d44173db9e7a19339ff5fa88feb9adb969e/detection",
+          "https://x.com/Cyberteam008/status/2071948156691243131",
+          "https://x.com/ElementalX2/status/2071951017433043200",
+          "https://www.virustotal.com/gui/file/84fdf69c7381701415d366808450de41e3127d15c497a196bd51cc3ecf3eeaea/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 6181,
+          "domain": 6183,
           "file_path": 40,
-          "ipv4": 848,
+          "ipv4": 854,
           "url": 125
         },
-        "total": 7194
+        "total": 7202
       }
     },
     "TRIANGULATION": {
