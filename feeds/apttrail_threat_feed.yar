@@ -7826,8 +7826,8 @@ rule APT_MUSTANGPANDA
         $domain45 = "connectmvasalu\.cam" ascii wide nocase
         $domain46 = "constructionferryfences\.cam" ascii wide nocase
         $domain47 = "coolboxpc\.com" ascii wide nocase
-        $domain48 = "csp\.document-invoiceviewer\.online" ascii wide nocase
-        $domain49 = "csp\.document-viewer\.xyz" ascii wide nocase
+        $domain48 = "couldinstallup\.com" ascii wide nocase
+        $domain49 = "csp\.document-invoiceviewer\.online" ascii wide nocase
         $ip50 = "103.107.104.37" ascii wide
         $ip51 = "103.107.104.61" ascii wide
         $ip52 = "103.107.104.61" ascii wide
