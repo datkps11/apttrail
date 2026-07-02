@@ -159603,6 +159603,7 @@
           "wa-e.in",
           "wabashvalleymassage.com",
           "wagerspherea.com",
+          "wamous.duckdns.org",
           "wantstobelikeyou.com",
           "wap.nflstores.org",
           "waqarawan.xyz",
@@ -160407,6 +160408,8 @@
           "64.188.12.126:49747",
           "64.188.12.126:6658",
           "64.188.12.126:9666",
+          "64.188.12.144:12246",
+          "64.188.12.144:15891",
           "64.188.13.140:18917",
           "64.188.13.140:9649",
           "64.188.19.199:8158",
@@ -160780,7 +160783,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-07-01T16:54:38+03:00",
+        "last_modified": "2026-07-02T10:30:21+03:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -161907,17 +161910,23 @@
           "https://www.virustotal.com/gui/file/07aa8da4294a8dc934a6b2d04b3d0d44173db9e7a19339ff5fa88feb9adb969e/detection",
           "https://x.com/Cyberteam008/status/2071948156691243131",
           "https://x.com/ElementalX2/status/2071951017433043200",
-          "https://www.virustotal.com/gui/file/84fdf69c7381701415d366808450de41e3127d15c497a196bd51cc3ecf3eeaea/detection"
+          "https://www.virustotal.com/gui/file/84fdf69c7381701415d366808450de41e3127d15c497a196bd51cc3ecf3eeaea/detection",
+          "https://x.com/Cyberteam008/status/2072511370210529494",
+          "https://www.virustotal.com/gui/file/48b8012bc797d0cea84a8b9e59b210f7e781bbdcdab524cf3b91d43ade5ac5b5/detection",
+          "https://www.virustotal.com/gui/file/579dbcf538cdc92074452194f2f8fe9679ad61ef5ab0bb0a6eaf818151d13788/detection",
+          "https://www.virustotal.com/gui/file/8a9978efb4c6dbd077a6d0fe3522d13d2c5434e2f562be41fa2cc2a443c5997f/detection",
+          "https://www.virustotal.com/gui/file/d0141b19a68e7cb6e3fb2587f4b8e18635527eed3d186663aa2ed29781416759/detection",
+          "https://www.virustotal.com/gui/file/e1716391af8b2f6a2d191ac0a2eda3c57fe19aa05560b0c0d43e6160660160f9/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 6185,
+          "domain": 6186,
           "file_path": 40,
-          "ipv4": 854,
+          "ipv4": 856,
           "url": 125
         },
-        "total": 7204
+        "total": 7207
       }
     },
     "TRIANGULATION": {
