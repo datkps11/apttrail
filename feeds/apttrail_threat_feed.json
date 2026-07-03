@@ -168569,6 +168569,7 @@
           "4m2z8k.com",
           "4m7x9b.com",
           "4m8r2x.com",
+          "4n7v9w.com",
           "4p.game",
           "4p7nt.com",
           "4pslot.com",
@@ -169344,6 +169345,7 @@
           "9h3b6t.com",
           "9n2mhtn-0c9zna14n3mr49e.icu",
           "9n3w7v.com",
+          "9p2q4t.com",
           "9pzx64gxoro0o8t.xyz",
           "9t2b6v.com",
           "9t2p4q.com",
@@ -171288,6 +171290,7 @@
           "g4w7r.com",
           "g5j7v.com",
           "g5n3v.com",
+          "g5t9w4.com",
           "g6r5t.com",
           "g6zkq.com",
           "g7p6m.com",
@@ -171456,6 +171459,7 @@
           "h.79496.sod777.com",
           "h.bf1.sod777.com",
           "h0v.link",
+          "h2k9m6.com",
           "h2q6p.com",
           "h3b9q5.com",
           "h3vxji-ppqezfii5lajb.store",
@@ -172384,6 +172388,7 @@
           "l-rkj7-u-q3b1nkjv.site",
           "l1ewsu3yjkqeroy.xyz",
           "l2w4m.com",
+          "l3k8w.com",
           "l4n9w.com",
           "l54vt9pr0pzao1s.xyz",
           "l6r3c.com",
@@ -174185,6 +174190,7 @@
           "strzbetmx.com",
           "suhyptk.com",
           "sundaynews.netpro.co.kr",
+          "sunriseclickway.top",
           "superstorywave.top",
           "surbolz.com",
           "suyqzyy.com",
@@ -175702,7 +175708,7 @@
         ],
         "apt_group": "UNC6691",
         "filename": "apt_unc6691.txt",
-        "last_modified": "2026-07-03T21:22:24+03:00",
+        "last_modified": "2026-07-03T23:34:28+03:00",
         "references": [
           "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit",
           "https://iverify.io/blog/coruna-inside-the-nation-state-grade-ios-exploit-kit-we-ve-been-tracking",
@@ -175712,11 +175718,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 8077,
+          "domain": 8083,
           "file_path": 1,
           "ipv4": 5
         },
-        "total": 8083
+        "total": 8089
       }
     },
     "UNC6692": {
