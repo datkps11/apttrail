@@ -125912,6 +125912,7 @@
           "http://5.230.44.79",
           "http://52.202.193.124",
           "http://52.79.92.249/bbs/bbs_post.asp",
+          "http://62.33.223.164",
           "http://64.188.27.73",
           "http://66.154.102.91",
           "http://69.10.53.86",
@@ -126012,7 +126013,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-07-02T23:40:24+03:00",
+        "last_modified": "2026-07-03T17:00:58+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -127293,7 +127294,9 @@
           "https://x.com/veryseriouseng/status/2071518552910151726",
           "https://research.jfrog.com/post/rollup-polyfill-masquerading/",
           "https://x.com/veryseriouseng/status/2072735310178402450",
-          "https://www.ossprey.com/blog/how-ossprey-uncovered-a-large-scale-dprk-contagious-interview-campaign"
+          "https://www.ossprey.com/blog/how-ossprey-uncovered-a-large-scale-dprk-contagious-interview-campaign",
+          "https://x.com/veryseriouseng/status/2071981111723331617",
+          "https://x.com/banthisguy9349/status/2072492697764642939"
         ]
       },
       "statistics": {
@@ -127301,9 +127304,9 @@
           "domain": 3753,
           "file_path": 479,
           "ipv4": 762,
-          "url": 155
+          "url": 156
         },
-        "total": 5149
+        "total": 5150
       }
     },
     "LAZYSCRIPTER": {
@@ -147305,6 +147308,7 @@
           "tfrend.org",
           "themegaprovider.ddns.net",
           "tiexue.cdn-dl.cn",
+          "tight-lake-webuploader.malik-jaani786.workers.dev",
           "tiinly.co",
           "timeoflahore.com",
           "timoney.getexpo.com",
@@ -147759,7 +147763,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-06-21T13:38:44+03:00",
+        "last_modified": "2026-07-03T16:50:56+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -148790,6 +148794,7 @@
           "https://www.virustotal.com/gui/file/795ea82a7aa424f6d54d975a44d1c69a622217dbf8ebbd67becb64559bd3a909/detection",
           "https://x.com/skocherhan/status/2027484078132379889",
           "https://x.com/volrant136/status/2028050650110554502",
+          "https://x.com/__0XYC__/status/2072904128695800308",
           "https://arcticwolf.com/resources/blog/sloppylemming-deploys-burrowshell-and-rust-based-rat-to-target-pakistan-and-bangladesh/",
           "https://x.com/wa1Ile/status/2031612431856971936",
           "https://www.virustotal.com/gui/file/dcca21d91e3f261f998d7caa78660ac86b8b16c3785eef87788b502e84d98a8b/detection",
@@ -148849,12 +148854,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3594,
+          "domain": 3595,
           "file_path": 16,
           "ipv4": 50,
           "url": 29
         },
-        "total": 3689
+        "total": 3690
       }
     },
     "SILENCE": {
