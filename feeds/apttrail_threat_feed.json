@@ -168415,6 +168415,7 @@
           "432478421.8bbec.sod777.com",
           "4325.sod777.com",
           "432674979.6c469.sod777.com",
+          "432btr.com",
           "432btrz.com",
           "4342d.sod777.com",
           "4344774352ca7b.sod777.com",
@@ -168806,6 +168807,7 @@
           "5t6v9d.com",
           "5v3n6b.com",
           "5v6d9t.com",
+          "5v6k7w.com",
           "5v6n7w.com",
           "5v7n3b.com",
           "5xdx1.com",
@@ -169529,6 +169531,7 @@
           "alphacapitaltt.com",
           "alphacapitaltt.com.remax100trading.com",
           "alphadrop-dao.one",
+          "alphax-ad.xyz",
           "alrtzwu.com",
           "alsoclt.com",
           "alululink.online",
@@ -172930,6 +172933,7 @@
           "neijuan.info",
           "neiqmqu.com",
           "neon7.top",
+          "neonsparkmedia.top",
           "neqlnit.com",
           "netcams.io",
           "nethfm.lk",
@@ -175710,7 +175714,7 @@
         ],
         "apt_group": "UNC6691",
         "filename": "apt_unc6691.txt",
-        "last_modified": "2026-07-03T23:34:28+03:00",
+        "last_modified": "2026-07-04T16:03:35+03:00",
         "references": [
           "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit",
           "https://iverify.io/blog/coruna-inside-the-nation-state-grade-ios-exploit-kit-we-ve-been-tracking",
@@ -175720,11 +175724,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 8083,
+          "domain": 8087,
           "file_path": 1,
           "ipv4": 5
         },
-        "total": 8089
+        "total": 8093
       }
     },
     "UNC6692": {
