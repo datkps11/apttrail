@@ -147508,6 +147508,7 @@
           "winhost.redirectme.net",
           "winupdate.redirectme.net",
           "wl8aq8.nocet.info",
+          "wmail-zim-gov-rj-se-sp-br-63330a.netlify.app",
           "wndro.fia-gov.com",
           "wnic-svc.net",
           "worker-crimson-bread-052d.crypton0019.workers.dev",
@@ -147763,7 +147764,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-07-03T16:50:56+03:00",
+        "last_modified": "2026-07-04T14:15:05+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -148849,17 +148850,18 @@
           "https://x.com/volrant136/status/2064713040029991309",
           "https://x.com/volrant136/status/2066232019890426173",
           "https://www.virustotal.com/gui/file/f5a7890fd09909711cd9aed1614f8f2687639c61f4ea26efb57100431a688f05/detection",
-          "https://x.com/volrant136/status/2068637244039258552"
+          "https://x.com/volrant136/status/2068637244039258552",
+          "https://x.com/volrant136/status/2073059201346408940"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3595,
+          "domain": 3596,
           "file_path": 16,
           "ipv4": 50,
           "url": 29
         },
-        "total": 3690
+        "total": 3691
       }
     },
     "SILENCE": {
