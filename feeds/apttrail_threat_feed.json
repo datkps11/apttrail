@@ -105625,6 +105625,7 @@
           "naver.desaindigital.com",
           "naver.electricalone.com",
           "naver.hackquest.com",
+          "naver.hbmc.net",
           "naver.help2.xyz",
           "naver.hol.es",
           "naver.homestaxs.info",
@@ -107755,6 +107756,7 @@
           "nhn-articleread.cafe",
           "nhn-cafe.com",
           "nhn-cafearticle.com",
+          "nhn-cafearticles.com",
           "nhn-cafeposts.com",
           "nhn-caferead.com",
           "nhn-cafeview.com",
@@ -108103,6 +108105,7 @@
           "nid-naverhem.3utilities.com",
           "nid-naverhjk.servehalflife.com",
           "nid-naverhjy.serveftp.com",
+          "nid-naverhjz.servepics.com",
           "nid-naverhko.serveftp.com",
           "nid-naverhmt.servequake.com",
           "nid-naverhoc.onthewifi.com",
@@ -108210,6 +108213,7 @@
           "nid-naversecmail.onthewifi.com",
           "nid-naverset.ddnsking.com",
           "nid-naversgg.ddnsking.com",
+          "nid-navershg.servecounterstrike.com",
           "nid-naversiq.servequake.com",
           "nid-naversis.servepics.com",
           "nid-naverslf.servegame.com",
@@ -108300,6 +108304,7 @@
           "nid-naverztm.ddns.net",
           "nid-naverzwi.ooguy.com",
           "nid-naverzwr.serveftp.com",
+          "nid-naverzyc.onthewifi.com",
           "nid-navesec.serveftp.com",
           "nid-naveserve.serveftp.com",
           "nid-navesrvsec.servepics.com",
@@ -108565,6 +108570,7 @@
           "nid.naver.desaindigital.com",
           "nid.naver.electricalone.com",
           "nid.naver.hackquest.com",
+          "nid.naver.hbmc.net",
           "nid.naver.home-info.ml",
           "nid.naver.ignorelist.com",
           "nid.naver.iswellhung.com",
@@ -118540,7 +118546,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-07-04T22:43:59+03:00",
+        "last_modified": "2026-07-05T15:04:37+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -120172,12 +120178,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 24179,
+          "domain": 24185,
           "file_path": 295,
           "ipv4": 89,
           "url": 71
         },
-        "total": 24634
+        "total": 24640
       }
     },
     "KUN3": {
@@ -144981,7 +144987,9 @@
           "energy.pkgov.org",
           "ep-gov-pk.christmas",
           "ep-gov-pk.icu",
+          "ep-mocha.vercel.app",
           "epaper.dawn-323.workers.dev",
+          "epyi-zimbat-five.vercel.app",
           "erd.gov.lk.mofa-govbd.com",
           "erd.gov.lk.pk-mail.org",
           "ereribe.tech",
@@ -147418,6 +147426,7 @@
           "updtesession.online",
           "uploads.ptcl-gov-pk.workers.dev",
           "upones.site",
+          "uptownhigh.live",
           "upworkoffice.online",
           "user.onesom.biz",
           "usermail-output-panel.000webhostapp.com",
@@ -147800,7 +147809,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-07-04T14:15:05+03:00",
+        "last_modified": "2026-07-05T13:33:31+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -148887,17 +148896,19 @@
           "https://x.com/volrant136/status/2066232019890426173",
           "https://www.virustotal.com/gui/file/f5a7890fd09909711cd9aed1614f8f2687639c61f4ea26efb57100431a688f05/detection",
           "https://x.com/volrant136/status/2068637244039258552",
-          "https://x.com/volrant136/status/2073059201346408940"
+          "https://x.com/volrant136/status/2073059201346408940",
+          "https://x.com/volrant136/status/2073667741438103962",
+          "https://x.com/volrant136/status/2073668614679650761"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3596,
+          "domain": 3599,
           "file_path": 16,
           "ipv4": 50,
           "url": 29
         },
-        "total": 3691
+        "total": 3694
       }
     },
     "SILENCE": {
