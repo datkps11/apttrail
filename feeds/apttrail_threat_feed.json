@@ -169411,6 +169411,7 @@
           "78d88.sod777.com",
           "78fb2.sod777.com",
           "78mv2kx.com",
+          "78mvk2.com",
           "790142404b68c.sod777.com",
           "79131883.575f0.sod777.com",
           "79284.sod777.com",
@@ -172465,6 +172466,7 @@
           "jxjrsoo.com",
           "jxmxcwb.com",
           "jxwnsnq.com",
+          "jy038.com",
           "jyfbfke.com",
           "jynko.xyz",
           "jyoshec.com",
@@ -175543,6 +175545,7 @@
           "xiexiu.life",
           "xihcbte.com",
           "xikslru.com",
+          "xinews.xyz",
           "xittgveqaufogve.xyz",
           "xitv.site",
           "xj.crfbbarx.com",
@@ -176074,7 +176077,7 @@
         ],
         "apt_group": "UNC6691",
         "filename": "apt_unc6691.txt",
-        "last_modified": "2026-07-04T16:03:35+03:00",
+        "last_modified": "2026-07-05T02:12:15+03:00",
         "references": [
           "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit",
           "https://iverify.io/blog/coruna-inside-the-nation-state-grade-ios-exploit-kit-we-ve-been-tracking",
@@ -176084,11 +176087,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 8087,
+          "domain": 8090,
           "file_path": 1,
           "ipv4": 5
         },
-        "total": 8093
+        "total": 8096
       }
     },
     "UNC6692": {
