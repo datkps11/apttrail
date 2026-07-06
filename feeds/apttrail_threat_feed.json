@@ -121505,6 +121505,7 @@
           "camdriversupport.com",
           "camera-drive.cloud",
           "camera-drive.org",
+          "cameradriverupdates.com",
           "cameradriverx.cloud",
           "cammio.org",
           "camtechdrivers.com",
@@ -122622,6 +122623,7 @@
           "kit-haus.net",
           "kkvps.buzz",
           "knightsbridge-dex.vercel.app",
+          "knockri.us",
           "koliinfotech.company",
           "koover.org",
           "kooverly.org",
@@ -123271,6 +123273,7 @@
           "patchpal.pro",
           "pathsummitx.com",
           "pathsummitx.pages.dev",
+          "paxos-apply.com",
           "paxos-video-interview.com",
           "paxos-video-interviews.com",
           "paxos-video-recording.com",
@@ -125247,6 +125250,7 @@
           "144.172.99.81:8085",
           "144.172.99.81:8086",
           "144.172.99.81:8087",
+          "144.208.127.165:3000",
           "145.59.1.45:1244",
           "146.103.99.12:8080",
           "146.70.253.107:1224",
@@ -125810,6 +125814,8 @@
           "95.179.135.133:1245",
           "95.216.37.186:3000",
           "95.216.37.186:5000",
+          "95.216.64.240:1224",
+          "95.216.64.240:1245",
           "97.90.44.200:37120"
         ],
         "url": [
@@ -125817,6 +125823,7 @@
           "http://103.225.168.159/admin/verify.php",
           "http://103.35.190.170",
           "http://103.53.176.145:8080/ServiceDeskPlus/products.do",
+          "http://104.243.41.127",
           "http://108.181.185.2",
           "http://109.248.144.155",
           "http://109.248.150.13",
@@ -126054,7 +126061,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-07-03T17:00:58+03:00",
+        "last_modified": "2026-07-06T12:50:21+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -127337,17 +127344,19 @@
           "https://x.com/veryseriouseng/status/2072735310178402450",
           "https://www.ossprey.com/blog/how-ossprey-uncovered-a-large-scale-dprk-contagious-interview-campaign",
           "https://x.com/veryseriouseng/status/2071981111723331617",
-          "https://x.com/banthisguy9349/status/2072492697764642939"
+          "https://x.com/banthisguy9349/status/2072492697764642939",
+          "https://x.com/nextronresearch/status/2074031725764633010",
+          "https://x.com/skocherhan/status/2074059180256739719"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3753,
+          "domain": 3756,
           "file_path": 479,
-          "ipv4": 762,
-          "url": 156
+          "ipv4": 765,
+          "url": 157
         },
-        "total": 5150
+        "total": 5157
       }
     },
     "LAZYSCRIPTER": {
