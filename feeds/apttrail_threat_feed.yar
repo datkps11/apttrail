@@ -2095,6 +2095,32 @@ rule APT_CARETO
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_CAVERNMANTICORE
+{
+    meta:
+        description = "Detects IOCs associated with APT CAVERNMANTICORE"
+        author = "APTtrail Automated Collection"
+        apt_group = "CAVERNMANTICORE"
+        aliases = "cav3rn"
+        reference = "https://research.checkpoint.com/2026/cavern-manticore-exposing-iran-linked-modular-c2-framework/"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "adserviceupdate\.com" ascii wide nocase
+        $domain1 = "api\.zapretmusic\.com" ascii wide nocase
+        $domain2 = "app\.zapretmusic\.com" ascii wide nocase
+        $domain3 = "auth\.hospitalinstallation\.com" ascii wide nocase
+        $domain4 = "google\.com\.hospitalinstallation\.com" ascii wide nocase
+        $domain5 = "hospitalinstallation\.com" ascii wide nocase
+        $domain6 = "hygienehistory\.com" ascii wide nocase
+        $domain7 = "update\.myddns\.me" ascii wide nocase
+        $domain8 = "zapretmusic\.com" ascii wide nocase
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
+}
+
 rule APT_CDT
 {
     meta:

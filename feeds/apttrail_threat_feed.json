@@ -11792,6 +11792,40 @@
         "total": 0
       }
     },
+    "CAVERNMANTICORE": {
+      "indicators": {
+        "domain": [
+          "adserviceupdate.com",
+          "api.zapretmusic.com",
+          "app.zapretmusic.com",
+          "auth.hospitalinstallation.com",
+          "google.com.hospitalinstallation.com",
+          "hospitalinstallation.com",
+          "hygienehistory.com",
+          "update.myddns.me",
+          "zapretmusic.com"
+        ]
+      },
+      "metadata": {
+        "aliases": [
+          "cav3rn"
+        ],
+        "apt_group": "CAVERNMANTICORE",
+        "filename": "apt_cavernmanticore.txt",
+        "last_modified": "2026-07-06T22:22:54+03:00",
+        "references": [
+          "https://research.checkpoint.com/2026/cavern-manticore-exposing-iran-linked-modular-c2-framework/",
+          "https://www.virustotal.com/gui/file/ccf218189c3aadb1c761da14bfda3bae686769031e1e1b10007648bd72e34748/detection",
+          "https://www.virustotal.com/gui/file/cbc9485db715e1b8cc384fe94b4cceadca4006cda8a5e28adc8848529cfafc93/detection"
+        ]
+      },
+      "statistics": {
+        "by_type": {
+          "domain": 9
+        },
+        "total": 9
+      }
+    },
     "CDT": {
       "indicators": {
         "domain": [
@@ -122172,6 +122206,7 @@
           "fetchtalent360.com",
           "fhewkhwjehwekjfhwehfwe.com",
           "fidelitydigitalsassets.com",
+          "figuermarkets.com",
           "file-secure-sharing.com",
           "file.cestlaviewellnessretreat.com",
           "file.fclouddown.co",
@@ -126068,7 +126103,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-07-06T12:50:21+03:00",
+        "last_modified": "2026-07-06T21:24:47+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -127353,17 +127388,18 @@
           "https://x.com/veryseriouseng/status/2071981111723331617",
           "https://x.com/banthisguy9349/status/2072492697764642939",
           "https://x.com/nextronresearch/status/2074031725764633010",
-          "https://x.com/skocherhan/status/2074059180256739719"
+          "https://x.com/skocherhan/status/2074059180256739719",
+          "https://x.com/banthisguy9349/status/2074129793692688798"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3756,
+          "domain": 3757,
           "file_path": 479,
           "ipv4": 765,
           "url": 157
         },
-        "total": 5157
+        "total": 5158
       }
     },
     "LAZYSCRIPTER": {
@@ -154165,7 +154201,6 @@
           "cencare.help",
           "ceneecert.com",
           "centralavenues.com",
-          "centralregistry.dss.virginia.gov",
           "cert-in.org.in.check-suspicious-activity-on-account.support",
           "certdehli.in",
           "certificateprint.online",
@@ -160049,7 +160084,6 @@
           "vipbirth.shop",
           "vipcrs.info",
           "vipprint.online",
-          "virginia.gov",
           "virify.in",
           "virtual-onegolf.com",
           "virtual-tennispro.com",
@@ -161292,7 +161326,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-07-05T13:08:22+03:00",
+        "last_modified": "2026-07-06T21:23:27+03:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -162431,12 +162465,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 6545,
+          "domain": 6543,
           "file_path": 40,
           "ipv4": 856,
           "url": 125
         },
-        "total": 7566
+        "total": 7564
       }
     },
     "TRIANGULATION": {
@@ -179436,5 +179470,5 @@
     }
   },
   "source": "Maltrail APT Indicators",
-  "total_apt_groups": 339
+  "total_apt_groups": 340
 }
