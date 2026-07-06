@@ -97560,6 +97560,7 @@
           "diskedge.o-r.kr",
           "dismcia.click",
           "disminic.click",
+          "dispsendsvcs.dynu.net",
           "disquiet.site",
           "distinctall.click",
           "diuvwquxiefimckg.cfd",
@@ -98459,6 +98460,7 @@
           "edocs-center.site",
           "edocs-high.site",
           "edocs-hope.site",
+          "edocs-kaka.dynu.net",
           "edocs-kr.cloud",
           "edocs-mid.site",
           "edocs-moseid.site",
@@ -103976,6 +103978,7 @@
           "midocs-main.v6.army",
           "midocument-hometax.mydns.bz",
           "midostaff.click",
+          "midsance.dynu.org",
           "midsdoc.dns.army",
           "midsecurity.org",
           "miduserinfo.website",
@@ -104283,6 +104286,7 @@
           "mscodedns.dynu.org",
           "mscure.dns.army",
           "msdatl3.inc",
+          "msdnsmye.dynu.org",
           "mseth.xyz",
           "msgbugreporting.lovestoblog.com",
           "msi5ex.dynv6.net",
@@ -107714,6 +107718,7 @@
           "nhiscorps.dynu.org",
           "nhisedis.dynu.org",
           "nhisemain.dynu.org",
+          "nhiseos.dynu.org",
           "nhisgo.dynu.org",
           "nhishosts.dns.army",
           "nhisko.dynu.org",
@@ -114092,6 +114097,7 @@
           "samsunghospitol.com",
           "samyang.ml",
           "sanctobeseljanety.store",
+          "sandmsid.dynu.org",
           "sankei.sslport.work",
           "santokandaremadan.store",
           "santora.store",
@@ -114515,6 +114521,7 @@
           "si63k8gmso.v6.army",
           "sibnwuglggqfqk.xn--hk3b17f.xn--3e0b707e",
           "sicetite.click",
+          "sidnance.dynu.org",
           "siedsocs.lat",
           "siekis.com",
           "siekn.online",
@@ -118546,7 +118553,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-07-05T15:04:37+03:00",
+        "last_modified": "2026-07-06T19:02:24+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -120178,12 +120185,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 24185,
+          "domain": 24192,
           "file_path": 295,
           "ipv4": 89,
           "url": 71
         },
-        "total": 24640
+        "total": 24647
       }
     },
     "KUN3": {
