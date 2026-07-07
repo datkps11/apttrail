@@ -121577,6 +121577,7 @@
           "caladangroup.xyz",
           "calendly.live",
           "callapp.us",
+          "callsdk.online",
           "callservice.us",
           "calystiabusiness.com",
           "camallupdate.cloud",
@@ -121588,6 +121589,7 @@
           "camdriversupport.com",
           "camera-drive.cloud",
           "camera-drive.org",
+          "cameradriver.pro",
           "cameradriverupdates.com",
           "cameradriverx.cloud",
           "cammio.org",
@@ -121618,6 +121620,7 @@
           "castleisland.sky-meeting.com",
           "catalog-editorial-qdoii4smx-clg.vercel.app",
           "ccsnbao.com",
+          "cctxtools.com",
           "ccuk.edu.ng",
           "ccwaterfall.com",
           "cdn-static-server.vercel.app",
@@ -121738,6 +121741,7 @@
           "cnbc.crypto-ecosystem.world",
           "co.intneral-document-he-gr-me.run.place",
           "coachzenblog.biz",
+          "coalink.support",
           "cobinase.com",
           "cobinbase.com",
           "coca-cola.bond",
@@ -122508,6 +122512,7 @@
           "hiretestzone.com",
           "hireviavideo.com",
           "hirevision360.com",
+          "hiring-intellipro.com",
           "hiring-interview.com",
           "hiring-one.com",
           "hiring-you.com",
@@ -124008,6 +124013,7 @@
           "synternetlab.com",
           "sys.antiviruscheck.store",
           "sys.updatecheck.site",
+          "sysdoctor.org",
           "system.updatecheck.store",
           "systemupdate.site",
           "systemupdate.store",
@@ -124060,6 +124066,7 @@
           "team-meeting.net",
           "team-meeting.pro",
           "team-meeting.xyz",
+          "team.business.in",
           "team.msteam.biz",
           "teampulsynk.team",
           "teams-live.cam",
@@ -124442,6 +124449,7 @@
           "web001zoom.us",
           "web011zoom.us",
           "web021zoom.us",
+          "web02eu.live",
           "web05zoom.us",
           "web3-metric-analytics.vercel.app",
           "web3.auditprovidre.store",
@@ -124463,6 +124471,7 @@
           "webcamfix.cloud",
           "webcamfixer.cloud",
           "webcamfixer.online",
+          "webcamsdk-update.online",
           "webcamwizard.cloud",
           "webhosttech.org",
           "webmail.dropfile.online",
@@ -124599,6 +124608,7 @@
           "zm-meeting.com",
           "zmwebsdk.com",
           "zone-api-navy.vercel.app",
+          "zonelitho.com",
           "zoom-client.xyz",
           "zoom-meeting-web-static.eventx.com.cn",
           "zoom-sdk.us",
@@ -125286,6 +125296,7 @@
           "144.172.110.228:8085",
           "144.172.110.228:8086",
           "144.172.110.228:8087",
+          "144.172.110.53:3000",
           "144.172.110.96:8085",
           "144.172.110.96:8086",
           "144.172.110.96:8087",
@@ -126146,7 +126157,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-07-07T09:42:21+03:00",
+        "last_modified": "2026-07-07T17:20:47+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -127433,17 +127444,20 @@
           "https://x.com/nextronresearch/status/2074031725764633010",
           "https://x.com/skocherhan/status/2074059180256739719",
           "https://x.com/banthisguy9349/status/2074129793692688798",
-          "https://x.com/veryseriouseng/status/2074132007106359730"
+          "https://x.com/veryseriouseng/status/2074132007106359730",
+          "https://x.com/malwrhunterteam/status/2074106725951590709",
+          "https://www.virustotal.com/gui/ip-address/144.172.110.53/relations",
+          "https://tria.ge/260706-qky96abw2q/behavioral1"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3757,
+          "domain": 3767,
           "file_path": 479,
-          "ipv4": 765,
+          "ipv4": 766,
           "url": 158
         },
-        "total": 5159
+        "total": 5170
       }
     },
     "LAZYSCRIPTER": {
