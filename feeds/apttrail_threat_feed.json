@@ -121466,6 +121466,7 @@
           "binancestransfers.com",
           "binshtok-cowan-test-pwjs2ggdx.vercel.sh",
           "biomedsurgcial.com",
+          "bitensor.xyz",
           "bitfinex.internal-meeting.online",
           "bitfinex.video-meet.online",
           "bitfiniex.org",
@@ -126159,7 +126160,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-07-07T17:20:47+03:00",
+        "last_modified": "2026-07-08T16:35:30+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -127449,17 +127450,18 @@
           "https://x.com/veryseriouseng/status/2074132007106359730",
           "https://x.com/malwrhunterteam/status/2074106725951590709",
           "https://www.virustotal.com/gui/ip-address/144.172.110.53/relations",
-          "https://tria.ge/260706-qky96abw2q/behavioral1"
+          "https://tria.ge/260706-qky96abw2q/behavioral1",
+          "https://www.virustotal.com/gui/file/a1e96380809fa22b8ba0c9377e52b7919515d22a309ed8eae9783d42a04c7455/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3767,
+          "domain": 3768,
           "file_path": 479,
           "ipv4": 766,
           "url": 158
         },
-        "total": 5170
+        "total": 5171
       }
     },
     "LAZYSCRIPTER": {
