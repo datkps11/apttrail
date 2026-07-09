@@ -168557,6 +168557,7 @@
           "2277f.sod777.com",
           "22bb.sod777.com",
           "22d78.sod777.com",
+          "22ndk.com",
           "22r.online",
           "22u.vip",
           "230052333.12056.sod777.com",
@@ -169049,6 +169050,7 @@
           "444111.co",
           "4444032732ec78.sod777.com",
           "447744607.6d833.sod777.com",
+          "44bxz.com",
           "45144032821a69.sod777.com",
           "451988689f954.sod777.com",
           "452327817.13047a5d4.sod777.com",
@@ -173311,6 +173313,7 @@
           "m6p2q.com",
           "m6t5c.com",
           "m6u.link",
+          "m77vr.com",
           "m7xdv.com",
           "m82vp.com",
           "m8c4z.com",
@@ -173894,6 +173897,7 @@
           "opizmwu.com",
           "opjofmj.com",
           "opjukla.com",
+          "opnews749.com",
           "oprwgtg.com",
           "opsiajncjas.click",
           "opymdqa.com",
@@ -175744,6 +175748,7 @@
           "wvywldk.com",
           "wvzzphq.com",
           "ww.777winnergo.app",
+          "ww83c.com",
           "wwbifed.com",
           "wwgiehp.com",
           "wwgmohs.xyz",
@@ -176289,6 +176294,7 @@
           "zorsvaq.com",
           "zotwfoh.com",
           "zowvsyf.com",
+          "zp91m.com",
           "zphpgcq.com",
           "zpnearz.com",
           "zppkpld.com",
@@ -176383,7 +176389,7 @@
         ],
         "apt_group": "UNC6691",
         "filename": "apt_unc6691.txt",
-        "last_modified": "2026-07-09T12:42:14+03:00",
+        "last_modified": "2026-07-09T16:12:15+03:00",
         "references": [
           "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit",
           "https://iverify.io/blog/coruna-inside-the-nation-state-grade-ios-exploit-kit-we-ve-been-tracking",
@@ -176393,11 +176399,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 8145,
+          "domain": 8151,
           "file_path": 1,
           "ipv4": 5
         },
-        "total": 8151
+        "total": 8157
       }
     },
     "UNC6692": {
