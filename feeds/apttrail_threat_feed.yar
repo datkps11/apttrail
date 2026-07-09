@@ -6583,7 +6583,9 @@ rule APT_KUN3
         $domain49 = "bing-sogou\.com" ascii wide nocase
         $ip50 = "137.220.140.4" ascii wide
         $ip51 = "156.251.17.147" ascii wide
-        $ip52 = "45.204.207.244" ascii wide
+        $ip52 = "43.248.172.115" ascii wide
+        $ip53 = "43.248.172.115" ascii wide
+        $ip54 = "45.204.207.244" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
