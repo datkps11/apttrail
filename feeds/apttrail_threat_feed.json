@@ -95841,6 +95841,7 @@
           "bkkug0us2sj.dns.navy",
           "bkl-co.ml",
           "bklis.desbros.kro.kr",
+          "bksei.dynu.org",
           "blairy.store",
           "blastave.click",
           "blasthub.top",
@@ -95861,6 +95862,7 @@
           "blendrshub.xyz",
           "blinksurge.today",
           "bliogfull.click",
+          "blmsdert.dynu.org",
           "block.nblogoflink.mydns.bz",
           "block.setinfo.kro.kr",
           "block.usermemberblg.freeddns.org",
@@ -96784,6 +96786,7 @@
           "cmember.eu",
           "cmember.info",
           "cmh224nas.i234.me",
+          "cmidmsrt.dynu.org",
           "cmonunt.online",
           "cms.spaceyou.o-r.kr",
           "cmseny.store",
@@ -101902,6 +101905,7 @@
           "ips.petfoodkorea.kr",
           "ipsados.dynuddns.net",
           "ipsasg.dynu.org",
+          "ipsauths.dynu.org",
           "ipscode.dns.army",
           "ipscorped.dns.navy",
           "ipscorped.dynv6.net",
@@ -103921,6 +103925,7 @@
           "menhs.dynu.org",
           "menoks.online",
           "meoslpx.online",
+          "meprtos.dynu.net",
           "meratics1.r-e.kr",
           "meritos1.r-e.kr",
           "mernber.daunhome.o-r.kr",
@@ -104258,6 +104263,7 @@
           "moissctic.site",
           "moissoc.dynuddns.net",
           "moisth.dynuddns.net",
+          "moistos.dynu.net",
           "moistu30uesrnetna.online",
           "mokyezlbzbqzvbwd.cfd",
           "moldoep.website",
@@ -104371,6 +104377,7 @@
           "mschkc.space",
           "mscntmsp.dynu.org",
           "mscodedns.dynu.org",
+          "mscodeme.dynu.org",
           "mscure.dns.army",
           "msdatl3.inc",
           "msdnsmye.dynu.org",
@@ -104390,6 +104397,7 @@
           "msnvlogd.dynu.org",
           "msoffic.homes",
           "msoharvard.certuser.info",
+          "msoinsnt.dynu.org",
           "msolui80.inc",
           "mspdoirehwpg03pe.cfd",
           "mspro.kro.kr",
@@ -106663,6 +106671,7 @@
           "nbai23-aba-3251c-3a12.site",
           "nband.p-e.kr",
           "nbaseinvoice.mydns.bz",
+          "nbclog.dynu.org",
           "nbclouds1avs.dynu.org",
           "nbclouds28avs.dynu.org",
           "nbclouds46avs.dynu.org",
@@ -107810,10 +107819,12 @@
           "nhis-post.cv",
           "nhis-posting.icu",
           "nhis-posting.store",
+          "nhis-verifys.dynu.org",
           "nhis-web.cv",
           "nhisadocs.dynu.org",
           "nhisann.dns.navy",
           "nhisann.dynu.org",
+          "nhisauth.dynu.org",
           "nhiscoaccess.mydns.bz",
           "nhisconfig26in.dynv6.net",
           "nhiscope.dynu.org",
@@ -110745,6 +110756,7 @@
           "nstidnv.dynu.org",
           "nstk.nid-tax.dynuddns.net",
           "nstlog.store",
+          "nstnasnt.dynu.org",
           "nstnitem.dynu.org",
           "nstore.r-e.kr",
           "nstorecode.dynu.org",
@@ -113411,6 +113423,7 @@
           "psofhwernlvwiehd.cfd",
           "psonaservice.cfd",
           "psuser.eu",
+          "psverify.dynu.org",
           "pswolfservice.cfd",
           "psxyqs93is.dynv6.net",
           "psyop.fi",
@@ -115984,6 +115997,7 @@
           "ublogapps.dynu.net",
           "ublogapps14nd.dynv6.net",
           "ublogapps26nd.dynv6.net",
+          "ublogapps34nd.dynv6.net",
           "ublogapps75nd.dynv6.net",
           "ublogblock.mydns.bz",
           "ublogcenter.kro.kr",
@@ -118709,7 +118723,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-07-09T14:09:14+03:00",
+        "last_modified": "2026-07-10T15:49:35+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -120341,12 +120355,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 24305,
+          "domain": 24319,
           "file_path": 295,
           "ipv4": 89,
           "url": 71
         },
-        "total": 24760
+        "total": 24774
       }
     },
     "KUN3": {
@@ -123333,6 +123347,7 @@
           "nxlog.tech",
           "ny.silvergatehr.com",
           "nzssdm.com",
+          "o1xyc6.easypanel.host",
           "octo-manage.net",
           "offerings.cloud",
           "office-theme.com",
@@ -125887,6 +125902,7 @@
           "61.139.89.11:9999",
           "63.176.219.134:8080",
           "64.188.19.117:443",
+          "65.108.27.116:3000",
           "66.154.102.91:9090",
           "66.235.168.136:3000",
           "66.235.168.155:1244",
@@ -126249,7 +126265,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-07-09T11:11:24+03:00",
+        "last_modified": "2026-07-10T15:36:07+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -127545,12 +127561,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3768,
+          "domain": 3769,
           "file_path": 479,
-          "ipv4": 774,
+          "ipv4": 775,
           "url": 158
         },
-        "total": 5179
+        "total": 5181
       }
     },
     "LAZYSCRIPTER": {
@@ -137687,8 +137703,6 @@
           "info.flach.cn",
           "infoadmin.update.huaweiyuncdn.com",
           "infosecvn.com",
-          "initiative-crm.com",
-          "initiative.solutions",
           "inly5sf.com",
           "iot.johnsimde.xyz",
           "ipsoftwarelabs.com",
@@ -137732,8 +137746,6 @@
           "mail.oceancertsurveyors.com",
           "markplay.net",
           "mashupdatabase.com",
-          "media.initiative-crm.com",
-          "media.initiative.solutions",
           "mediadomainservice.org",
           "mediareleaseupdates.com",
           "meet.schedulethomastecs.cam",
@@ -138083,7 +138095,7 @@
         ],
         "apt_group": "MUSTANGPANDA",
         "filename": "apt_mustangpanda.txt",
-        "last_modified": "2026-07-07T17:49:59+03:00",
+        "last_modified": "2026-07-10T15:28:15+03:00",
         "references": [
           "https://www.anomali.com/blog/china-based-apt-mustang-panda-targets-minority-groups-public-and-private-sector-organizations",
           "https://otx.alienvault.com/pulse/5d9c72d7e2efa3b5aa799b41",
@@ -138283,12 +138295,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 312,
+          "domain": 308,
           "file_path": 2,
           "ipv4": 142,
           "url": 48
         },
-        "total": 504
+        "total": 500
       }
     },
     "NAIKON": {
