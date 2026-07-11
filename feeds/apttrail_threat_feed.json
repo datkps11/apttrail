@@ -147627,6 +147627,7 @@
           "bdgov.info",
           "bdgovt.com",
           "bdmil.alit.live",
+          "bdnavy.download-msoffice.com",
           "bdnews.info",
           "beaxor.xyz",
           "behr.ppinewsagency.live",
@@ -147691,6 +147692,7 @@
           "caa.update.customs-lk.org",
           "caab.gov.bd.pk-govt.net",
           "caapakistan.pk-mail.org",
+          "cabinet-division-gov-pk.download-msoffice.com",
           "cabinet-division-pk.fia-gov.com",
           "cabinet-download-server.top",
           "cabinet-gov-bd.donwloaad-file.com",
@@ -147769,6 +147771,7 @@
           "cdn.ubrig.live",
           "cdn.verocal.info",
           "cdsve.bol-north.com",
+          "ceh.download-msoffice.com",
           "ceiling.kalpo.xyz",
           "centralized-email-system-np.com",
           "cert.pk-gov.org",
@@ -148097,6 +148100,7 @@
           "docuserve.ltd",
           "docusserve.cc",
           "docusserve.ltd",
+          "docx2a2e3e78e76bcc759905da3f1532a4b8c2word.download-msoffice.com",
           "dof-govmm.sytes.net",
           "doken.xyz",
           "dolper.top",
@@ -148117,6 +148121,7 @@
           "download-doc.net",
           "download-file.net",
           "download-files-0pen-err0r-l0gin.netlify.app",
+          "download-msoffice.com",
           "download-secure-app-from-icloud.malik-jaani786.workers.dev",
           "download-services.online",
           "download-store.tech",
@@ -148878,6 +148883,7 @@
           "mail-bafmilbd.servequake.com",
           "mail-bcc-gov-bd-7j5la.bunny.run",
           "mail-bcc-gov-bd-condepakuregoda4533-fxr7ofbc.leapcell.dev",
+          "mail-bcc-gov-bd.vercel.app",
           "mail-bccgov.gotdns.ch",
           "mail-bccnetdd.ddns.net",
           "mail-bfsa-gov-bd.netlify.app",
@@ -149325,6 +149331,7 @@
           "mishal.com.pk-mailgov.com",
           "mitgiied.vip",
           "mitlec.site",
+          "mm.download-msoffice.com",
           "mm.gov-org.net",
           "mmcert-org-mm.donwloaded.com",
           "mms.phone-update.click",
@@ -150217,6 +150224,7 @@
           "portdedjibouti.shipping-policy.info",
           "portdjibouti.pmd-office.org",
           "portmin-gov-lk.fetchdrive.org",
+          "portmin.download-msoffice.com",
           "portmin.gov.lk.mail-pk.org",
           "posta-nhq43i6x.b4a.run",
           "postfix.hondeman.net",
@@ -150626,6 +150634,7 @@
           "toss.tercom.site",
           "training-course-on-improving-safety.up.railway.app",
           "training.detru.info",
+          "training.docx2a2e3e78e76bcc759905da3f1532a4b8c2word.download-msoffice.com",
           "trans-aws.net",
           "trans-can.net",
           "trans-del.net",
@@ -150810,6 +150819,7 @@
           "wmail-zim-gov-rj-se-sp-br-63330a.netlify.app",
           "wndro.fia-gov.com",
           "wnic-svc.net",
+          "word.download-msoffice.com",
           "worker-crimson-bread-052d.crypton0019.workers.dev",
           "worker-orange-unit-abfb.gwadarportt.workers.dev",
           "worker-plain-wind-01a9.pakistan-gov-pk.workers.dev",
@@ -151063,7 +151073,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-07-05T13:33:31+03:00",
+        "last_modified": "2026-07-12T01:13:18+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -152152,17 +152162,21 @@
           "https://x.com/volrant136/status/2068637244039258552",
           "https://x.com/volrant136/status/2073059201346408940",
           "https://x.com/volrant136/status/2073667741438103962",
-          "https://x.com/volrant136/status/2073668614679650761"
+          "https://x.com/volrant136/status/2073668614679650761",
+          "https://x.com/suyog41/status/2075572390315311333",
+          "https://www.virustotal.com/gui/file/372226c831de35186e1c96ec28c9ca8ceb02d69c9fe718e21d35b2e921ccf1de/detection",
+          "https://www.virustotal.com/gui/file/5ef25d162827195f2fbdc80fd5c6d119ff41dd16f980692a8c4308465d88c554/detection",
+          "https://x.com/volrant136/status/2076012175685287991"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3599,
+          "domain": 3609,
           "file_path": 16,
           "ipv4": 50,
           "url": 29
         },
-        "total": 3694
+        "total": 3704
       }
     },
     "SILENCE": {
