@@ -95073,6 +95073,7 @@
           "amlsystem.p-e.kr",
           "amplappe.click",
           "amsnvstn.dynu.org",
+          "amwinmsnt.dynu.org",
           "an.ailone.mydns.bz",
           "an.cailtteve.mydns.bz",
           "an.calinck.mydns.bz",
@@ -103766,6 +103767,7 @@
           "manager-alert.tk",
           "manager.naver-in.ml",
           "managerbybit.navernnail.com",
+          "manages.dynu.org",
           "manbet.vip",
           "manbetx.pw",
           "manbetx123.net",
@@ -103935,6 +103937,7 @@
           "memcocp.site",
           "memconfirm.info",
           "memconfirms.online",
+          "memmois.dynu.org",
           "memnhis.dynu.org",
           "memo.sinwon21c.kro.kr",
           "memver-view-center.esy.es",
@@ -104031,6 +104034,7 @@
           "mexcs.shop",
           "mexico.p-e.kr",
           "mexnhis.dynu.org",
+          "mexop.dynu.org",
           "mfaceneriury.store",
           "mfatehranservewemtonyweroperioneiranemb.store",
           "mfgymunpujyfsq.xn--hu5b25b77nvwc.xn--3e0b707e",
@@ -104385,6 +104389,8 @@
           "mpmmp.top",
           "mpoise.dynu.net",
           "mportal.doosanenc.n-e.kr",
+          "mprse.dynu.net",
+          "mprse.dynuddns.net",
           "mprtos.dynuddns.net",
           "mps-navors.dns.army",
           "mpsc.dynu.net",
@@ -104392,6 +104398,8 @@
           "mqzbrihvxqdvivpu.cfd",
           "mrasis.n-e.kr",
           "mrb.kum.mybluehost.me",
+          "mrcpol.dynu.org",
+          "mrcpol.dynuddns.net",
           "mrlighting.click",
           "ms-cloud.ezgateway.net",
           "ms-work.com-info.store",
@@ -104423,7 +104431,9 @@
           "mslitend.dynu.org",
           "msn-imap.com",
           "msndimlo.dynu.org",
+          "msnhor.dynu.net",
           "msnidltn.dynu.org",
+          "msnomsnts.dynu.org",
           "msnvlogd.dynu.org",
           "msoffic.homes",
           "msoharvard.certuser.info",
@@ -107005,6 +107015,9 @@
           "ncodgncheck.dynu.org",
           "ncodgnpass.dynu.org",
           "ncodgnverify.dynu.org",
+          "ncodgocheck.dynu.org",
+          "ncodgopass.dynu.org",
+          "ncodgoverify.dynu.org",
           "ncog10ks.dns.navy",
           "ncog30ks.dns.navy",
           "ncog3ks.dns.navy",
@@ -118866,7 +118879,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-07-14T21:33:14+03:00",
+        "last_modified": "2026-07-15T12:32:21+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -120498,12 +120511,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 24462,
+          "domain": 24475,
           "file_path": 295,
           "ipv4": 89,
           "url": 71
         },
-        "total": 24917
+        "total": 24930
       }
     },
     "KUN3": {
