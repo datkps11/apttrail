@@ -1752,23 +1752,23 @@ rule APT_BLUENOROFF
         $ip60 = "142.11.196.106" ascii wide
         $ip61 = "142.11.206.73" ascii wide
         $ip62 = "144.172.114.220" ascii wide
-        $ip63 = "163.25.24.44" ascii wide
-        $ip64 = "163.5.254.70" ascii wide
-        $ip65 = "172.86.91.195" ascii wide
-        $ip66 = "186.183.185.94" ascii wide
-        $ip67 = "23.254.164.123" ascii wide
-        $ip68 = "23.254.164.61" ascii wide
+        $ip63 = "144.172.116.143" ascii wide
+        $ip64 = "163.25.24.44" ascii wide
+        $ip65 = "163.5.254.70" ascii wide
+        $ip66 = "172.86.91.195" ascii wide
+        $ip67 = "186.183.185.94" ascii wide
+        $ip68 = "23.254.164.123" ascii wide
         $ip69 = "23.254.164.61" ascii wide
-        $ip70 = "23.254.164.92" ascii wide
+        $ip70 = "23.254.164.61" ascii wide
         $ip71 = "23.254.164.92" ascii wide
         $ip72 = "23.254.164.92" ascii wide
-        $ip73 = "23.254.167.216" ascii wide
-        $ip74 = "23.254.202.223" ascii wide
-        $ip75 = "23.254.203.244" ascii wide
+        $ip73 = "23.254.164.92" ascii wide
+        $ip74 = "23.254.167.216" ascii wide
+        $ip75 = "23.254.202.223" ascii wide
         $ip76 = "23.254.203.244" ascii wide
-        $ip77 = "38.110.228.52" ascii wide
-        $ip78 = "41.85.145.164" ascii wide
-        $ip79 = "45.238.25.2" ascii wide
+        $ip77 = "23.254.203.244" ascii wide
+        $ip78 = "38.110.228.52" ascii wide
+        $ip79 = "41.85.145.164" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
