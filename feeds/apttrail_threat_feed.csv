@@ -8988,6 +8988,7 @@ CHARMINGKITTEN,domain,1drv.surf
 CHARMINGKITTEN,domain,1drv.xyz
 CHARMINGKITTEN,domain,1stemployer.com
 CHARMINGKITTEN,domain,1stl.ink
+CHARMINGKITTEN,domain,30min-smartsight-hr.com
 CHARMINGKITTEN,domain,3dauth.live
 CHARMINGKITTEN,domain,3dconfirrnation.com
 CHARMINGKITTEN,domain,8ghefkwdvbfdsg3asdf1.com
@@ -10673,6 +10674,7 @@ CHARMINGKITTEN,domain,sky-writer.online
 CHARMINGKITTEN,domain,skynevvs.com
 CHARMINGKITTEN,domain,slmkhubi.ddns.net
 CHARMINGKITTEN,domain,smaaaal.cfd
+CHARMINGKITTEN,domain,smart-sight-hr.com
 CHARMINGKITTEN,domain,smartapptools.azurewebsites.net
 CHARMINGKITTEN,domain,smartmediq.azurewebsites.net
 CHARMINGKITTEN,domain,smarttradingfast.com
@@ -112189,8 +112191,11 @@ LAZARUS,domain,voldemort.myvnc.com
 LAZARUS,domain,voov-meeting.site
 LAZARUS,domain,voyagorclub.space
 LAZARUS,domain,vpn.contradecapital.com
+LAZARUS,domain,vscode-address-checking-mo.vercel.app
 LAZARUS,domain,vscode-bootstrapper.vercel.app
+LAZARUS,domain,vscode-check-mo1.vercel.app
 LAZARUS,domain,vscode-checking-ip-address.vercel.app
+LAZARUS,domain,vscode-clone.vercel.app
 LAZARUS,domain,vscode-config-setting.vercel.app
 LAZARUS,domain,vscode-config-settings.vercel.app
 LAZARUS,domain,vscode-config.vercel.app
@@ -112202,8 +112207,13 @@ LAZARUS,domain,vscode-extensions-bootstrap.vercel.app
 LAZARUS,domain,vscode-helper-132.vercel.app
 LAZARUS,domain,vscode-helper171-ruby.vercel.app
 LAZARUS,domain,vscode-helper171.vercel.app
+LAZARUS,domain,vscode-ip-addess-checking.vercel.app
+LAZARUS,domain,vscode-ip-address-checking-ten.vercel.app
 LAZARUS,domain,vscode-ip-address-checking.vercel.app
 LAZARUS,domain,vscode-ip-checking-nine.vercel.app
+LAZARUS,domain,vscode-ipaddress-checking-nine.vercel.app
+LAZARUS,domain,vscode-ipaddress-checking.vercel.app
+LAZARUS,domain,vscode-ipchecking.vercel.app
 LAZARUS,domain,vscode-lnc.vercel.app
 LAZARUS,domain,vscode-load-config.vercel.app
 LAZARUS,domain,vscode-load.onrender.com
@@ -112212,7 +112222,9 @@ LAZARUS,domain,vscode-marketplace-badge.vercel.app
 LAZARUS,domain,vscode-portfolio.vercel.app
 LAZARUS,domain,vscode-production-setting.vercel.app
 LAZARUS,domain,vscode-project-setting.vercel.app
+LAZARUS,domain,vscode-setting-6-28.vercel.app
 LAZARUS,domain,vscode-settings-0511.vercel.app
+LAZARUS,domain,vscode-settings-8140-self.vercel.app
 LAZARUS,domain,vscode-settings-bootstrap.vercel.app
 LAZARUS,domain,vscode-settings-config-md.vercel.app
 LAZARUS,domain,vscode-settings-config.vercel.app
@@ -113101,6 +113113,9 @@ LAZARUS,ipv4,144.172.106.7:1224
 LAZARUS,ipv4,144.172.106.7:1245
 LAZARUS,ipv4,144.172.108.225:2000
 LAZARUS,ipv4,144.172.108.225:8443
+LAZARUS,ipv4,144.172.108.236:2000
+LAZARUS,ipv4,144.172.108.236:3000
+LAZARUS,ipv4,144.172.108.236:5918
 LAZARUS,ipv4,144.172.108.248:8443
 LAZARUS,ipv4,144.172.109.155:1224
 LAZARUS,ipv4,144.172.109.98:1224

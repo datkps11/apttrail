@@ -12176,6 +12176,7 @@
           "1drv.xyz",
           "1stemployer.com",
           "1stl.ink",
+          "30min-smartsight-hr.com",
           "3dauth.live",
           "3dconfirrnation.com",
           "8ghefkwdvbfdsg3asdf1.com",
@@ -13861,6 +13862,7 @@
           "skynevvs.com",
           "slmkhubi.ddns.net",
           "smaaaal.cfd",
+          "smart-sight-hr.com",
           "smartapptools.azurewebsites.net",
           "smartmediq.azurewebsites.net",
           "smarttradingfast.com",
@@ -14437,7 +14439,7 @@
         ],
         "apt_group": "CHARMINGKITTEN",
         "filename": "apt_charmingkitten.txt",
-        "last_modified": "2026-05-23T16:22:28+03:00",
+        "last_modified": "2026-07-17T12:47:24+03:00",
         "references": [
           "https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc (2018-06-12 Charming Kitten waterhole)",
           "https://www.clearskysec.com/charmingkitten/",
@@ -14656,17 +14658,18 @@
           "https://x.com/ThreatBookLabs/status/2010540242932269492",
           "https://www.virustotal.com/gui/file/e7b2cc236af9edbe44307d293a7d7fcbb199a286f7eec864f363fcb725c7ef70/detection",
           "https://www.virustotal.com/gui/file/a6b0c63b2aa25d5fe8ff5b9bd4d28636fbfa7f7af5db7c34d82459738243163a/detection",
-          "https://unit42.paloaltonetworks.com/tracking-iran-apt-screening-serpens/"
+          "https://unit42.paloaltonetworks.com/tracking-iran-apt-screening-serpens/",
+          "https://x.com/nextronresearch/status/2078037561667142042"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 2096,
+          "domain": 2098,
           "file_path": 4,
           "ipv4": 107,
           "url": 25
         },
-        "total": 2232
+        "total": 2234
       }
     },
     "CLEAVER": {
@@ -124712,8 +124715,11 @@
           "voov-meeting.site",
           "voyagorclub.space",
           "vpn.contradecapital.com",
+          "vscode-address-checking-mo.vercel.app",
           "vscode-bootstrapper.vercel.app",
+          "vscode-check-mo1.vercel.app",
           "vscode-checking-ip-address.vercel.app",
+          "vscode-clone.vercel.app",
           "vscode-config-setting.vercel.app",
           "vscode-config-settings.vercel.app",
           "vscode-config.vercel.app",
@@ -124725,8 +124731,13 @@
           "vscode-helper-132.vercel.app",
           "vscode-helper171-ruby.vercel.app",
           "vscode-helper171.vercel.app",
+          "vscode-ip-addess-checking.vercel.app",
+          "vscode-ip-address-checking-ten.vercel.app",
           "vscode-ip-address-checking.vercel.app",
           "vscode-ip-checking-nine.vercel.app",
+          "vscode-ipaddress-checking-nine.vercel.app",
+          "vscode-ipaddress-checking.vercel.app",
+          "vscode-ipchecking.vercel.app",
           "vscode-lnc.vercel.app",
           "vscode-load-config.vercel.app",
           "vscode-load.onrender.com",
@@ -124735,7 +124746,9 @@
           "vscode-portfolio.vercel.app",
           "vscode-production-setting.vercel.app",
           "vscode-project-setting.vercel.app",
+          "vscode-setting-6-28.vercel.app",
           "vscode-settings-0511.vercel.app",
+          "vscode-settings-8140-self.vercel.app",
           "vscode-settings-bootstrap.vercel.app",
           "vscode-settings-config-md.vercel.app",
           "vscode-settings-config.vercel.app",
@@ -125628,6 +125641,9 @@
           "144.172.106.7:1245",
           "144.172.108.225:2000",
           "144.172.108.225:8443",
+          "144.172.108.236:2000",
+          "144.172.108.236:3000",
+          "144.172.108.236:5918",
           "144.172.108.248:8443",
           "144.172.109.155:1224",
           "144.172.109.98:1224",
@@ -126508,7 +126524,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-07-13T10:52:33+03:00",
+        "last_modified": "2026-07-17T12:32:13+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -127799,17 +127815,19 @@
           "https://x.com/malwrhunterteam/status/2074106725951590709",
           "https://www.virustotal.com/gui/ip-address/144.172.110.53/relations",
           "https://tria.ge/260706-qky96abw2q/behavioral1",
-          "https://www.virustotal.com/gui/file/a1e96380809fa22b8ba0c9377e52b7919515d22a309ed8eae9783d42a04c7455/detection"
+          "https://www.virustotal.com/gui/file/a1e96380809fa22b8ba0c9377e52b7919515d22a309ed8eae9783d42a04c7455/detection",
+          "https://x.com/L0Psec/status/2077401458505359828",
+          "https://www.virustotal.com/gui/file/795034792aa705f730dd498c51cbd6e472bae2e823d3a865f52bc3814fdeafd0/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3770,
+          "domain": 3780,
           "file_path": 479,
-          "ipv4": 775,
+          "ipv4": 778,
           "url": 158
         },
-        "total": 5182
+        "total": 5195
       }
     },
     "LAZYSCRIPTER": {
