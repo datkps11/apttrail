@@ -121415,6 +121415,7 @@
           "7xvc.roomconnect.online",
           "7xvc.virtual-collab.online",
           "8190ocvswfyd57v5.docsend.online",
+          "91.90.121.87.sslip.io",
           "9yxqida1b.naveicoiph.online",
           "a.videotalks.site",
           "aat1pbil.naveicoipg.online",
@@ -124518,6 +124519,7 @@
           "talent-hiring-step.com",
           "talent-hiringstep.com",
           "talent-hiringtalk.com",
+          "talent-telusdigital.com",
           "talent.willo-interview.us",
           "talentacq.pro",
           "talentassesspro.com",
@@ -126116,6 +126118,9 @@
           "216.126.236.244:4806",
           "216.126.236.244:4808",
           "216.126.236.244:4809",
+          "216.126.236.64:3000",
+          "216.126.236.64:7777",
+          "216.126.236.64:8888",
           "216.126.237.200:8443",
           "216.126.237.71:4801",
           "216.126.237.71:4806",
@@ -126406,6 +126411,7 @@
           "91.222.173.110:443",
           "91.222.173.138:443",
           "91.222.173.168:443",
+          "91.90.121.87:443",
           "91.92.120.135:3000",
           "91.92.248.50:445",
           "93.88.74.112:1244",
@@ -126679,7 +126685,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-07-18T13:47:40+03:00",
+        "last_modified": "2026-07-19T00:57:48+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -127978,12 +127984,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3787,
+          "domain": 3789,
           "file_path": 479,
-          "ipv4": 783,
+          "ipv4": 787,
           "url": 158
         },
-        "total": 5207
+        "total": 5213
       }
     },
     "LAZYSCRIPTER": {

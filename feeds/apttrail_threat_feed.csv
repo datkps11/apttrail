@@ -108889,6 +108889,7 @@ LAZARUS,domain,7xvc.meeting-zone.online
 LAZARUS,domain,7xvc.roomconnect.online
 LAZARUS,domain,7xvc.virtual-collab.online
 LAZARUS,domain,8190ocvswfyd57v5.docsend.online
+LAZARUS,domain,91.90.121.87.sslip.io
 LAZARUS,domain,9yxqida1b.naveicoiph.online
 LAZARUS,domain,a.videotalks.site
 LAZARUS,domain,aat1pbil.naveicoipg.online
@@ -111992,6 +111993,7 @@ LAZARUS,domain,tailwind-version-four.vercel.app
 LAZARUS,domain,talent-hiring-step.com
 LAZARUS,domain,talent-hiringstep.com
 LAZARUS,domain,talent-hiringtalk.com
+LAZARUS,domain,talent-telusdigital.com
 LAZARUS,domain,talent.willo-interview.us
 LAZARUS,domain,talentacq.pro
 LAZARUS,domain,talentassesspro.com
@@ -113586,6 +113588,9 @@ LAZARUS,ipv4,216.126.236.244:4801
 LAZARUS,ipv4,216.126.236.244:4806
 LAZARUS,ipv4,216.126.236.244:4808
 LAZARUS,ipv4,216.126.236.244:4809
+LAZARUS,ipv4,216.126.236.64:3000
+LAZARUS,ipv4,216.126.236.64:7777
+LAZARUS,ipv4,216.126.236.64:8888
 LAZARUS,ipv4,216.126.237.200:8443
 LAZARUS,ipv4,216.126.237.71:4801
 LAZARUS,ipv4,216.126.237.71:4806
@@ -113876,6 +113881,7 @@ LAZARUS,ipv4,91.198.66.158:3000
 LAZARUS,ipv4,91.222.173.110:443
 LAZARUS,ipv4,91.222.173.138:443
 LAZARUS,ipv4,91.222.173.168:443
+LAZARUS,ipv4,91.90.121.87:443
 LAZARUS,ipv4,91.92.120.135:3000
 LAZARUS,ipv4,91.92.248.50:445
 LAZARUS,ipv4,93.88.74.112:1244
