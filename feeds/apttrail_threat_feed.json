@@ -107236,6 +107236,8 @@
           "ncodgocheck.dynu.org",
           "ncodgopass.dynu.org",
           "ncodgoverify.dynu.org",
+          "ncodgpcheck.dynu.org",
+          "ncodgppass.dynu.org",
           "ncog10ks.dns.navy",
           "ncog30ks.dns.navy",
           "ncog3ks.dns.navy",
@@ -113581,6 +113583,7 @@
           "polsecu.dynu.net",
           "polsecu.dynuddns.net",
           "polsos.dynuddns.net",
+          "poltoast.dynu.net",
           "poluh.shop",
           "pomabrush.vip",
           "pont-vner.mydns.vc",
@@ -119108,7 +119111,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-07-17T13:39:04+03:00",
+        "last_modified": "2026-07-18T13:57:10+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -120740,12 +120743,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 24490,
+          "domain": 24493,
           "file_path": 295,
           "ipv4": 89,
           "url": 71
         },
-        "total": 24945
+        "total": 24948
       }
     },
     "KUN3": {
@@ -122289,6 +122292,7 @@
           "contract.waventic.com",
           "contradecapital.com",
           "control-plane-default-ehybkouwd.vercel.sh",
+          "controller.rightwidth.dev",
           "coop-shop-next-jld7wvrxk-co-op-food-customer-experience.vercel.app",
           "coop-shop-next-philwolstenholme-co-op-food-customer-experience.vercel.app",
           "cooporatestock.com",
@@ -122741,6 +122745,7 @@
           "file.fclouddown.co",
           "file.fsdriveshare.org",
           "file.luckyguys.cloud",
+          "file.rightwidth.dev",
           "filehost.network",
           "filehosting.store",
           "files-archive.online",
@@ -123009,6 +123014,7 @@
           "hirog.io",
           "hirvexo.com",
           "hk05web.us",
+          "hohoho.rightwidth.dev",
           "holi.intervu-talent.pro",
           "hollow-jordan-narrow.on-fleek.app",
           "home-continue.online",
@@ -123024,6 +123030,7 @@
           "https-qjhndbrw.roomconnect.online",
           "huanying.remoteproweb.cfd",
           "huguotechltd.com",
+          "huhuhu.rightwidth.dev",
           "human-check.com",
           "humingbot.io",
           "huweisge.dliklone.online",
@@ -123223,6 +123230,7 @@
           "lavaandstone.com",
           "lbmwbnbieo.naveicoipg.online",
           "ld-digitaal.com",
+          "ldb.rightwidth.dev",
           "leaguehub.net",
           "leavetecs.online",
           "ledgemail.net",
@@ -124062,6 +124070,7 @@
           "rgedist.com",
           "ric-camid.re.kr",
           "riccardo.uefa-meeting.com",
+          "rightwidth.dev",
           "ripple.quizterview.com",
           "ripple.speakure.com",
           "robinhood.eskillfolio.com",
@@ -124707,6 +124716,7 @@
           "updatecheck.store",
           "updatemycam.online",
           "updatewebcamnow.live",
+          "upload.rightwidth.dev",
           "upport.docsend.site",
           "upstash-docs-upstash.vercel.app",
           "urm1o6h0.naveicoipg.online",
@@ -126020,6 +126030,8 @@
           "185.92.220.208:8080",
           "186.169.2.237:65292",
           "188.165.37.168:80",
+          "188.40.64.61:5000",
+          "188.40.64.61:7777",
           "188.43.33.250:3389",
           "188.43.33.250:5000",
           "188.43.33.250:8080",
@@ -126054,6 +126066,9 @@
           "195.201.194.107:9000",
           "195.250.29.94:1337",
           "195.250.29.94:3001",
+          "195.26.248.212:7000",
+          "195.26.248.212:8081",
+          "195.26.248.212:8443",
           "195.35.23.88:8080",
           "195.35.23.88:8081",
           "195.35.23.88:8443",
@@ -126664,7 +126679,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-07-17T12:32:13+03:00",
+        "last_modified": "2026-07-18T13:47:40+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -127957,17 +127972,18 @@
           "https://tria.ge/260706-qky96abw2q/behavioral1",
           "https://www.virustotal.com/gui/file/a1e96380809fa22b8ba0c9377e52b7919515d22a309ed8eae9783d42a04c7455/detection",
           "https://x.com/L0Psec/status/2077401458505359828",
-          "https://www.virustotal.com/gui/file/795034792aa705f730dd498c51cbd6e472bae2e823d3a865f52bc3814fdeafd0/detection"
+          "https://www.virustotal.com/gui/file/795034792aa705f730dd498c51cbd6e472bae2e823d3a865f52bc3814fdeafd0/detection",
+          "https://www.elastic.co/security-labs/contagious-interview-malware-svg-steganography"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3780,
+          "domain": 3787,
           "file_path": 479,
-          "ipv4": 778,
+          "ipv4": 783,
           "url": 158
         },
-        "total": 5195
+        "total": 5207
       }
     },
     "LAZYSCRIPTER": {
@@ -158345,6 +158361,7 @@
           "crsorgi.gov.in.ditasol.xyz",
           "crsorgi.gov.in.edgeworking.shop",
           "crsorgi.gov.in.emitra.cam",
+          "crsorgi.gov.in.ev2.shop",
           "crsorgi.gov.in.findsiteabc.site",
           "crsorgi.gov.in.findtec.xyz",
           "crsorgi.gov.in.freshseva.icu",
@@ -158815,6 +158832,7 @@
           "dc.crsorgi.gov.in.endex.site",
           "dc.crsorgi.gov.in.endx.xyz",
           "dc.crsorgi.gov.in.esathi.live",
+          "dc.crsorgi.gov.in.ev2.shop",
           "dc.crsorgi.gov.in.fastprintseva.site",
           "dc.crsorgi.gov.in.findsiteabc.site",
           "dc.crsorgi.gov.in.findtec.xyz",
@@ -159538,6 +159556,7 @@
           "esttsec.in",
           "euaibridgeclub.com",
           "euro.top10casino-pl.pl",
+          "ev2.shop",
           "eventrysgame.com",
           "eviewnweb.com",
           "evylerseds.com",
@@ -160396,6 +160415,7 @@
           "gov.in.enjoybusiness.pw",
           "gov.in.esathi.live",
           "gov.in.estbec.in",
+          "gov.in.ev2.shop",
           "gov.in.expr.in",
           "gov.in.fasttag.getpass.ind.in",
           "gov.in.findsiteabc.site",
@@ -161228,6 +161248,7 @@
           "in.enjoybusiness.pw",
           "in.esathi.live",
           "in.estbec.in",
+          "in.ev2.shop",
           "in.expr.in",
           "in.fasttag.getpass.ind.in",
           "in.findsiteabc.site",
@@ -165138,7 +165159,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-07-14T20:14:58+03:00",
+        "last_modified": "2026-07-18T14:00:16+03:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -166277,12 +166298,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 6557,
+          "domain": 6562,
           "file_path": 40,
           "ipv4": 856,
           "url": 125
         },
-        "total": 7578
+        "total": 7583
       }
     },
     "TRIANGULATION": {
