@@ -151297,6 +151297,7 @@
           "vim.kdf-mail.com",
           "vinver.live",
           "visa-nadra-gov-pk.desynt.com",
+          "visa-nadra-gov-pk.info",
           "visa-nadra-gov-pk.lubeleaf.com",
           "visa-nadra-gov-pk.pages.dev",
           "visa-nadra-gov-pk.pk",
@@ -151654,7 +151655,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-07-12T01:13:18+03:00",
+        "last_modified": "2026-07-18T12:15:57+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -152752,12 +152753,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3609,
+          "domain": 3610,
           "file_path": 16,
           "ipv4": 50,
           "url": 29
         },
-        "total": 3704
+        "total": 3705
       }
     },
     "SILENCE": {
