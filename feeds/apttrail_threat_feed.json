@@ -108080,6 +108080,7 @@
           "nhis-info.site",
           "nhis-kr.dynu.org",
           "nhis-kr.xyz",
+          "nhis-mew.dynu.org",
           "nhis-news.cv",
           "nhis-news.icu",
           "nhis-news.online",
@@ -115353,6 +115354,7 @@
           "srf.o-r.kr",
           "srghftui.cc",
           "srnbc-card.com",
+          "srtnhis.dynu.org",
           "srv-notice.dedyn.io",
           "srv.ksevice.p-e.kr",
           "srv.simcard-korea.com",
@@ -119111,7 +119113,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-07-18T13:57:10+03:00",
+        "last_modified": "2026-07-19T15:45:42+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -120743,12 +120745,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 24493,
+          "domain": 24495,
           "file_path": 295,
           "ipv4": 89,
           "url": 71
         },
-        "total": 24948
+        "total": 24950
       }
     },
     "KUN3": {
