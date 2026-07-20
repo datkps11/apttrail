@@ -124006,6 +124006,7 @@
           "quizterview.com",
           "quonexa.com",
           "qwary.org",
+          "r4liyq.easypanel.host",
           "rabbywallet-app.us",
           "racksuphde.xyz",
           "racondog.shop",
@@ -125920,6 +125921,7 @@
           "159.93.36.174:8444",
           "159.93.36.84:8444",
           "160.20.147.253:8443",
+          "162.0.239.85:3000",
           "162.120.17.8:3000",
           "162.120.17.8:5000",
           "163.245.194.216:3000",
@@ -126687,7 +126689,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-07-19T00:57:48+03:00",
+        "last_modified": "2026-07-20T09:41:12+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -127986,12 +127988,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3789,
+          "domain": 3790,
           "file_path": 479,
-          "ipv4": 787,
+          "ipv4": 788,
           "url": 158
         },
-        "total": 5213
+        "total": 5215
       }
     },
     "LAZYSCRIPTER": {
