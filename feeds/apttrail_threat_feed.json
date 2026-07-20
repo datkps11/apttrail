@@ -122144,6 +122144,7 @@
           "cctxtools.com",
           "ccuk.edu.ng",
           "ccwaterfall.com",
+          "cdn-static-icons.vercel.app",
           "cdn-static-server.vercel.app",
           "cdn.clubinfo.io",
           "cdn.clublogos.io",
@@ -124097,8 +124098,11 @@
           "republic.pre-zoom.us",
           "republic.usweb-zoom.us",
           "republic.web021zoom.us",
+          "rest-icon-configure.vercel.app",
           "rest-icon-handler.store",
           "rest-icon-helper.store",
+          "rest-icon-moduler.vercel.app",
+          "rest-icon-provider.link",
           "resumegenie.us",
           "retailpackagingpartner.xyz",
           "retrots.net",
@@ -124825,6 +124829,7 @@
           "vercel-site-r50pzdsjo.vercel.sh",
           "vercel-site.vercel.sh",
           "vercel-tmdb-wangsy1007s-projects.vercel.app",
+          "verceljs-kappa.vercel.app",
           "vereoy.com",
           "vereoy.pages.dev",
           "verification-blockfi.com",
@@ -126723,7 +126728,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-07-20T13:43:08+03:00",
+        "last_modified": "2026-07-20T21:51:14+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -128019,17 +128024,19 @@
           "https://www.virustotal.com/gui/file/795034792aa705f730dd498c51cbd6e472bae2e823d3a865f52bc3814fdeafd0/detection",
           "https://www.elastic.co/security-labs/contagious-interview-malware-svg-steganography",
           "https://x.com/nextronresearch/status/2079118025236566357",
-          "https://www.virustotal.com/gui/ip-address/104.21.39.124/relations"
+          "https://www.virustotal.com/gui/ip-address/104.21.39.124/relations",
+          "https://x.com/banthisguy9349/status/2079077405113860398",
+          "https://www.virustotal.com/gui/file/41ee7ddb2be173686dc3a73a49b4e93bc883ef363acca770f7ede891451122ab/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3792,
+          "domain": 3797,
           "file_path": 479,
           "ipv4": 788,
           "url": 158
         },
-        "total": 5217
+        "total": 5222
       }
     },
     "LAZYSCRIPTER": {
