@@ -126084,6 +126084,9 @@
           "166.88.134.62:10000",
           "166.88.134.62:2000",
           "166.88.134.62:443",
+          "166.88.134.82:27107",
+          "166.88.4.2:27017",
+          "166.88.4.2:443",
           "166.88.54.158:27107",
           "166.88.54.158:443",
           "166.88.54.158:8888",
@@ -126347,7 +126350,13 @@
           "23.254.247.32:443",
           "23.254.247.53:3389",
           "23.254.247.53:443",
+          "23.27.120.142:27017",
+          "23.27.120.142:443",
           "23.27.177.183:443",
+          "23.27.20.143:27017",
+          "23.27.20.143:443",
+          "23.27.202.27:27017",
+          "23.27.202.27:443",
           "23.81.246.179:443",
           "26.165.218.44:2248",
           "27.102.118.204:6099",
@@ -126391,6 +126400,7 @@
           "45.140.147.208:53421",
           "45.140.147.208:53422",
           "45.140.167.218:1224",
+          "45.249.90.214:27017",
           "45.32.150.97:5000",
           "45.43.11.199:1244",
           "45.43.11.199:1249",
@@ -126831,11 +126841,12 @@
           "promptmink",
           "remotepeloader",
           "remoteperat",
-          "deaddrop"
+          "deaddrop",
+          "chainveil"
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-07-21T16:26:19+03:00",
+        "last_modified": "2026-07-21T17:01:52+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -128045,6 +128056,11 @@
           "https://www.trendmicro.com/en_us/research/26/d/void-dokkaebi-uses-fake-job-interview-lure-to-spread-malware-via-code-repositories.html",
           "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/26/d/void-dokkaebi/Void-Dokkaebi-Uses-Fake-Job-Interview-Lure-to-Spread-Malware-via-Code-Repositories-IoCs.txt",
           "https://research.jfrog.com/post/hijacked-npm-vscode-tasks-blockchain/",
+          "https://x.com/malwrhunterteam/status/1991488257708945474",
+          "https://x.com/banthisguy9349/status/2012552220101738625",
+          "https://research.jfrog.com/post/hijacked-npm-vscode-tasks-blockchain/",
+          "https://checkmarx.com/zero-post/chainveil-a-malicious-npm-supply-chain-attack-by-successkey/",
+          "https://www.virustotal.com/gui/file/0a133d4b96fc7b750a7b2ac14c152b61befd8dfa670e1fcd99661e531b49886e/detection",
           "https://x.com/npm_malware/status/2048749068051247429",
           "https://socket.dev/npm/package/ozonex-sdk/files/1.0.5/postinstall.js",
           "https://www.aikido.dev/blog/fast-draft-open-vsx-bloktrooper",
@@ -128142,10 +128158,10 @@
         "by_type": {
           "domain": 3822,
           "file_path": 479,
-          "ipv4": 793,
+          "ipv4": 803,
           "url": 158
         },
-        "total": 5252
+        "total": 5262
       }
     },
     "LAZYSCRIPTER": {
