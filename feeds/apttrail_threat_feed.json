@@ -172743,6 +172743,7 @@
           "2gx51m4kethqidh.xyz",
           "2k9ws.com",
           "2m8k3x.com",
+          "2m9p8.com",
           "2n8psx9r4rbu4ym.xyz",
           "2p9x4r.com",
           "2qiy9d567qj5drz.xyz",
@@ -173756,6 +173757,7 @@
           "7ffe4.sod777.com",
           "7fun.icu",
           "7gsz.com",
+          "7h3x9.com",
           "7k2q5.com",
           "7k4m2w.com",
           "7kvgccspqu66khd.xyz",
@@ -174000,6 +174002,7 @@
           "9ed2.ryvjugi.com",
           "9f0.ncjqeyid.com",
           "9f1d.vxhbijn.com",
+          "9f2n5.com",
           "9f46.rzfpqbmh.cc",
           "9f5180af0314.com",
           "9h3b6t.com",
@@ -174341,6 +174344,7 @@
           "b2a4.auyciwmw.com",
           "b2d.sod777.com",
           "b2hdw.com",
+          "b2k8v.com",
           "b2x8d.com",
           "b3.vcfwvb.com",
           "b30745.de83c8f74.net",
@@ -174825,6 +174829,7 @@
           "c5k8z.com",
           "c5r9z.com",
           "c5t2q.com",
+          "c5t8k.com",
           "c5x8b.com",
           "c5y9b.com",
           "c66d.dnadmvtp.cc",
@@ -175055,6 +175060,7 @@
           "cryptonews4.com",
           "cryptonews5.com",
           "cryptonewsd.com",
+          "cryptoshield.cc",
           "cs.uirwp.com",
           "csbvkqq.com",
           "csfa1fv80g6sb.xyz",
@@ -175678,6 +175684,7 @@
           "f3c7fda.auyciwmw.com",
           "f3h9d.com",
           "f3n7w.com",
+          "f3t8x.com",
           "f3v7t.com",
           "f4c.dljuhnea.com",
           "f4n6v.com",
@@ -178115,6 +178122,7 @@
           "p9t2b.com",
           "p9v.link",
           "p9w3z.com",
+          "p9w5b.com",
           "p9x.link",
           "p9x5r.com",
           "p9xtv.com",
@@ -178630,6 +178638,7 @@
           "rhurpmc.com",
           "riclpkw.com",
           "rieoxnh.com",
+          "riskscan.cc",
           "risuauh.com",
           "rj7tw.com",
           "rjcmvbi.com",
@@ -179664,6 +179673,7 @@
           "w7y.link",
           "w8h4m.com",
           "w8spf.com",
+          "w9b2n.com",
           "w9b4x.com",
           "w9fv4l.com",
           "w9k4r.com",
@@ -180479,7 +180489,7 @@
         ],
         "apt_group": "UNC6691",
         "filename": "apt_unc6691.txt",
-        "last_modified": "2026-07-22T13:28:11+03:00",
+        "last_modified": "2026-07-22T19:45:37+03:00",
         "references": [
           "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit",
           "https://iverify.io/blog/coruna-inside-the-nation-state-grade-ios-exploit-kit-we-ve-been-tracking",
@@ -180489,11 +180499,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 8234,
+          "domain": 8244,
           "file_path": 1,
           "ipv4": 5
         },
-        "total": 8240
+        "total": 8250
       }
     },
     "UNC6692": {
