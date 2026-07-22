@@ -122848,6 +122848,7 @@
           "evaluza.com",
           "evalvideo.com",
           "evalvidz.com",
+          "everydaynodechecker-39143n.vercel.app",
           "ewha-ac.ml",
           "examples-basic-web.vercel.sh",
           "exbonus.mrbasic.com",
@@ -126398,6 +126399,8 @@
           "31.207.47.71:5000",
           "31.220.48.106:3000",
           "31.220.62.190:3000",
+          "31.222.250.65:1244",
+          "31.222.250.65:15152",
           "31.57.243.190:8080",
           "31.57.243.29:8080",
           "31.57.243.55:8080",
@@ -126878,7 +126881,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-07-22T10:54:06+03:00",
+        "last_modified": "2026-07-22T21:00:53+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -128186,17 +128189,18 @@
           "https://socradar.io/blog/dprk-clickfake-pylangghost-golangghost-rats/",
           "https://x.com/nextronresearch/status/2079454428038406646",
           "https://www.virustotal.com/gui/file/1aadea997fc4eda5a8a04e68f6e1828c93e00e817e50c5b6ef874faef43f7fca/detection",
-          "https://www.virustotal.com/gui/file/c107419b6b4c793c92289f00cbb229a344fbe6fad1f34bc53e3e9147fb0a242e/detection"
+          "https://www.virustotal.com/gui/file/c107419b6b4c793c92289f00cbb229a344fbe6fad1f34bc53e3e9147fb0a242e/detection",
+          "https://x.com/blackbigswan/status/2079687425757249884"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3825,
+          "domain": 3826,
           "file_path": 479,
-          "ipv4": 805,
+          "ipv4": 807,
           "url": 158
         },
-        "total": 5267
+        "total": 5270
       }
     },
     "LAZYSCRIPTER": {
