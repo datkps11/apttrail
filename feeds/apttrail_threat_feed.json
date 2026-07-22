@@ -121656,6 +121656,7 @@
           "api.autocamfixer.online",
           "api.autodriverfix.online",
           "api.autofixer.online",
+          "api.avax-test.dev",
           "api.betterevaluation.us",
           "api.bitzone.io",
           "api.camallupdate.cloud",
@@ -121991,6 +121992,7 @@
           "avalabs-tech.space",
           "avalabs-tech.store",
           "avasup.com",
+          "avax-test.dev",
           "aveva.roleassessor.com",
           "aviamastersnetwork.com",
           "avillionrabbitry.com",
@@ -123346,6 +123348,7 @@
           "kupaywallet.com",
           "kygfkdum.naveicoipg.online",
           "l1tog1iv.naveicoipg.online",
+          "l3vywd.easypanel.host",
           "lab99.sbs",
           "lackservice.short.gy",
           "lad.dropfile.online",
@@ -125891,6 +125894,8 @@
           "138.201.128.169:1224",
           "138.201.140.23:4553",
           "138.201.199.46:1224",
+          "138.201.220.225:1224",
+          "138.201.220.225:1245",
           "138.201.223.115:4801",
           "138.201.248.205:49498",
           "138.201.248.205:49499",
@@ -126846,7 +126851,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-07-21T17:01:52+03:00",
+        "last_modified": "2026-07-22T10:54:06+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -128151,17 +128156,20 @@
           "https://www.virustotal.com/gui/ip-address/104.21.39.124/relations",
           "https://x.com/banthisguy9349/status/2079077405113860398",
           "https://www.virustotal.com/gui/file/41ee7ddb2be173686dc3a73a49b4e93bc883ef363acca770f7ede891451122ab/detection",
-          "https://socradar.io/blog/dprk-clickfake-pylangghost-golangghost-rats/"
+          "https://socradar.io/blog/dprk-clickfake-pylangghost-golangghost-rats/",
+          "https://x.com/nextronresearch/status/2079454428038406646",
+          "https://www.virustotal.com/gui/file/1aadea997fc4eda5a8a04e68f6e1828c93e00e817e50c5b6ef874faef43f7fca/detection",
+          "https://www.virustotal.com/gui/file/c107419b6b4c793c92289f00cbb229a344fbe6fad1f34bc53e3e9147fb0a242e/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3822,
+          "domain": 3825,
           "file_path": 479,
-          "ipv4": 803,
+          "ipv4": 805,
           "url": 158
         },
-        "total": 5262
+        "total": 5267
       }
     },
     "LAZYSCRIPTER": {
