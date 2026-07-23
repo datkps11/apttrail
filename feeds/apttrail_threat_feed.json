@@ -21275,6 +21275,7 @@
           "genwar.drivethrough.top",
           "geographiclocation.info",
           "germsandwaterbro.buzz",
+          "getslogicx.info",
           "getsr.xyz",
           "getsupdated.info",
           "getupdates.buzz",
@@ -22124,7 +22125,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2026-07-16T21:16:22+03:00",
+        "last_modified": "2026-07-23T10:29:55+03:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -22791,12 +22792,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 747,
+          "domain": 748,
           "file_path": 260,
           "ipv4": 47,
           "url": 4
         },
-        "total": 1058
+        "total": 1059
       }
     },
     "DOWNEX": {
@@ -96448,6 +96449,7 @@
           "cailtteve.mydns.bz",
           "cailtteve.mydns.vc",
           "cain.mew-coin13.dns.army",
+          "calc.noreturn-wetax.forum",
           "calculateenergyi.click",
           "calculatelofti.click",
           "calendarserver.cfd",
@@ -98141,6 +98143,7 @@
           "docotot.o-r.kr",
           "docplenas.myds.me",
           "docpoc.online",
+          "docpols.dynu.net",
           "docprivacy.mydns.vc",
           "docreferal.kozow.com",
           "docreflink.mydns.bz",
@@ -98634,6 +98637,9 @@
           "edoc.docmethod.r-e.kr",
           "edoc.docmgmt.o-r.kr",
           "edoc.docusraccess.mydns.bz",
+          "edoc.dynu.net",
+          "edoc.dynu.org",
+          "edoc.dynuddns.net",
           "edoc.edocbindsvc.dynv6.net",
           "edoc.envelopecheck.webredirect.org",
           "edoc.epsdocgoji.mydns.bz",
@@ -104490,6 +104496,7 @@
           "mois-auth-log.ttl.ydns.eu",
           "mois-auth-nid.gm2gx.8lxzbzbtoh.dns.navy",
           "mois-auth-nid.jc4si.txmfeidfzs.dns.navy",
+          "mois-cfdoc.dynu.org",
           "mois-com.site",
           "mois-daot.site",
           "mois-doc.cloud-ip.cc",
@@ -108129,6 +108136,7 @@
           "nhhpost-cafe.com",
           "nhhposts-cafe.com",
           "nhidentical.dynu.net",
+          "nhiesopeds.dynu.net",
           "nhipayload.dynu.net",
           "nhireferal.mydns.bz",
           "nhis-cloud.online",
@@ -108161,6 +108169,9 @@
           "nhis-view.dynu.org",
           "nhis-view.dynuddns.net",
           "nhis-web.cv",
+          "nhis.edoc.dynu.net",
+          "nhis.edoc.dynu.org",
+          "nhis.otp.edoc.dynuddns.net",
           "nhisabp.dynu.net",
           "nhisabp.dynu.org",
           "nhisadocs.dynu.org",
@@ -108204,6 +108215,7 @@
           "nhisnews.online",
           "nhisnews.site",
           "nhisnews.xyz",
+          "nhisoped.dynu.net",
           "nhisorg.dynu.org",
           "nhisorps.dynu.org",
           "nhisost.dynu.org",
@@ -110523,6 +110535,7 @@
           "noreplymybox.xyz",
           "noreplynaver.xyz",
           "noreplynever.ydns.eu",
+          "noreturn-wetax.forum",
           "normalblog.o-r.kr",
           "normer.xyz",
           "normkpbost7nets.website",
@@ -112161,6 +112174,8 @@
           "ntu1invoice.dynu.org",
           "ntu5invoice.dynu.org",
           "ntujtxc.nhpaddr31load.dynv6.net",
+          "ntuserrequest.dynu.net",
+          "ntuserrequests.dynu.net",
           "ntusertypes.mydns.bz",
           "ntv-method38type.dynv6.net",
           "ntv-method39type.dynv6.net",
@@ -112484,6 +112499,8 @@
           "nusser.ezgateway.net",
           "nustranetp.store",
           "nuttopsseafe30gud.icu",
+          "nutypeinvest.dynu.net",
+          "nutypeinvests.dynu.net",
           "nuwebmin.site",
           "nv-check-log.v1jbv.mp1bchmkf3.dynv6.net",
           "nv-confirm.xubi.org",
@@ -113150,6 +113167,7 @@
           "otp.dynu.net",
           "otp.dynu.org",
           "otp.dynuddns.net",
+          "otp.edoc.dynuddns.net",
           "otp.freeddns.org",
           "otp.r-e.kr",
           "otpsystem.p-e.kr",
@@ -115352,6 +115370,7 @@
           "snitnismg.dynu.net",
           "snitnismg.dynu.org",
           "snlmdins.dynu.org",
+          "snmidns.dynu.org",
           "snmsntip.dynu.org",
           "snore.site",
           "snowrealha.click",
@@ -116518,6 +116537,8 @@
           "ublogcom24avs.dns.army",
           "ublogcom32avs.dns.army",
           "ubloginteract.dynu.net",
+          "ublogpromt.dynu.net",
+          "ublogpromts.dynu.net",
           "ublogprotector.mydns.vc",
           "ublogrec18s.dynv6.net",
           "ublogrec1s.dynv6.net",
@@ -119249,7 +119270,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-07-22T13:52:15+03:00",
+        "last_modified": "2026-07-23T10:43:13+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -120881,12 +120902,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 24631,
+          "domain": 24651,
           "file_path": 295,
           "ipv4": 89,
           "url": 71
         },
-        "total": 25086
+        "total": 25106
       }
     },
     "KUN3": {
@@ -123614,7 +123635,6 @@
           "metric-analytics.vercel.app",
           "metrics-dashboard-7lgdhdfot-peter1.vercel.app",
           "mettl.app",
-          "mettl.pro",
           "mettl.us",
           "mettl.xyz",
           "mhf8huuo.naveicoipe.tech",
@@ -126881,7 +126901,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-07-22T21:00:53+03:00",
+        "last_modified": "2026-07-23T09:23:14+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -128195,12 +128215,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3826,
+          "domain": 3825,
           "file_path": 479,
           "ipv4": 807,
           "url": 158
         },
-        "total": 5270
+        "total": 5269
       }
     },
     "LAZYSCRIPTER": {
