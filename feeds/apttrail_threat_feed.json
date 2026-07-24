@@ -155932,6 +155932,7 @@
           "mail-ead.gov-pk.online",
           "mail-ecp-gov-pk.ntc-telecomcorporation.workers.dev",
           "mail-files-open-preview.com",
+          "mail-fisheries-gov-bd.netlify.app",
           "mail-gov.org",
           "mail-govpk.com",
           "mail-govt.com",
@@ -158098,7 +158099,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-07-23T16:59:00+03:00",
+        "last_modified": "2026-07-24T22:35:52+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -159193,17 +159194,18 @@
           "https://www.virustotal.com/gui/file/5ef25d162827195f2fbdc80fd5c6d119ff41dd16f980692a8c4308465d88c554/detection",
           "https://x.com/volrant136/status/2076012175685287991",
           "https://x.com/phatomcandle/status/2077737009569808478",
-          "https://www.virustotal.com/gui/file/1202845815bc416bdfd8be09f500b5833e63ba5e06aeb5fafba093edf0f7e1b9/detection"
+          "https://www.virustotal.com/gui/file/1202845815bc416bdfd8be09f500b5833e63ba5e06aeb5fafba093edf0f7e1b9/detection",
+          "https://x.com/volrant136/status/2080669471878819889"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3613,
+          "domain": 3614,
           "file_path": 16,
           "ipv4": 50,
           "url": 29
         },
-        "total": 3708
+        "total": 3709
       }
     },
     "SILENCE": {
