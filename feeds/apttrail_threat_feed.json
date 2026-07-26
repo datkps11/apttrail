@@ -21704,6 +21704,7 @@
           "login-yah00-com.tk",
           "login-yahoo-com.ga",
           "logsdope.info",
+          "logshopperz.info",
           "logupdates.xyz",
           "lovebirdsshop.club",
           "lovingallupdates.life",
@@ -21871,6 +21872,7 @@
           "pvttchat.live",
           "qmails.org",
           "qubee.tikmicro.info",
+          "quickly21.com",
           "qwe.drivethrough.top",
           "qwe.sessions4life.pw",
           "qwertykeypad.host",
@@ -22067,6 +22069,7 @@
           "view-external-page.best",
           "view-panel-control.club",
           "vintociao.live",
+          "virgology.info",
           "visionglobale.site",
           "visited.buzz",
           "vpn731932925.softether.net",
@@ -22449,7 +22452,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2026-07-23T10:29:55+03:00",
+        "last_modified": "2026-07-26T23:16:44+03:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -23116,12 +23119,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 748,
+          "domain": 751,
           "file_path": 260,
           "ipv4": 47,
           "url": 4
         },
-        "total": 1059
+        "total": 1062
       }
     },
     "DOWNEX": {
