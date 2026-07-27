@@ -157502,6 +157502,7 @@
           "pkgov.xyz",
           "pkgovk.info",
           "pkinfo.live",
+          "pkmpunjabcode.com",
           "pkpolice.gov.pk-mail.org",
           "pkrepublic.org",
           "pl1.mov",
@@ -157884,6 +157885,17 @@
           "sparrso.gov.bd.pk-govt.com",
           "spec.trelin.tech",
           "spfc-punjab-gov-pk.com",
+          "spfc-punjab-gov-pk.online",
+          "spfc-punjab-govpk.xyz",
+          "spfc-punjab-pk.cc",
+          "spfc-punjabgov-pk.co",
+          "spfc-punjabgov-pk.com",
+          "spfc.pk",
+          "spfcpkm.online",
+          "spfcpungov.site",
+          "spfcpunjab-gov-pk.com",
+          "spfcpunjabgov.com",
+          "spfcpunjabsgovs.pk",
           "sphery.live",
           "split.tyoin.biz",
           "sppc.moma-pk.org",
@@ -158430,7 +158442,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-07-24T22:35:52+03:00",
+        "last_modified": "2026-07-27T21:22:19+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -159526,17 +159538,18 @@
           "https://x.com/volrant136/status/2076012175685287991",
           "https://x.com/phatomcandle/status/2077737009569808478",
           "https://www.virustotal.com/gui/file/1202845815bc416bdfd8be09f500b5833e63ba5e06aeb5fafba093edf0f7e1b9/detection",
-          "https://x.com/volrant136/status/2080669471878819889"
+          "https://x.com/volrant136/status/2080669471878819889",
+          "https://x.com/volrant136/status/2081805669175370115"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3614,
+          "domain": 3626,
           "file_path": 16,
           "ipv4": 50,
           "url": 29
         },
-        "total": 3709
+        "total": 3721
       }
     },
     "SILENCE": {
