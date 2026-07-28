@@ -123679,6 +123679,7 @@
           "ip-checking-notification-kgm.vercel.app",
           "ipcheck.cloud",
           "ipfs-url-validator.vercel.app",
+          "iploglab.store",
           "ipservice.kro.kr",
           "ipv6.srv755058.hstgr.cloud",
           "ismartrium.com",
@@ -127019,6 +127020,7 @@
           "95.169.180.198:8080",
           "95.179.135.133:1244",
           "95.179.135.133:1245",
+          "95.216.118.146:3000",
           "95.216.37.186:3000",
           "95.216.37.186:5000",
           "95.216.64.240:1224",
@@ -127273,7 +127275,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-07-23T16:35:32+03:00",
+        "last_modified": "2026-07-28T15:59:18+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -128587,12 +128589,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3827,
+          "domain": 3828,
           "file_path": 479,
-          "ipv4": 807,
+          "ipv4": 808,
           "url": 158
         },
-        "total": 5271
+        "total": 5273
       }
     },
     "LAZYSCRIPTER": {
@@ -157533,6 +157535,7 @@
           "pmd-office.live",
           "pmd-office.org",
           "pmd.paknavy-gov.com",
+          "pmdc.gov.pk-hq.cc",
           "pmdu-gov.org",
           "pmmd.treasury.gov.lk.mail-pk.org",
           "pmo-gov-pk.file-dwnld.net",
@@ -158448,7 +158451,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-07-27T21:22:19+03:00",
+        "last_modified": "2026-07-28T18:17:40+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -159550,12 +159553,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 3626,
+          "domain": 3627,
           "file_path": 16,
           "ipv4": 50,
           "url": 29
         },
-        "total": 3721
+        "total": 3722
       }
     },
     "SILENCE": {
