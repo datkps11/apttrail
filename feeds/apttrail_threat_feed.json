@@ -21387,6 +21387,11 @@
           "aioupdates.buzz",
           "akamaifast.club",
           "akamaihub.stream",
+          "alex-ikmz.store",
+          "alex-olpw.store",
+          "alex-ujmi.com",
+          "alex-ujmi.store",
+          "alex-yhnv.store",
           "alter.drivethrough.top",
           "altzserberin.info",
           "amazon-books-gifts.com",
@@ -22072,6 +22077,7 @@
           "virgology.info",
           "visionglobale.site",
           "visited.buzz",
+          "vomologs.info",
           "vpn731932925.softether.net",
           "vpn744565697.softether.net",
           "wanderwave.buzz",
@@ -22452,7 +22458,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2026-07-26T23:16:44+03:00",
+        "last_modified": "2026-07-28T15:10:08+03:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -23119,12 +23125,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 751,
+          "domain": 757,
           "file_path": 260,
           "ipv4": 47,
           "url": 4
         },
-        "total": 1062
+        "total": 1068
       }
     },
     "DOWNEX": {
