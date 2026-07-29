@@ -12200,26 +12200,30 @@ rule APT_TRIANGULATION
         description = "Detects IOCs associated with APT TRIANGULATION"
         author = "APTtrail Automated Collection"
         apt_group = "TRIANGULATION"
-        reference = "https://securelist.com/operation-triangulation/109842/"
+        aliases = "angry spark"
+        reference = "https://medium.com/@billmarczak/an-angry-spark-or-a-triangle-in-disguise-ac32852a1be3"
         severity = "high"
         tlp = "white"
 
     strings:
-        $domain0 = "addatamarket\.net" ascii wide nocase
-        $domain1 = "ans7tv\.net" ascii wide nocase
-        $domain2 = "anstv\.net" ascii wide nocase
-        $domain3 = "backuprabbit\.com" ascii wide nocase
-        $domain4 = "businessvideonews\.com" ascii wide nocase
-        $domain5 = "cloudsponcer\.com" ascii wide nocase
-        $domain6 = "datamarketplace\.net" ascii wide nocase
-        $domain7 = "growthtransport\.com" ascii wide nocase
-        $domain8 = "mobilegamerstats\.com" ascii wide nocase
-        $domain9 = "snoweeanalytics\.com" ascii wide nocase
-        $domain10 = "tagclick-cdn\.com" ascii wide nocase
-        $domain11 = "topographyupdates\.com" ascii wide nocase
-        $domain12 = "unlimitedteacup\.com" ascii wide nocase
-        $domain13 = "virtuallaughing\.com" ascii wide nocase
-        $domain14 = "web-trackers\.com" ascii wide nocase
+        $domain0 = "ad43-nxs\.com" ascii wide nocase
+        $domain1 = "addatamarket\.net" ascii wide nocase
+        $domain2 = "ans7tv\.net" ascii wide nocase
+        $domain3 = "anstv\.net" ascii wide nocase
+        $domain4 = "backuprabbit\.com" ascii wide nocase
+        $domain5 = "businessvideonews\.com" ascii wide nocase
+        $domain6 = "cloudsponcer\.com" ascii wide nocase
+        $domain7 = "datamarketplace\.net" ascii wide nocase
+        $domain8 = "growthtransport\.com" ascii wide nocase
+        $domain9 = "mobilegamerstats\.com" ascii wide nocase
+        $domain10 = "pick\.storewebzone\.net" ascii wide nocase
+        $domain11 = "s13035516\.server-sys\.com" ascii wide nocase
+        $domain12 = "snoweeanalytics\.com" ascii wide nocase
+        $domain13 = "tagclick-cdn\.com" ascii wide nocase
+        $domain14 = "topographyupdates\.com" ascii wide nocase
+        $domain15 = "unlimitedteacup\.com" ascii wide nocase
+        $domain16 = "virtuallaughing\.com" ascii wide nocase
+        $domain17 = "web-trackers\.com" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)

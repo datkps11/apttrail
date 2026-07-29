@@ -488,7 +488,6 @@
           "iklood.co",
           "ikoad.co",
           "info.kavalabonline.com",
-          "infosec.jp",
           "irenewansley.icu",
           "isaac-rowland.space",
           "italk-chat.com",
@@ -858,7 +857,7 @@
         ],
         "apt_group": "23",
         "filename": "apt_23.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-07-29T18:45:18+03:00",
         "references": [
           "https://www.symantec.com/blogs/expert-perspectives/ongoing-android-malware-campaign-targets-palestinians-part-1",
           "https://www.symantec.com/blogs/expert-perspectives/ongoing-android-malware-campaign-targets-palestinians-part-2",
@@ -998,12 +997,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 570,
+          "domain": 569,
           "file_path": 7,
           "ipv4": 7,
           "url": 1
         },
-        "total": 585
+        "total": 584
       }
     },
     "27": {
@@ -12588,6 +12587,7 @@
           "admiscion.online",
           "admit-roar-frame.top",
           "advission.online",
+          "aecert.org",
           "aeroclinicit.azurewebsites.net",
           "aeroconf2014.org",
           "aerospace2014.org",
@@ -12767,10 +12767,14 @@
           "buisness-centeral-transportation.com",
           "buisness-centeral.azurewebsites.net",
           "bulk-approach.site",
+          "business-deegital.azurewebsites.net",
+          "business-deegital.com",
           "business-startup.azurewebsites.net",
           "business-startup.org",
+          "businessdeegital.azurewebsites.net",
           "businessinssider.org",
           "businesslnsider.org",
+          "businessmixture.com",
           "businessstartup.azurewebsites.net",
           "bvio85.info",
           "bytli.ink",
@@ -13295,6 +13299,7 @@
           "global-it-checkbusiness.azurewebsites.net",
           "global-it-checkers.azurewebsites.net",
           "global-it-consultants.azurewebsites.net",
+          "global-reds.com",
           "globalbusiness-checkers-it.azurewebsites.net",
           "globalit-consultants.azurewebsites.net",
           "globalitconsultants.azurewebsites.net",
@@ -13352,6 +13357,9 @@
           "healthbodymonitoring.azurewebsites.net",
           "healthcare-azureapi.azurewebsites.net",
           "healthcarefluent.com",
+          "healthcarezoom-centeral.azurewebsites.net",
+          "healthcarezoomcenteral.azurewebsites.net",
+          "healthcarezoomcenteral.org",
           "healthdataanalyticsrecord.azurewebsites.net",
           "healthiestmama.com",
           "healthinfusiontherapy.com",
@@ -13574,6 +13582,7 @@
           "lukoil.in",
           "lynda-tricks.online",
           "m85.online",
+          "maadinglobal.com",
           "maariv.net",
           "magic-delivery.info",
           "mail-account-register-recovery.com",
@@ -13778,6 +13787,9 @@
           "navigationtools.site",
           "ncgrassfed.com",
           "ndrrftqrlblfecpupppp.supabase.co",
+          "neexportfolio.azurewebsites.net",
+          "neexportfolio.com",
+          "neexportfolio.eastus.cloudapp.azure.com",
           "network-game.xyz",
           "network-review.xyz",
           "network-show-a.online",
@@ -14042,6 +14054,7 @@
           "real-vision.redirectme.net",
           "realcdnworker.site",
           "realcloud.info",
+          "realhealthshop.com",
           "realpage.redirectme.net",
           "recognize-validation.online",
           "recognize-validation.theworkpc.com",
@@ -14294,6 +14307,7 @@
           "smaaaal.cfd",
           "smart-sight-hr.com",
           "smartapptools.azurewebsites.net",
+          "smartconnect.azurewebsites.net",
           "smartmediq.azurewebsites.net",
           "smarttradingfast.com",
           "smartview.dns-dynamic.net",
@@ -14402,6 +14416,7 @@
           "thecloudappbox.azurewebsites.net",
           "thefireisburnt.ddns.net",
           "thefreemovies.net",
+          "thehealth-life.com",
           "themedealine.org",
           "themesmanagers.azurewebsites.net",
           "themesprovidermanagers.azurewebsites.net",
@@ -14425,9 +14440,11 @@
           "tinyurl.live",
           "titanium-hr.com",
           "title-flow-store.online",
+          "tjconsultingservices.com",
           "tnlsowki.westus3.cloudapp.azure.com",
           "tnlsowkis.westus3.cloudapp.azure.com",
           "tnt200.mywire.org",
+          "toadreport.azurewebsites.net",
           "token-ep.com",
           "tomas-company.online",
           "toolfare.online",
@@ -14874,6 +14891,7 @@
           "ajax security team",
           "tunnelvision",
           "nemesiskitten",
+          "miragekitten",
           "ta453",
           "ta455",
           "greencharlie",
@@ -14898,7 +14916,7 @@
         ],
         "apt_group": "CHARMINGKITTEN",
         "filename": "apt_charmingkitten.txt",
-        "last_modified": "2026-07-17T13:34:58+03:00",
+        "last_modified": "2026-07-29T18:55:24+03:00",
         "references": [
           "https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc (2018-06-12 Charming Kitten waterhole)",
           "https://www.clearskysec.com/charmingkitten/",
@@ -15120,17 +15138,18 @@
           "https://unit42.paloaltonetworks.com/tracking-iran-apt-screening-serpens/",
           "https://research.checkpoint.com/2026/fast-and-furious-nimbus-manticore-operations-during-the-iranian-conflict/",
           "https://x.com/nextronresearch/status/2078037561667142042",
-          "https://www.nextron-systems.com/2026/06/01/detecting-nimbus-manticore-and-their-sideloading-infection-chains/"
+          "https://www.nextron-systems.com/2026/06/01/detecting-nimbus-manticore-and-their-sideloading-infection-chains/",
+          "https://securelist.com/mirage-kitten-new-tools/120811/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 2233,
+          "domain": 2251,
           "file_path": 4,
           "ipv4": 107,
           "url": 25
         },
-        "total": 2369
+        "total": 2387
       }
     },
     "CLEAVER": {
@@ -173348,6 +173367,7 @@
     "TRIANGULATION": {
       "indicators": {
         "domain": [
+          "ad43-nxs.com",
           "addatamarket.net",
           "ans7tv.net",
           "anstv.net",
@@ -173357,28 +173377,48 @@
           "datamarketplace.net",
           "growthtransport.com",
           "mobilegamerstats.com",
+          "pick.storewebzone.net",
+          "s13035516.server-sys.com",
           "snoweeanalytics.com",
           "tagclick-cdn.com",
           "topographyupdates.com",
           "unlimitedteacup.com",
           "virtuallaughing.com",
           "web-trackers.com"
+        ],
+        "file_path": [
+          "/KhzbPFTj/6515/gbLJ8y_Ac7e.php",
+          "/asb2dz_1dd4.php",
+          "/gbLJ8y_Ac7e.php",
+          "/irC6Zn_8FCd.php",
+          "/myAVDAnA/5466/irC6Zn_8FCd.php",
+          "/prod/KhzbPFTj/6515/gbLJ8y_Ac7e.php",
+          "/prod/myAVDAnA/5466/irC6Zn_8FCd.php",
+          "/prod/vUcLWuZF/8363/asb2dz_1dd4.php",
+          "/vUcLWuZF/8363/asb2dz_1dd4.php"
         ]
       },
       "metadata": {
-        "aliases": [],
+        "aliases": [
+          "angry spark"
+        ],
         "apt_group": "TRIANGULATION",
         "filename": "apt_triangulation.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-07-29T18:42:18+03:00",
         "references": [
-          "https://securelist.com/operation-triangulation/109842/"
+          "https://securelist.com/operation-triangulation/109842/",
+          "https://x.com/blackorbird/status/2082028695909449873",
+          "https://www.virustotal.com/gui/ip-address/185.151.31.6/relations",
+          "https://www.gendigital.com/blog/insights/research/chasing-an-angry-spark",
+          "https://medium.com/@billmarczak/an-angry-spark-or-a-triangle-in-disguise-ac32852a1be3"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 15
+          "domain": 18,
+          "file_path": 9
         },
-        "total": 15
+        "total": 27
       }
     },
     "TURLA": {
