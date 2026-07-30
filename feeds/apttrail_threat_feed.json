@@ -180366,6 +180366,7 @@
           "5j.ozwcosport.com",
           "5k6w7v.com",
           "5kk6.com",
+          "5lgudfndtlfjkaqiu7c.net",
           "5mdv2.com",
           "5n2g9.com",
           "5n6w7v.com",
@@ -181035,6 +181036,7 @@
           "ace66.pro",
           "ace66my.co",
           "ace66vip.com",
+          "acg-tv.com",
           "aciymdf.40418.sod777.com",
           "aclhhfc.com",
           "acoijum.com",
@@ -181408,6 +181410,7 @@
           "be9b.sod777.com",
           "beacon-backup.freefeaturesojqyke7ju.com",
           "beacon.freefeaturesojqyke7ju.com",
+          "becave.cn",
           "bed9.top",
           "beeobbs.com",
           "bemxu.com",
@@ -182176,6 +182179,7 @@
           "daily527.com",
           "daily635.com",
           "daily799.com",
+          "dajiba9ook92.top",
           "dalczmh.com",
           "darqpav.com",
           "data-cdn-analysis.cc",
@@ -182705,6 +182709,7 @@
           "fanqie07.top",
           "fanqiecommunity.top",
           "fapxwee.com",
+          "fastmiao.top",
           "fayhrgv.com",
           "fb1c5.earscjiy.cc",
           "fb6ae.yktajeyp.com",
@@ -186971,6 +186976,7 @@
           "xianhsgfvbcash.click",
           "xiaoju-smart.com",
           "xiaolan0.top",
+          "xiaolan02.top",
           "xiaoniu.gurwl.com",
           "xidsqce.com",
           "xiexiu.life",
@@ -187011,6 +187017,7 @@
           "xlcwwiz.com",
           "xlgxyf.net",
           "xlkopby.com",
+          "xlpys.top",
           "xlrmx.com",
           "xlskhvk.com",
           "xlwqkol.com",
@@ -187380,6 +187387,7 @@
           "zgfhehg.com",
           "zgicfoy.com",
           "zgtvdtf.com",
+          "zhenfangxin666.com",
           "zhggocz.com",
           "zhmstpo.com",
           "zhrkddu.com",
@@ -187517,7 +187525,7 @@
         ],
         "apt_group": "UNC6691",
         "filename": "apt_unc6691.txt",
-        "last_modified": "2026-07-29T22:01:31+03:00",
+        "last_modified": "2026-07-30T09:14:46+03:00",
         "references": [
           "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit",
           "https://iverify.io/blog/coruna-inside-the-nation-state-grade-ios-exploit-kit-we-ve-been-tracking",
@@ -187527,11 +187535,11 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 8373,
+          "domain": 8381,
           "file_path": 1,
           "ipv4": 5
         },
-        "total": 8379
+        "total": 8387
       }
     },
     "UNC6692": {
