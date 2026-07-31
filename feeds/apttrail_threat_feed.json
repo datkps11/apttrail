@@ -21696,6 +21696,7 @@
           "jarshare.live",
           "jasper.drivethrough.top",
           "joy-trends.xyz",
+          "juffysolute.info",
           "jukeservice.info",
           "justin.drinkeatgood.space",
           "kababonline.shop",
@@ -22488,7 +22489,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2026-07-28T15:10:08+03:00",
+        "last_modified": "2026-07-31T20:02:25+03:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -23155,12 +23156,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 757,
+          "domain": 758,
           "file_path": 260,
           "ipv4": 47,
           "url": 4
         },
-        "total": 1068
+        "total": 1069
       }
     },
     "DOWNEX": {
