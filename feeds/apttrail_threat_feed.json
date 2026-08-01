@@ -23756,6 +23756,7 @@
           "lordfilm-ms.online",
           "loreaosvault.cloud",
           "lorriratzlaff.com",
+          "m365-owa.com",
           "macfound.services",
           "mae-ro.cloud",
           "mail.bakenhof.com",
@@ -23855,6 +23856,8 @@
           "ms-toto.online",
           "ms-toto.site",
           "ms-wow.online",
+          "ms365-device.com",
+          "ms365-live.com",
           "msconferences.cloud",
           "msmt-gov.cloud",
           "msz-pl.cloud",
@@ -23863,6 +23866,7 @@
           "mx.ceip.cloud",
           "mx.ophibre.com",
           "my-gov.cloud",
+          "my-invite.org",
           "myrric-uses.singlejets.com",
           "mzd-gov.cloud",
           "mze-gov.cloud",
@@ -23896,6 +23900,7 @@
           "ophibre.com",
           "otzyv-ms.online",
           "overpict.com",
+          "owa-ms365.com",
           "parseccomputer.cloud",
           "pdv.govua.cloud",
           "photos-google.online",
@@ -24055,6 +24060,7 @@
           "zoommeeting.zone"
         ],
         "file_path": [
+          "/t/pixel.gif?m=",
           "easym6.com/Information.php",
           "fondoftravel.com/contact.php",
           "gavice.ng/event_program.php",
@@ -24083,12 +24089,26 @@
           "103.216.221.18:50031",
           "103.253.41.102:8081",
           "103.76.128.34:8080",
+          "104.194.159.150:443",
+          "107.189.26.194:443",
           "111.90.150.140:25",
+          "138.197.202.81:3000",
+          "138.68.160.124:3000",
           "141.98.212.55:121",
           "141.98.212.55:53",
+          "165.22.146.161:3000",
           "185.243.99.17:3389",
           "209.58.186.196:443",
-          "45.91.93.89:443"
+          "213.145.86.112:443",
+          "216.126.224.95:3000",
+          "31.172.83.142:4000",
+          "31.57.243.154:2000",
+          "31.57.243.154:443",
+          "38.146.28.132:443",
+          "38.146.28.75:4000",
+          "38.146.28.75:8443",
+          "45.91.93.89:443",
+          "84.200.154.162:4000"
         ],
         "url": [
           "http://103.13.240.46",
@@ -24185,11 +24205,13 @@
           "earth koshchei",
           "cloaked ursa",
           "cozylarch",
-          "icecap"
+          "icecap",
+          "captivecrunch",
+          "chocoshell"
         ],
         "apt_group": "DUKE",
         "filename": "apt_duke.txt",
-        "last_modified": "2026-01-06T16:29:58+02:00",
+        "last_modified": "2026-08-01T15:33:37+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/55fae83567db8c6fb3518bcd/",
           "https://www.f-secure.com/documents/996508/1030745/dukes_whitepaper.pdf",
@@ -24282,17 +24304,18 @@
           "https://x.com/BlinkzSec/status/2008479066635039174",
           "https://x.com/banthisguy9349/status/2008490747134439456",
           "https://research.checkpoint.com/2025/apt29-phishing-campaign/",
-          "https://aws.amazon.com/ru/blogs/security/amazon-disrupts-watering-hole-campaign-by-russias-apt29/"
+          "https://aws.amazon.com/ru/blogs/security/amazon-disrupts-watering-hole-campaign-by-russias-apt29/",
+          "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 741,
-          "file_path": 23,
-          "ipv4": 9,
+          "domain": 746,
+          "file_path": 24,
+          "ipv4": 23,
           "url": 71
         },
-        "total": 844
+        "total": 864
       }
     },
     "DUNEQUIXOTE": {

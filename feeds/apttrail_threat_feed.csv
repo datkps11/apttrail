@@ -18406,6 +18406,7 @@ DUKE,domain,leveldelta.com
 DUKE,domain,lordfilm-ms.online
 DUKE,domain,loreaosvault.cloud
 DUKE,domain,lorriratzlaff.com
+DUKE,domain,m365-owa.com
 DUKE,domain,macfound.services
 DUKE,domain,mae-ro.cloud
 DUKE,domain,mail.bakenhof.com
@@ -18505,6 +18506,8 @@ DUKE,domain,ms-tcentr.online
 DUKE,domain,ms-toto.online
 DUKE,domain,ms-toto.site
 DUKE,domain,ms-wow.online
+DUKE,domain,ms365-device.com
+DUKE,domain,ms365-live.com
 DUKE,domain,msconferences.cloud
 DUKE,domain,msmt-gov.cloud
 DUKE,domain,msz-pl.cloud
@@ -18513,6 +18516,7 @@ DUKE,domain,mvep-hr.cloud
 DUKE,domain,mx.ceip.cloud
 DUKE,domain,mx.ophibre.com
 DUKE,domain,my-gov.cloud
+DUKE,domain,my-invite.org
 DUKE,domain,myrric-uses.singlejets.com
 DUKE,domain,mzd-gov.cloud
 DUKE,domain,mze-gov.cloud
@@ -18546,6 +18550,7 @@ DUKE,domain,opensocietyfoundations.cloud
 DUKE,domain,ophibre.com
 DUKE,domain,otzyv-ms.online
 DUKE,domain,overpict.com
+DUKE,domain,owa-ms365.com
 DUKE,domain,parseccomputer.cloud
 DUKE,domain,pdv.govua.cloud
 DUKE,domain,photos-google.online
@@ -18703,6 +18708,7 @@ DUKE,domain,zoom-meeting.today
 DUKE,domain,zoom-meetings.cloud
 DUKE,domain,zoommeeting.today
 DUKE,domain,zoommeeting.zone
+DUKE,file_path,/t/pixel.gif?m=
 DUKE,file_path,easym6.com/Information.php
 DUKE,file_path,fondoftravel.com/contact.php
 DUKE,file_path,gavice.ng/event_program.php
@@ -18729,12 +18735,26 @@ DUKE,file_path,willyminiatures.com/e-yazi.html
 DUKE,ipv4,103.216.221.18:50031
 DUKE,ipv4,103.253.41.102:8081
 DUKE,ipv4,103.76.128.34:8080
+DUKE,ipv4,104.194.159.150:443
+DUKE,ipv4,107.189.26.194:443
 DUKE,ipv4,111.90.150.140:25
+DUKE,ipv4,138.197.202.81:3000
+DUKE,ipv4,138.68.160.124:3000
 DUKE,ipv4,141.98.212.55:121
 DUKE,ipv4,141.98.212.55:53
+DUKE,ipv4,165.22.146.161:3000
 DUKE,ipv4,185.243.99.17:3389
 DUKE,ipv4,209.58.186.196:443
+DUKE,ipv4,213.145.86.112:443
+DUKE,ipv4,216.126.224.95:3000
+DUKE,ipv4,31.172.83.142:4000
+DUKE,ipv4,31.57.243.154:2000
+DUKE,ipv4,31.57.243.154:443
+DUKE,ipv4,38.146.28.132:443
+DUKE,ipv4,38.146.28.75:4000
+DUKE,ipv4,38.146.28.75:8443
 DUKE,ipv4,45.91.93.89:443
+DUKE,ipv4,84.200.154.162:4000
 DUKE,url,http://103.13.240.46
 DUKE,url,http://103.193.4.101
 DUKE,url,http://103.205.8.72

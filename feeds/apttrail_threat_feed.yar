@@ -3793,12 +3793,26 @@ rule APT_DUKE
         $ip50 = "103.216.221.18" ascii wide
         $ip51 = "103.253.41.102" ascii wide
         $ip52 = "103.76.128.34" ascii wide
-        $ip53 = "111.90.150.140" ascii wide
-        $ip54 = "141.98.212.55" ascii wide
-        $ip55 = "141.98.212.55" ascii wide
-        $ip56 = "185.243.99.17" ascii wide
-        $ip57 = "209.58.186.196" ascii wide
-        $ip58 = "45.91.93.89" ascii wide
+        $ip53 = "104.194.159.150" ascii wide
+        $ip54 = "107.189.26.194" ascii wide
+        $ip55 = "111.90.150.140" ascii wide
+        $ip56 = "138.197.202.81" ascii wide
+        $ip57 = "138.68.160.124" ascii wide
+        $ip58 = "141.98.212.55" ascii wide
+        $ip59 = "141.98.212.55" ascii wide
+        $ip60 = "165.22.146.161" ascii wide
+        $ip61 = "185.243.99.17" ascii wide
+        $ip62 = "209.58.186.196" ascii wide
+        $ip63 = "213.145.86.112" ascii wide
+        $ip64 = "216.126.224.95" ascii wide
+        $ip65 = "31.172.83.142" ascii wide
+        $ip66 = "31.57.243.154" ascii wide
+        $ip67 = "31.57.243.154" ascii wide
+        $ip68 = "38.146.28.132" ascii wide
+        $ip69 = "38.146.28.75" ascii wide
+        $ip70 = "38.146.28.75" ascii wide
+        $ip71 = "45.91.93.89" ascii wide
+        $ip72 = "84.200.154.162" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
