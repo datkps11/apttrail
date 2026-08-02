@@ -1327,7 +1327,7 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"APT DRIFTINGCLOUD - HTTP Req
 
 # ==================================================
 # APT Group: DUKE
-# Aliases: APT29, Cozy Bear, The Dukes, WellMess, WellMail, SoreFang, PinchDuke, GeminiDuke, CosmicDuke, MiniDuke, CozyDuke, OnionDuke, SeaDuke, HammerDuke, CloudDuke, Midnight Blizzard, earth koshchei, cloaked ursa, cozylarch, icecap, captivecrunch, chocoshell
+# Aliases: APT29, Cozy Bear, The Dukes, WellMess, WellMail, SoreFang, PinchDuke, GeminiDuke, CosmicDuke, MiniDuke, CozyDuke, OnionDuke, SeaDuke, HammerDuke, CloudDuke, Midnight Blizzard, earth koshchei, cloaked ursa, cozylarch, icecap, captivecrunch, chocoshell, storm-2945
 # ==================================================
 
 # DUKE - Domain Indicators (746 domains)

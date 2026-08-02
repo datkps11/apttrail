@@ -24207,11 +24207,12 @@
           "cozylarch",
           "icecap",
           "captivecrunch",
-          "chocoshell"
+          "chocoshell",
+          "storm-2945"
         ],
         "apt_group": "DUKE",
         "filename": "apt_duke.txt",
-        "last_modified": "2026-08-01T15:33:37+03:00",
+        "last_modified": "2026-08-02T15:14:59+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/55fae83567db8c6fb3518bcd/",
           "https://www.f-secure.com/documents/996508/1030745/dukes_whitepaper.pdf",
