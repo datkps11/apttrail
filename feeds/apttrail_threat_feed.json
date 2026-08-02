@@ -147896,10 +147896,15 @@
     "PAPERWEREWOLF": {
       "indicators": {
         "domain": [
+          "acrobatupdate.online",
+          "adobecheck.online",
           "arrotech.org",
           "awalitalk.com",
           "certcalc.online",
+          "certcheck.online",
+          "certinform.online",
           "easytrns.com",
+          "edgeupdates.online",
           "fast-eda.my",
           "fastchessplay.com",
           "fungaros.com",
@@ -147937,10 +147942,13 @@
           "packetlabs.online",
           "packetread.online",
           "packetsign.online",
+          "packetswift.online",
           "packettake.online",
           "packetuser.online",
           "packetxhub.online",
+          "phan.club",
           "ruzede.com",
+          "slimer.club",
           "sslchck.online",
           "sslcom.online",
           "sslfix.online",
@@ -147975,6 +147983,7 @@
           "timesync.cloud",
           "updatestop.online",
           "woburneast.com",
+          "xss.place",
           "zeccecard.com"
         ],
         "url": [
@@ -147991,7 +148000,7 @@
         ],
         "apt_group": "PAPERWEREWOLF",
         "filename": "apt_paperwerewolf.txt",
-        "last_modified": "2026-05-17T21:14:52+03:00",
+        "last_modified": "2026-08-02T23:00:47+03:00",
         "references": [
           "https://intezer.com/blog/tracing-a-paper-werewolf-campaign-through-ai-generated-decoys-and-excel-xlls/",
           "https://bi.zone/eng/expertise/blog/kamen-nozhnitsy-bumaga-novyy-instrumentariy-v-atakakh-klastera-paper-werewolf/",
@@ -147999,15 +148008,19 @@
           "https://www.virustotal.com/gui/ip-address/213.165.61.226/relations",
           "https://www.virustotal.com/gui/ip-address/78.153.149.182/relations",
           "https://www.virustotal.com/gui/ip-address/87.251.66.114/relations",
-          "https://www.virustotal.com/gui/file/938dac6227e47fed245ad25d289489d67e574882430652b5fb7b6368e262e873/detection"
+          "https://www.virustotal.com/gui/file/938dac6227e47fed245ad25d289489d67e574882430652b5fb7b6368e262e873/detection",
+          "https://x.com/phatomcandle/status/2083976136669974980",
+          "https://www.virustotal.com/gui/ip-address/130.49.213.54/relations",
+          "https://www.virustotal.com/gui/ip-address/213.165.61.50/relations",
+          "https://www.virustotal.com/gui/ip-address/77.110.112.165/relations"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 80,
+          "domain": 89,
           "url": 4
         },
-        "total": 84
+        "total": 93
       }
     },
     "PARAGON": {
