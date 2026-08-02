@@ -23984,6 +23984,7 @@
           "ssi-gouv-fr.cloud",
           "ssi-gouv.cloud",
           "statecloud.us",
+          "statistic-g.com",
           "stratfor.cloud",
           "support-google.cloud",
           "swcloud.us",
@@ -24212,7 +24213,7 @@
         ],
         "apt_group": "DUKE",
         "filename": "apt_duke.txt",
-        "last_modified": "2026-08-02T15:14:59+03:00",
+        "last_modified": "2026-08-02T16:31:15+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/55fae83567db8c6fb3518bcd/",
           "https://www.f-secure.com/documents/996508/1030745/dukes_whitepaper.pdf",
@@ -24306,17 +24307,18 @@
           "https://x.com/banthisguy9349/status/2008490747134439456",
           "https://research.checkpoint.com/2025/apt29-phishing-campaign/",
           "https://aws.amazon.com/ru/blogs/security/amazon-disrupts-watering-hole-campaign-by-russias-apt29/",
+          "https://x.com/LloydLabs/status/2083594247547068883",
           "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 746,
+          "domain": 747,
           "file_path": 24,
           "ipv4": 23,
           "url": 71
         },
-        "total": 864
+        "total": 865
       }
     },
     "DUNEQUIXOTE": {
