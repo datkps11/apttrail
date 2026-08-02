@@ -97454,6 +97454,7 @@
           "cmh224nas.i234.me",
           "cmidmsrt.dynu.org",
           "cmioepr.dynu.net",
+          "cmioser.dynu.net",
           "cmonunt.online",
           "cms.spaceyou.o-r.kr",
           "cmseny.store",
@@ -100604,6 +100605,9 @@
           "galasnode.xyz",
           "galaxybookthanksparty.com",
           "galfioneycia.com.ar",
+          "gama.dynu.org",
+          "gama.dynuddns.com",
+          "gama.dynuddns.net",
           "gamblecoin.store",
           "gamesticky.homes",
           "gamingcool.click",
@@ -108775,6 +108779,9 @@
           "nhis.edoc.dynu.org",
           "nhis.edoc.view.dynu.net",
           "nhis.execute.dynu.org",
+          "nhis.gama.dynu.org",
+          "nhis.gama.dynuddns.com",
+          "nhis.gama.dynuddns.net",
           "nhis.otp.edoc.dynuddns.net",
           "nhis.random.dynuddns.com",
           "nhis.random.dynuddns.net",
@@ -114917,6 +114924,8 @@
           "receptipai.click",
           "recheck.edocinvoices.o-r.kr",
           "recmaservice.store",
+          "recnhis.dynu.net",
+          "recnhis.dynu.org",
           "recommape.click",
           "recommcul.click",
           "reconfirm.neverserver.o-r.kr",
@@ -120016,7 +120025,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-08-01T22:21:20+03:00",
+        "last_modified": "2026-08-02T13:22:47+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -121650,12 +121659,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 25004,
+          "domain": 25013,
           "file_path": 295,
           "ipv4": 94,
           "url": 72
         },
-        "total": 25465
+        "total": 25474
       }
     },
     "KUN3": {
