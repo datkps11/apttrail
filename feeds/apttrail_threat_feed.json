@@ -149718,6 +149718,8 @@
           "cabinetdivisionpakgov.org",
           "cartmizer.info",
           "cas-cn.org",
+          "cas-edu.com",
+          "cas-edu.org",
           "centling.nihaoucloud.org",
           "cflayerprotection.com",
           "cftn6129.b-cdn.net",
@@ -149726,6 +149728,8 @@
           "chatit.club",
           "chaton.life",
           "chaton.live",
+          "china-robot.online",
+          "china-robot.org",
           "chinagreenenergy.org",
           "chinastrat.com",
           "chinastrats.com",
@@ -149810,6 +149814,7 @@
           "energy.pakpower.org",
           "energynews.bhutanembassynepal.com",
           "epg-cn.com",
+          "eps-expo.com",
           "errorfeedback.com",
           "espncrics.info",
           "evendarkness.info",
@@ -149849,6 +149854,7 @@
           "fyicompsol.xyz",
           "gallopingroses.com",
           "gcl-cn.org",
+          "gcl-power-cn.org",
           "gcl-power.org",
           "geochebrew.org",
           "ghshijie.com",
@@ -149897,6 +149903,7 @@
           "huanetdw.c-cdn77.com",
           "huashan.info",
           "hubbuchpfada.com",
+          "humanoid-robot.online",
           "iceandfire.xyz",
           "icreativez.org",
           "igcontest.xyz",
@@ -149950,6 +149957,7 @@
           "liststernia.com",
           "little-nuts.com",
           "liuyi.neectar.info",
+          "ljewmte.org",
           "loma.breatlee.org",
           "lomong.breatlee.org",
           "longwang.b-cdn.net",
@@ -150210,6 +150218,7 @@
           "thurraferro.com",
           "tian.neectar.info",
           "tiangfu.cloudcdn-storage.org",
+          "tickimmazy.org",
           "tiktalk-2fc98-default-rtdb.firebaseio.com",
           "tingding.info",
           "toproid.xyz",
@@ -150274,6 +150283,7 @@
           "wissenbalora.com",
           "wisssteuerhub.com",
           "wond3rfulworld.com",
+          "wtechnote.org",
           "xbladezz.com",
           "xiahong.rootranger.info",
           "xiam.dasiqueiros.info",
@@ -150326,6 +150336,7 @@
           "/YcKOjLMxiwCZfSS//comrCVPEffFiPvF.php",
           "/YcKOjLMxiwCZfSS/comrCVPEffFiPvF.php",
           "/Ztrt1DyB3tTXbjG.php",
+          "/a5c5a153b6caddd7.php",
           "/android_connect/insert_account.php",
           "/android_connect/insert_contacts.php",
           "/android_connect/insert_file_list.php",
@@ -150334,6 +150345,7 @@
           "/bFIbN_sj9/ksJ9_Ks9J.bin",
           "/bIHTfcVHegEoMrv/WCcod7JY3zwUpDH.php",
           "/byuehf8af.php",
+          "/c019e2b6b055-48d2/a5c5a153b6caddd7.php",
           "/cache_tls/certificate.php",
           "/cache_tls/openai.php",
           "/cfnbgjfghom_mun_jkghdfjkghdjklgfk_ication.php",
@@ -150516,7 +150528,7 @@
         ],
         "apt_group": "PATCHWORK",
         "filename": "apt_patchwork.txt",
-        "last_modified": "2026-07-05T13:02:12+03:00",
+        "last_modified": "2026-08-03T20:32:28+03:00",
         "references": [
           "https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/",
           "https://otx.alienvault.com/pulse/5d68fa5d04b58d378df39abf",
@@ -150954,17 +150966,20 @@
           "https://www.virustotal.com/gui/file/9b2637b8fefeedf8dca8a0ace491de05b6d937ea7463b48562cd1a0f25abb9f5/detection",
           "https://www.virustotal.com/gui/file/9d7e12eae6b593e582d8b2c3af3154a989977309dcffc7a85aedf0e047d4ca0b/detection",
           "https://www.rapid7.com/blog/post/tr-malware-tracking-dropping-elephant-tradecraft-china-themed-loader-chain/",
-          "https://github.com/rapid7/Rapid7-Labs/blob/main/IOCs/Dropping%20Elephant/dropping-elephant-iocs.md"
+          "https://github.com/rapid7/Rapid7-Labs/blob/main/IOCs/Dropping%20Elephant/dropping-elephant-iocs.md",
+          "https://x.com/SinghSoodeep/status/2084220447487381592",
+          "https://www.virustotal.com/gui/file/d1ae51e18644263c9fdf618b285c978edb46507295faaf60062794011afb31b9/detection",
+          "https://www.virustotal.com/gui/file/6d142127e10dc9bd88e804d0f71278540fa4278c85e6eac6bd6480151e9486a8/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 671,
-          "file_path": 83,
+          "domain": 681,
+          "file_path": 85,
           "ipv4": 57,
           "url": 43
         },
-        "total": 854
+        "total": 866
       }
     },
     "PEEPINGTITLE": {
