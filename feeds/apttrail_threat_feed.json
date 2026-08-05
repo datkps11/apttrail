@@ -158816,6 +158816,7 @@
           "appostile-mofa-pk.storeaone.com",
           "appostille-mofa-gov-pk-attestation.storeaone.com",
           "appostille-mofa-gov.storeaone.com",
+          "apps-sco-gov-pk.workers.dev",
           "apps.fia-gov.net",
           "appsrv.live",
           "appsstore.in",
@@ -159778,6 +159779,7 @@
           "gov-pk.org",
           "gov-pk.pk",
           "gov-pk.site",
+          "gov-pk.workers.dev",
           "gov-pkgov.workers.dev",
           "gov-pknet.org",
           "gov-pmo.net",
@@ -160042,6 +160044,7 @@
           "islamicfinder.bitlyy.me",
           "it-pakistan-gov-pk.workers.dev",
           "itsupport-gov.com",
+          "itsupport.apps-sco-gov-pk.workers.dev",
           "iugur.live",
           "j2zfz.pmreco.xyz",
           "jestec.info",
@@ -162103,6 +162106,7 @@
           "webmail-mofa-gov-pk.zeabur.app",
           "webmail-morrgovaf.hopto.org",
           "webmail-pacorgpk.myvnc.com",
+          "webmail-pnra.gov-pk.workers.dev",
           "webmail-wapda-gov-pk.pakistan-gov-pk.workers.dev",
           "webmail.bdgov.info",
           "webmail.cybar-net-pk.workers.dev",
@@ -162397,7 +162401,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-08-01T22:48:53+03:00",
+        "last_modified": "2026-08-05T13:34:23+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -163495,17 +163499,19 @@
           "https://x.com/volrant136/status/2083246886262313189",
           "https://www.virustotal.com/gui/file/1202845815bc416bdfd8be09f500b5833e63ba5e06aeb5fafba093edf0f7e1b9/detection",
           "https://x.com/volrant136/status/2080669471878819889",
-          "https://x.com/volrant136/status/2081805669175370115"
+          "https://x.com/volrant136/status/2081805669175370115",
+          "https://x.com/blackorbird/status/2084940847863509476",
+          "https://mp.weixin.qq.com/s/PALBLusD4umh_52gy2wVAg"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3628,
+          "domain": 3632,
           "file_path": 16,
           "ipv4": 50,
           "url": 29
         },
-        "total": 3723
+        "total": 3727
       }
     },
     "SILENCE": {
