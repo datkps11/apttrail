@@ -124289,6 +124289,7 @@
           "login.coinibrase.com",
           "login.coininbase.com",
           "login.docsend.online",
+          "logkit-tau.vercel.app",
           "logn.navermanagecorp.site",
           "logn.noreplya.website",
           "logoeye.net",
@@ -127388,6 +127389,9 @@
           "66.248.205.172:3000",
           "66.248.205.172:5000",
           "66.248.205.172:8000",
+          "66.45.225.94:1244",
+          "66.45.225.94:1245",
+          "66.45.225.94:1246",
           "66.85.157.67:8050",
           "67.203.7.163:1244",
           "67.203.7.171:1244",
@@ -127735,7 +127739,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-08-03T10:14:32+03:00",
+        "last_modified": "2026-08-05T15:52:46+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -129044,17 +129048,21 @@
           "https://x.com/nextronresearch/status/2079454428038406646",
           "https://www.virustotal.com/gui/file/1aadea997fc4eda5a8a04e68f6e1828c93e00e817e50c5b6ef874faef43f7fca/detection",
           "https://www.virustotal.com/gui/file/c107419b6b4c793c92289f00cbb229a344fbe6fad1f34bc53e3e9147fb0a242e/detection",
-          "https://x.com/blackbigswan/status/2079687425757249884"
+          "https://x.com/blackbigswan/status/2079687425757249884",
+          "https://x.com/ishivtripathi/status/2084907438243991883",
+          "https://www.virustotal.com/gui/file/ab65cef60fc097c2a9fb03a7855c9c03dfe3ccc874080720f0e631c6ee2c3e51/detection",
+          "https://www.virustotal.com/gui/file/225d7482772a26e4236d91cae51197ab1dfbdd42232157c3e169c19177a384e1/detection",
+          "https://www.virustotal.com/gui/file/5c9bc15e2db6ca97ff325159d6c07fd381a39f9e55ef69499bbfde51bb064808/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3834,
+          "domain": 3835,
           "file_path": 479,
-          "ipv4": 814,
+          "ipv4": 817,
           "url": 160
         },
-        "total": 5287
+        "total": 5291
       }
     },
     "LAZYSCRIPTER": {

@@ -111753,6 +111753,7 @@ LAZARUS,domain,login.coinbrase.com
 LAZARUS,domain,login.coinibrase.com
 LAZARUS,domain,login.coininbase.com
 LAZARUS,domain,login.docsend.online
+LAZARUS,domain,logkit-tau.vercel.app
 LAZARUS,domain,logn.navermanagecorp.site
 LAZARUS,domain,logn.noreplya.website
 LAZARUS,domain,logoeye.net
@@ -114848,6 +114849,9 @@ LAZARUS,ipv4,66.235.63.55:3389
 LAZARUS,ipv4,66.248.205.172:3000
 LAZARUS,ipv4,66.248.205.172:5000
 LAZARUS,ipv4,66.248.205.172:8000
+LAZARUS,ipv4,66.45.225.94:1244
+LAZARUS,ipv4,66.45.225.94:1245
+LAZARUS,ipv4,66.45.225.94:1246
 LAZARUS,ipv4,66.85.157.67:8050
 LAZARUS,ipv4,67.203.7.163:1244
 LAZARUS,ipv4,67.203.7.171:1244
