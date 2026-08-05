@@ -4473,65 +4473,6 @@ rule APT_FINFISHER
         2 of ($domain*, $ip*, $url*)
 }
 
-rule APT_FLAME
-{
-    meta:
-        description = "Detects IOCs associated with APT FLAME"
-        author = "APTtrail Automated Collection"
-        apt_group = "FLAME"
-        reference = "https://securelist.com/the-roof-is-on-fire-tackling-flames-cc-servers-6/33033/"
-        severity = "high"
-        tlp = "white"
-
-    strings:
-        $domain0 = "autosync\.info" ascii wide nocase
-        $domain1 = "bannerspot\.in" ascii wide nocase
-        $domain2 = "bannerspot\.info" ascii wide nocase
-        $domain3 = "bannerzone\.in" ascii wide nocase
-        $domain4 = "chchengine\.com" ascii wide nocase
-        $domain5 = "chchengine\.net" ascii wide nocase
-        $domain6 = "conf-net\.com" ascii wide nocase
-        $domain7 = "dailynewsupdater\.com" ascii wide nocase
-        $domain8 = "diznet\.biz" ascii wide nocase
-        $domain9 = "dnslocation\.info" ascii wide nocase
-        $domain10 = "dnsmask\.info" ascii wide nocase
-        $domain11 = "dnsportal\.info" ascii wide nocase
-        $domain12 = "dnsupdate\.info" ascii wide nocase
-        $domain13 = "eventhosting\.com" ascii wide nocase
-        $domain14 = "flashp\.webhop\.net" ascii wide nocase
-        $domain15 = "flashupdates\.info" ascii wide nocase
-        $domain16 = "flushdns\.info" ascii wide nocase
-        $domain17 = "isyncautomation\.in" ascii wide nocase
-        $domain18 = "isyncautoupdater\.in" ascii wide nocase
-        $domain19 = "localgateway\.info" ascii wide nocase
-        $domain20 = "micromedia\.in" ascii wide nocase
-        $domain21 = "mysync\.info" ascii wide nocase
-        $domain22 = "newstatisticfeeder\.com" ascii wide nocase
-        $domain23 = "newsync\.info" ascii wide nocase
-        $domain24 = "nvidiadrivers\.info" ascii wide nocase
-        $domain25 = "nvidiasoft\.info" ascii wide nocase
-        $domain26 = "nvidiastream\.info" ascii wide nocase
-        $domain27 = "pingserver\.info" ascii wide nocase
-        $domain28 = "quick-net\.info" ascii wide nocase
-        $domain29 = "rendercodec\.info" ascii wide nocase
-        $domain30 = "serveflash\.info" ascii wide nocase
-        $domain31 = "serverss\.info" ascii wide nocase
-        $domain32 = "smart-access\.net" ascii wide nocase
-        $domain33 = "syncdomain\.info" ascii wide nocase
-        $domain34 = "synclock\.info" ascii wide nocase
-        $domain35 = "syncprovider\.info" ascii wide nocase
-        $domain36 = "syncsource\.info" ascii wide nocase
-        $domain37 = "syncstream\.info" ascii wide nocase
-        $domain38 = "syncupdate\.info" ascii wide nocase
-        $domain39 = "traffic-spot\.biz" ascii wide nocase
-        $domain40 = "traffic-spot\.com" ascii wide nocase
-        $domain41 = "ultrasoft\.in" ascii wide nocase
-        $domain42 = "videosync\.info" ascii wide nocase
-
-    condition:
-        2 of ($domain*, $ip*, $url*)
-}
-
 rule APT_FLAXTYPHOON
 {
     meta:
