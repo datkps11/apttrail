@@ -12609,18 +12609,18 @@ rule APT_UNC2465
         $domain35 = "aapanel34768\.hostkey\.in" ascii wide nocase
         $domain36 = "abstractest-hydroski\.site" ascii wide nocase
         $domain37 = "academytradeai\.com" ascii wide nocase
-        $domain38 = "accoumtsclienntsarea\.us" ascii wide nocase
-        $domain39 = "acquasicuras\.com" ascii wide nocase
-        $domain40 = "actbluecs\.com" ascii wide nocase
-        $domain41 = "actblues\.net" ascii wide nocase
-        $domain42 = "adionetjrei\.shop" ascii wide nocase
-        $domain43 = "admin\.rvtoolacs\.online" ascii wide nocase
-        $domain44 = "adrilex\.digital" ascii wide nocase
-        $domain45 = "aexnp\.com" ascii wide nocase
-        $domain46 = "afd-esign\.info" ascii wide nocase
-        $domain47 = "afeherbopenuk\.com" ascii wide nocase
-        $domain48 = "afmo\.it" ascii wide nocase
-        $domain49 = "agora-mesmo\.com" ascii wide nocase
+        $domain38 = "accessbs\.us" ascii wide nocase
+        $domain39 = "accoumtsclienntsarea\.us" ascii wide nocase
+        $domain40 = "acquasicuras\.com" ascii wide nocase
+        $domain41 = "actbluecs\.com" ascii wide nocase
+        $domain42 = "actblues\.net" ascii wide nocase
+        $domain43 = "adionetjrei\.shop" ascii wide nocase
+        $domain44 = "admin\.rvtoolacs\.online" ascii wide nocase
+        $domain45 = "adrilex\.digital" ascii wide nocase
+        $domain46 = "aexnp\.com" ascii wide nocase
+        $domain47 = "afd-esign\.info" ascii wide nocase
+        $domain48 = "afeherbopenuk\.com" ascii wide nocase
+        $domain49 = "afmo\.it" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)
