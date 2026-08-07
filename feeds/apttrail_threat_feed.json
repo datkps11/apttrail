@@ -159339,6 +159339,7 @@
           "defencearmy.pro",
           "defencelk.cvix.live",
           "defenec.net",
+          "defense-housing-authority.vagued.live",
           "defpak.net",
           "defpak.org",
           "defrgthyj.ksewpk.com",
@@ -160034,6 +160035,7 @@
           "info.pk-mailgov.com",
           "info2.pk-mailgov.com",
           "infomfa-gov-lk.dwnlld.info",
+          "infomofa.workers.dev",
           "inkly.net",
           "inkora.org",
           "inporta.org",
@@ -160333,6 +160335,7 @@
           "mail-navy-lk-4326er48fdu49fgu49fgj549fj349fdj3490fdjk390df.pages.dev",
           "mail-navy-lk-43897fyi78945tr78945uio89045iuort89045prt054k.pages.dev",
           "mail-navy-lk-login.pages.dev",
+          "mail-navy-lk.up.railway.app",
           "mail-navy-mil-bd-modern-email-inbox-messages.webmailarmy.com",
           "mail-nba-gov-pk.pakistan-gov-pk.workers.dev",
           "mail-ncporgnp.hopto.org",
@@ -160675,6 +160678,7 @@
           "minutes-interministryproduction.up.railway.app",
           "minutes-of-meeting.zeabur.app",
           "mishal.com.pk-mailgov.com",
+          "misty-pond-6b85.infomofa.workers.dev",
           "mitgiied.vip",
           "mitlec.site",
           "mm.download-msoffice.com",
@@ -161016,6 +161020,8 @@
           "msacn.ntcpk.net",
           "msftupdate.srv-cdn.com",
           "mshealthcheck.live",
+          "msofficeupdate.vagued.live",
+          "msofficeupdator.vagued.live",
           "msoft-updt.net",
           "msonlineoffice.com",
           "mta-sts.crypto-wise.co",
@@ -162055,9 +162061,11 @@
           "usermail-output-panel.000webhostapp.com",
           "utilize.elopter.top",
           "uw9i.pmreco.xyz",
+          "uy.vagued.live",
           "v1d.mov",
           "vaccine.moha.gov.np.webproxy.to",
           "vaccine.mohp.gov.np.webproxy.to",
+          "vagued.live",
           "valac.biz",
           "vateno.info",
           "vehicleverificationsystem.com",
@@ -162436,7 +162444,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-08-05T13:34:23+03:00",
+        "last_modified": "2026-08-07T12:48:37+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -163536,17 +163544,22 @@
           "https://x.com/volrant136/status/2080669471878819889",
           "https://x.com/volrant136/status/2081805669175370115",
           "https://x.com/blackorbird/status/2084940847863509476",
-          "https://mp.weixin.qq.com/s/PALBLusD4umh_52gy2wVAg"
+          "https://mp.weixin.qq.com/s/PALBLusD4umh_52gy2wVAg",
+          "https://x.com/volrant136/status/2085410874051981755",
+          "https://x.com/joe4security/status/2085384961570349091",
+          "https://www.joesandbox.com/joereverser/analysis/2e03ffcc-7c06-455e-bbfd-a5b7188fa521/download?type=reports&report=html",
+          "https://www.virustotal.com/gui/file/3b9432019a80a62fe6760a65f2677783bd60383b60206a5db7237a1b050647a2/detection",
+          "https://www.virustotal.com/gui/file/6b85e9c7dd33416a096e377303d82ac49c8c3044f969ff72560409a3f1151cfb/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3632,
+          "domain": 3640,
           "file_path": 16,
           "ipv4": 50,
           "url": 29
         },
-        "total": 3727
+        "total": 3735
       }
     },
     "SILENCE": {
