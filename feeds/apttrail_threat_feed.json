@@ -178941,6 +178941,7 @@
           "adionetjrei.shop",
           "admin.rvtoolacs.online",
           "adrilex.digital",
+          "advipscan.com",
           "aexnp.com",
           "afd-esign.info",
           "afeherbopenuk.com",
@@ -179160,6 +179161,7 @@
           "alpine-quest.live",
           "alterasgroup.it.com",
           "amf-capital.it",
+          "amzslotplay.xyz",
           "analizainvestitii-ro.com",
           "ancora-shop.com",
           "angelliost.com",
@@ -179700,6 +179702,7 @@
           "freaegent.com",
           "freeagenlt.com",
           "fresagent.com",
+          "frialerynetuha.com",
           "friloktertys.de",
           "frostveilslay.com",
           "frostysmiles.com",
@@ -179759,6 +179762,7 @@
           "gq.harnetsecurlty.com",
           "gradani.digital",
           "graphicin.com",
+          "greenbase.it.com",
           "gridmellow.com",
           "grok-assistente.live",
           "groover.workers.dev",
@@ -180016,6 +180020,7 @@
           "midnightridergrey.com",
           "mikestonegoldcard.com",
           "mikoflow.org",
+          "millpp.com",
           "mim-iptv.live",
           "mindaicademia.com",
           "mindarablock.com",
@@ -180067,6 +180072,7 @@
           "msperformance.org",
           "mstore.framfarmers.co.uk",
           "mud.alert-router-b3a.workers.dev",
+          "musclebrite.com",
           "musicolet.live",
           "myeks.com",
           "mygift-myonlymail.com",
@@ -180340,6 +180346,7 @@
           "rv-tools.info",
           "rv-toolsa.com",
           "rv-toolso.com",
+          "rvpro.app",
           "rvtenterprise.com",
           "rvtoo.app",
           "rvtoo.com",
@@ -180719,6 +180726,7 @@
           "trainyxa.com",
           "transilvanequity.com",
           "travelfountain.com",
+          "traviora.shop",
           "treeshadowmonster.com",
           "trendorabhs.com",
           "trendorabnko.com",
@@ -180925,7 +180933,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-08-06T11:24:57+03:00",
+        "last_modified": "2026-08-07T21:56:19+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -180944,9 +180952,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 2022
+          "domain": 2030
         },
-        "total": 2022
+        "total": 2030
       }
     },
     "UNC2529": {
