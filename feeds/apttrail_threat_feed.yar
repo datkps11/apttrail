@@ -13764,6 +13764,72 @@ rule APT_UNC6691
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_UNC6691_1
+{
+    meta:
+        description = "Detects IOCs associated with APT UNC6691-1"
+        author = "APTtrail Automated Collection"
+        apt_group = "UNC6691-1"
+        reference = "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "0rdershop\.com" ascii wide nocase
+        $domain1 = "11\.jponliine\.com" ascii wide nocase
+        $domain2 = "14\.harajukup\.com" ascii wide nocase
+        $domain3 = "1a\.zencartjp\.com" ascii wide nocase
+        $domain4 = "1f\.okinasumo\.com" ascii wide nocase
+        $domain5 = "1k\.kyusmalli\.com" ascii wide nocase
+        $domain6 = "1k\.zenjpmart\.com" ascii wide nocase
+        $domain7 = "1mgtpu86\.niponshop\.com" ascii wide nocase
+        $domain8 = "1p4k9\.com" ascii wide nocase
+        $domain9 = "1q\.zenshopjp\.com" ascii wide nocase
+        $domain10 = "1x9p2\.com" ascii wide nocase
+        $domain11 = "2023\.youorder\.shop" ascii wide nocase
+        $domain12 = "2c8b3f19-0325-4acc-a3dd-31a918e4dbf5\.random\.yourorders\.shop" ascii wide nocase
+        $domain13 = "2g9p7\.com" ascii wide nocase
+        $domain14 = "2n8b6\.com" ascii wide nocase
+        $domain15 = "3c8f1\.com" ascii wide nocase
+        $domain16 = "3memk1pz\.niponshop\.com" ascii wide nocase
+        $domain17 = "3q\.fujifindjp\.com" ascii wide nocase
+        $domain18 = "3u2t71\.niponshop\.com" ascii wide nocase
+        $domain19 = "41\.animebuyjp\.com" ascii wide nocase
+        $domain20 = "44\.kireiishop\.com" ascii wide nocase
+        $domain21 = "4hejvbg\.niponshop\.com" ascii wide nocase
+        $domain22 = "4kt185\.niponshop\.com" ascii wide nocase
+        $domain23 = "4n1v3\.com" ascii wide nocase
+        $domain24 = "4q7v3\.com" ascii wide nocase
+        $domain25 = "5a6s3ix\.niponshop\.com" ascii wide nocase
+        $domain26 = "5k6r8\.com" ascii wide nocase
+        $domain27 = "5k7m1\.com" ascii wide nocase
+        $domain28 = "5ychc\.niponshop\.com" ascii wide nocase
+        $domain29 = "63\.zakkagadget\.com" ascii wide nocase
+        $domain30 = "6sel8ix\.niponshop\.com" ascii wide nocase
+        $domain31 = "78198435\.click" ascii wide nocase
+        $domain32 = "7r\.kyotocartjp\.com" ascii wide nocase
+        $domain33 = "7t5m6\.com" ascii wide nocase
+        $domain34 = "878968\.xyz" ascii wide nocase
+        $domain35 = "8g4d3\.com" ascii wide nocase
+        $domain36 = "93zr3aq\.niponshop\.com" ascii wide nocase
+        $domain37 = "9w2z4\.com" ascii wide nocase
+        $domain38 = "9x8c1\.com" ascii wide nocase
+        $domain39 = "9youyule\.online" ascii wide nocase
+        $domain40 = "akihahome\.com" ascii wide nocase
+        $domain41 = "amazon\.denkitech\.com" ascii wide nocase
+        $domain42 = "amazon\.denkwashi\.com" ascii wide nocase
+        $domain43 = "amazon\.nihonrlce\.com" ascii wide nocase
+        $domain44 = "amazon\.rakkumall\.com" ascii wide nocase
+        $domain45 = "amazon\.sbicojp\.com" ascii wide nocase
+        $domain46 = "amazon\.yourorders\.shop" ascii wide nocase
+        $domain47 = "amazon\.zakkadenki\.com" ascii wide nocase
+        $domain48 = "amazon\.zakkagadget\.com" ascii wide nocase
+        $domain49 = "animebuyjp\.com" ascii wide nocase
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
+}
+
 rule APT_UNC6692
 {
     meta:
