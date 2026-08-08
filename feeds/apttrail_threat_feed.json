@@ -178942,6 +178942,7 @@
           "admin.rvtoolacs.online",
           "adrilex.digital",
           "advipscan.com",
+          "advipscaner.com",
           "aexnp.com",
           "afd-esign.info",
           "afeherbopenuk.com",
@@ -179628,6 +179629,7 @@
           "etsena.eu.com",
           "eurobaustoff.it.com",
           "eurodelkredere.it.com",
+          "euronics.it.com",
           "evans-esign.info",
           "evolutionblends.com",
           "evolutionpestcontrol.com",
@@ -179726,6 +179728,7 @@
           "getreceived.com",
           "getting-keepass.com",
           "getxenow.com",
+          "geva.it.com",
           "gfilimtonkas.de",
           "giftcardmallmygiftac.com",
           "giftcardmallmygiftai.com",
@@ -180307,6 +180310,7 @@
           "readera-ebook.info",
           "rebgale.com",
           "rebgalenews.com",
+          "recmyfile.online",
           "reco-deet.online",
           "recover-mefile.online",
           "redlinetuning.org",
@@ -180325,6 +180329,7 @@
           "rich-mine-games.site",
           "risevioz.com",
           "riverbendpacks.com",
+          "rnotes.app",
           "robwaree.net",
           "robwares.com",
           "rocrestere.com",
@@ -180933,7 +180938,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-08-07T21:56:19+03:00",
+        "last_modified": "2026-08-08T14:59:57+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -180952,9 +180957,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 2030
+          "domain": 2035
         },
-        "total": 2030
+        "total": 2035
       }
     },
     "UNC2529": {

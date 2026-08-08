@@ -12618,9 +12618,9 @@ rule APT_UNC2465
         $domain44 = "admin\.rvtoolacs\.online" ascii wide nocase
         $domain45 = "adrilex\.digital" ascii wide nocase
         $domain46 = "advipscan\.com" ascii wide nocase
-        $domain47 = "aexnp\.com" ascii wide nocase
-        $domain48 = "afd-esign\.info" ascii wide nocase
-        $domain49 = "afeherbopenuk\.com" ascii wide nocase
+        $domain47 = "advipscaner\.com" ascii wide nocase
+        $domain48 = "aexnp\.com" ascii wide nocase
+        $domain49 = "afd-esign\.info" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)
