@@ -124388,6 +124388,7 @@
           "main-aptitudespro.pages.dev",
           "main-az8.pages.dev",
           "main.socket.luckyguys.cloud",
+          "mainsec0.site",
           "malicanbur.pro",
           "manage.luckyguys.cloud",
           "manchestercity.work.gd",
@@ -124926,6 +124927,7 @@
           "poweem.com",
           "powerwize.org",
           "powerwize.pages.dev",
+          "pozeny.shop",
           "prajeshpatel.com",
           "pre-screen.net",
           "pre-screen.online",
@@ -125743,6 +125745,7 @@
           "updatecheck.site",
           "updatecheck.store",
           "updatemycam.online",
+          "updatesourcetool.online",
           "updatewebcamnow.live",
           "upload.rightwidth.dev",
           "upport.docsend.site",
@@ -126234,6 +126237,10 @@
           "/logs/officetemplate.php",
           "/mac-v-ri69.fixer",
           "/mall/community/bbs_read.asp",
+          "/mart/res/bb.php",
+          "/mart/res/get-command.php",
+          "/mart/res/index.php",
+          "/mart/res/post_proc.php",
           "/niabbs5/upload/gongji/index.php",
           "/random_compat/zeus/wongs/wongs.php",
           "/realtekwin.update",
@@ -126750,6 +126757,7 @@
           "11.23.33.44:8050",
           "111.90.146.105:443",
           "111.90.148.132:443",
+          "112.134.208.25:8443",
           "112.175.92.57:443",
           "113.114.117.122:23397",
           "116.202.208.125:8086",
@@ -127049,6 +127057,7 @@
           "176.222.52.77:1245",
           "176.31.205.16:1244",
           "176.9.174.137:1224",
+          "180.18.55.89:8443",
           "181.39.135.126:7443",
           "182.136.120.52:9999",
           "182.136.123.102:9999",
@@ -127130,6 +127139,7 @@
           "198.135.55.119:1224",
           "198.135.55.67:1224",
           "198.180.198.6:443",
+          "2.57.91.91:8443",
           "201.77.179.66:8082",
           "202.155.11.141:3000",
           "202.163.147.124:1248",
@@ -127765,7 +127775,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-08-07T11:13:46+03:00",
+        "last_modified": "2026-08-09T16:48:58+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -129079,17 +129089,22 @@
           "https://www.virustotal.com/gui/file/ab65cef60fc097c2a9fb03a7855c9c03dfe3ccc874080720f0e631c6ee2c3e51/detection",
           "https://www.virustotal.com/gui/file/225d7482772a26e4236d91cae51197ab1dfbdd42232157c3e169c19177a384e1/detection",
           "https://www.virustotal.com/gui/file/5c9bc15e2db6ca97ff325159d6c07fd381a39f9e55ef69499bbfde51bb064808/detection",
-          "https://x.com/KseProso/status/2084984281785389166"
+          "https://x.com/KseProso/status/2084984281785389166",
+          "https://x.com/G60930953/status/2054029601408479514",
+          "https://www.virustotal.com/gui/file/731d96ba17bd5714bba1f4f1dbfa0d1487fe2f54ff20bfdc64d4502538c3d587/detection",
+          "https://x.com/G60930953/status/2086376673834852703",
+          "https://www.virustotal.com/gui/file/c3457cca3bdb77750f8bd12be02a993875b763ff00428cf9bfaf89764a2f4e3e/detection",
+          "https://www.virustotal.com/gui/file/794a53776783bbe9565219b4c3ba2a99a92b32b08b9bbabe62747c83bd1e10f8/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3836,
-          "file_path": 479,
-          "ipv4": 830,
+          "domain": 3839,
+          "file_path": 483,
+          "ipv4": 833,
           "url": 160
         },
-        "total": 5305
+        "total": 5315
       }
     },
     "LAZYSCRIPTER": {
