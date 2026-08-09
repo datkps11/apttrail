@@ -191795,7 +191795,6 @@
           "sbicojp.com",
           "sitemaps.youorder.shop",
           "sn6sqvddi99lnd-zkte.cc",
-          "softether.net",
           "ssl-images-amazon.sbicojp.com",
           "sumodjp.com",
           "szvyi.com",
@@ -191863,7 +191862,7 @@
         "aliases": [],
         "apt_group": "UNC6691-1",
         "filename": "apt_unc6691-1.txt",
-        "last_modified": "2026-08-08T23:09:44+03:00",
+        "last_modified": "2026-08-09T08:06:47+03:00",
         "references": [
           "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit",
           "https://iverify.io/blog/coruna-inside-the-nation-state-grade-ios-exploit-kit-we-ve-been-tracking"
@@ -191871,9 +191870,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 273
+          "domain": 272
         },
-        "total": 273
+        "total": 272
       }
     },
     "UNC6692": {
