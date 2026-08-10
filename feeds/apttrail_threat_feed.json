@@ -134420,6 +134420,7 @@
           "blackplant593.mypi.co",
           "blackrifle.za.com",
           "blackserpent.digital",
+          "blackshape.mypi.co",
           "blackshare595.mypi.co",
           "blackslope.mypi.co",
           "blackspeak.mypi.co",
@@ -136089,6 +136090,7 @@
           "deeplaser.mypi.co",
           "deeplight.mypi.co",
           "deeplimit.mypi.co",
+          "deeplimit443.mypi.co",
           "deeplink.sa.com",
           "deeploop.mypi.co",
           "deepmake.mypi.co",
@@ -136824,6 +136826,7 @@
           "epsilonbay.click",
           "eqsnport.sa.com",
           "equalclip.mypi.co",
+          "equaldigit44.mypi.co",
           "equalfable.mypi.co",
           "equalframe.mypi.co",
           "equalgamma.mypi.co",
@@ -138174,6 +138177,7 @@
           "goodspot44.mypi.co",
           "goodtitle967.mypi.co",
           "goodview.za.com",
+          "goodwagon.mypi.co",
           "goodzone.mypi.co",
           "googl-165a0.web.app",
           "googl-6c11f.web.app",
@@ -140274,6 +140278,7 @@
           "logicreply941.mypi.co",
           "logicrogue.mypi.co",
           "logicserver.mypi.co",
+          "logicshade862.mypi.co",
           "logicsmoke.mypi.co",
           "logictrain.mypi.co",
           "logicunity.mypi.co",
@@ -140542,6 +140547,7 @@
           "majormeter.mypi.co",
           "majorpaper.mypi.co",
           "majorproof.mypi.co",
+          "majorruler.mypi.co",
           "majorscript953.mypi.co",
           "majorshop168.mypi.co",
           "majorsolve890.mypi.co",
@@ -142102,6 +142108,7 @@
           "oxidebank.click",
           "oxidedrive433.mypi.co",
           "oxideeagle.mypi.co",
+          "oxideflask.mypi.co",
           "oxidegrain.mypi.co",
           "oxidelaser.mypi.co",
           "oxidenight.mypi.co",
@@ -144148,6 +144155,7 @@
           "scaleby.cyou",
           "scalecache.mypi.co",
           "scalecloud940.mypi.co",
+          "scalecore.mypi.co",
           "scalecrowd949.mypi.co",
           "scalecrush.mypi.co",
           "scaledesk.mypi.co",
@@ -148490,7 +148498,7 @@
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2026-08-04T23:14:47+03:00",
+        "last_modified": "2026-08-10T09:53:31+03:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
@@ -148733,12 +148741,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 15243,
+          "domain": 15251,
           "file_path": 188,
           "ipv4": 107,
           "url": 112
         },
-        "total": 15650
+        "total": 15658
       }
     },
     "MURENSHARK": {
