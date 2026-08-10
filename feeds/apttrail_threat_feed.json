@@ -169254,6 +169254,7 @@
           "crsorgi.g0v.in.net",
           "crsorgi.g0v.site",
           "crsorgi.gov-ln.site",
+          "crsorgi.gov.com.ftsu.in",
           "crsorgi.gov.dcorgi.in",
           "crsorgi.gov.ec.cc",
           "crsorgi.gov.in-co.pw",
@@ -169675,6 +169676,7 @@
           "dc.crsorgi.gav1.in",
           "dc.crsorgi.gov-ln.site",
           "dc.crsorgi.gov.1ov.shop",
+          "dc.crsorgi.gov.com.ftsu.in",
           "dc.crsorgi.gov.dcorgi.in",
           "dc.crsorgi.gov.ec.cc",
           "dc.crsorgi.gov.in-co.pw",
@@ -170854,6 +170856,7 @@
           "ftblfnzy.com",
           "ftbollfan.com",
           "ftp.czwaluk.de",
+          "ftsu.in",
           "fudefy.com",
           "fullcourtdraft.com",
           "fullcourtkings24.com",
@@ -171193,6 +171196,7 @@
           "gov-service-in-default-rtdb.firebaseio.com",
           "gov.1in.shop",
           "gov.1ov.shop",
+          "gov.com.ftsu.in",
           "gov.dcorgi.in",
           "gov.ec.cc",
           "gov.in-co.pw",
@@ -176192,7 +176196,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-08-03T15:09:18+03:00",
+        "last_modified": "2026-08-10T14:26:16+03:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -177334,12 +177338,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 6617,
+          "domain": 6621,
           "file_path": 40,
           "ipv4": 857,
           "url": 125
         },
-        "total": 7639
+        "total": 7643
       }
     },
     "TRIANGULATION": {
