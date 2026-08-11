@@ -14927,7 +14927,7 @@
         ],
         "apt_group": "CHARMINGKITTEN",
         "filename": "apt_charmingkitten.txt",
-        "last_modified": "2026-07-29T19:22:21+03:00",
+        "last_modified": "2026-08-11T11:39:01+02:00",
         "references": [
           "https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc (2018-06-12 Charming Kitten waterhole)",
           "https://www.clearskysec.com/charmingkitten/",
@@ -181883,7 +181883,7 @@
         "aliases": [],
         "apt_group": "UNC3890",
         "filename": "apt_unc3890.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-08-11T11:39:01+02:00",
         "references": [
           "https://www.mandiant.com/resources/suspected-iranian-actor-targeting-israeli-shipping",
           "https://www.virustotal.com/gui/ip-address/128.199.6.246/relations",
