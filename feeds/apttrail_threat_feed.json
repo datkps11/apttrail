@@ -122500,6 +122500,7 @@
           "7xvc.roomconnect.online",
           "7xvc.virtual-collab.online",
           "8190ocvswfyd57v5.docsend.online",
+          "90.ip-51-83-32.eu",
           "91.90.121.87.sslip.io",
           "9yxqida1b.naveicoiph.online",
           "a.videotalks.site",
@@ -122606,6 +122607,7 @@
           "angeloperonline.online",
           "anglerstatic.com",
           "anifintech.xyz",
+          "anilharijan.in",
           "animoca.finance",
           "ann.support.general-meet.site",
           "anomgaming.online",
@@ -123761,6 +123763,8 @@
           "enimvzud.mouradvps8hostwin.online",
           "enrollcrux.com",
           "entergenix.com",
+          "enveil.online",
+          "envell.xyz",
           "eoinbase.com",
           "eoinlslsf.naveicoipg.online",
           "eon.dropfile.online",
@@ -123916,6 +123920,7 @@
           "ftp.ccuk.edu.ng",
           "ftp.dataxo.net",
           "ftp.dropfile.online",
+          "ftp.hazemjday.com",
           "ftp.kaltura.studio",
           "ftp.skillview360.com",
           "ftp.talentevaluate.com",
@@ -124072,6 +124077,7 @@
           "hashkey.video-meet.team",
           "hashkey.video-meeting.team",
           "hateoo.space",
+          "hazemjday.com",
           "help-optus.com",
           "help.group-meeting.online",
           "help.mappo-on.life",
@@ -124165,6 +124171,7 @@
           "illycoffee.my",
           "imap.dropfile.online",
           "imap1.dropfile.online",
+          "immilog.com",
           "imoda.site",
           "indaddy.xyz",
           "indagator.club",
@@ -124297,6 +124304,7 @@
           "jzus0ve6iq-staging.onrocket.site",
           "kaltura.studio",
           "kashaccn4.naveicoiph.online",
+          "kazadaev.site",
           "kb102531x.vercel.app",
           "kdzdm1rq.naveicoipg.online",
           "keenest.org",
@@ -125018,6 +125026,7 @@
           "portal.ccuk.edu.ng",
           "portal.gfinanzen.net",
           "portalcorpteam.com",
+          "portfolio-244-99w.pages.dev",
           "portfolio-naylinmyats-projects.vercel.app",
           "post.dropfile.online",
           "postedviral.com",
@@ -125411,6 +125420,7 @@
           "spiralboard.com",
           "sportsblogweb.com",
           "srv1283254.hstgr.cloud",
+          "srv3.wagenhofer.ch",
           "srv587993.hstgr.cloud",
           "srv755058.hstgr.cloud",
           "srv833039.hstgr.cloud",
@@ -125865,6 +125875,7 @@
           "usweb-zoom.us",
           "usweb02.us",
           "uxicai.com",
+          "uxtramine.org",
           "uzzmuqwv.naveicoipa.tech",
           "uzzmuqwv.naveicoipc.tech",
           "v0-frame-render-engine-4vo9x0236.vercel.sh",
@@ -126885,6 +126896,10 @@
           "135.181.123.177:8081",
           "135.181.123.177:9000",
           "135.181.123.177:9001",
+          "135.181.185.158:7777",
+          "135.181.185.158:8000",
+          "135.181.67.203:5000",
+          "135.181.67.203:7777",
           "136.243.22.62:1224",
           "137.139.135.151:64694",
           "137.184.15.189:22",
@@ -127909,7 +127924,7 @@
         ],
         "apt_group": "LAZARUS",
         "filename": "apt_lazarus.txt",
-        "last_modified": "2026-08-11T20:47:59+03:00",
+        "last_modified": "2026-08-11T21:50:27+03:00",
         "references": [
           "https://cdn.securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf",
           "https://securelist.com/operation-applejeus/87553/",
@@ -129231,17 +129246,18 @@
           "https://www.virustotal.com/gui/file/794a53776783bbe9565219b4c3ba2a99a92b32b08b9bbabe62747c83bd1e10f8/detection",
           "https://x.com/unpacker/status/2087145269020561711",
           "https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation/",
-          "https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/"
+          "https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/",
+          "https://research.checkpoint.com/2026/shattering-the-dream-when-a-job-offer-becomes-a-zero-day-attack/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3842,
+          "domain": 3853,
           "file_path": 483,
-          "ipv4": 862,
+          "ipv4": 866,
           "url": 166
         },
-        "total": 5353
+        "total": 5368
       }
     },
     "LAZYSCRIPTER": {
