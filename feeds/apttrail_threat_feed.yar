@@ -6640,7 +6640,7 @@ rule APT_LAZARUS
         $ip76 = "104.192.42.117" ascii wide
         $ip77 = "104.194.133.88" ascii wide
         $ip78 = "104.194.133.88" ascii wide
-        $ip79 = "104.194.153.144" ascii wide
+        $ip79 = "104.194.134.213" ascii wide
         $url80 = "/admin/verify\.php" ascii wide nocase
         $url81 = "/ServiceDeskPlus/products\.do" ascii wide nocase
         $url82 = "/ServiceDeskPlus/products\.do" ascii wide nocase
