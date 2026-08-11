@@ -99077,6 +99077,7 @@
           "edoc.docusraccess.mydns.bz",
           "edoc.dynu.net",
           "edoc.dynu.org",
+          "edoc.dynuddns.com",
           "edoc.dynuddns.net",
           "edoc.edocbindsvc.dynv6.net",
           "edoc.envelopecheck.webredirect.org",
@@ -102402,6 +102403,8 @@
           "internal.dynu.org",
           "internal.dynuddns.com",
           "internal.dynuddns.net",
+          "internerclist.dynu.net",
+          "internerclists.dynu.net",
           "internetcollectiveibi.click",
           "internetoff.click",
           "intra.hiperxrp.o-r.kr",
@@ -104199,6 +104202,7 @@
           "madarjan.site",
           "maeil.ml",
           "maeilbox.com",
+          "maerois.dynu.net",
           "magicdata.click",
           "magichcomactive.click",
           "magssing.click",
@@ -107946,6 +107950,8 @@
           "ncompcyberteam.store",
           "ncompcyble.store",
           "ncompgover.store",
+          "ncompost.dynu.net",
+          "ncomposts.dynu.net",
           "ncompservice.store",
           "ncompservteam.store",
           "ncomsec.store",
@@ -108548,6 +108554,7 @@
           "netimeline.site",
           "netinvoice.chposting7s.dynv6.net",
           "netinvoicedeliver.mydns.bz",
+          "netlinkinvoice.dynu.net",
           "netmails.store",
           "netmem-authcenter31s.dynv6.net",
           "netmg.info",
@@ -108892,6 +108899,7 @@
           "nhis.random.dynuddns.com",
           "nhis.random.dynuddns.net",
           "nhis.security.dynuddns.net",
+          "nhis.smart.edoc.dynuddns.com",
           "nhis.ssl.dynu.org",
           "nhis.ssl.dynuddns.com",
           "nhis.ssl.dynuddns.net",
@@ -108901,6 +108909,7 @@
           "nhis.view.dynu.org",
           "nhis.view.dynuddns.net",
           "nhis.xrp.dynuddns.net",
+          "nhis.yyuyy.com",
           "nhisabp.dynu.net",
           "nhisabp.dynu.org",
           "nhisadocs.dynu.org",
@@ -112228,6 +112237,7 @@
           "ntorg-ins24th.dynv6.net",
           "ntorg-ins25th.dynv6.net",
           "ntorg-ins81th.dynv6.net",
+          "ntorsevr.dynuddns.net",
           "ntotps.dns.army",
           "ntpayloaden.dynu.net",
           "ntpayloadens.dynu.net",
@@ -114633,6 +114643,7 @@
           "ppguystopm.click",
           "ppjht.icu",
           "ppodeliask.click",
+          "ppolesr.dynu.net",
           "ppsfzamdsndrac.n-e.kr",
           "pptisfa.click",
           "pqros2.r-e.kr",
@@ -116173,6 +116184,8 @@
           "smart-bill-korea.cyou",
           "smart.com-coffee.click",
           "smart.de-bat.click",
+          "smart.edoc.dynuddns.com",
+          "smart.nhis.yyuyy.com",
           "smartbtc.dynv6.net",
           "smartcert.store",
           "smartcost.iptime.org",
@@ -120178,7 +120191,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-08-10T11:41:02+03:00",
+        "last_modified": "2026-08-11T13:17:08+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -121813,12 +121826,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 25212,
+          "domain": 25225,
           "file_path": 295,
           "ipv4": 94,
           "url": 72
         },
-        "total": 25673
+        "total": 25686
       }
     },
     "KUN3": {
@@ -169233,6 +169246,7 @@
           "crsor.ve1.shop",
           "crsor.xyz",
           "crsorg.buzz",
+          "crsorg.crsverfy.in",
           "crsorg.gov.in.crsorg.in",
           "crsorg.gov.in.indsx.in",
           "crsorg.gov.in.veiwcertificate.mahakalwebhost.xyz",
@@ -169664,6 +169678,7 @@
           "dc.crs.org.govi.in.devgatyservice.xyz",
           "dc.crs.rituji.fun",
           "dc.crsargi-gov.info",
+          "dc.crsorg.crsverfy.in",
           "dc.crsorg.gov.in.crsorg.in",
           "dc.crsorg.gov.in.indsx.in",
           "dc.crsorg.gov.in.veiwcertificate.mahakalwebhost.xyz",
@@ -176197,7 +176212,7 @@
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-08-10T14:26:16+03:00",
+        "last_modified": "2026-08-11T13:13:17+03:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -177339,12 +177354,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 6621,
+          "domain": 6623,
           "file_path": 40,
           "ipv4": 857,
           "url": 125
         },
-        "total": 7643
+        "total": 7645
       }
     },
     "TRIANGULATION": {
