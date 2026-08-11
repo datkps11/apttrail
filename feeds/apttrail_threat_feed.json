@@ -22110,6 +22110,7 @@
           "vauxserv.top",
           "vectorindex.info",
           "venturelabo.co",
+          "verdificinity.com",
           "verify-identity-service.best",
           "verifychecking.com",
           "verisign.monster",
@@ -22503,7 +22504,7 @@
         ],
         "apt_group": "DONOT",
         "filename": "apt_donot.txt",
-        "last_modified": "2026-07-31T20:02:25+03:00",
+        "last_modified": "2026-08-11T10:20:21+03:00",
         "references": [
           "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
           "https://community.riskiq.com/article/6f60db72",
@@ -23170,12 +23171,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 758,
+          "domain": 759,
           "file_path": 260,
           "ipv4": 47,
           "url": 4
         },
-        "total": 1069
+        "total": 1070
       }
     },
     "DOWNEX": {
