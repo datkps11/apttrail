@@ -136900,6 +136900,7 @@
           "eqsnport.sa.com",
           "equalclip.mypi.co",
           "equaldigit44.mypi.co",
+          "equaldrone489.mypi.co",
           "equalfable.mypi.co",
           "equalframe.mypi.co",
           "equalgamma.mypi.co",
@@ -148571,7 +148572,7 @@
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2026-08-10T09:53:31+03:00",
+        "last_modified": "2026-08-12T10:24:17+03:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
@@ -148814,12 +148815,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 15251,
+          "domain": 15252,
           "file_path": 188,
           "ipv4": 107,
           "url": 112
         },
-        "total": 15658
+        "total": 15659
       }
     },
     "MURENSHARK": {
