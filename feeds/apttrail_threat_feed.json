@@ -179199,6 +179199,7 @@
           "9xstream.live",
           "aapanel116864.hostkey.in",
           "aapanel34768.hostkey.in",
+          "abigailcross.com",
           "abstractest-hydroski.site",
           "academytradeai.com",
           "accessbs.us",
@@ -179624,6 +179625,7 @@
           "centrises.com",
           "chain-analys.eu.com",
           "chainbork.com",
+          "chainsawmills.com",
           "chaosbloomcheck.com",
           "chargesmartuk.com",
           "chatusability.com",
@@ -180134,6 +180136,7 @@
           "inteero.org",
           "inteligente-iptv.live",
           "intellectforge.com",
+          "inter-es.it.com",
           "interviewakademiedeutschland.com",
           "interviewerbest-de.com",
           "intex360.com",
@@ -180224,6 +180227,7 @@
           "lestrangelondon.work",
           "letreton.icu",
           "letssignjapan.com",
+          "lgsh.it.com",
           "liberolavoro.com",
           "libracontrol.com",
           "lifewarehouses.com",
@@ -180583,6 +180587,7 @@
           "recover-mefile.online",
           "redlinetuning.org",
           "reelsqueen.com",
+          "referringfacts.com",
           "reflectface.com",
           "reise-mobiltechnik.com",
           "rem-cdn-server.mayisi1259.workers.dev",
@@ -181045,6 +181050,7 @@
           "update.rvvtools.com",
           "urban-play-city.site",
           "urbanindustry.org",
+          "uredema.com",
           "urovitalmagyar.com",
           "usbouldering.com",
           "usbsv.com",
@@ -181188,6 +181194,7 @@
           "zelontra.com",
           "zelovanta.com",
           "zen-iptv.live",
+          "zenafox.com",
           "zestplay.pro",
           "zolunqer.de",
           "zopanews.com",
@@ -181206,7 +181213,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-08-08T14:59:57+03:00",
+        "last_modified": "2026-08-12T11:33:31+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -181225,9 +181232,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 2035
+          "domain": 2042
         },
-        "total": 2035
+        "total": 2042
       }
     },
     "UNC2529": {

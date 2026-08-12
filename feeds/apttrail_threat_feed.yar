@@ -12607,20 +12607,20 @@ rule APT_UNC2465
         $domain33 = "9xstream\.live" ascii wide nocase
         $domain34 = "aapanel116864\.hostkey\.in" ascii wide nocase
         $domain35 = "aapanel34768\.hostkey\.in" ascii wide nocase
-        $domain36 = "abstractest-hydroski\.site" ascii wide nocase
-        $domain37 = "academytradeai\.com" ascii wide nocase
-        $domain38 = "accessbs\.us" ascii wide nocase
-        $domain39 = "accoumtsclienntsarea\.us" ascii wide nocase
-        $domain40 = "acquasicuras\.com" ascii wide nocase
-        $domain41 = "actbluecs\.com" ascii wide nocase
-        $domain42 = "actblues\.net" ascii wide nocase
-        $domain43 = "adionetjrei\.shop" ascii wide nocase
-        $domain44 = "admin\.rvtoolacs\.online" ascii wide nocase
-        $domain45 = "adrilex\.digital" ascii wide nocase
-        $domain46 = "advipscan\.com" ascii wide nocase
-        $domain47 = "advipscaner\.com" ascii wide nocase
-        $domain48 = "aexnp\.com" ascii wide nocase
-        $domain49 = "afd-esign\.info" ascii wide nocase
+        $domain36 = "abigailcross\.com" ascii wide nocase
+        $domain37 = "abstractest-hydroski\.site" ascii wide nocase
+        $domain38 = "academytradeai\.com" ascii wide nocase
+        $domain39 = "accessbs\.us" ascii wide nocase
+        $domain40 = "accoumtsclienntsarea\.us" ascii wide nocase
+        $domain41 = "acquasicuras\.com" ascii wide nocase
+        $domain42 = "actbluecs\.com" ascii wide nocase
+        $domain43 = "actblues\.net" ascii wide nocase
+        $domain44 = "adionetjrei\.shop" ascii wide nocase
+        $domain45 = "admin\.rvtoolacs\.online" ascii wide nocase
+        $domain46 = "adrilex\.digital" ascii wide nocase
+        $domain47 = "advipscan\.com" ascii wide nocase
+        $domain48 = "advipscaner\.com" ascii wide nocase
+        $domain49 = "aexnp\.com" ascii wide nocase
 
     condition:
         2 of ($domain*, $ip*, $url*)
