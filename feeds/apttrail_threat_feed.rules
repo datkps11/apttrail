@@ -5124,6 +5124,7 @@ alert ip any any -> [193.235.207.60] any (msg:"APT STRONGPITY - Traffic to Malic
 
 # ==================================================
 # APT Group: STUXNET
+# Aliases: MyRTUs
 # ==================================================
 
 # STUXNET - Domain Indicators (2 domains)

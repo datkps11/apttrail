@@ -11279,6 +11279,7 @@ rule APT_STUXNET
         description = "Detects IOCs associated with APT STUXNET"
         author = "APTtrail Automated Collection"
         apt_group = "STUXNET"
+        aliases = "MyRTUs"
         reference = "http://www.wired.com/images_blogs/threatlevel/2010/10/w32_stuxnet_dossier.pdf"
         severity = "high"
         tlp = "white"

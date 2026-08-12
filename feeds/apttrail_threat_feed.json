@@ -167244,10 +167244,12 @@
         ]
       },
       "metadata": {
-        "aliases": [],
+        "aliases": [
+          "MyRTUs"
+        ],
         "apt_group": "STUXNET",
         "filename": "apt_stuxnet.txt",
-        "last_modified": "2026-01-03T00:10:15+01:00",
+        "last_modified": "2026-08-12T18:13:38+03:00",
         "references": [
           "http://www.wired.com/images_blogs/threatlevel/2010/10/w32_stuxnet_dossier.pdf"
         ]
