@@ -168818,7 +168818,9 @@
           "aerivoro.com",
           "aeroclubofindia.co.in",
           "afgcloud7.com",
+          "afghanistanupdates.site",
           "afghannewsnetwork.com",
+          "afghantelecom.site",
           "aiabcd.xyz",
           "aiapplication.chat",
           "aidfix.help",
@@ -168886,6 +168888,8 @@
           "apostasboom.com",
           "appared.space",
           "appleblueltd.store",
+          "appstoore.duckdns.org",
+          "appstoore.solutions",
           "apsdelhicantt.in",
           "apy-game.com",
           "ar2care.live",
@@ -169121,6 +169125,7 @@
           "canasina.com",
           "cangpeitaoke.oss-cn-hangzhou.aliyuncs.com",
           "caniberic.com",
+          "caprispine.health",
           "cardenfenty.com",
           "cardgoyle.com",
           "carefix.help",
@@ -170400,6 +170405,7 @@
           "deelsayrhub.com",
           "defence-nic.3utilities.com",
           "defence-update.com",
+          "defence.cdga.site",
           "defencecyberorg.myddns.me",
           "defencedept.work",
           "defenceindia.link",
@@ -171331,6 +171337,7 @@
           "gedcare.help",
           "gederiolosted.com",
           "general-public.avth.us",
+          "generalassistence.com",
           "geo-news.tv",
           "get-kavach.in",
           "getkavach.com",
@@ -173637,6 +173644,7 @@
           "niapublication.cyou",
           "niapublications.cyou",
           "nibucu.com",
+          "nic-support.site",
           "nic-updates.in",
           "nic.in.aboutcase.nl",
           "nic.in.admin-mcas-df.ms",
@@ -173651,6 +173659,7 @@
           "nickrichmond.com",
           "nicrs.info",
           "nicrs.online",
+          "nicservice.org",
           "nicyoga.com",
           "nidenadv.com",
           "nightowlshub.org",
@@ -174456,6 +174465,7 @@
           "servicemasterrestore.pro",
           "serviceonline.gov.in.cscvle.space",
           "services.indiagstgov.org",
+          "servicesindia.services",
           "servicesmail.site",
           "servicestechsu.shop",
           "servicezanae.com",
@@ -174632,6 +174642,7 @@
           "sportyau.com",
           "springfielduniversity.info",
           "spsupport.help",
+          "srv7.zohomail.icu",
           "ssc.nic.onlinenic.in.net",
           "sscrs.site",
           "ssdesk.help",
@@ -175328,6 +175339,7 @@
           "yrwcare.help",
           "yttools.hindiper.com",
           "zahcomputers.pk.modpersonnel.support",
+          "zala-aer.info",
           "zamberleest.com",
           "zap-arenas.com",
           "zaqifa.com",
@@ -175342,6 +175354,7 @@
           "zimbrasoft.ddns.net",
           "zohidsindia.com",
           "zohmailcloud.com",
+          "zohomail.icu",
           "zolintra.com",
           "zolontra.com",
           "zomatofoods.info",
@@ -176401,11 +176414,14 @@
           "tag-140",
           "G0134",
           "deskrat",
-          "curlbackrat"
+          "curlbackrat",
+          "hackeraic2agent",
+          "patchcord",
+          "sheetcord"
         ],
         "apt_group": "TRANSPARENTTRIBE",
         "filename": "apt_transparenttribe.txt",
-        "last_modified": "2026-08-11T13:13:17+03:00",
+        "last_modified": "2026-08-13T19:15:00+03:00",
         "references": [
           "https://twitter.com/Timele9527/status/1144069969845481474",
           "https://app.any.run/tasks/69351273-5fd3-4590-a5a5-da639f86f9ec/",
@@ -177542,17 +177558,19 @@
           "https://x.com/Malwarehunterr/status/2073465217888223424",
           "https://x.com/goldenjackel12/status/2080527848432148692",
           "https://x.com/goldenjackel12/status/2080529013924389088",
-          "https://www.virustotal.com/gui/file/67bbed4c71f93013910a8443fd92f4feb025ea44e7eba47e2f7afe84e3e8e830/detection"
+          "https://www.virustotal.com/gui/file/67bbed4c71f93013910a8443fd92f4feb025ea44e7eba47e2f7afe84e3e8e830/detection",
+          "https://x.com/ElementalX2/status/2087894249652252818",
+          "https://www.acronis.com/en/tru/posts/patchcord-new-malware-cluster-targets-afghan-telecom-and-south-asian-critical-infrastructure/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 6623,
+          "domain": 6636,
           "file_path": 40,
           "ipv4": 857,
           "url": 125
         },
-        "total": 7645
+        "total": 7658
       }
     },
     "TRIANGULATION": {
