@@ -144438,6 +144438,7 @@
           "sharptruck.mypi.co",
           "sharpupdata.mypi.co",
           "sharpupship.mypi.co",
+          "sharpview.mypi.co",
           "sharpwarzone573.mypi.co",
           "sharpweb.mypi.co",
           "sharpwound182.mypi.co",
@@ -148572,7 +148573,7 @@
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2026-08-12T10:24:17+03:00",
+        "last_modified": "2026-08-13T10:30:12+03:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
@@ -148815,12 +148816,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 15252,
+          "domain": 15253,
           "file_path": 188,
           "ipv4": 107,
           "url": 112
         },
-        "total": 15659
+        "total": 15660
       }
     },
     "MURENSHARK": {
