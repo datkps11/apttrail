@@ -180067,6 +180067,7 @@
           "entretenimientoplay.net",
           "eporezna.info",
           "eporezna.world",
+          "epunts.com",
           "equipmentohio.com",
           "esanewablogo.com",
           "estnews-ro.com",
@@ -181276,6 +181277,8 @@
           "vmoneenterprise.app",
           "vmrentertrise.com",
           "vmsbackup.com",
+          "vmtooles.com",
+          "vmtoolses.com",
           "vmw.enterprises",
           "vmware-programs.com",
           "vmware-remote-console.com",
@@ -181394,7 +181397,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-08-13T12:13:37+03:00",
+        "last_modified": "2026-08-14T15:50:58+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -181413,9 +181416,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 2049
+          "domain": 2052
         },
-        "total": 2049
+        "total": 2052
       }
     },
     "UNC2529": {
