@@ -159079,6 +159079,7 @@
           "1d06bfb2.scan.update.fia-gov.org",
           "203-124351878443.hopto.org",
           "234rewr44dfs34sdf43454353fd4ffg345rr4.netlify.app",
+          "23873f12-1c4d-40b4-a5b4-60277cca546f.us-east-1.cloud.genez.io",
           "24170-40494.bacloud.info",
           "2672ewr5403894534fgdgfd5907e44fdfgdfg67088gdfgfd90e2cbd8b6.pages.dev",
           "2aeb306b-4c5f-4cc6-a7a2-6fcd96612b9d.us-east-1.cloud.genez.io",
@@ -159194,6 +159195,7 @@
           "andc.govaf.org",
           "anefank.mom",
           "ankara-mofa-gov-bd.fia-g0v.net",
+          "annual-report-cxvmvn-sdfswe-sjdfasdf.zeabur.app",
           "antarticarevolution.sbs",
           "aop.gov-af.org",
           "ap-ms.net",
@@ -159350,6 +159352,7 @@
           "bdmil.alit.live",
           "bdnavy.download-msoffice.com",
           "bdnews.info",
+          "bdpoliceegovt.vercel.app",
           "beaxor.xyz",
           "behr.ppinewsagency.live",
           "bentec.tech",
@@ -161463,6 +161466,7 @@
           "nanfung.servehttp.com",
           "narda-moi.cdn-dl.cn",
           "nastp-govpk.com",
+          "national-bicycle-program.zeabur.app",
           "nationalhelpdesk.pk",
           "nationpk.org",
           "navy-govbd.servehttp.com",
@@ -161626,6 +161630,7 @@
           "ntc.net.pk.bismi.pro",
           "ntc.net.pk.hilsa.online",
           "ntc.pkgov.org",
+          "ntccc.vercel.app",
           "ntcmail.gov-pk.online",
           "ntcpak.live",
           "ntcpak.org",
@@ -162856,7 +162861,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-08-09T18:24:27+03:00",
+        "last_modified": "2026-08-14T23:23:29+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -163964,17 +163969,18 @@
           "https://www.virustotal.com/gui/file/3b9432019a80a62fe6760a65f2677783bd60383b60206a5db7237a1b050647a2/detection",
           "https://www.virustotal.com/gui/file/6b85e9c7dd33416a096e377303d82ac49c8c3044f969ff72560409a3f1151cfb/detection",
           "https://x.com/volrant136/status/2086469312362291330",
-          "https://www.virustotal.com/gui/ip-address/181.215.18.89/relations"
+          "https://www.virustotal.com/gui/ip-address/181.215.18.89/relations",
+          "https://x.com/volrant136/status/2088263292804596108"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3678,
+          "domain": 3683,
           "file_path": 16,
           "ipv4": 51,
           "url": 29
         },
-        "total": 3774
+        "total": 3779
       }
     },
     "SILENCE": {
