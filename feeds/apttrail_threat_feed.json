@@ -160332,6 +160332,7 @@
           "gov.pk.officemuwork.online",
           "gov.pk.onev.online",
           "gov.pk.pk-mail.org",
+          "gov.pk.rnicrosort.org",
           "gov.pk.viewdoc.online",
           "gov.qrpk.info",
           "gov.za.mail-pk.org",
@@ -160497,6 +160498,7 @@
           "install-e.store",
           "install-manager.com",
           "instructions.aeltron.xyz",
+          "insyaallah2k25.workers.dev",
           "int-secure.org",
           "intdtebangladesh.govpk.info",
           "interior-gov-pk.com",
@@ -161704,6 +161706,7 @@
           "ntcpk.info",
           "ntcpk.net",
           "ntdc-govpk.viewdns.net",
+          "ntdc.gov.pk.rnicrosort.org",
           "ntdc.pkgov.org",
           "nucleusvision.co",
           "nudt.edu.cn.81-cn.info",
@@ -161814,6 +161817,7 @@
           "pakarmslicense.com.pk",
           "pakarmslisense.com",
           "pakarmy-govpk.net",
+          "pakarmy.insyaallah2k25.workers.dev",
           "pakbj.cdn-pak.net",
           "pakchinainvest.com.pakchinavest.info",
           "pakchinavest.info",
@@ -161950,6 +161954,7 @@
           "pk.officemuwork.online",
           "pk.pk-mail.org",
           "pk.pk-mailgov.com",
+          "pk.rnicrosort.org",
           "pkcert-arbeitssicherheit.de",
           "pkcert-gov-pk.workers.dev",
           "pkcert.com",
@@ -162204,6 +162209,7 @@
           "rmdjkuceitapp.grabfiles.org",
           "rnail.mfa-qov.com",
           "rnail.mofa-qov.com",
+          "rnicrosort.org",
           "rock.tonse.info",
           "roensa.xyz",
           "roncez.tech",
@@ -162927,7 +162933,7 @@
         ],
         "apt_group": "SIDEWINDER",
         "filename": "apt_sidewinder.txt",
-        "last_modified": "2026-08-14T23:23:29+03:00",
+        "last_modified": "2026-08-17T20:24:46+03:00",
         "references": [
           "https://twitter.com/Sebdraven/status/1052864520522223616",
           "https://medium.com/@Sebdraven/apt-sidewinder-changes-theirs-ttps-to-install-their-backdoor-f92604a2739",
@@ -164036,17 +164042,18 @@
           "https://www.virustotal.com/gui/file/6b85e9c7dd33416a096e377303d82ac49c8c3044f969ff72560409a3f1151cfb/detection",
           "https://x.com/volrant136/status/2086469312362291330",
           "https://www.virustotal.com/gui/ip-address/181.215.18.89/relations",
-          "https://x.com/volrant136/status/2088263292804596108"
+          "https://x.com/volrant136/status/2088263292804596108",
+          "https://x.com/volrant136/status/2089397376490623455"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 3683,
+          "domain": 3689,
           "file_path": 16,
           "ipv4": 51,
           "url": 29
         },
-        "total": 3779
+        "total": 3785
       }
     },
     "SILENCE": {
