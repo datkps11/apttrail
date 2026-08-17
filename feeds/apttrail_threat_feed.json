@@ -119822,6 +119822,7 @@
           "zxcdsav.cc",
           "zxchgbiureruhvid.cfd",
           "zxcop.store",
+          "zxcvherfgh.scienceontheweb.net",
           "zxfyx.top",
           "zxxz0k.fdf51nswgh.dns.navy",
           "zxzc.edoc.ips-bang.dynv6.net",
@@ -120350,7 +120351,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-08-17T13:38:13+03:00",
+        "last_modified": "2026-08-17T21:40:16+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -121980,17 +121981,20 @@
           "https://www.virustotal.com/gui/file/f9ebb2e9fc119f73898c361b13ca5494a18b3242929bc2ceb8e7ed344b947a07/detection",
           "https://www.enki.co.kr/media-center/blog/analysis-of-kimsuky-s-attack-on-a-south-korean-groupware-vendor-using-a-new-gomir-family-variant",
           "https://asec.ahnlab.com/en/94552/",
-          "https://x.com/cyberwar_15/status/2086442417197318279"
+          "https://x.com/cyberwar_15/status/2086442417197318279",
+          "https://x.com/byrne_emmy12099/status/2089332413138899116",
+          "https://www.virustotal.com/gui/file/019060445d715d74567c56a7bead4cce908cd324ca0f5efbcd783d88641c5a48/detection",
+          "https://www.virustotal.com/gui/file/d9d0c646819c6a68bb050dd29f327d953ec064e82b13c4f71e726cf559d35d04/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 25385,
+          "domain": 25386,
           "file_path": 295,
           "ipv4": 94,
           "url": 72
         },
-        "total": 25846
+        "total": 25847
       }
     },
     "KUN3": {
