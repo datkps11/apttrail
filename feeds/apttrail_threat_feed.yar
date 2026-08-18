@@ -6464,14 +6464,14 @@ rule APT_KIMSUKY
         $ip69 = "121.183.134.113" ascii wide
         $ip70 = "121.183.134.113" ascii wide
         $ip71 = "121.66.72.110" ascii wide
-        $ip72 = "123.58.200.110" ascii wide
-        $ip73 = "125.118.95.227" ascii wide
-        $ip74 = "125.136.67.99" ascii wide
-        $ip75 = "138.197.235.123" ascii wide
-        $ip76 = "138.68.112.220" ascii wide
-        $ip77 = "139.208.63.224" ascii wide
-        $ip78 = "141.164.41.17" ascii wide
-        $ip79 = "152.32.138.120" ascii wide
+        $ip72 = "122.10.117.3" ascii wide
+        $ip73 = "123.58.200.110" ascii wide
+        $ip74 = "125.118.95.227" ascii wide
+        $ip75 = "125.136.67.99" ascii wide
+        $ip76 = "138.197.235.123" ascii wide
+        $ip77 = "138.68.112.220" ascii wide
+        $ip78 = "139.208.63.224" ascii wide
+        $ip79 = "141.164.41.17" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)

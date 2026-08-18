@@ -101938,6 +101938,7 @@
           "hworks.o-r.kr",
           "hwp.publish.kro.kr",
           "hwquo.v6.navy",
+          "hxmail.pw",
           "hxxp-naver.wetax-pay.online",
           "hxxp-out.wetax-notice.site",
           "hxxp-out.wetax-pay.online",
@@ -102974,6 +102975,7 @@
           "jpstgmhse.top",
           "jpstmnb.xyz",
           "jptower.dns.army",
+          "jpword.cc",
           "jquerylabs.zone",
           "jquerystack.zone",
           "jquerystacks.info",
@@ -115636,6 +115638,7 @@
           "rule84s.dynv6.net",
           "rule95s.dynv6.net",
           "rule9s.dynv6.net",
+          "rumail.cc",
           "runauiso.site",
           "runeventc.click",
           "ruoknvcxsd.cc",
@@ -118422,6 +118425,7 @@
           "vionera1.o-r.kr",
           "vionn.asuscomm.com",
           "vipchina.pe.kr",
+          "vipmail.uno",
           "vipsdoc.dynu.net",
           "vipsdocs.dns.army",
           "vipsdocs.dynu.org",
@@ -119124,6 +119128,7 @@
           "wooritg.o-r.kr",
           "wordorg30dnckson.website",
           "wordpress1s.xyz",
+          "wordtax.ink",
           "woribanker.r-e.kr",
           "woridocumun.site",
           "worilde.click",
@@ -120177,6 +120182,7 @@
           "121.183.134.113:7000",
           "121.183.134.113:8080",
           "121.66.72.110:8000",
+          "122.10.117.3:8383",
           "123.58.200.110:8899",
           "125.118.95.227:8899",
           "125.136.67.99:9999",
@@ -120351,7 +120357,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-08-17T21:40:16+03:00",
+        "last_modified": "2026-08-18T15:07:30+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -121984,17 +121990,19 @@
           "https://x.com/cyberwar_15/status/2086442417197318279",
           "https://x.com/byrne_emmy12099/status/2089332413138899116",
           "https://www.virustotal.com/gui/file/019060445d715d74567c56a7bead4cce908cd324ca0f5efbcd783d88641c5a48/detection",
-          "https://www.virustotal.com/gui/file/d9d0c646819c6a68bb050dd29f327d953ec064e82b13c4f71e726cf559d35d04/detection"
+          "https://www.virustotal.com/gui/file/d9d0c646819c6a68bb050dd29f327d953ec064e82b13c4f71e726cf559d35d04/detection",
+          "https://x.com/bomccss/status/2089549529335140762",
+          "https://www.virustotal.com/gui/file/57fdfaed28cd75ae435133bf0534c79417a9aedd392553889e4947942b4cb784/detection"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 25386,
+          "domain": 25391,
           "file_path": 295,
-          "ipv4": 94,
+          "ipv4": 95,
           "url": 72
         },
-        "total": 25847
+        "total": 25853
       }
     },
     "KUN3": {
