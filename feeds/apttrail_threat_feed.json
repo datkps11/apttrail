@@ -194334,6 +194334,7 @@
           "103.117.120.129:33360",
           "103.117.120.181:33360",
           "103.117.120.182:33360",
+          "103.170.154.120:443",
           "103.233.11.162:8001",
           "103.97.128.53:37",
           "104.248.153.204:443",
@@ -194546,7 +194547,7 @@
         "aliases": [],
         "apt_group": "UNCLASSIFIED",
         "filename": "apt_unclassified.txt",
-        "last_modified": "2026-07-20T20:46:11+03:00",
+        "last_modified": "2026-08-18T12:58:09+03:00",
         "references": [
           "https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/",
           "https://github.com/advanced-threat-research/IOCs/blob/master/2018/2018-01-06-malicious-document-targets-pyeongchang-olympics/malicious-document-targets-pyeongchang-olympics.csv",
@@ -195025,17 +195026,19 @@
           "https://www.virustotal.com/gui/file/e9daa34a227fda5da11c250796465bb8081f2913fb6ff4c28cfc49992e762da5/detection",
           "https://x.com/malwrhunterteam/status/2079157644611223810",
           "https://www.virustotal.com/gui/file/566cc087706f3d3a0e49b9a1d9c8e27090211d80a069162de2e5e8a5b8847414/detection",
-          "https://www.virustotal.com/gui/file/6d0573a78716d51a5fa5282d99a9568e1d515f5c16b9b86a3f3536c1f2622c50/detection"
+          "https://www.virustotal.com/gui/file/6d0573a78716d51a5fa5282d99a9568e1d515f5c16b9b86a3f3536c1f2622c50/detection",
+          "https://x.com/nextronresearch/status/2089608233728053706",
+          "https://www.virustotal.com/gui/file/d14d4bc85313b7e06535197bed53c5e8dce7da5922791c9ff36183e2bca0fad7/detection"
         ]
       },
       "statistics": {
         "by_type": {
           "domain": 1240,
           "file_path": 77,
-          "ipv4": 144,
+          "ipv4": 145,
           "url": 63
         },
-        "total": 1524
+        "total": 1525
       }
     },
     "USH": {
