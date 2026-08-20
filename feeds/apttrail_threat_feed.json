@@ -9965,6 +9965,7 @@
           "huspot.blog",
           "hwsrv-1225327.hostwindsdns.com",
           "hwsrv-1320779.hostwindsdns.com",
+          "hwsrv-798836.hostwindsdns.com",
           "i06sn.co",
           "image-support.xyz",
           "imp-docs.digital",
@@ -11474,6 +11475,13 @@
           "23.254.164.92:443",
           "23.254.164.92:8000",
           "23.254.164.92:9000",
+          "23.254.165.112:443",
+          "23.254.165.112:9089",
+          "23.254.167.107:3333",
+          "23.254.167.107:443",
+          "23.254.167.107:8080",
+          "23.254.167.107:8181",
+          "23.254.167.107:8888",
           "23.254.167.13:443",
           "23.254.167.216:8000",
           "23.254.202.223:8080",
@@ -11520,7 +11528,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-08-20T21:37:41+03:00",
+        "last_modified": "2026-08-20T21:48:17+03:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -11695,17 +11703,24 @@
           "https://www.virustotal.com/gui/ip-address/142.11.206.73/relations",
           "https://www.virustotal.com/gui/file/e10b1fa84f1d6481625f741b69892780140d4e0e7769e7491e5f4d894c2e0e09/detection",
           "https://www.virustotal.com/gui/file/f7d335205b8d7b20208fb3ef93ee6dc817905dc3ae0c10a0b164f4e7d07121cd/detection",
+          "https://x.com/nextronresearch/status/2090360765156818965",
+          "https://x.com/ramimacisabird/status/2090470933844611113",
+          "https://x.com/L0Psec/status/2090495990809682205",
+          "https://gist.github.com/marius-benthin/273aa302ac9fb36e1c309a9479c5a8cf",
+          "https://www.wiz.io/blog/rust-supply-chain-attack-on-arrayref-significant-overlap-with-dprk-campaigns",
+          "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+          "https://www.virustotal.com/gui/file/61198155da51b838772eecf5bfaac6cbc4dcc388dccc56658fc28a8e831b34d4/detection",
           "https://www.jumpsec.com/guides/inside-a-dprk-bluenoroff-clickfix-kit/"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 2048,
+          "domain": 2049,
           "file_path": 1,
-          "ipv4": 44,
+          "ipv4": 51,
           "url": 6
         },
-        "total": 2099
+        "total": 2107
       }
     },
     "BLUEPRINT": {

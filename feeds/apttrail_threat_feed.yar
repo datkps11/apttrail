@@ -1763,12 +1763,12 @@ rule APT_BLUENOROFF
         $ip71 = "23.254.164.92" ascii wide
         $ip72 = "23.254.164.92" ascii wide
         $ip73 = "23.254.164.92" ascii wide
-        $ip74 = "23.254.167.13" ascii wide
-        $ip75 = "23.254.167.216" ascii wide
-        $ip76 = "23.254.202.223" ascii wide
-        $ip77 = "23.254.203.244" ascii wide
-        $ip78 = "23.254.203.244" ascii wide
-        $ip79 = "38.110.228.52" ascii wide
+        $ip74 = "23.254.165.112" ascii wide
+        $ip75 = "23.254.165.112" ascii wide
+        $ip76 = "23.254.167.107" ascii wide
+        $ip77 = "23.254.167.107" ascii wide
+        $ip78 = "23.254.167.107" ascii wide
+        $ip79 = "23.254.167.107" ascii wide
 
     condition:
         2 of ($domain*, $ip*, $url*)
