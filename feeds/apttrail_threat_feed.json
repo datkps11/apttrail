@@ -10616,6 +10616,7 @@
           "teamsync.live",
           "techevent.us",
           "techopscentral.com",
+          "techqes.com",
           "teemsliivc.com",
           "teemslive.com",
           "teemslivo.com",
@@ -11473,6 +11474,7 @@
           "23.254.164.92:443",
           "23.254.164.92:8000",
           "23.254.164.92:9000",
+          "23.254.167.13:443",
           "23.254.167.216:8000",
           "23.254.202.223:8080",
           "23.254.203.244:8000",
@@ -11518,7 +11520,7 @@
         ],
         "apt_group": "BLUENOROFF",
         "filename": "apt_bluenoroff.txt",
-        "last_modified": "2026-07-25T16:23:55+03:00",
+        "last_modified": "2026-08-20T21:37:41+03:00",
         "references": [
           "https://twitter.com/e_kaspersky/status/1481665686351106053",
           "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
@@ -11698,12 +11700,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 2047,
+          "domain": 2048,
           "file_path": 1,
-          "ipv4": 43,
+          "ipv4": 44,
           "url": 6
         },
-        "total": 2097
+        "total": 2099
       }
     },
     "BLUEPRINT": {
