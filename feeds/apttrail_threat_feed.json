@@ -137553,6 +137553,7 @@
           "elitetheme.mypi.co",
           "elitetrade751.mypi.co",
           "eliteworld.mypi.co",
+          "eliteyawviper.mypi.co",
           "elixiric.shop",
           "elmartinez.ru.com",
           "elmartinez.za.com",
@@ -151611,7 +151612,7 @@
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2026-08-21T18:20:37+03:00",
+        "last_modified": "2026-08-21T20:19:33+03:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
@@ -151854,12 +151855,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 17983,
+          "domain": 17984,
           "file_path": 191,
           "ipv4": 107,
           "url": 112
         },
-        "total": 18393
+        "total": 18394
       }
     },
     "MURENSHARK": {
