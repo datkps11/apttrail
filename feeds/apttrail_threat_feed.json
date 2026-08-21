@@ -117028,6 +117028,7 @@
           "swat-check.ezgateway.net",
           "swatpolicy.dns.army",
           "swatsupported.dns.army",
+          "sweet-iki-4263.holy.jp",
           "swenfdovin.shop",
           "swiftinfolive.today",
           "swolfserveroncony.cfd",
@@ -120339,6 +120340,7 @@
           "206.206.127.152:9002",
           "206.206.127.152:9027",
           "209.127.37.40:52390",
+          "210.183.177.217:8080",
           "216.107.137.73:6516",
           "216.189.159.34:443",
           "216.219.87.41:3389",
@@ -120387,8 +120389,10 @@
           "http://103.130.212.116",
           "http://103.149.98.230",
           "http://103.149.98.247",
+          "http://103.249.117.183",
           "http://103.67.196.25",
           "http://103.76.228.204",
+          "http://103.77.242.187",
           "http://104.36.229.179",
           "http://109.107.157.107",
           "http://118.194.248.246",
@@ -120406,6 +120410,7 @@
           "http://158.247.242.166",
           "http://158.247.247.157",
           "http://158.247.252.100",
+          "http://160.187.147.119",
           "http://165.154.230.24",
           "http://166.88.11.10",
           "http://167.88.165.122",
@@ -120452,6 +120457,7 @@
           "http://43.201.69.58",
           "http://67.217.62.222",
           "http://72.14.155.62",
+          "http://84.247.145.65",
           "http://91.228.218.7",
           "http://92.119.114.128",
           "http://94.138.192.147"
@@ -120483,7 +120489,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-08-21T14:55:04+03:00",
+        "last_modified": "2026-08-21T16:10:47+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -122119,17 +122125,18 @@
           "https://www.virustotal.com/gui/file/d9d0c646819c6a68bb050dd29f327d953ec064e82b13c4f71e726cf559d35d04/detection",
           "https://x.com/bomccss/status/2089549529335140762",
           "https://www.virustotal.com/gui/file/57fdfaed28cd75ae435133bf0534c79417a9aedd392553889e4947942b4cb784/detection",
-          "https://x.com/v0lundr_/status/2090055959888511131"
+          "https://x.com/v0lundr_/status/2090055959888511131",
+          "https://www.enki.co.kr/en/media-center/blog/inside-kimsuky-s-abuse-of-legitimate-remote-control-tools-across-northeast-asia"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 25500,
+          "domain": 25501,
           "file_path": 295,
-          "ipv4": 95,
-          "url": 72
+          "ipv4": 96,
+          "url": 76
         },
-        "total": 25962
+        "total": 25968
       }
     },
     "KUN3": {
