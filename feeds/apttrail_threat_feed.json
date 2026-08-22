@@ -111801,6 +111801,7 @@
           "npsauth.site",
           "npscare.site",
           "npschec.dynu.net",
+          "npscluy.dynu.org",
           "npscmd.site",
           "npscoert.dynu.org",
           "npscom.site",
@@ -120521,7 +120522,7 @@
         ],
         "apt_group": "KIMSUKY",
         "filename": "apt_kimsuky.txt",
-        "last_modified": "2026-08-23T00:01:36+03:00",
+        "last_modified": "2026-08-23T00:23:40+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/5c93c4e48312d159728a9d78",
           "https://blog.alyac.co.kr/2209 (Korean)",
@@ -122163,12 +122164,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 25533,
+          "domain": 25534,
           "file_path": 295,
           "ipv4": 96,
           "url": 76
         },
-        "total": 26000
+        "total": 26001
       }
     },
     "KUN3": {
