@@ -188065,8 +188065,13 @@
       "indicators": {
         "domain": [
           "93-127-160-28.cprapid.com",
+          "anticorruption.eurcpa.org",
           "brightwave.top",
           "cedarvalley.top",
+          "drive.google.anticorruption.eurcpa.org",
+          "drive.google.sharedfolders.app",
+          "drive.google.sharedfolders.org",
+          "drive.google.sharefolders.org",
           "drive.google.verify-drive.com",
           "ftp.brightwave.top",
           "ftp.cedarvalley.top",
@@ -188075,6 +188080,10 @@
           "ftp.silvercreek.top",
           "ftp.starlingbay.top",
           "ftp.willowgrove.top",
+          "google.anticorruption.eurcpa.org",
+          "google.sharedfolders.app",
+          "google.sharedfolders.org",
+          "google.sharefolders.org",
           "google.verify-drive.com",
           "kiis.co.uk",
           "mail.brightwave.top",
@@ -188089,6 +188098,9 @@
           "ns1.plumoapps.top",
           "ns2.plumoapps.top",
           "plumoapps.top",
+          "sharedfolders.app",
+          "sharedfolders.org",
+          "sharefolders.org",
           "silvercreek.top",
           "starlingbay.top",
           "verify-drive.com",
@@ -188099,16 +188111,16 @@
         "aliases": [],
         "apt_group": "UNC5976",
         "filename": "apt_unc5976.txt",
-        "last_modified": "2026-08-23T22:56:12+03:00",
+        "last_modified": "2026-08-23T23:46:00+03:00",
         "references": [
           "https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-target-individuals-of-interest-to-russia"
         ]
       },
       "statistics": {
         "by_type": {
-          "domain": 29
+          "domain": 41
         },
-        "total": 29
+        "total": 41
       }
     },
     "UNC6293": {
