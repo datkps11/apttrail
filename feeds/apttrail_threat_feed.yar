@@ -13633,6 +13633,51 @@ rule APT_UNC5952
         2 of ($domain*, $ip*, $url*)
 }
 
+rule APT_UNC5976
+{
+    meta:
+        description = "Detects IOCs associated with APT UNC5976"
+        author = "APTtrail Automated Collection"
+        apt_group = "UNC5976"
+        reference = "https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-target-individuals-of-interest-to-russia"
+        severity = "high"
+        tlp = "white"
+
+    strings:
+        $domain0 = "93-127-160-28\.cprapid\.com" ascii wide nocase
+        $domain1 = "brightwave\.top" ascii wide nocase
+        $domain2 = "cedarvalley\.top" ascii wide nocase
+        $domain3 = "drive\.google\.verify-drive\.com" ascii wide nocase
+        $domain4 = "ftp\.brightwave\.top" ascii wide nocase
+        $domain5 = "ftp\.cedarvalley\.top" ascii wide nocase
+        $domain6 = "ftp\.moonharbor\.top" ascii wide nocase
+        $domain7 = "ftp\.plumoapps\.top" ascii wide nocase
+        $domain8 = "ftp\.silvercreek\.top" ascii wide nocase
+        $domain9 = "ftp\.starlingbay\.top" ascii wide nocase
+        $domain10 = "ftp\.willowgrove\.top" ascii wide nocase
+        $domain11 = "google\.verify-drive\.com" ascii wide nocase
+        $domain12 = "kiis\.co\.uk" ascii wide nocase
+        $domain13 = "mail\.brightwave\.top" ascii wide nocase
+        $domain14 = "mail\.cedarvalley\.top" ascii wide nocase
+        $domain15 = "mail\.kiis\.co\.uk" ascii wide nocase
+        $domain16 = "mail\.moonharbor\.top" ascii wide nocase
+        $domain17 = "mail\.plumoapps\.top" ascii wide nocase
+        $domain18 = "mail\.silvercreek\.top" ascii wide nocase
+        $domain19 = "mail\.starlingbay\.top" ascii wide nocase
+        $domain20 = "mail\.willowgrove\.top" ascii wide nocase
+        $domain21 = "moonharbor\.top" ascii wide nocase
+        $domain22 = "ns1\.plumoapps\.top" ascii wide nocase
+        $domain23 = "ns2\.plumoapps\.top" ascii wide nocase
+        $domain24 = "plumoapps\.top" ascii wide nocase
+        $domain25 = "silvercreek\.top" ascii wide nocase
+        $domain26 = "starlingbay\.top" ascii wide nocase
+        $domain27 = "verify-drive\.com" ascii wide nocase
+        $domain28 = "willowgrove\.top" ascii wide nocase
+
+    condition:
+        2 of ($domain*, $ip*, $url*)
+}
+
 rule APT_UNC6293
 {
     meta:

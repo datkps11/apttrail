@@ -188061,6 +188061,56 @@
         "total": 141
       }
     },
+    "UNC5976": {
+      "indicators": {
+        "domain": [
+          "93-127-160-28.cprapid.com",
+          "brightwave.top",
+          "cedarvalley.top",
+          "drive.google.verify-drive.com",
+          "ftp.brightwave.top",
+          "ftp.cedarvalley.top",
+          "ftp.moonharbor.top",
+          "ftp.plumoapps.top",
+          "ftp.silvercreek.top",
+          "ftp.starlingbay.top",
+          "ftp.willowgrove.top",
+          "google.verify-drive.com",
+          "kiis.co.uk",
+          "mail.brightwave.top",
+          "mail.cedarvalley.top",
+          "mail.kiis.co.uk",
+          "mail.moonharbor.top",
+          "mail.plumoapps.top",
+          "mail.silvercreek.top",
+          "mail.starlingbay.top",
+          "mail.willowgrove.top",
+          "moonharbor.top",
+          "ns1.plumoapps.top",
+          "ns2.plumoapps.top",
+          "plumoapps.top",
+          "silvercreek.top",
+          "starlingbay.top",
+          "verify-drive.com",
+          "willowgrove.top"
+        ]
+      },
+      "metadata": {
+        "aliases": [],
+        "apt_group": "UNC5976",
+        "filename": "apt_unc5976.txt",
+        "last_modified": "2026-08-23T22:56:12+03:00",
+        "references": [
+          "https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-target-individuals-of-interest-to-russia"
+        ]
+      },
+      "statistics": {
+        "by_type": {
+          "domain": 29
+        },
+        "total": 29
+      }
+    },
     "UNC6293": {
       "indicators": {
         "domain": [
@@ -201230,5 +201280,5 @@
     }
   },
   "source": "Maltrail APT Indicators",
-  "total_apt_groups": 340
+  "total_apt_groups": 341
 }
