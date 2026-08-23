@@ -23362,6 +23362,7 @@
           "amazonmeeting.cloud",
           "amazonsolutions.cloud",
           "americanprogress.cloud",
+          "antac.org",
           "ap-northeast-1-aws.s3-ua.cloud",
           "ap-northeast-1-aws.ukrainesec.cloud",
           "aspeninstitute.cloud",
@@ -23398,6 +23399,7 @@
           "bakenhof.com",
           "bandabonga.fr",
           "barracuda.solutions",
+          "baselgovernance.com",
           "beijingnewsblog.net",
           "bravecup.com",
           "bringthenoiseappnew.s3.amazonaws.com",
@@ -23426,6 +23428,7 @@
           "ceycarb.com",
           "cfr-aws.cloud",
           "chamber-ua.org",
+          "chathamhouse.eu",
           "citoc.cloud",
           "clari.cloud",
           "clearancejobs.cloud",
@@ -23906,6 +23909,7 @@
           "mx.ophibre.com",
           "my-gov.cloud",
           "my-invite.org",
+          "mygreatmarket.org",
           "myrric-uses.singlejets.com",
           "mzd-gov.cloud",
           "mze-gov.cloud",
@@ -24033,6 +24037,7 @@
           "symbolsecurity.cloud",
           "tk-ms.online",
           "trentry-ms.online",
+          "trident-solutions.org",
           "trustifi.cloud",
           "ua-aws.army",
           "ua-energy.cloud",
@@ -24042,6 +24047,7 @@
           "ua-sec.cloud",
           "ua-sn.cloud",
           "ukrainesec.cloud",
+          "ukrinform-share.net",
           "ukrtelcom.com",
           "ukrtelecom.cloud",
           "ukrtelecom.eu",
@@ -24261,7 +24267,7 @@
         ],
         "apt_group": "DUKE",
         "filename": "apt_duke.txt",
-        "last_modified": "2026-08-23T22:04:00+03:00",
+        "last_modified": "2026-08-24T01:42:40+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/55fae83567db8c6fb3518bcd/",
           "https://www.f-secure.com/documents/996508/1030745/dukes_whitepaper.pdf",
@@ -24362,12 +24368,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 762,
+          "domain": 768,
           "file_path": 24,
           "ipv4": 23,
           "url": 71
         },
-        "total": 880
+        "total": 886
       }
     },
     "DUNEQUIXOTE": {
