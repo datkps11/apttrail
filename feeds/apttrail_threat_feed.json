@@ -23795,6 +23795,7 @@
           "kmu.govua.cloud",
           "learn-ms.online",
           "leveldelta.com",
+          "licenseserver.ir",
           "lordfilm-ms.online",
           "loreaosvault.cloud",
           "lorriratzlaff.com",
@@ -24039,6 +24040,7 @@
           "trentry-ms.online",
           "trident-solutions.org",
           "trustifi.cloud",
+          "tun.licenseserver.ir",
           "ua-aws.army",
           "ua-energy.cloud",
           "ua-gov.cloud",
@@ -24097,6 +24099,7 @@
           "wa-connect.eu",
           "wa-connect.net",
           "wa-device.com",
+          "wa-device.net",
           "wa-invite.com",
           "wa-meeting.com",
           "webdox-aws.online",
@@ -24267,7 +24270,7 @@
         ],
         "apt_group": "DUKE",
         "filename": "apt_duke.txt",
-        "last_modified": "2026-08-24T01:42:40+03:00",
+        "last_modified": "2026-08-24T12:09:21+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/55fae83567db8c6fb3518bcd/",
           "https://www.f-secure.com/documents/996508/1030745/dukes_whitepaper.pdf",
@@ -24368,12 +24371,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 768,
+          "domain": 771,
           "file_path": 24,
           "ipv4": 23,
           "url": 71
         },
-        "total": 886
+        "total": 889
       }
     },
     "DUNEQUIXOTE": {
@@ -151470,7 +151473,6 @@
           "vornyx.digital",
           "vornyx.world",
           "voronoihub.digital",
-          "vorp.online",
           "vorpluxian.cloud",
           "vorpluxian.fun",
           "vorpluxian.site",
@@ -153372,7 +153374,7 @@
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2026-08-23T15:14:21+03:00",
+        "last_modified": "2026-08-24T11:54:16+03:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
@@ -153615,12 +153617,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 19673,
+          "domain": 19672,
           "file_path": 190,
           "ipv4": 107,
           "url": 112
         },
-        "total": 20082
+        "total": 20081
       }
     },
     "MURENSHARK": {
@@ -197231,7 +197233,6 @@
           "ciokq.tyhls.cn",
           "ck8ak0qysf28z-28hkkjj.lol",
           "clqic.tyhls.cn",
-          "com.cn",
           "com.hongfutai.cn",
           "com.n2207.cn",
           "com.yaofanli.cn",
@@ -197299,7 +197300,7 @@
           "felix-rbb.pages.dev",
           "flictok.lol",
           "flypfc.cn",
-          "fmzp.com",
+          "fmzp.com.cn",
           "foru.0291.top",
           "forum.b2845.cn",
           "forum.zhangyx.cn",
@@ -197758,7 +197759,7 @@
           "tclife.com",
           "tdbvqepmg.workers.dev",
           "tea.buska.workers.dev",
-          "techship.com",
+          "techship.com.cn",
           "telegranam.com",
           "telesur.softether.net",
           "tenderzelgamal.workers.dev",
@@ -197993,7 +197994,7 @@
         "aliases": [],
         "apt_group": "UNC6691-1",
         "filename": "apt_unc6691-1.txt",
-        "last_modified": "2026-08-23T21:33:39+03:00",
+        "last_modified": "2026-08-24T11:51:50+03:00",
         "references": [
           "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit",
           "https://iverify.io/blog/coruna-inside-the-nation-state-grade-ios-exploit-kit-we-ve-been-tracking"
@@ -198001,9 +198002,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 1137
+          "domain": 1136
         },
-        "total": 1137
+        "total": 1136
       }
     },
     "UNC6692": {
