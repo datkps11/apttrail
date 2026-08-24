@@ -23791,6 +23791,7 @@
           "justice.technology",
           "kam-lt.cloud",
           "kegas.id",
+          "kei389fjekjf92j3j3.duckdns.org",
           "kitaeri.com",
           "kmu.govua.cloud",
           "learn-ms.online",
@@ -24270,7 +24271,7 @@
         ],
         "apt_group": "DUKE",
         "filename": "apt_duke.txt",
-        "last_modified": "2026-08-24T12:09:21+03:00",
+        "last_modified": "2026-08-24T13:54:00+03:00",
         "references": [
           "https://otx.alienvault.com/pulse/55fae83567db8c6fb3518bcd/",
           "https://www.f-secure.com/documents/996508/1030745/dukes_whitepaper.pdf",
@@ -24371,12 +24372,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 771,
+          "domain": 772,
           "file_path": 24,
           "ipv4": 23,
           "url": 71
         },
-        "total": 889
+        "total": 890
       }
     },
     "DUNEQUIXOTE": {
@@ -134512,6 +134513,7 @@
           "aquascale.mypi.co",
           "aquascore.mypi.co",
           "aquashard479.mypi.co",
+          "aquashine.mypi.co",
           "aquasolid.mypi.co",
           "aquastorm13.mypi.co",
           "aquasugar.mypi.co",
@@ -135097,6 +135099,7 @@
           "blackengine528.mypi.co",
           "blackevent.mypi.co",
           "blackflock.mypi.co",
+          "blackgraph.mypi.co",
           "blackhole.sa.com",
           "blackhowitzer.za.com",
           "blackkeywatch773.mypi.co",
@@ -136917,6 +136920,7 @@
           "cyanofship.mypi.co",
           "cyanokwork37.mypi.co",
           "cyanokwork922.mypi.co",
+          "cyanpaper665.mypi.co",
           "cyanpeak.mypi.co",
           "cyanpeak547.mypi.co",
           "cyanriver.mypi.co",
@@ -138426,6 +138430,7 @@
           "fancyflask.mypi.co",
           "fancylotus.mypi.co",
           "fancymatch.mypi.co",
+          "fancynotch.mypi.co",
           "fancyradar542.mypi.co",
           "fancyradio526.mypi.co",
           "fancyrelay707.mypi.co",
@@ -138534,6 +138539,7 @@
           "fastsugar.mypi.co",
           "fasttable299.mypi.co",
           "fasttech.ru.com",
+          "fasttech900.mypi.co",
           "fastthespot.mypi.co",
           "fasttiger.mypi.co",
           "fasttrack.ru.com",
@@ -140695,6 +140701,7 @@
           "hlorato.sa.com",
           "hlreenyas.sa.com",
           "hlsovaneta.sa.com",
+          "hluster.shop",
           "hmacteko.za.com",
           "hmuort.shop",
           "hnadmna.sa.com",
@@ -143448,6 +143455,7 @@
           "mildport.mypi.co",
           "mildpride.mypi.co",
           "mildprism279.mypi.co",
+          "mildreach.mypi.co",
           "mildserver.mypi.co",
           "mildshift.mypi.co",
           "mildsodata.mypi.co",
@@ -144166,6 +144174,7 @@
           "nextsphere.za.com",
           "nextspike676.mypi.co",
           "nextstack.mypi.co",
+          "nextstack288.mypi.co",
           "nextstem.mypi.co",
           "nextstick385.mypi.co",
           "nextthink775.mypi.co",
@@ -144424,6 +144433,7 @@
           "northsave694.mypi.co",
           "northsigma543.mypi.co",
           "northskill.mypi.co",
+          "northsnake.mypi.co",
           "northsouth.mypi.co",
           "northspine.mypi.co",
           "norththeme352.mypi.co",
@@ -145389,6 +145399,7 @@
           "phantomplex.digital",
           "phantomshot.za.com",
           "phantomstellar.digital",
+          "phantomstellar.sa.com",
           "phantomstream.digital",
           "phantomviper.za.com",
           "pharmacyy.cyou",
@@ -147299,6 +147310,7 @@
           "rococio.mypi.co",
           "rodavello.cloud",
           "rodavello.lol",
+          "rodavello.online",
           "rodavello.space",
           "rodavello.website",
           "roitet.space",
@@ -148212,6 +148224,7 @@
           "silktruth.mypi.co",
           "silkval.club",
           "silkzephyr619.mypi.co",
+          "silkzephyr80.mypi.co",
           "silorentia.bond",
           "silorentia.cfd",
           "silorentia.cloud",
@@ -151792,6 +151805,7 @@
           "whiteeagle944.mypi.co",
           "whitefeast850.mypi.co",
           "whiteflint.mypi.co",
+          "whiteflux860.mypi.co",
           "whiteguide.mypi.co",
           "whitehelix.mypi.co",
           "whitelayer.mypi.co",
@@ -153374,7 +153388,7 @@
         ],
         "apt_group": "MUDDYWATER",
         "filename": "apt_muddywater.txt",
-        "last_modified": "2026-08-24T11:54:16+03:00",
+        "last_modified": "2026-08-24T14:19:40+03:00",
         "references": [
           "https://securelist.com/muddywater/88059/",
           "https://fortiguard.com/resources/threat-brief/2018/10/12/fortiguard-threat-intelligence-brief-october-12-2018",
@@ -153617,12 +153631,12 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 19672,
+          "domain": 19685,
           "file_path": 190,
           "ipv4": 107,
           "url": 112
         },
-        "total": 20081
+        "total": 20094
       }
     },
     "MURENSHARK": {
