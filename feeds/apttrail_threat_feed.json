@@ -185071,6 +185071,7 @@
           "heritage-interiiors.com",
           "hexenabenteuer.com",
           "hirekazegeszsegrol.com",
+          "hlg.it.com",
           "hodkhewicz.shop",
           "hohnston.shop",
           "hongkongfocus.com",
@@ -185462,6 +185463,7 @@
           "phoenixpigeonremoval.com",
           "photo2-app.fun",
           "pietezi.com",
+          "pinkyacademy.com",
           "pizaiolo.icu",
           "pizaiolo.shop",
           "pizza73-ca.shop",
@@ -185816,6 +185818,7 @@
           "shopeay.com",
           "shoppau.com",
           "shopperapp.net",
+          "shoptherite.com",
           "shosppay.com",
           "shrink-say.pics",
           "shrseninjas.com",
@@ -186215,7 +186218,7 @@
         ],
         "apt_group": "UNC2465",
         "filename": "apt_unc2465.txt",
-        "last_modified": "2026-08-24T19:40:47+03:00",
+        "last_modified": "2026-08-26T12:37:09+03:00",
         "references": [
           "https://medium.com/trac-labs/who-ordered-the-smokedham-backdoor-delicacies-in-the-wild-87f51e2e5bd2",
           "https://gist.github.com/drb-ra/179e8e9beca45bc10feba97cf8c5c7b1",
@@ -186234,9 +186237,9 @@
       },
       "statistics": {
         "by_type": {
-          "domain": 2071
+          "domain": 2074
         },
-        "total": 2071
+        "total": 2074
       }
     },
     "UNC2529": {
